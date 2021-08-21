@@ -1,0 +1,188 @@
+﻿{
+    "TITL_bananaChips" : {
+                            "English" : "Banana Chips",
+                            "Russian" : "Банановые чипсы"
+    },
+    "DESC_bananaChips" : {
+                            "English" : "Dried banana with sugar. Dry and sweet. Too sweet",
+                            "Russian" : "Сушеные бананы с сахаром. Сухие и сладкие. Слишком сладкие"
+    },
+
+
+    "TITL_crabSnack" : {
+                            "English" : "Crab Wheat Chips",
+                            "Russian" : "Крабовые пшеничные чипсы"
+    },
+    "DESC_crabSnack" : {
+                            "English" : "Crunchy little crabs. Extremely tasty, but also exceptionally dry",
+                            "Russian" : "Хрустящие крабики. Безумно вкусно, но также невероятно сухо"
+    },
+
+
+    "TITL_honeyNuts" : {
+                            "English" : "Nuts in Honey",
+                            "Russian" : "Орехи в меду"
+    },
+    "DESC_honeyNuts" : {
+                            "English" : "Lasts forever. If the lid is tight.\n\nDo not consume without hot tea",
+                            "Russian" : "Хранится вечно. Eсли крышка не отходит.\n\nНе употреблять без горячего чая"
+    },
+
+
+    "TITL_hotSpringSoda" : {
+                            "English" : "Hot Spring Soda",
+                            "Russian" : "Газировка ''Горячий источник''"
+    },
+    "DESC_hotSpringSoda" : {
+                            "English" : "Essentially god's nectar. Will make you appreciate life more",
+                            "Russian" : "По сути нектар богов. Жизнь заиграет новыми красками"
+    },
+
+
+    "TITL_jubileeCookies" : {
+                            "English" : "Ginger Cookies",
+                            "Russian" : "Имбирное печенье"
+    },
+    "DESC_jubileeCookies" : {
+                            "English" : "Crunchy outside, soft inside. The perfect combination",
+                            "Russian" : "Хрустящее снаружи, мягкое внутри. Идеальное сочетание"
+    },
+
+
+    "TITL_marinaraMackerel" : {
+                            "English" : "Mackerel in Marinara Sauce",
+                            "Russian" : "Скумбрия в томатном соусе"
+    },
+    "DESC_marinaraMackerel" : {
+                            "English" : "Tender and savory mackerel filet. Add some vegetable ragout and the perfect dinner is ready",
+                            "Russian" : "Пикантное и нежное филе скумбрии. Немного рагу и идеальный ужин готов"
+    },
+
+
+    "TITL_mysteryCake" : {
+                            "English" : "Assorted Wafers",
+                            "Russian" : "Вафли ассорти"
+    },
+    "DESC_mysteryCake" : {
+                            "English" : "Wafers with chocolate and praline. Filling will pleasantly surprise you",
+                            "Russian" : "Вафли с шоколадом и пралине. Начинка приятно удивит"
+    },
+
+
+    "TITL_nannasOats" : {
+                            "English" : "Nanna's Oats",
+                            "Russian" : "Овсяные хлопья"
+    },
+    "DESC_nannasOats" : {
+                            "English" : "Needs water. Better with berries",
+                            "Russian" : "Варить на воде. Вкуснее с ягодами"
+    },
+
+
+    "TITL_oatsBowl" : {
+                            "English" : "Oatmeal",
+                            "Russian" : "Овсянка"
+    },
+    "DESC_oatsBowl" : {
+                            "English" : "Bowl of plain oats. Nutritious but tastes like rag",
+                            "Russian" : "Миска обычной овсянки. Питательно, но на вкус как ветошь"
+    },
+
+
+    "TITL_pinenutBrittle" : {
+                            "English" : "Pine Nut Brittle Candy",
+                            "Russian" : "Кедровый грильяж"
+    },
+    "DESC_pinenutBrittle" : {
+                            "English" : "Little nuts in caramel. Don't break your teeth!",
+                            "Russian" : "Маленькие орешки в карамели. Не сломайте зубы!"
+    },
+
+
+    "TITL_solitudeCider" : {
+                            "English" : "Solitude Cider",
+                            "Russian" : "Сидр ''Отшельник''"
+    },
+    "DESC_solitudeCider" : {
+                            "English" : "Semi-sweet berry cider. Doesn't get better than that.\n\nAlcohol 6% vol",
+                            "Russian" : "Полусладкий ягодный сидр. Что может быть лучше?\n\nСодержание алкоголя 6%"
+    },
+
+
+    "TITL_tunaPate" : {
+                            "English" : "Tuna Pate",
+                            "Russian" : "Паштет из тунца"
+    },
+    "DESC_tunaPate" : {
+                            "English" : "Delicious, almost sweet pate. Best with salty crackers",
+                            "Russian" : "Вкуснейший, почти сладкий паштет. Еще вкуснее с крекером"
+    },
+
+
+    "TITL_lecso" : {
+                            "English" : "Lecsó",
+                            "Russian" : "Лечо"
+    },
+    "DESC_lecso" : {
+                            "English" : "Vegetable ragout. Begs for some baked fish\n\nPronounced ''lecho''",
+                            "Russian" : "Овощное рагу. Не хватает только запеченой рыбки"
+    },
+
+
+    "TITL_figConfiture" : {
+                            "English" : "Fig Confiture",
+                            "Russian" : "Конфитюр из инжира"
+    },
+    "DESC_figConfiture" : {
+                            "English" : "Jam. Perfectly sweet with a little crunch",
+                            "Russian" : "Варенье. Идеально сладкое с небольшой хрустинкой"
+    },
+
+
+    "TITL_nordShoreChocolate" : {
+                            "English" : "Dark Chocolate with Salt and Caramel",
+                            "Russian" : "Темный шоколад с солью и карамелью"
+    },
+    "DESC_nordShoreChocolate" : {
+                            "English" : "Just taste it, you won't notice when it's gone",
+                            "Russian" : "Не заметишь как закончится"
+    },
+
+
+    "TITL_kvass" : {
+                            "English" : "Kvass",
+                            "Russian" : "Квас"
+    },
+    "DESC_kvass" : {
+                            "English" : "Barely alcoholic, fizzy and refreshing with suble sweet taste",
+                            "Russian" : "Едва алкогольый, пенный и освежающий, с приятным сладким вкусом"
+    },
+
+
+    "TITL_roastedAlmonds" : {
+                            "English" : "Roasted Almonds",
+                            "Russian" : "Жареный миндаль"
+    },
+    "DESC_roastedAlmonds" : {
+                            "English" : "Little nuts, a little salty, a little spicy",
+                            "Russian" : "Маленькие орешки, маленько солёные, маленько острые"
+    },
+
+
+    "NOTE_TITL_1" : {
+                            "English" : "A note from the lost soul",
+                            "Russian" : "Записка от потерянной души"
+    },
+    "NOTE_DESC_1" : {
+                            "English" : "A lore piece from Calorie Waltz Food pack",
+                            "Russian" : "Кусочек лора из Calorie Waltz Food pack"
+    },
+    "NOTE_HUD_1" : {
+                            "English" : "Lost soul note #1",
+                            "Russian" : "Записка от потерянной души #1"
+    },
+    "NOTE_LORE_1" : {
+                            "English" : "If you reading this... I'm lost. \n\n500 days I was wandering around the island, hoping to find another living soul. Everybody is dead. What about me then? Well... I'll make the last trip around the island and leave provisions. If another wretched soul gets stranded on this damned island - at least you won't die from starvation. If you ''lucky'' - you'll find me at the lighthouse(the still-standing one), I'll end my journey there.",
+                            "Russian" : "Если вы это читаете... Я потерян. \n\n500 дней я бродил по острову, надеясь найти хоть одну живую душу. Все мертвы. А что насчет меня? Что ж... Я сделаю последний круг по острову и оставлю припасы. Если еще одну несчастную душу занесло на этот проклятый остров - по крайней мере тебе не придется умереть от голода. Если ''повезет'' - найдешь меня на маяке(том что еще стоит), там я закончу свой путь."
+    }
+}

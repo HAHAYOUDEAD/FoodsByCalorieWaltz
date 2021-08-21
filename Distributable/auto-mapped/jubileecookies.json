@@ -1,0 +1,77 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "TITL_jubileeCookies",
+                            "DescriptionLocalizatonId" : "DESC_jubileeCookies",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.25,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Random",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvBoxCrackers",
+                            "PutBackAudio" : "Play_SndInvBoxCrackers",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.65,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, -0.125, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : false,
+                            "CookingMinutes" : 8,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 270,
+                            "DaysToDecayIndoors" : 270,
+                            "Calories" : 800,
+                            "Servings" : 4,
+                            "EatingTime" : 4,
+                            "EatingAudio" : "Play_EatingCrackers",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : -15,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 30,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : false,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 0,
+                            "ColdFactor" : 1,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}

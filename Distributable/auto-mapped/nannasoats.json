@@ -1,0 +1,40 @@
+{
+    "ModCookableComponent" : {
+                            "DisplayNameLocalizationId" : "TITL_nannasOats",
+                            "DescriptionLocalizatonId" : "DESC_nannasOats",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.3,
+                            "DaysToDecay" : 666,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Random",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvMRE",
+                            "PutBackAudio" : "Play_SndInvMRE",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.65,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, -0.125, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 5,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0.25,
+                            "CookingResult" : "GEAR_oatsBowl",
+                            "BurntMinutes" : 10,
+                            "Type" : "Grub",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : ""
+                        },
+    "ModStackableComponent": {
+                            "SingleUnitTextId" : "TITL_nannasOats",
+                            "MultipleUnitTextId" : "TITL_nannasOats",
+                            "StackSprite" : "",
+                            "UnitsPerItem" : 3,
+                            "ChanceFull" : 100
+                            }
+}

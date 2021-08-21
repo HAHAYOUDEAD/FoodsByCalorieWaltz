@@ -1,0 +1,77 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "TITL_honeyNuts",
+                            "DescriptionLocalizatonId" : "DESC_honeyNuts",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.8,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvCanLarge",
+                            "PutBackAudio" : "Play_SndInvCanLarge",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.5,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, -0.075, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : false,
+                            "CookingMinutes" : 8,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 480,
+                            "DaysToDecayIndoors" : 480,
+                            "Calories" : 3000,
+                            "Servings" : 6,
+                            "EatingTime" : 6,
+                            "EatingAudio" : "Play_OpenPeanutButter",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : -40,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 5,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : false,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : true,
+                            "ConditionRestBonus" : 2,
+                            "ConditionRestMinutes" : 240,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 0,
+                            "ColdFactor" : 1,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}

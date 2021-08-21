@@ -1,0 +1,77 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "TITL_kvass",
+                            "DescriptionLocalizatonId" : "DESC_kvass",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.6,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Random",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvCanSoda",
+                            "PutBackAudio" : "Play_SndInvCanSoda",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.45,
+                            "InspectAngles" : [0, -120, 0],
+                            "InspectOffset" : [0, -0.075, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : false,
+                            "CookingMinutes" : 8,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 720,
+                            "DaysToDecayIndoors" : 540,
+                            "Calories" : 150,
+                            "Servings" : 1,
+                            "EatingTime" : 4,
+                            "EatingAudio" : "Play_OpenSoda",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : 40,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 0,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : false,
+                            "Raw" : false,
+                            "Drink" : true,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 0,
+                            "ColdFactor" : 1,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}

@@ -16,4 +16,4 @@ It's a standard modcomponent pack, so just throw it in `...Mods/ModComponentZips
 If you don't have that folder, install [ModComponent](https://github.com/ds5678/ModComponent/releases). 
 
 ## Shoutout
-[@ds5678](https://github.com/ds5678) and another mystery person to help set up most of the spawn points.
+[@ds5678](https://github.com/ds5678) and another mystery person for helping with setting up most of the spawn points.

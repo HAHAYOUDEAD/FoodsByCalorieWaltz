@@ -8,6 +8,8 @@ Some designs came out of my head, some are 'inspired' by others. This food pack 
 
 Most of the spawns are not made by me, so don't praise me if they are amazing. I only made spawns for HRV and half of Milton - if you like those but not the others - tell me so I feel inspired to do more. 
 
+There's a tiny bit of unfinished 'lore'.
+
 ## Installation
 It's a standard modcomponent pack, so just throw it in `...Mods/ModComponentZips/`
 

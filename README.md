@@ -16,9 +16,9 @@ Most of the spawns are not made by me, so don't praise me if they are amazing. I
 There's a tiny bit of unfinished 'lore'.
 
 ## Installation
-It's a standard modcomponent pack, so just throw it in `...Mods/ModComponentZips/`
+It's a standard modcomponent pack, so just throw it in `...Mods/`
 
-If you don't have that folder, install [ModComponent](https://github.com/ds5678/ModComponent/releases). 
+Requires [ModComponent](https://github.com/ds5678/ModComponent/releases). 
 
 ## Shoutout
 [@ds5678](https://github.com/ds5678) and another mystery person for helping with setting up most of the spawn points.

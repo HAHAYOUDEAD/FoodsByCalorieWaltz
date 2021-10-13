@@ -35,7 +35,7 @@
     },
     "DESC_hotSpringSoda" : {
                             "English" : "Essentially god's nectar. Will make you appreciate life more",
-                            "Russian" : "По сути нектар богов. Жизнь заиграет новыми красками"
+                            "Russian" : "Нектар богов. Жизнь заиграет новыми красками"
     },
 
 
@@ -155,7 +155,7 @@
     },
     "DESC_kvass" : {
                             "English" : "Barely alcoholic, fizzy and refreshing with suble sweet taste",
-                            "Russian" : "Едва алкогольый, пенный и освежающий, с приятным сладким вкусом"
+                            "Russian" : "Едва алкогольный, пенный и освежающий, с приятным сладким вкусом"
     },
 
 
@@ -166,6 +166,24 @@
     "DESC_roastedAlmonds" : {
                             "English" : "Little nuts, a little salty, a little spicy",
                             "Russian" : "Маленькие орешки, маленько солёные, маленько острые"
+    },
+
+    "TITL_strawberryPlombir" : {
+                            "English" : "Wild strawberry plombir",
+                            "Russian" : "Земляничный пломбир"
+    },
+    "DESC_strawberryPlombir" : {
+                            "English" : "Sweet and soft, just melts on your tongue",
+                            "Russian" : "Сладкий и мягкий, так и тает на языке"
+    },
+
+    "TITL_icecreamCup" : {
+                            "English" : "Icecream in a wafer cup",
+                            "Russian" : "Мороженое в стаканчике"
+    },
+    "DESC_icecreamCup" : {
+                            "English" : "Blizzard with chocolate, nuts and caramel mixed in. All in a crunchy wafer cup. Wow\n\nThanks for asking, penguin's name is Jeremy",
+                            "Russian" : "Мороженое с карамелью, шоколадом и орехами в хрустящем вафельном стаканчике. Вау"
     },
 
 

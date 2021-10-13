@@ -1,3 +1,8 @@
+## Latest Addition!
+With 'Fury, Then Silence' 2 new items were added. Both can be find in freezers. Bon appetit!
+
+Check out [wiki](https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/wiki) for item pics and codes!
+
 ## Foods by 'Calorie Waltz'
 Selection of foods I think looks tasty :yum:
 

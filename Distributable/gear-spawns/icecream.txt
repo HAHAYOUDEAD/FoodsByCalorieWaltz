@@ -1,0 +1,3 @@
+loottable=Freezer
+item=GEAR_strawberryPlombir w=6
+item=GEAR_icecreamCup w=4

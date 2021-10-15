@@ -16,7 +16,7 @@ Most of the spawns are not made by me, so don't praise me if they are amazing. I
 There's a tiny bit of unfinished 'lore'.
 
 ## Installation
-It's a standard modcomponent pack, so just throw it in `...Mods/`
+It's a standard modcomponent pack, so just throw it in `.../Mods/`
 
 Requires [ModComponent](https://github.com/ds5678/ModComponent/releases). 
 

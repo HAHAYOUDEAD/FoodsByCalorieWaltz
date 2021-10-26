@@ -4,7 +4,7 @@ With 'Fury, Then Silence' 2 new items were added. Both can be find in freezers. 
 Check out [wiki](https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/wiki) for item pics and codes!
 
 ## Foods by 'Calorie Waltz'
-Selection of foods I think looks tasty :yum:
+Selection of foods I think looks tasty :yum: You can take a closer look in [this video](https://www.youtube.com/watch?v=hHTd108ro48) :)
 
 ![Poster](Images/CW1.png)
 

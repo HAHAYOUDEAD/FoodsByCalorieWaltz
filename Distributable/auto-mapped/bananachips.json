@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_bananaChips",
-                            "DescriptionLocalizatonId" : "DESC_bananaChips",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_bananaChips",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_bananaChipsDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.1,
                             "DaysToDecay" : 0,

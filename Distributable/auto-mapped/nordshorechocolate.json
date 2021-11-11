@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_nordShoreChocolate",
-                            "DescriptionLocalizatonId" : "DESC_nordShoreChocolate",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_nordShoreChocolate",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_nordShoreChocolateDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.12,
                             "DaysToDecay" : 0,

@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_crabSnack",
-                            "DescriptionLocalizatonId" : "DESC_crabSnack",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_crabSnack",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_crabSnackDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.08,
                             "DaysToDecay" : 0,

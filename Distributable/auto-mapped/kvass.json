@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_kvass",
-                            "DescriptionLocalizatonId" : "DESC_kvass",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_kvass",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_kvassDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.6,
                             "DaysToDecay" : 0,

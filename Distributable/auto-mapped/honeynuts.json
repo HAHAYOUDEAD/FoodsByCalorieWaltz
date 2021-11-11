@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_honeyNuts",
-                            "DescriptionLocalizatonId" : "DESC_honeyNuts",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_honeyNuts",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_honeyNutsDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.8,
                             "DaysToDecay" : 0,

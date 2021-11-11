@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_mysteryCake",
-                            "DescriptionLocalizatonId" : "DESC_mysteryCake",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_mysteryCake",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_mysteryCakeDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.15,
                             "DaysToDecay" : 0,

@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_hotSpringSoda",
-                            "DescriptionLocalizatonId" : "DESC_hotSpringSoda",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_hotSpringSoda",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_hotSpringSodaDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.4,
                             "DaysToDecay" : 0,

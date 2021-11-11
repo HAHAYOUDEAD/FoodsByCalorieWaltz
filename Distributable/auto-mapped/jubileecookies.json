@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_jubileeCookies",
-                            "DescriptionLocalizatonId" : "DESC_jubileeCookies",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_jubileeCookies",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_jubileeCookiesDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.25,
                             "DaysToDecay" : 0,

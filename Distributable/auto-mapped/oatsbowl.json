@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_oatsBowl",
-                            "DescriptionLocalizatonId" : "DESC_oatsBowl",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_oatsBowl",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_oatsBowlDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.4,
                             "DaysToDecay" : 0,

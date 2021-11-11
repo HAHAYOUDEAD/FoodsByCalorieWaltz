@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_pinenutBrittle",
-                            "DescriptionLocalizatonId" : "DESC_pinenutBrittle",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_pinenutBrittle",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_pinenutBrittleDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.4,
                             "DaysToDecay" : 0,

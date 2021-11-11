@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_tunaPate",
-                            "DescriptionLocalizatonId" : "DESC_tunaPate",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_tunaPate",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_tunaPateDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.1,
                             "DaysToDecay" : 0,

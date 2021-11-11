@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_roastedAlmonds",
-                            "DescriptionLocalizatonId" : "DESC_roastedAlmonds",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_roastedAlmonds",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_roastedAlmondsDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.06,
                             "DaysToDecay" : 0,

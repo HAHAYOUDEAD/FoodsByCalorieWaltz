@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_icecreamCup",
-                            "DescriptionLocalizatonId" : "DESC_icecreamCup",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_icecreamCup",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_icecreamCupDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.15,
                             "DaysToDecay" : 0,
@@ -37,7 +37,7 @@
                             "EatingTime" : 4,
                             "EatingAudio" : "Play_EatingSoft",
                             "EatingPackagedAudio" : "",
-                            "ThirstEffect" : -15,
+                            "ThirstEffect" : -10,
 
                             "FoodPoisoning" : 0,
                             "FoodPoisoningLowCondition" : 0,
@@ -65,7 +65,7 @@
                             "RestFactor" : 1,
                             "RestFactorMinutes" : 0,
 
-                            "AffectCold" : true,
+                            "AffectCold" : false,
                             "InstantColdChange" : -15,
                             "ColdFactor" : 1.2,
                             "ColdFactorMinutes" : 10,

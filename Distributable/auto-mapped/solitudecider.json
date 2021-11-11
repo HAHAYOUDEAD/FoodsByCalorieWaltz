@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_solitudeCider",
-                            "DescriptionLocalizatonId" : "DESC_solitudeCider",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_solitudeCider",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_solitudeCiderDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.4,
                             "DaysToDecay" : 0,

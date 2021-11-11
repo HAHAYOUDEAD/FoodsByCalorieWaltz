@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_marinaraMackerel",
-                            "DescriptionLocalizatonId" : "DESC_marinaraMackerel",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_marinaraMackerel",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_marinaraMackerelDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.25,
                             "DaysToDecay" : 0,

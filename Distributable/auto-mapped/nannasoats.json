@@ -1,7 +1,7 @@
 {
     "ModCookableComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_nannasOats",
-                            "DescriptionLocalizatonId" : "DESC_nannasOats",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_nannasOats",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_nannasOatsDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.3,
                             "DaysToDecay" : 666,
@@ -31,8 +31,8 @@
                             "StartCookingAudio" : ""
                         },
     "ModStackableComponent": {
-                            "SingleUnitTextId" : "TITL_nannasOats",
-                            "MultipleUnitTextId" : "TITL_nannasOats",
+                            "SingleUnitTextId" : "GAMEPLAY_nannasOats",
+                            "MultipleUnitTextId" : "GAMEPLAY_nannasOats",
                             "StackSprite" : "",
                             "UnitsPerItem" : 3,
                             "ChanceFull" : 100

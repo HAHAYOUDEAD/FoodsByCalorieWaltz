@@ -1,7 +1,7 @@
 {
     "ModFoodComponent" : {
-                            "DisplayNameLocalizationId" : "TITL_figConfiture",
-                            "DescriptionLocalizatonId" : "DESC_figConfiture",
+                            "DisplayNameLocalizationId" : "GAMEPLAY_figConfiture",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_figConfitureDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 0.4,
                             "DaysToDecay" : 0,

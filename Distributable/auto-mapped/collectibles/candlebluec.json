@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_CandleBlueC",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_CandleBlueCDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Firestarting",
+                                "PickUpAudio" : "Play_SndInvGenericTiny",
+                                "PutBackAudio" : "Play_SndInvGenericTiny",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.35,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.05, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+	"ModBurnableBehaviour": {
+                                "BurningMinutes" : 15,
+                                "BurningMinutesBeforeAllowedToAdd" : 0,
+                                "SuccessModifier" : 35,
+                                "TempIncrease" : 2,
+                                "DurationOffset" : 0
+                            }
+}

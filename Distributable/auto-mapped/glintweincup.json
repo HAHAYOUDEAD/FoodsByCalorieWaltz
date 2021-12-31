@@ -1,0 +1,77 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_glintweinCup",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_glintweinCupDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.5,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvCup",
+                            "PutBackAudio" : "Play_SndInvCup",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, -0.05, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 15,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 5,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 90,
+                            "DaysToDecayIndoors" : 90,
+                            "Calories" : 200,
+                            "Servings" : 1,
+                            "EatingTime" : 5,
+                            "EatingAudio" : "Play_Slurping1",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : 15,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 0,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : false,
+                            "Raw" : false,
+                            "Drink" : true,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : true,
+                            "InstantColdChange" : 35,
+                            "ColdFactor" : 1.2,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : true,
+                            "AlcoholPercentage" : 9,
+                            "AlcoholUptakeMinutes" : 30
+                        }
+}

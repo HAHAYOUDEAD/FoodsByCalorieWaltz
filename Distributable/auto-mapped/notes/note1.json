@@ -1,7 +1,7 @@
 {
     "ModCollectibleComponent": {
-                                "DisplayNameLocalizationId" : "NOTE_TITL_1",
-                                "DescriptionLocalizatonId" : "NOTE_DESC_1",
+                                "DisplayNameLocalizationId" : "GAMEPLAY_NOTE_TITL_1",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_NOTE_DESC_1",
                                 "InventoryActionLocalizationId" : "",
                                 "WeightKG": 0,
                                 "DaysToDecay" : 0,
@@ -20,8 +20,8 @@
                                 "NormalModel" : "",
                                 "InspectModel" : "",
 
-                                "HudMessageLocalizationId" : "NOTE_HUD_1",
-                                "NarrativeTextLocalizationId" : "NOTE_LORE_1",
+                                "HudMessageLocalizationId" : "GAMEPLAY_NOTE_HUD_1",
+                                "NarrativeTextLocalizationId" : "GAMEPLAY_NOTE_LORE_1",
                                 "TextAlignment" : "Center"
                             }
 }

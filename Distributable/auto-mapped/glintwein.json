@@ -1,0 +1,40 @@
+{
+    "ModCookableComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_glintwein",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_glintweinDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.3,
+                            "DaysToDecay" : 999,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvCanLarge",
+                            "PutBackAudio" : "Play_SndInvCanLarge",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.55,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, -0.125, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : true,
+                            "CookingMinutes" : 15,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0.1,
+                            "CookingResult" : "GEAR_glintweinCup",
+                            "BurntMinutes" : 5,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : ""
+                        },
+    "ModStackableBehaviour": {
+                            "SingleUnitTextId" : "GAMEPLAY_glintwein",
+                            "MultipleUnitTextId" : "GAMEPLAY_glintwein",
+                            "StackSprite" : "",
+                            "UnitsPerItem" : 3,
+                            "ChanceFull" : 100
+                            }
+}

@@ -30,7 +30,7 @@
                             "CookingAudio" : "",
                             "StartCookingAudio" : ""
                         },
-    "ModStackableComponent": {
+    "ModStackableBehaviour": {
                             "SingleUnitTextId" : "GAMEPLAY_nannasOats",
                             "MultipleUnitTextId" : "GAMEPLAY_nannasOats",
                             "StackSprite" : "",

@@ -1,206 +1,644 @@
 ﻿{
-    "TITL_bananaChips" : {
+    "GAMEPLAY_bananaChips" : {
                             "English" : "Banana Chips",
                             "Russian" : "Банановые чипсы"
     },
-    "DESC_bananaChips" : {
+    "GAMEPLAY_bananaChipsDescription" : {
                             "English" : "Dried banana with sugar. Dry and sweet. Too sweet",
                             "Russian" : "Сушеные бананы с сахаром. Сухие и сладкие. Слишком сладкие"
     },
 
 
-    "TITL_crabSnack" : {
+    "GAMEPLAY_crabSnack" : {
                             "English" : "Crab Wheat Chips",
                             "Russian" : "Крабовые пшеничные чипсы"
     },
-    "DESC_crabSnack" : {
+    "GAMEPLAY_crabSnackDescription" : {
                             "English" : "Crunchy little crabs. Extremely tasty, but also exceptionally dry",
                             "Russian" : "Хрустящие крабики. Безумно вкусно, но также невероятно сухо"
     },
 
 
-    "TITL_honeyNuts" : {
+    "GAMEPLAY_honeyNuts" : {
                             "English" : "Nuts in Honey",
                             "Russian" : "Орехи в меду"
     },
-    "DESC_honeyNuts" : {
-                            "English" : "Lasts forever. If the lid is tight.\n\nDo not consume without hot tea",
-                            "Russian" : "Хранится вечно. Eсли крышка не отходит.\n\nНе употреблять без горячего чая"
+    "GAMEPLAY_honeyNutsDescription" : {
+                            "English" : "Lasts forever. If the lid is tight.\n\nEating too much will cause digestion problems. Do not consume without hot tea!",
+                            "Russian" : "Хранится вечно. Eсли крышка не отходит.\n\nВ больших количествах вызывает несварение. Не употреблять без горячего чая!"
     },
 
 
-    "TITL_hotSpringSoda" : {
+    "GAMEPLAY_hotSpringSoda" : {
                             "English" : "Hot Spring Soda",
                             "Russian" : "Газировка ''Горячий источник''"
     },
-    "DESC_hotSpringSoda" : {
+    "GAMEPLAY_hotSpringSodaDescription" : {
                             "English" : "Essentially god's nectar. Will make you appreciate life more",
                             "Russian" : "Нектар богов. Жизнь заиграет новыми красками"
     },
 
 
-    "TITL_jubileeCookies" : {
+    "GAMEPLAY_jubileeCookies" : {
                             "English" : "Ginger Cookies",
                             "Russian" : "Имбирное печенье"
     },
-    "DESC_jubileeCookies" : {
+    "GAMEPLAY_jubileeCookiesDescription" : {
                             "English" : "Crunchy outside, soft inside. The perfect combination",
                             "Russian" : "Хрустящее снаружи, мягкое внутри. Идеальное сочетание"
     },
 
 
-    "TITL_marinaraMackerel" : {
+    "GAMEPLAY_marinaraMackerel" : {
                             "English" : "Mackerel in Marinara Sauce",
                             "Russian" : "Скумбрия в томатном соусе"
     },
-    "DESC_marinaraMackerel" : {
+    "GAMEPLAY_marinaraMackerelDescription" : {
                             "English" : "Tender and savory mackerel filet. Add some vegetable ragout and the perfect dinner is ready",
                             "Russian" : "Пикантное и нежное филе скумбрии. Немного рагу и идеальный ужин готов"
     },
 
 
-    "TITL_mysteryCake" : {
+    "GAMEPLAY_mysteryCake" : {
                             "English" : "Assorted Wafers",
                             "Russian" : "Вафли ассорти"
     },
-    "DESC_mysteryCake" : {
+    "GAMEPLAY_mysteryCakeDescription" : {
                             "English" : "Wafers with chocolate and praline. Filling will pleasantly surprise you",
                             "Russian" : "Вафли с шоколадом и пралине. Начинка приятно удивит"
     },
 
 
-    "TITL_nannasOats" : {
+    "GAMEPLAY_nannasOats" : {
                             "English" : "Nanna's Oats",
                             "Russian" : "Овсяные хлопья"
     },
-    "DESC_nannasOats" : {
+    "GAMEPLAY_nannasOatsDescription" : {
                             "English" : "Needs water. Better with berries",
                             "Russian" : "Варить на воде. Вкуснее с ягодами"
     },
 
 
-    "TITL_oatsBowl" : {
+    "GAMEPLAY_oatsBowl" : {
                             "English" : "Oatmeal",
                             "Russian" : "Овсянка"
     },
-    "DESC_oatsBowl" : {
+    "GAMEPLAY_oatsBowlDescription" : {
                             "English" : "Bowl of plain oats. Nutritious but tastes like rag",
                             "Russian" : "Миска обычной овсянки. Питательно, но на вкус как ветошь"
     },
 
 
-    "TITL_pinenutBrittle" : {
+    "GAMEPLAY_pinenutBrittle" : {
                             "English" : "Pine Nut Brittle Candy",
                             "Russian" : "Кедровый грильяж"
     },
-    "DESC_pinenutBrittle" : {
+    "GAMEPLAY_pinenutBrittleDescription" : {
                             "English" : "Little nuts in caramel. Don't break your teeth!",
                             "Russian" : "Маленькие орешки в карамели. Не сломайте зубы!"
     },
 
 
-    "TITL_solitudeCider" : {
+    "GAMEPLAY_solitudeCider" : {
                             "English" : "Solitude Cider",
                             "Russian" : "Сидр ''Отшельник''"
     },
-    "DESC_solitudeCider" : {
+    "GAMEPLAY_solitudeCiderDescription" : {
                             "English" : "Semi-sweet berry cider. Doesn't get better than that.\n\nAlcohol 6% vol",
                             "Russian" : "Полусладкий ягодный сидр. Что может быть лучше?\n\nСодержание алкоголя 6%"
     },
 
 
-    "TITL_tunaPate" : {
+    "GAMEPLAY_tunaPate" : {
                             "English" : "Tuna Pate",
                             "Russian" : "Паштет из тунца"
     },
-    "DESC_tunaPate" : {
+    "GAMEPLAY_tunaPateDescription" : {
                             "English" : "Delicious, almost sweet pate. Best with salty crackers",
                             "Russian" : "Вкуснейший, почти сладкий паштет. Еще вкуснее с крекером"
     },
 
 
-    "TITL_lecso" : {
+    "GAMEPLAY_lecso" : {
                             "English" : "Lecsó",
                             "Russian" : "Лечо"
     },
-    "DESC_lecso" : {
+    "GAMEPLAY_lecsoDescription" : {
                             "English" : "Vegetable ragout. Begs for some baked fish\n\nPronounced ''lecho''",
                             "Russian" : "Овощное рагу. Не хватает только запеченой рыбки"
     },
 
 
-    "TITL_figConfiture" : {
+    "GAMEPLAY_figConfiture" : {
                             "English" : "Fig Confiture",
                             "Russian" : "Конфитюр из инжира"
     },
-    "DESC_figConfiture" : {
+    "GAMEPLAY_figConfitureDescription" : {
                             "English" : "Jam. Perfectly sweet with a little crunch",
                             "Russian" : "Варенье. Идеально сладкое с небольшой хрустинкой"
     },
 
 
-    "TITL_nordShoreChocolate" : {
+    "GAMEPLAY_nordShoreChocolate" : {
                             "English" : "Dark Chocolate with Salt and Caramel",
                             "Russian" : "Темный шоколад с солью и карамелью"
     },
-    "DESC_nordShoreChocolate" : {
+    "GAMEPLAY_nordShoreChocolateDescription" : {
                             "English" : "Just taste it, you won't notice when it's gone",
                             "Russian" : "Не заметишь как закончится"
     },
 
 
-    "TITL_kvass" : {
+    "GAMEPLAY_kvass" : {
                             "English" : "Kvass",
                             "Russian" : "Квас"
     },
-    "DESC_kvass" : {
+    "GAMEPLAY_kvassDescription" : {
                             "English" : "Barely alcoholic, fizzy and refreshing with suble sweet taste",
                             "Russian" : "Едва алкогольный, пенный и освежающий, с приятным сладким вкусом"
     },
 
 
-    "TITL_roastedAlmonds" : {
+    "GAMEPLAY_roastedAlmonds" : {
                             "English" : "Roasted Almonds",
                             "Russian" : "Жареный миндаль"
     },
-    "DESC_roastedAlmonds" : {
+    "GAMEPLAY_roastedAlmondsDescription" : {
                             "English" : "Little nuts, a little salty, a little spicy",
                             "Russian" : "Маленькие орешки, маленько солёные, маленько острые"
     },
 
-    "TITL_strawberryPlombir" : {
-                            "English" : "Wild strawberry plombir",
+    "GAMEPLAY_strawberryPlombir" : {
+                            "English" : "Wild Strawberry Plombir",
                             "Russian" : "Земляничный пломбир"
     },
-    "DESC_strawberryPlombir" : {
-                            "English" : "Sweet and soft, just melts on your tongue",
-                            "Russian" : "Сладкий и мягкий, так и тает на языке"
+    "GAMEPLAY_strawberryPlombirDescription" : {
+                            "English" : "Sweet and soft, just melts on your tongue. May not be a good idea to eat when you cold",
+                            "Russian" : "Сладкий и мягкий, так и тает на языке. Пожалуй не лучший перекус в холодную погоду"
     },
 
-    "TITL_icecreamCup" : {
-                            "English" : "Icecream in a wafer cup",
+    "GAMEPLAY_icecreamCup" : {
+                            "English" : "Icecream in a Wafer Cup",
                             "Russian" : "Мороженое в стаканчике"
     },
-    "DESC_icecreamCup" : {
+    "GAMEPLAY_icecreamCupDescription" : {
                             "English" : "Blizzard with chocolate, nuts and caramel mixed in. All in a crunchy wafer cup. Wow\n\nThanks for asking, penguin's name is Jeremy",
                             "Russian" : "Мороженое с карамелью, шоколадом и орехами в хрустящем вафельном стаканчике. Вау"
     },
 
+    "GAMEPLAY_applesaucePryanik" : {
+                            "English" : "Pryanik with Applesauce Filling",
+                            "Russian" : "Пряники с яблочной начинкой"
+    },
+    "GAMEPLAY_applesaucePryanikDescription" : {
+                            "English" : "Glazed honey biscuits. Sweet, soft and aromatic. Perfect complement to a cup of hot tea\n\nCheck out the inside!",
+                            "Russian" : "Глазированые пряники. Сладкие, нежные и ароматные. Идеальное дополнение к чашке горячего чая\n\nПосмотри что внутри!"
+    },
 
-    "NOTE_TITL_1" : {
+    "GAMEPLAY_glintwein" : {
+                            "English" : "Mulled Wine Kit",
+                            "Russian" : "Набор для глинтвейна"
+    },
+    "GAMEPLAY_glintweinDescription" : {
+                            "English" : "They call it Glintwein in Russia. Includes red wine and spices. Bring everything to a simmer(don't boil!) and enjoy your cold winter evenings",
+                            "Russian" : "В комплекте красное вино и набор специй. Инструкция: разогреть(не кипятить!) и наслаждаться холодным зимним вечером"
+    },
+
+    "GAMEPLAY_glintweinCup" : {
+                            "English" : "Mulled Wine Glass",
+                            "Russian" : "Кружка глинтвейна"
+    },
+    "GAMEPLAY_glintweinCupDescription" : {
+                            "English" : "Warms your heart, literally and figuratively",
+                            "Russian" : "Греет душу, во всех смыслах"
+    },
+
+
+
+
+
+
+
+
+
+
+    "GAMEPLAY_CandleGreenA" : {
+                            "English" : "Candle Bear - Snowballed",
+                            "Russian" : "Свечка-медведь - Снежок"
+    },
+    "GAMEPLAY_CandleGreenADescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleGreenB" : {
+                            "English" : "Candle Bear - Festive",
+                            "Russian" : "Свечка-медведь - Новогоднее настроение"
+    },
+    "GAMEPLAY_CandleGreenBDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleGreenC" : {
+                            "English" : "Candle Bear - Delicacy",
+                            "Russian" : "Свечка-медведь - Лакомство"
+    },
+    "GAMEPLAY_CandleGreenCDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleGreenD" : {
+                            "English" : "Candle Bear - Dancer",
+                            "Russian" : "Свечка-медведь - Танцор"
+    },
+    "GAMEPLAY_CandleGreenDDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleBlueA" : {
+                            "English" : "Candle Bear - Fishing",
+                            "Russian" : "Свечка-медведь - Рыбалка"
+    },
+    "GAMEPLAY_CandleBlueADescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleBlueB" : {
+                            "English" : "Candle Bear - Struggle",
+                            "Russian" : "Свечка-медведь - Борьба"
+    },
+    "GAMEPLAY_CandleBlueBDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleBlueC" : {
+                            "English" : "Candle Bear - Friends",
+                            "Russian" : "Свечка-медведь - Друзья"
+    },
+    "GAMEPLAY_CandleBlueCDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleBlueD" : {
+                            "English" : "Candle Bear - Cards",
+                            "Russian" : "Свечка-медведь - Карты"
+    },
+    "GAMEPLAY_CandleBlueDDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandlePurpleA" : {
+                            "English" : "Candle Bear - Snow-survivor",
+                            "Russian" : "Свечка-медведь - Выживший снеговик"
+    },
+    "GAMEPLAY_CandlePurpleADescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandlePurpleB" : {
+                            "English" : "Candle Bear - Education",
+                            "Russian" : "Свечка-медведь - Просвещение"
+    },
+    "GAMEPLAY_CandlePurpleBDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandlePurpleC" : {
+                            "English" : "Candle Bear - Haul",
+                            "Russian" : "Свечка-медведь - Добыча"
+    },
+    "GAMEPLAY_CandlePurpleCDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandlePurpleD" : {
+                            "English" : "Candle Bear - Present",
+                            "Russian" : "Свечка-медведь - Подарок"
+    },
+    "GAMEPLAY_CandlePurpleDDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleRedA" : {
+                            "English" : "Candle Bear - Joke",
+                            "Russian" : "Свечка-медведь - Шутка"
+    },
+    "GAMEPLAY_CandleRedADescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleRedB" : {
+                            "English" : "Candle Bear - Hellbender",
+                            "Russian" : "Свечка-медведь - Hellbender"
+    },
+    "GAMEPLAY_CandleRedBDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleRedC" : {
+                            "English" : "Candle Bear - Dragon",
+                            "Russian" : "Свечка-медведь - Дракон"
+    },
+    "GAMEPLAY_CandleRedCDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+    "GAMEPLAY_CandleRedD" : {
+                            "English" : "Candle Bear - Moon",
+                            "Russian" : "Свечка-медведь - Луна"
+    },
+    "GAMEPLAY_CandleRedDDescription" : {
+                            "English" : "One of the collectible candle bears. There was a description card somewhere...",
+                            "Russian" : "Коллекционная свечка-медведь. Где-то была карточка с описанием..."
+    },
+
+
+
+
+
+
+
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_GreenA" : {
+                            "English" : "Candle Bear -  Snowballed",
+                            "Russian" : "Свечка-медведь - Снежок"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_GreenA" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #01/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #01/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_GreenA" : {
+                            "English" : "Bears are not known to be Great at playing snowballs. But they love playing! When you see a sad-looking bear - cheer it up with a snowball! \n\nDo not attempt to play snowballs with a bear",
+                            "Russian" : "Медведи никогда не были Великими игроками в снежки. Но все равно обожают это делать. Если увидите грустного медведя - подбодрите его снежком! \n\nНе пытайтесь играть в снежки с медведем"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_GreenB" : {
+                            "English" : "Candle Bear - Festive",
+                            "Russian" : "Свечка-медведь - Новогоднее настроение"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_GreenB" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #02/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #02/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_GreenB" : {
+                            "English" : "Bears love to celebrate New Year. But they do it their own way. Try sneaking into bear den at New Year's eve with a colorful light - maybe you will be just in time for the celebration. \n\nDo not attempt to celebrate New Year with a bear",
+                            "Russian" : "Медведи обожают отмечать Новый Год. Но делают это по-своему. В канун Нового Года загляните к медведю в берлогу с красочным фонариком - возможно вы как раз попадёта на торжество. \n\nНе пытайтесь поздравлять медведя с Новым Годом"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_GreenC" : {
+                            "English" : "Candle Bear - Delicacy",
+                            "Russian" : "Свечка-медведь - Лакомство"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_GreenC" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #03/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #03/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_GreenC" : {
+                            "English" : "It is known, that the Greatest treat for a bear is honey. Mmm, nuts in honey - what a delight. What treats do you have for a bear? \n\nDo not attempt to have a meal with a bear",
+                            "Russian" : "Как известно, любимое лакомство медведя - мёд. Ммм, мёд с орехами - какое удовольствие. А чем бы вы угостили медведя? \n\nНе пытайтесь угощать медведя"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_GreenD" : {
+                            "English" : "Candle Bear - Dancer",
+                            "Russian" : "Свечка-медведь - Танцор"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_GreenD" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #04/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #04/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_GreenD" : {
+                            "English" : "It may seem that the bear is dancing. But what actually happens is the sweater is too itchy and the bear can't reach to scratch it. If only someone could help out... \n\nDo not attempt to scratch bear's back. Even when it clearly asks for it",
+                            "Russian" : "Может показаться что медведь танцует. Но на самом деле его свитер необычайно колюч и ему никак не дотянуться чтобы почесать. Если бы кто-то мог его выручить... \n\nНе пытайтесь чесать спинку медведю. Даже если он очевидно напрашивается"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_BlueA" : {
+                            "English" : "Candle Bear - Fishing",
+                            "Russian" : "Свечка-медведь - Рыбалка"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_BlueA" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #05/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #05/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_BlueA" : {
+                            "English" : "This bear tried fishing like humans. The catch doesn't seem to impress. Maybe it should try a different bait? \n\nDo not attempt to give a bear advices on fishing",
+                            "Russian" : "Этот медведь пытался порыбачить на манер человека. Улов не впечатляет. Может ему стоит попробовать другую наживку? \n\nНе пытайтесь давать медведю советы по рыбалке"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_BlueB" : {
+                            "English" : "Candle Bear - Struggle",
+                            "Russian" : "Свечка-медведь - Борьба"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_BlueB" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #06/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #06/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_BlueB" : {
+                            "English" : "Most believe that bear struggle can't be won. This bear seem to disagree with that statement. \n\nDo not attempt to approach a stuggling bear",
+                            "Russian" : "Большинство считает что борьба с медведем - дело безвыигрышное. Похоже, этот медведь с большинством не согласен. \n\nНе пытайтесь приближаться к сражающемуся медведю"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_BlueC" : {
+                            "English" : "Candle Bear - Friends",
+                            "Russian" : "Свечка-медведь - Друзья"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_BlueC" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #07/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #07/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_BlueC" : {
+                            "English" : "The Greatest food for bear is honey. The Greatest complement to honey is tea. The Greatest way to enjoy tea is with a friend. \n\nDo not attempt to befriend a bear for a free cup of tea",
+                            "Russian" : "Лучшая еда для медведя это мёд. Лучшее дополнение к мёду это чай. Лучший способ пить чай - в компании друга. \n\nНе пытайтесь подружиться с медведем ради чашечки чая"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_BlueD" : {
+                            "English" : "Candle Bear - Cards",
+                            "Russian" : "Свечка-медведь - Карты"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_BlueD" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #08/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #08/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_BlueD" : {
+                            "English" : "There is no gambling addiction among bears. They just love the sound the cards make. What was the bear playing? Poker? \n\nDo not attempt to search for cards near bear dens",
+                            "Russian" : "Медведи не азартны, им просто нравится звук тасуемых карт. Во что он играл? Покер?. \n\nНе пытайтесь найти карты рядом с медвежьей берлогой"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_PurpleA" : {
+                            "English" : "Candle Bear - Snow-survivor",
+                            "Russian" : "Свечка-медведь - Выживший снеговик"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_PurpleA" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #09/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #09/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_PurpleA" : {
+                            "English" : "Bears have a lot of free time. And what else would they do with all those survivor clothes? \n\nDo not attempt to steal clothes from snowmen",
+                            "Russian" : "У медведей очень много свободного времени. И что еще им делать со всей этой одеждой выживших? \n\nНе пытайтесь воровать вещи со снеговиков"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_PurpleB" : {
+                            "English" : "Candle Bear - Education",
+                            "Russian" : "Свечка-медведь - Просвещение"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_PurpleB" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #10/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #10/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_PurpleB" : {
+                            "English" : "Bears have an amazing eyesight. This one just wants to look smart. Next time you see a still bear - ask what is it reading. \n\nDo not make loud noises behind bears, they might actually be reading",
+                            "Russian" : "У медведей отличное зрение. Этот просто хочет казаться умным. В следующий раз когда увидите неподвижного медведя - спросите что он читает. \n\nНе шумите за спиной у медведя - вдруг он действительно читает"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_PurpleC" : {
+                            "English" : "Candle Bear - Haul",
+                            "Russian" : "Свечка-медведь - Добыча"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_PurpleC" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #11/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #11/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_PurpleC" : {
+                            "English" : "This bear tried to carry everything in one go. Classic situation. \n\nDo not attempt to relate to bear problems",
+                            "Russian" : "Этот медведь пытался донести всё за один раз. Классическая ситуация. \n\nНе пытайтесь понять медвежьи проблемы"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_PurpleD" : {
+                            "English" : "Candle Bear - Present",
+                            "Russian" : "Свечка-медведь - Подарок"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_PurpleD" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #12/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #12/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_PurpleD" : {
+                            "English" : "Bears enjoy present as much as humans. But sometimes they mix something up. Make sure a bear doesn't see you placing your present - this might spoil the surprise. \n\nDo not attempt to become a present for a bear",
+                            "Russian" : "Медведи обожают подарки так же как и люди. Но иногда что-то путается. Когда подкладываете медведю подарок - убедитесь что он вас не видит. Это может испортить сюрприз. \n\nНе пытайтесь стать подарком для медведя"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_RedA" : {
+                            "English" : "Candle Bear - Joke",
+                            "Russian" : "Свечка-медведь - Шутка"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_RedA" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #13/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #13/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_RedA" : {
+                            "English" : "There is this Russian joke: 'A bear once walked through the forest and saw a burning car. Sat in it and burned dead'. Get it? \n\nDo not attempt to understand the joke",
+                            "Russian" : "Есть такая шутка: 'Шел медведь по лесу - видит машина горит. Сел в неё и сгорел'. Уловили? \n\nНе пытайтесь понять шутку"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_RedB" : {
+                            "English" : "Candle Bear - Hellbender",
+                            "Russian" : "Свечка-медведь - Hellbender"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_RedB" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #14/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #14/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_RedB" : {
+                            "English" : "This bear is pretending to be in his favorite not-so-normal show. Can you hear the singing? This is not a microphone, bear. \n\nDo not attempt to sing carols with a bear",
+                            "Russian" : "Этот медведь представил себя в своем любимом не-совсем-нормальном шоу. Слышите как поёт? Это не микрофон, медведь. \n\nНе пытайтесь колядовать с медведем"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_RedC" : {
+                            "English" : "Candle Bear - Dragon",
+                            "Russian" : "Свечка-медведь - Дракон"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_RedC" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #15/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #15/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_RedC" : {
+                            "English" : "Some bears wish to collect the most food for the winter. Some wish to have the biggest den. Some wish they were born by a dragon. \n\nHere be no dragons",
+                            "Russian" : "Некоторые медведи мечтают заготовить больше всех еды на зиму. Некторые мечтают найти самую большую берлогу. Некоторые хотели бы быть рождены драконом. \n\nЗдесь не обитают драконы"
+    },
+
+
+
+    "GAMEPLAY_COLLECTIBLE_TITL_RedD" : {
+                            "English" : "Candle Bear - Moon",
+                            "Russian" : "Свечка-медведь - Луна"
+    },
+    "GAMEPLAY_COLLECTIBLE_DESC_RedD" : {
+                            "English" : "Collectible candle figurine by 'Calorie Waltz' Foods #16/16",
+                            "Russian" : "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #16/16"
+    },
+    "GAMEPLAY_COLLECTIBLE_LORE_RedD" : {
+                            "English" : "What happened to that bear? Aurora? Moonshine?  \n\nDo not attempt to fly a bicycle",
+                            "Russian" : "Что это там в небе? Самолет? Облако? Медведь? \n\nНе пытайтесь летать на велосипеде"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    "GAMEPLAY_NOTE_TITL_1" : {
                             "English" : "A note from the lost soul",
                             "Russian" : "Записка от потерянной души"
     },
-    "NOTE_DESC_1" : {
-                            "English" : "A lore piece from Calorie Waltz Food pack",
-                            "Russian" : "Кусочек лора из Calorie Waltz Food pack"
+    "GAMEPLAY_NOTE_DESC_1" : {
+                            "English" : "A lore piece from 'Calorie Waltz' Foods employee",
+                            "Russian" : "Кусочек лора от сотрудника 'Calorie Waltz' Foods"
     },
-    "NOTE_HUD_1" : {
+    "GAMEPLAY_NOTE_HUD_1" : {
                             "English" : "Lost soul note #1",
                             "Russian" : "Записка от потерянной души #1"
     },
-    "NOTE_LORE_1" : {
+    "GAMEPLAY_NOTE_LORE_1" : {
                             "English" : "If you reading this... I'm lost. \n\n500 days I was wandering around the island, hoping to find another living soul. Everybody is dead. What about me then? Well... I'll make the last trip around the island and leave provisions. If another wretched soul gets stranded on this damned island - at least you won't die from starvation. If you ''lucky'' - you'll find me at the lighthouse(the still-standing one), I'll end my journey there.",
                             "Russian" : "Если вы это читаете... Я потерян. \n\n500 дней я бродил по острову, надеясь найти хоть одну живую душу. Все мертвы. А что насчет меня? Что ж... Я сделаю последний круг по острову и оставлю припасы. Если еще одну несчастную душу занесло на этот проклятый остров - по крайней мере тебе не придется умереть от голода. Если ''повезет'' - найдешь меня на маяке(том что еще стоит), там я закончу свой путь."
     }
+
 }

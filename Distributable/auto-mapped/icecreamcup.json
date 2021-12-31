@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_icecreamCup",
                             "DescriptionLocalizatonId" : "GAMEPLAY_icecreamCupDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.15,
+                            "WeightKG": 0.12,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Random",
@@ -32,7 +32,7 @@
 
                             "DaysToDecayOutdoors" : 240,
                             "DaysToDecayIndoors" : 120,
-                            "Calories" : 250,
+                            "Calories" : 300,
                             "Servings" : 1,
                             "EatingTime" : 4,
                             "EatingAudio" : "Play_EatingSoft",

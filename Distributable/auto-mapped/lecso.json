@@ -33,7 +33,7 @@
 
                             "DaysToDecayOutdoors" : 720,
                             "DaysToDecayIndoors" : 720,
-                            "Calories" : 250,
+                            "Calories" : 300,
                             "Servings" : 1,
                             "EatingTime" : 5,
                             "EatingAudio" : "Play_EatingCanned",

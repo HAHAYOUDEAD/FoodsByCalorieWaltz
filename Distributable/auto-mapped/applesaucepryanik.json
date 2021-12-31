@@ -1,0 +1,77 @@
+{
+    "ModFoodComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_applesaucePryanik",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_applesaucePryanikDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 0.35,
+                            "DaysToDecay" : 0,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Random",
+                            "InventoryCategory" : "Food",
+                            "PickUpAudio" : "Play_SndInvBoxCrackers",
+                            "PutBackAudio" : "Play_SndInvBoxCrackers",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.45,
+                            "InspectAngles" : [-42, -20, 0],
+                            "InspectOffset" : [0, -0.025, 0],
+                            "InspectScale" :  [1, 1, 1],
+                            "NormalModel" : "",
+                            "InspectModel" : "",
+
+                            "Cooking" : false,
+                            "CookingMinutes" : 8,
+                            "CookingUnitsRequired" : 1,
+                            "CookingWaterRequired" : 0,
+                            "CookingResult" : "",
+                            "BurntMinutes" : 30,
+                            "Type" : "Liquid",
+                            "CookingAudio" : "",
+                            "StartCookingAudio" : "",
+
+                            "DaysToDecayOutdoors" : 360,
+                            "DaysToDecayIndoors" : 360,
+                            "Calories" : 300,
+                            "Servings" : 1,
+                            "EatingTime" : 3,
+                            "EatingAudio" : "Play_EatingSoft",
+                            "EatingPackagedAudio" : "",
+                            "ThirstEffect" : -10,
+
+                            "FoodPoisoning" : 0,
+                            "FoodPoisoningLowCondition" : 0,
+                            "ParasiteRiskIncrements" : [],
+
+                            "Natural" : false,
+                            "Raw" : false,
+                            "Drink" : false,
+                            "Meat" : false,
+                            "Fish" : false,
+                            "Canned" : false,
+
+                            "Opening" : false,
+                            "OpeningWithCanOpener" : false,
+                            "OpeningWithKnife" : false,
+                            "OpeningWithHatchet" : false,
+                            "OpeningWithSmashing" : false,
+
+                            "AffectCondition" : false,
+                            "ConditionRestBonus" : 0,
+                            "ConditionRestMinutes" : 0,
+
+                            "AffectRest" : false,
+                            "InstantRestChange" : 0,
+                            "RestFactor" : 1,
+                            "RestFactorMinutes" : 0,
+
+                            "AffectCold" : false,
+                            "InstantColdChange" : 0,
+                            "ColdFactor" : 1,
+                            "ColdFactorMinutes" : 60,
+
+                            "ContainsAlcohol" : false,
+                            "AlcoholPercentage" : 0,
+                            "AlcoholUptakeMinutes" : 45
+                        }
+}

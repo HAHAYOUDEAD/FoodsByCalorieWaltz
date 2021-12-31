@@ -1,0 +1,217 @@
+#
+# human
+#
+loottable=BackPack
+item=GEAR_hotSpringSoda w=4
+item=GEAR_bananaChips w=1
+item=GEAR_nordShoreChocolate w=1
+item=GEAR_pinenutBrittle w=4
+item=GEAR_crabSnack w=4
+item=GEAR_solitudeCider w=5
+item=GEAR_applesaucePryanik w=10
+item=GEAR_roastedAlmonds w=5
+item=GEAR_tunaPate w=7
+item=GEAR_marinaraMackerel w=4
+item=GEAR_kvass w=7
+item=GEAR_lecso w=5
+#
+loottable=HumanCorpse
+item=GEAR_nordShoreChocolate w=1
+item=GEAR_solitudeCider w=8
+item=GEAR_roastedAlmonds w=8
+item=GEAR_tunaPate w=5
+item=GEAR_kvass w=6
+#
+# vehicle
+#
+loottable=VehicleTrunk
+item=GEAR_crabSnack w=3
+item=GEAR_hotSpringSoda w=2
+item=GEAR_solitudeCider w=5
+#
+loottable=VehicleTrunkLocked
+item=GEAR_solitudeCider w=6
+item=GEAR_applesaucePryanik w=4
+#
+loottable=VehicleGloveBox
+item=GEAR_roastedAlmonds w=2
+item=GEAR_hotSpringSoda w=1
+item=GEAR_pinenutBrittle w=1
+item=GEAR_kvass w=2
+#
+# cargo
+# soda and water
+loottable=CargoDrinkA
+item=GEAR_kvass w=1
+# coffee and tea
+loottable=CargoDrinkB
+item=GEAR_jubileeCookies w=1
+# all soda
+loottable=CargoDrinkC
+item=GEAR_hotSpringSoda w=1
+item=GEAR_solitudeCider w=1
+# peaches and beans
+loottable=CargoFoodA
+item=GEAR_marinaraMackerel w=1
+item=GEAR_tunaPate w=1
+# tomato soup and condensed milk
+loottable=CargoFoodB
+item=GEAR_nannasOats w=1
+item=GEAR_applesaucePryanik w=1
+# crackers and enegry bars
+loottable=CargoFoodC
+item=GEAR_figConfiture w=1
+item=GEAR_pinenutBrittle w=1
+# mre
+loottable=CargoFoodRareA
+item=GEAR_bananaChips w=1
+# peanut butter and crackers
+loottable=CargoFoodRareB
+item=GEAR_honeyNuts w=1
+item=GEAR_nordShoreChocolate w=1
+# ?
+loottable=CargoFoodRareC
+item=GEAR_bananaChips w=1
+item=GEAR_mysteryCake w=1
+#
+# house
+#
+loottable=KitchenCupboard
+item=GEAR_figConfiture w=5
+item=GEAR_honeyNuts w=1
+item=GEAR_glintwein w=2
+item=GEAR_pinenutBrittle w=3
+item=GEAR_crabSnack w=3
+item=GEAR_mysteryCake w=4
+item=GEAR_jubileeCookies w=5
+item=GEAR_applesaucePryanik w=6
+item=GEAR_tunaPate w=6
+item=GEAR_marinaraMackerel w=8
+item=GEAR_nannasOats w=6
+item=GEAR_lecso w=8
+#
+loottable=KitchenDrawer
+item=GEAR_roastedAlmonds w=4
+item=GEAR_tunaPate w=4
+#
+loottable=Fridge 
+item=GEAR_nordShoreChocolate w=1
+item=GEAR_hotSpringSoda w=5
+item=GEAR_solitudeCider w=6
+item=GEAR_kvass w=8
+item=GEAR_tunaPate w=5
+item=GEAR_figConfiture w=3
+item=GEAR_lecso w=5
+item=GEAR_marinaraMackerel w =5
+#
+loottable=Freezer
+item=GEAR_strawberryPlombir w=6
+item=GEAR_icecreamCup w=4
+#
+# wild
+#
+loottable=FishingDrawer
+item=GEAR_solitudeCider w=3
+item=GEAR_bananaChips w=1
+item=GEAR_pinenutBrittle w=1
+item=GEAR_hotSpringSoda w=2
+item=GEAR_marinaraMackerel w=3
+item=GEAR_kvass w=2
+#
+loottable=TideLine
+item=GEAR_bananaChips w=1
+item=GEAR_roastedAlmonds w=2
+#
+# office
+#
+loottable=Locker
+item=GEAR_applesaucePryanik w=40
+item=GEAR_solitudeCider w=15
+item=GEAR_hotSpringSoda w=10
+item=GEAR_kvass w=20
+item=GEAR_roastedAlmonds w=20
+#
+loottable=LockerLocked
+item=GEAR_honeyNuts w=4
+item=GEAR_mysteryCake w=6
+item=GEAR_jubileeCookies w=7
+item=GEAR_bananaChips w=4
+item=GEAR_nordShoreChocolate w=6
+item=GEAR_pinenutBrittle w=7
+item=GEAR_crabSnack w=7
+#
+# misc
+#
+loottable=MetalBox
+item=GEAR_hotSpringSoda w=1
+item=GEAR_bananaChips w=1
+item=GEAR_nordShoreChocolate w=2
+item=GEAR_pinenutBrittle w=2
+item=GEAR_crabSnack w=2
+item=GEAR_solitudeCider w=5
+item=GEAR_applesaucePryanik w=3
+item=GEAR_roastedAlmonds w=7
+item=GEAR_tunaPate w=7
+item=GEAR_lecso w=5
+item=GEAR_marinaraMackerel w=4
+item=GEAR_figConfiture w=3
+item=GEAR_mysteryCake w=2
+#
+loottable=PlasticBox
+item=GEAR_marinaraMackerel w=7
+item=GEAR_tunaPate w=6
+item=GEAR_roastedAlmonds w=8
+item=GEAR_crabSnack w= 1
+item=GEAR_pinenutBrittle w=1
+#
+
+
+#    ForestryCrate
+#    Suitcase
+#    briefcase
+#    Wardrobe_outer
+#    HumanCorpseRare
+#    Cabinet
+#    EndTable_bedroom
+#    Oven
+#    FileCabinet
+#    CoalBin
+#    Wardrobe_regular
+#    Workbench
+#    ToolChest_sml
+#    ToolChest
+#    ToolChestDrawer
+#    RifleSupplies
+#    Safe
+#    Stones
+#    Laundry
+#    GenericCabinet
+#    FishingSaltWater
+#    FishingFreshWater
+#    CargoFire
+#    BathroomCabinet
+#    CargoClothingA
+#    CargoClothingB
+#    CargoClothingC
+#    CargoClothingRareA
+#    CargoClothingRareB
+#    CargoClothingRareC
+#    CargoMaterialsA
+#    CargoMaterialsB
+#    CargoMaterialsRareA
+#    CargoMaterialsRareB
+#    CargoMaterialsRareC
+#    CargoMedical
+#    CargoMedicalRare
+#    CargoMiscA
+#    CargoMiscB
+#    CargoMiscC
+#    CargoMiscRareA
+#    CargoMiscRareB
+#    CargoMiscRareC
+#    CargoRifle
+#    CargoShoes
+#    CargoTools
+#    CashRegister
+#    Dresser
+#    FirstAidKit

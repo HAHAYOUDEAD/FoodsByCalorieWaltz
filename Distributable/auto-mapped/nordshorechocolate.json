@@ -3,7 +3,7 @@
                             "DisplayNameLocalizationId" : "GAMEPLAY_nordShoreChocolate",
                             "DescriptionLocalizatonId" : "GAMEPLAY_nordShoreChocolateDescription",
                             "InventoryActionLocalizationId" : "",
-                            "WeightKG": 0.12,
+                            "WeightKG": 0.125,
                             "DaysToDecay" : 0,
                             "MaxHP" : 100,
                             "InitialCondition" : "Random",

@@ -30,14 +30,14 @@
                             "CookingAudio" : "",
                             "StartCookingAudio" : "",
 
-                            "DaysToDecayOutdoors" : 480,
-                            "DaysToDecayIndoors" : 480,
+                            "DaysToDecayOutdoors" : 960,
+                            "DaysToDecayIndoors" : 960,
                             "Calories" : 3000,
-                            "Servings" : 6,
+                            "Servings" : 1,
                             "EatingTime" : 6,
                             "EatingAudio" : "Play_OpenPeanutButter",
                             "EatingPackagedAudio" : "",
-                            "ThirstEffect" : -40,
+                            "ThirstEffect" : -20,
 
                             "FoodPoisoning" : 0,
                             "FoodPoisoningLowCondition" : 5,
@@ -56,7 +56,7 @@
                             "OpeningWithHatchet" : false,
                             "OpeningWithSmashing" : false,
 
-                            "AffectCondition" : true,
+                            "AffectCondition" : false,
                             "ConditionRestBonus" : 2,
                             "ConditionRestMinutes" : 240,
 

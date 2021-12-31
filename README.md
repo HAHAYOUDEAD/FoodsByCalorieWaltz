@@ -1,7 +1,7 @@
-## Latest Addition!
-With 'Fury, Then Silence' 2 new items were added. Both can be find in freezers. Bon appetit!
+## New Years Special!
+2 new items: Pryanik and Glintwein! Pryanik package contains a special collectible candle, try to collect them all ;)
 
-Check out [wiki](https://github.com/HAHAYOUDEAD/FoodsByCalorieWaltz/wiki) for item pics and codes!
+Wiki will be updated next year, meanwhile check out [this cozy video](https://www.youtube.com/watch?v=c1Ltwbec47Q) and have a happy New Year :з
 
 ## Foods by 'Calorie Waltz'
 Selection of foods I think looks tasty :yum: You can take a closer look in [this video](https://www.youtube.com/watch?v=hHTd108ro48) :)

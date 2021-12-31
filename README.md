@@ -6,7 +6,7 @@ Wiki will be updated next year, meanwhile check out [this cozy video](https://ww
 ## Foods by 'Calorie Waltz'
 Selection of foods I think looks tasty :yum: You can take a closer look in [this video](https://www.youtube.com/watch?v=hHTd108ro48) :)
 
-![Poster](Images/CW1.png)
+![Poster](Images/NYpromo.png)
 
 ## Description
 Some designs came out of my head, some are 'inspired' by others. This food pack is not exactly balanced or anything, I just googled calories for real life analogies and slapped those in. If someone wants to balance things out - be my guest.

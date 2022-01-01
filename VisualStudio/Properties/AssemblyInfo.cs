@@ -7,12 +7,12 @@ using CalorieWaltz;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: MelonInfo(typeof(CWMain), "FoodsBbyCalorieWaltz", "0.9.6", "Waltz", "")]
+[assembly: MelonInfo(typeof(CWMain), "FoodsByCalorieWaltz", "0.9.6.1", "Waltz", "")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
-[assembly: AssemblyTitle("FoodsBbyCalorieWaltz")]
+[assembly: AssemblyTitle("FoodsByCalorieWaltz")]
 [assembly: AssemblyDescription("A food pack")]
 [assembly: AssemblyCompany("Waltz")]
-[assembly: AssemblyProduct("FoodsBbyCalorieWaltz")]
+[assembly: AssemblyProduct("FoodsByCalorieWaltz")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from

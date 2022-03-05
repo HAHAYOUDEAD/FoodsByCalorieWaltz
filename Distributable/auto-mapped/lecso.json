@@ -18,14 +18,14 @@
                             "InspectAngles" : [0, 0, 0],
                             "InspectOffset" : [0, -0.075, 0],
                             "InspectScale" :  [1, 1, 1],
-                            "NormalModel" : "",
+                            "NormalModel" : "lecso",
                             "InspectModel" : "",
 
                             "Cooking" : true,
                             "CookingMinutes" : 12,
                             "CookingUnitsRequired" : 1,
                             "CookingWaterRequired" : 0,
-                            "CookingResult" : "GEAR_lecso_opened",
+                            "CookingResult" : "",
                             "BurntMinutes" : 30,
                             "Type" : "Grub",
                             "CookingAudio" : "",
@@ -67,8 +67,8 @@
                             "RestFactorMinutes" : 0,
 
                             "AffectCold" : true,
-                            "InstantColdChange" : 15,
-                            "ColdFactor" : 0.6,
+                            "InstantColdChange" : 20,
+                            "ColdFactor" : 0.5,
                             "ColdFactorMinutes" : 60,
 
                             "ContainsAlcohol" : false,

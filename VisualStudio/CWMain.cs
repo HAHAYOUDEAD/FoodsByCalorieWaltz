@@ -96,6 +96,10 @@ namespace CalorieWaltz
         public static int currentLevel;
 
 
+        // opened cans
+
+        private static bool injectedMeshSwapComponent;
+        private static List<string> cannedGear = new List<string>();
 
 
 
@@ -157,7 +161,7 @@ namespace CalorieWaltz
                 {
                     //potMat = new Material(Shader.Find("Shader Forge/TLD_Food_Liquid"));
                     potGear = Resources.Load("GEAR_" + cookableGear[i]).TryCast<GameObject>();
-                    if (potGear == null) return;
+                    if (potGear == null) continue;
 
                     potMat = new Material(Resources.Load("GEAR_CoffeeCup").TryCast<GameObject>().GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
                     potMat.name = ("CKN_" + cookableGear[i] + "_MAT");
@@ -169,6 +173,31 @@ namespace CalorieWaltz
                 loadedCookingTex = true;
             }
 
+
+            if (!injectedMeshSwapComponent)
+            {
+                cannedGear.Add("lecso"); // case-sensitive
+
+                GameObject gear;
+
+                for (int i = 0; i < cannedGear.Count; i++)
+                {
+                    gear = Resources.Load("GEAR_" + cannedGear[i]).TryCast<GameObject>();
+                    if (cannedGear == null) continue;
+
+                    gear.AddComponent<MeshSwapItem>();
+                    gear.GetComponent<MeshSwapItem>().m_GearItem = gear.GetComponent<GearItem>();
+                    gear.GetComponent<MeshSwapItem>().m_MeshObjOpened = gear.transform.FindChild(cannedGear[i] + "_opened").gameObject;
+                    gear.GetComponent<MeshSwapItem>().m_MeshObjUnopened = gear.transform.FindChild(cannedGear[i]).gameObject;
+                }
+
+                injectedMeshSwapComponent = true;
+            }
+        }
+
+        public override void OnSceneWasUnloaded(int level, string name)
+        {
+            isLoaded = false;
         }
 
         public static void UpdateFoodArray()
@@ -247,7 +276,7 @@ namespace CalorieWaltz
 
         public override void OnUpdate()
         {
-            if (!isLoaded) return;
+            if (!isLoaded || GameManager.GetPlayerManagerComponent() == null) return;
 
             // add some drop chance if you're having a bad day
             if (GameManager.GetSprainPainComponent().HasSprainPain() && !godHelped && !GameManager.GetRestComponent().IsSleeping())
@@ -265,10 +294,13 @@ namespace CalorieWaltz
             }
 
             // apply edited calories to item on pickup
-            if (GameManager.GetPlayerManagerComponent().GearItemBeingInspected() != lastInspected && GameManager.GetPlayerManagerComponent().GearItemBeingInspected().m_HasBeenOwnedByPlayer == false)
+            if (GameManager.GetPlayerManagerComponent().GearItemBeingInspected() != null)
             {
-                lastInspected = GameManager.GetPlayerManagerComponent().GearItemBeingInspected();
-                UpdateCaloriesOnPickup(lastInspected);
+                if (GameManager.GetPlayerManagerComponent().GearItemBeingInspected() != lastInspected && GameManager.GetPlayerManagerComponent().GearItemBeingInspected().m_HasBeenOwnedByPlayer == false)
+                {
+                    lastInspected = GameManager.GetPlayerManagerComponent().GearItemBeingInspected();
+                    UpdateCaloriesOnPickup(lastInspected);
+                }
             }
 
             // when intentory is loaded, update calories in inventory
@@ -299,8 +331,7 @@ namespace CalorieWaltz
 
                     // Play_VOInspectObjectImportant	 unethusiastic
                     // Play_InventoryLeave useless/ no use to me - maybe use if already collected
-                    // Play_FireSuccess - sight, sarcastic "perfect"
-
+                    // Play_FireSuccess - sigh, sarcastic "perfect"
 
                     if (Utils.RollChance(redChance + (humanChance / 2f) + godChance))
                     {
@@ -325,9 +356,6 @@ namespace CalorieWaltz
                             pick = r.Next(randomPick.Count);
                         }
 
-
-                        //MelonLogger.Msg("RED chance " + (redChance + (humanChance / 2f) + godChance) + " picked " + pick + " out of " + randomPick.Count);
-
                         GameManager.GetPlayerManagerComponent().ProcessInspectablePickupItem(Utils.InstantiateGearFromPrefabName(randomPick[pick]));
                         humanChance = 0;
                         godChance = 0;
@@ -344,7 +372,6 @@ namespace CalorieWaltz
 
                         return;
                     }
-
                     else if (Utils.RollChance(purpleChanceFinal + humanChance + godChance))
                     {
                         //purple
@@ -363,8 +390,6 @@ namespace CalorieWaltz
                             pick = r.Next(randomPick.Count);
                         }
 
-                        //MelonLogger.Msg("PURPLE chance " + (purpleChanceFinal + humanChance + godChance) + " picked " + pick + " out of " + randomPick.Count);
-
                         GameManager.GetPlayerManagerComponent().ProcessInspectablePickupItem(Utils.InstantiateGearFromPrefabName(randomPick[pick]));
                         humanChance = (int)Mathf.Ceil(humanChance / 5f);
                         godChance = 0;
@@ -381,7 +406,6 @@ namespace CalorieWaltz
 
                         return;
                     }
-
                     else if (Utils.RollChance(blueChanceFinal + humanChance))
                     {
                         //blue
@@ -394,8 +418,6 @@ namespace CalorieWaltz
                         };
                         System.Random r = new System.Random();
                         int pick = r.Next(randomPick.Count);
-
-                        //MelonLogger.Msg("BLUE chance " + (blueChanceFinal + humanChance) + " picked " + pick + " out of " + randomPick.Count);
 
                         GameManager.GetPlayerManagerComponent().ProcessInspectablePickupItem(Utils.InstantiateGearFromPrefabName(randomPick[pick]));
 
@@ -410,7 +432,6 @@ namespace CalorieWaltz
 
                         return;
                     }
-
                     else
                     {
                         //green
@@ -423,9 +444,6 @@ namespace CalorieWaltz
                         };
                         System.Random r = new System.Random();
                         int pick = r.Next(randomPick.Count);
-
-                        //MelonLogger.Msg("GREEN chance whatever" + " picked " + pick + " out of " + randomPick.Count);
-
 
                         GameManager.GetPlayerManagerComponent().ProcessInspectablePickupItem(Utils.InstantiateGearFromPrefabName(randomPick[pick]));
                         if (Utils.RollChance(75f))
@@ -445,7 +463,6 @@ namespace CalorieWaltz
                         return;
                     }
                 }
-
 
                 if (eatingIcecream)
                 {
@@ -481,13 +498,13 @@ namespace CalorieWaltz
                     if (honeyEatAmount.Sum() > honeySafeAmount + (int)(honeySafeAmount * 0.1f))
                     {
                         float chance = Mathf.Clamp(33.3f * (honeyEatAmount.Sum() / honeySafeAmount) - 33.3f, 0f, 100f) - poisonChanceReduction;
-
                         // roll for poison
                         if (Utils.RollChance(chance))
                         {
                             GameManager.GetFoodPoisoningComponent().FoodPoisoningStart(localizedName, true, false);
                         }
                     }
+
                     // remove tea buff after eating another portion
                     drankHotBeverage = false;
                     poisonChanceReduction = 0f;
@@ -497,9 +514,8 @@ namespace CalorieWaltz
                 return;
             }
 
-
             /*
-            Nuts in honey is consumed by 300calorie portions. 
+            Nuts in honey is consumed by ~300calorie portions. 
             Consuming more that 1 portion at a time leads to increasing chance of food poisoning. 
             Drinking any hot beverage between each portion reduces poison chance, but doesn't eliminate it. 
             Buff reduces poison chance by 30% if you drink after eating honey. Doesn't stack. Buff removed after eating honey again.
@@ -555,7 +571,6 @@ namespace CalorieWaltz
             }
 
 
-
             /*
              Icecream causes cold damage and removes "warming up"
              */
@@ -569,6 +584,7 @@ namespace CalorieWaltz
                     eatingIcecream = true;
                 }
             }
+
 
 
             /*

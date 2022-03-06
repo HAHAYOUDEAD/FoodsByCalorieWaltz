@@ -103,6 +103,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1640538596892443449}
+  - component: {fileID: 6668204480505616573}
   m_Layer: 0
   m_Name: GEAR_lecso
   m_TagString: Untagged
@@ -127,6 +128,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &6668204480505616573
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130076755143678339}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6069521080924704306, guid: c0475979fffc88f48878098591218a32, type: 3}
 --- !u!1 &4206275406025236333
 GameObject:
   m_ObjectHideFlags: 0

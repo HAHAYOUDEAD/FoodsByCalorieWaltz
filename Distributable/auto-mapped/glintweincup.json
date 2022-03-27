@@ -67,7 +67,7 @@
 
                             "AffectCold" : true,
                             "InstantColdChange" : 35,
-                            "ColdFactor" : 1.2,
+                            "ColdFactor" : 0.5,
                             "ColdFactorMinutes" : 60,
 
                             "ContainsAlcohol" : true,

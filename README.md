@@ -1,12 +1,14 @@
-## New Years Special!
-2 new items: Pryanik and Glintwein! Pryanik package contains a special collectible candle, try to collect them all ;)
+## v1.0
+4 new items: Hematogen, Latte Drops, Turkish Delight and Alphabet Soup
 
-Check out [this cozy video](https://www.youtube.com/watch?v=c1Ltwbec47Q) and have a happy New Year :з
+Spawn points and lore is now complete, collectible candles are now proper candles
+
+hurray c:
 
 ## Foods by 'Calorie Waltz'
 Selection of foods I think looks tasty :yum: You can take a closer look in [this video](https://www.youtube.com/watch?v=hHTd108ro48) :)
 
-![Poster](Images/NYpromo.png)
+![Poster](Images/allRender2.png)
 
 ## Description
 Some designs came out of my head, some are 'inspired' by others. This food pack is not exactly balanced or anything, I just googled calories for real life analogies and slapped those in. If someone wants to balance things out - be my guest.

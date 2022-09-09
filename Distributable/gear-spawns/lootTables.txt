@@ -11,12 +11,15 @@ item=GEAR_nordShoreChocolate w=1
 item=GEAR_pinenutBrittle w=4
 item=GEAR_crabSnack w=4
 item=GEAR_solitudeCider w=5
-item=GEAR_applesaucePryanik w=10
+item=GEAR_applesaucePryanik w=9
 item=GEAR_roastedAlmonds w=5
 item=GEAR_tunaPate w=7
 item=GEAR_marinaraMackerel w=4
 item=GEAR_kvass w=7
 item=GEAR_lecso w=5
+item=GEAR_ABCSoup w=4
+item=GEAR_latteDrops w=1
+item=GEAR_hematogen w=2
 
 #_______________________________
 loottable=HumanCorpse
@@ -26,6 +29,8 @@ item=GEAR_solitudeCider w=8
 item=GEAR_roastedAlmonds w=8
 item=GEAR_tunaPate w=5
 item=GEAR_kvass w=6
+item=GEAR_latteDrops w=1
+item=GEAR_hematogen w=2
 
 #  _   __    __   _     __   
 # | | / /__ / /  (_)___/ /__ 
@@ -37,12 +42,14 @@ loottable=VehicleTrunk
 item=GEAR_crabSnack w=3
 item=GEAR_hotSpringSoda w=2
 item=GEAR_solitudeCider w=5
+item=GEAR_ABCSoup w=2
 
 #_______________________________
 loottable=VehicleTrunkLocked
 #‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 item=GEAR_solitudeCider w=6
 item=GEAR_applesaucePryanik w=4
+item=GEAR_ABCSoup w=6
 
 #_______________________________
 loottable=VehicleGloveBox
@@ -51,6 +58,7 @@ item=GEAR_roastedAlmonds w=2
 item=GEAR_hotSpringSoda w=1
 item=GEAR_pinenutBrittle w=1
 item=GEAR_kvass w=2
+item=GEAR_latteDrops w=1
 
 #  _____                 
 # / ___/__ ________ ____ 
@@ -126,12 +134,15 @@ item=GEAR_tunaPate w=6
 item=GEAR_marinaraMackerel w=8
 item=GEAR_nannasOats w=6
 item=GEAR_lecso w=8
+item=GEAR_ABCSoup w=8
+item=GEAR_rahatLokum w=5
 
 #_______________________________
 loottable=KitchenDrawer
 #‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 item=GEAR_roastedAlmonds w=4
 item=GEAR_tunaPate w=4
+item=GEAR_latteDrops w=1
 
 #_______________________________
 loottable=Fridge 
@@ -144,6 +155,7 @@ item=GEAR_tunaPate w=5
 item=GEAR_figConfiture w=3
 item=GEAR_lecso w=5
 item=GEAR_marinaraMackerel w=5
+item=GEAR_hematogen w=2
 
 #_______________________________
 loottable=Freezer
@@ -164,12 +176,15 @@ item=GEAR_pinenutBrittle w=1
 item=GEAR_hotSpringSoda w=2
 item=GEAR_marinaraMackerel w=3
 item=GEAR_kvass w=2
+item=GEAR_ABCSoup w=2
 
 #_______________________________
 loottable=TideLine
 #‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 item=GEAR_bananaChips w=1
 item=GEAR_roastedAlmonds w=2
+item=GEAR_latteDrops w=1
+item=GEAR_hematogen w=1
 
 #  ____  _______        
 # / __ \/ _/ _(_)______ 
@@ -194,6 +209,8 @@ item=GEAR_bananaChips w=4
 item=GEAR_nordShoreChocolate w=6
 item=GEAR_pinenutBrittle w=7
 item=GEAR_crabSnack w=7
+item=GEAR_latteDrops w=1
+item=GEAR_hematogen w=2
 
 #   __  ____        
 #  /  |/  (_)__ ____
@@ -215,6 +232,8 @@ item=GEAR_lecso w=5
 item=GEAR_marinaraMackerel w=4
 item=GEAR_figConfiture w=3
 item=GEAR_mysteryCake w=2
+item=GEAR_ABCSoup w=5
+item=GEAR_rahatLokum w=3
 
 #_______________________________
 loottable=PlasticBox
@@ -224,6 +243,7 @@ item=GEAR_tunaPate w=6
 item=GEAR_roastedAlmonds w=8
 item=GEAR_crabSnack w=1
 item=GEAR_pinenutBrittle w=1
+item=GEAR_rahatLokum w=1
 
 
 

@@ -1,0 +1,111 @@
+scene=CanneryRegion
+# with a knife in a cave
+item=GEAR_bananaChips p=-966.4067,36.1292,-747.0891 r=359.2296,152.5158,1.0560 c=100
+item=GEAR_Knife p=-966.4962,36.2387,-747.0550 r=303.6823,83.1798,173.2241 c=100
+
+scene=LakeRegion
+# with stick cross
+item=GEAR_bananaChips p=60.3327,18.6454,756.3781 r=358.8947,70.4703,1.8581 c=100
+item=GEAR_Stick p=60.1949,18.6181,756.2230 r=29.8056,159.9424,215.8227 c=100
+item=GEAR_Stick p=60.2397,18.6484,756.2509 r=347.3453,291.0229,12.2085 c=100
+
+scene=TracksRegion
+# shot by arrow
+#item=GEAR_BrokenArrow p=817.1261,235.8276,816.0076 r=350.5890,274.1682,355.1968 c=100
+#item=GEAR_bananaChips p=816.5690,235.7607,816.0850 r=8.5234,258.5098,0.0002 c=100
+# 
+item=GEAR_bananaChips p=697.5802,234.2755,982.7534 r=358.5282,53.4146,354.8659 c=100
+item=GEAR_BrokenArrow p=697.0144,234.2364,982.5386 r=341.5532,68.2736,21.3708 c=100
+
+scene=IceCaveA
+# frozen in ice
+item=GEAR_Water500ml p=61.2258,-10.4913,15.8553 r=4.7323,310.7541,20.7523 c=30
+item=GEAR_bananaChips p=60.5463,-9.6564,14.9440 r=358.8825,150.0309,359.0285 c=100
+
+scene=MountainTownRegion
+# with tea in cave
+item=GEAR_bananaChips p=1278.4660,245.4279,1018.7040 r=0.0000,239.3267,0.0000 c=100
+item=GEAR_RoseHipTea p=1278.5970,245.4709,1018.8750 r=8.1879,344.0162,8.1574 c=100
+item=GEAR_Tinder p=1278.6260,245.4251,1018.8810 r=8.1879,283.8474,8.1574 c=100
+item=GEAR_Tinder p=1278.6160,245.4402,1018.8740 r=353.3375,343.0203,8.1289 c=100
+
+scene=RavineTransitionZone
+# regulator
+item=GEAR_Stick p=-614.3756,135.0152,-88.0682 r=312.2859,119.7776,229.2377 c=100
+item=GEAR_HeavyBandage p=-614.2397,135.2335,-88.1723 r=14.8423,57.8360,324.7417 c=100
+item=GEAR_bananaChips p=-614.3799,135.0403,-88.1221 r=3.0209,49.2921,4.4572 c=100
+
+
+scene=DamRiverTransitionZoneB
+# banan shootin bear
+item=GEAR_bananaChips p=478.2138,72.6994,482.7621 r=0.0000,284.8850,0.0000 c=100
+item=GEAR_Revolver p=478.2959,72.7326,482.8232 r=6.4983,290.7488,69.7730 c=100
+item=GEAR_honeyNuts p=478.7353,72.6751,482.6194 r=21.5969,91.5959,356.0086 c=100
+
+
+scene=CanneryMarshTransitionCave
+# peeking from the corner
+item=GEAR_bananaChips p=64.4134,36.2541,5.8852 r=-0.0001,71.9630,300.0000 c=100
+item=GEAR_Water500ml p=64.3610,35.2079,6.7690 r=13.3070,242.9380,32.8385 c=30
+
+
+
+scene=RuralRegion
+# in a toilet, inacsessible
+item=GEAR_bananaChips p=349.8153,179.7400,2255.5020 r=0.0000,239.0071,0.0000 c=100
+item=GEAR_Newsprint p=350.0230,179.7113,2255.5610 r=72.2739,327.6117,88.5548 c=100
+
+
+# under the bridge, selling drugs
+item=GEAR_BottlePainKillers p=1101.1120,42.0053,2241.6380 r=0.0590,292.5569,9.7558 c=100
+item=GEAR_CashBundle p=1101.1250,42.0153,2241.8240 r=0.0000,314.1261,0.0000 c=100
+item=GEAR_bananaChips p=1101.1080,42.0053,2241.7070 r=0.0000,85.4765,0.0000 c=100
+
+# on heartbreak, jumping
+item=GEAR_bananaChips p=1780.0130,57.2456,1091.7230 r=356.8029,90.8495,11.2520 c=100
+
+
+scene=BarnHouseA
+# committing arson
+item=GEAR_Accelerant p=2.2866,0.0202,9.8323 r=90.0000,268.1707,0.0000 c=100
+item=GEAR_bananaChips p=2.2829,0.0000,9.6803 r=0.0000,70.1805,0.0000 c=100
+item=GEAR_WoodMatches p=2.2743,0.0800,9.6176 r=270.0000,307.3642,0.0000 c=100
+
+
+scene=AshCanyonRegion
+# sleeping under a blanket
+item=GEAR_bananaChips p=318.9738,264.2315,436.1090 r=60.0016,91.2454,0.0000 c=100
+item=GEAR_Cloth p=318.8084,264.2428,436.0927 r=353.0587,0.4500,3.7098 c=100
+
+
+scene=AshCanyonRegion
+# with gascanm implying arson
+item=GEAR_bananaChips p=-85.9517,116.7608,566.2795 r=0.0000,303.1731,0.0000 c=100
+item=GEAR_JerrycanRusty p=-85.9673,116.6552,566.3885 r=2.3827,236.7148,354.6402 c=100
+
+
+scene=AshMine
+# smoking wee
+item=GEAR_bananaChips p=-119.8939,-57.4343,203.6035 r=0.0000,201.1266,0.0000 c=100
+item=GEAR_WoodMatches p=-119.7821,-57.3943,203.6862 r=-0.0001,265.3635,180.0000 c=100
+item=GEAR_OldMansBeardHarvested p=-120.1788,-57.4081,203.6891 r=359.8722,73.3899,0.0002 c=100
+item=GEAR_CashBundle p=-119.9679,-57.3589,203.8371 r=359.9909,16.2879,359.8521 c=100
+
+
+scene=CoastalRegion
+# inside mailbox, shooting player
+item=GEAR_FlareGun p=948.5028,50.1785,508.5247 r=8.8914,237.8764,95.5133 c=100
+item=GEAR_bananaChips p=948.4722,50.0778,508.3960 r=4.4397,229.4964,356.1042 c=100
+
+scene=CaveC
+# shooting random rurvivor
+item=GEAR_Bow p=-47.6000,19.4200,-40.3626 r=2.6366,161.1726,188.0541 c=100
+item=GEAR_bananaChips p=-47.6710,19.3549,-40.4549 r=356.5439,215.3212,353.1851 c=100
+
+
+scene=PrepperCacheEmpty
+#buying stuff
+item=GEAR_EmergencyStim p=3.4384,0.5562,1.1086 r=0.0000,285.6062,0.0000 c=100
+item=GEAR_CashBundle p=3.5537,0.5522,1.2282 r=0.0002,170.9220,105.0007 c=100
+item=GEAR_bananaChips p=3.4814,0.4977,1.3235 r=0.0180,359.4490,1.9902 c=100
+item=GEAR_bananaChips p=3.4988,0.4983,1.0800 r=0.1861,183.7874,358.0184 c=100

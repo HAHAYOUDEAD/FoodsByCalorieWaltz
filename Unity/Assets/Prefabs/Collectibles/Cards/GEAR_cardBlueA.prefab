@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3999337024152280117}
   - component: {fileID: 13409921972638608}
   - component: {fileID: 2867476886571050842}
+  - component: {fileID: 7805506292793341080}
   m_Layer: 0
   m_Name: GEAR_cardBlueA
   m_TagString: Untagged
@@ -25,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4380787997295658639}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: -10, z: 0}
   m_LocalScale: {x: 0.34, y: 0.34, z: 0.34}
   m_Children:
@@ -33,7 +34,7 @@ Transform:
   - {fileID: 3999337024407147371}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!33 &13409921972638608
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -81,6 +82,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &7805506292793341080
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4380787997295658639}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.36740413, y: 0.28375715, z: 0.42660674}
+  m_Center: {x: 0.048348133, y: -0.14187852, z: -1.2412628e-15}
 --- !u!1001 &3461797690896065261
 PrefabInstance:
   m_ObjectHideFlags: 0

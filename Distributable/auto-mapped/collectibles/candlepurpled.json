@@ -1,7 +1,7 @@
 {
     "ModGenericComponent": {
                                 "DisplayNameLocalizationId" : "GAMEPLAY_CandlePurpleD",
-                                "DescriptionLocalizatonId" : "GAMEPLAY_CandlePurpleDDescription",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_CandleDescription",
                                 "InventoryActionLocalizationId" : "",
                                 "WeightKG": 0.1,
                                 "DaysToDecay" : 0,
@@ -21,8 +21,8 @@
                                 "InspectModel" : ""
                             },
 	"ModBurnableBehaviour": {
-                                "BurningMinutes" : 15,
-                                "BurningMinutesBeforeAllowedToAdd" : 0,
+                                "BurningMinutes" : 30,
+                                "BurningMinutesBeforeAllowedToAdd" : 1,
                                 "SuccessModifier" : 35,
                                 "TempIncrease" : 2,
                                 "DurationOffset" : 0

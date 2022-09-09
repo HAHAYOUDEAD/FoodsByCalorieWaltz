@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6725226317112786060}
   - component: {fileID: 7708779519902135081}
   - component: {fileID: 5557408304365455331}
+  - component: {fileID: 3000761360199814619}
   m_Layer: 0
   m_Name: GEAR_cardGreenD
   m_TagString: Untagged
@@ -25,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6205710803596600886}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: -10, z: 0}
   m_LocalScale: {x: 0.34, y: 0.34, z: 0.34}
   m_Children:
@@ -33,7 +34,7 @@ Transform:
   - {fileID: 6725226317546080084}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!33 &7708779519902135081
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -81,6 +82,19 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &3000761360199814619
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6205710803596600886}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.3617068, y: 0.3579155, z: 0.42660674}
+  m_Center: {x: 0.04549936, y: -0.17895773, z: -8.829522e-16}
 --- !u!1001 &6547799316051534015
 PrefabInstance:
   m_ObjectHideFlags: 0

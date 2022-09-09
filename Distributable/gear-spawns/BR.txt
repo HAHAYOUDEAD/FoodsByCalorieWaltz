@@ -1,0 +1,77 @@
+#    ____  ____ 
+#   / __ )/ __ \
+#  / __  / /_/ /
+# / /_/ / _, _/ 
+#/_____/_/ |_|  
+scene=MaintenanceShedA
+#
+item=GEAR_figConfiture p=-11.3085,0.3010,-17.2425 r=0.0000,187.2614,0.0000 c=90
+item=GEAR_oatsBowl p=-11.3882,0.6299,-21.9125 r=0.0000,341.0912,0.0000 c=90
+item=GEAR_hotSpringSoda p=-11.5830,1.1180,-22.6193 r=-0.0002,172.6491,0.0001 c=30
+item=GEAR_glintwein p=-11.7043,2.1952,-21.8094 r=0.0001,291.1225,0.0002 c=60
+item=GEAR_jubileeCookies p=-11.3892,0.8999,-26.2054 r=0.0000,206.5877,0.0000 c=30
+item=GEAR_mysteryCake p=-11.2696,0.9997,-25.3759 r=90.0000,167.3427,0.0000 c=15
+item=GEAR_nannasOats p=-11.5605,0.9693,-24.2146 r=-0.0001,167.2223,0.0000 c=15
+item=GEAR_marinaraMackerel p=-11.4050,1.1195,-22.4873 r=0.0000,227.8330,0.0000 c=30
+item=GEAR_honeyNuts p=-11.3361,1.5651,-24.3720 r=0.0000,237.0973,0.0000 c=5
+item=GEAR_applesaucePryanik p=-6.7333,1.0527,-21.9619 r=0.0000,74.2287,0.0000 c=75
+#
+scene=HuntingLodgeA
+#
+item=GEAR_lecso p=-8.2171,0.3761,4.6072 r=0.0000,0.8710,0.0000 c=75
+item=GEAR_ABCSoup p=-8.2356,0.3761,4.4275 r=0.0000,353.5679,0.0000 c=75
+item=GEAR_nannasOats p=-10.6536,2.3981,0.7776 r=0.0000,227.2537,0.0000 c=30
+item=GEAR_nordShoreChocolate p=-8.8041,0.0000,4.6128 r=-0.0001,200.5312,0.0000 c=90
+item=GEAR_rahatLokum p=-10.4348,0.5025,1.5965 r=90.0000,299.9789,0.0000 c=90
+item=GEAR_applesaucePryanik p=3.4195,0.9746,0.0526 r=0.1175,200.7746,0.0320 c=45
+item=GEAR_oatsBowl p=0.5464,0.9745,-0.4558 r=0.0000,73.3433,0.0000 c=45
+item=GEAR_latteDrops p=6.8304,0.9985,1.1130 r=0.0000,67.0544,0.0000 c=30
+
+
+#                    _     
+#   ____ ___  ____ _(_)___ 
+#  / __ `__ \/ __ `/ / __ \
+# / / / / / / /_/ / / / / /
+#/_/ /_/ /_/\__,_/_/_/ /_/ 
+
+scene=TracksRegion
+# hunter's blind
+item=GEAR_latteDrops p=255.0593,193.0491,573.1946 r=35.4816,179.2481,0.0000 c=30
+# in yellow tram
+item=GEAR_crabSnack p=825.6063,239.0752,448.9716 r=6.4604,263.5034,358.0711 c=100
+item=GEAR_latteDrops p=822.2047,236.2525,444.3859 r=353.4174,292.6791,357.4667 c=60
+item=GEAR_hotSpringSoda p=827.1329,237.5799,448.8326 r=358.3521,159.6525,353.2597 c=30
+# truck
+item=GEAR_kvass p=821.4781,235.7201,456.8094 r=346.0494,259.9601,359.2272 c=90
+# truck
+item=GEAR_roastedAlmonds p=839.3703,232.0748,653.5323 r=356.2563,105.5466,357.7617 c=100
+# near locomotive
+item=GEAR_figConfiture p=825.8353,234.6102,810.4083 r=26.0640,352.8417,349.1296 c=45
+# booth near maintenance shed
+item=GEAR_solitudeCider p=665.5200,202.1814,567.4545 r=0.0005,302.4742,0.0008 c=45
+# truck near maintenance shed
+item=GEAR_hematogen p=599.5204,199.4226,557.8640 r=12.3772,276.2389,266.3437 c=30
+#
+item=GEAR_roastedAlmonds p=613.2210,199.6429,565.9974 r=355.0521,29.1540,4.1215 c=30
+# truck
+item=GEAR_kvass p=639.9603,201.9758,531.4000 r=59.0262,336.9916,79.7884 c=75
+# shed outer
+item=GEAR_marinaraMackerel p=579.2353,201.3538,566.2131 r=0.0000,331.1947,0.0000 c=90
+item=GEAR_hotSpringSoda p=580.9793,199.9953,565.9927 r=0.0000,133.5149,0.0000 c=5
+item=GEAR_pinenutBrittle p=581.1196,199.9953,566.1139 r=0.0000,91.4347,0.0000 c=15
+item=GEAR_ABCSoup p=577.7067,199.9069,565.3648 r=0.0000,262.5941,0.0000 c=75
+item=GEAR_tunaPate p=578.4763,199.3490,558.2843 r=0.0000,240.7597,0.0000 c=75
+item=GEAR_solitudeCider p=582.0733,200.2851,563.1306 r=0.0000,322.6378,0.0000 c=15
+item=GEAR_kvass p=586.1516,200.2555,559.1603 r=333.5555,175.5750,90.5265 c=100
+item=GEAR_jubileeCookies p=577.7443,200.5492,564.7114 r=0.0000,213.2978,0.0000 c=15
+# stuck in chain fence
+item=GEAR_crabSnack p=244.0300,194.8138,693.0700 r=0.0000,240.9815,90.0002 c=90
+# lower valley
+item=GEAR_honeyNuts p=785.5177,91.9893,361.0930 r=10.5153,301.5851,346.1958 c=45
+# car
+item=GEAR_hematogen p=38.5082,242.1758,455.9515 r=15.0015,278.3823,105.0003 c=15
+# near lodge
+item=GEAR_roastedAlmonds p=79.4517,245.9030,465.0880 r=0.0000,137.3978,0.0000 c=90
+# stuck in snow on rickety bridge
+item=GEAR_strawberryPlombir p=262.6326,249.6562,950.8267 r=270.0000,166.5788,0.0000 c=100
+

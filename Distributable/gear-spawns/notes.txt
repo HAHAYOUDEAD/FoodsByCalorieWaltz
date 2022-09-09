@@ -1,0 +1,129 @@
+#1
+# HRV - top of fallen tree over ravine, very hard to get to
+scene=RiverValleyRegion
+item=GEAR_CWFEmployeeNote1 p=499.2732,277.9415,394.4724 r=318.7271,126.2798,346.7682 c=100
+item=GEAR_Knife p=499.2477,277.9936,394.4541 r=301.5199,80.3437,278.5127 c=100
+item=GEAR_honeyNuts p=499.0031,277.5636,394.8963 r=66.7685,117.5168,79.4021 c=100
+item=GEAR_nordShoreChocolate p=498.9908,277.5981,395.0210 r=14.7443,215.8261,72.9540 c=100
+item=GEAR_BlueFlare p=497.9295,219.4459,387.5448 r=345.3748,95.1921,105.4594 c=100
+item=GEAR_BasicWoolScarf p=498.9582,277.8922,395.3494 r=72.9103,323.5114,131.6462 c=75
+
+#13 
+# Not far from the #1, on a side of a cliff, easy to get to, hard to notice
+item=GEAR_CWFEmployeeNote13 p=332.6819,200.2562,459.9082 r=291.6652,219.3725,272.9567 c=100
+item=GEAR_KnifeImprovised p=332.6430,200.2092,459.9649 r=351.2475,53.6782,317.6407 c=100
+item=GEAR_figConfiture p=332.5974,200.1293,459.8532 r=352.0679,59.7771,4.7390 c=100
+item=GEAR_strawberryPlombir p=331.7476,200.4585,458.0196 r=81.7595,328.1806,280.0150 c=25
+
+#2
+# BR - on a side of a lake, easily accessible
+scene=TracksRegion
+#item=GEAR_placeholderNote p=330.4002,201.9133,431.1893 r=290.9112,300.3268,38.0439 c=100
+#  at the end of river near rickety foot bridge. Have to climb a tree, easy
+item=GEAR_CWFEmployeeNote2 p=243.1475,201.5878,898.7078 r=2.0059,20.7637,13.1270 c=100
+item=GEAR_Stone p=243.1840,201.5597,898.7219 r=3.9014,9.6385,12.7005 c=100
+item=GEAR_glintwein p=242.8736,201.7748,897.2153 r=13.6973,320.5859,5.9552 c=100
+item=GEAR_BasicWoolScarf p=243.4049,204.2126,898.1927 r=84.1646,352.5273,115.1872 c=100
+
+
+#3
+# FM - on top of red wagon. Have to climb a tree, easy
+scene=MarshRegion
+item=GEAR_CWFEmployeeNote3 p=1094.3990,-123.4793,972.5697 r=284.9947,16.9733,310.9358 c=100
+item=GEAR_hematogen p=1095.5970,-124.5272,971.9766 r=2.5548,283.6074,355.7614 c=100
+item=GEAR_honeyNuts p=1095.4440,-124.5315,971.9794 r=3.7481,304.2367,356.7677 c=100
+item=GEAR_WoolSocks p=1095.4360,-124.5500,971.8386 r=353.4272,114.2088,12.0206 c=100
+
+#3.5
+# FM>BI transition cave
+scene=CanneryMarshTransitionCave
+item=GEAR_BedRoll p=-85.7611,23.4590,-52.4594 r=352.6878,28.3995,21.2637 c=5
+item=GEAR_CWFEmployeeNote3_2 p=-84.3201,23.9483,-53.0721 r=306.3159,95.5175,15.9470 c=100
+item=GEAR_figConfiture p=-84.9664,23.2882,-53.2749 r=340.2907,116.2193,314.9003 c=15
+item=GEAR_pinenutBrittle p=-84.7982,23.5290,-53.5191 r=5.7578,151.9767,5.1486 c=15
+
+#4
+# this one should be the story of victor getting to island
+# BI - on top of broken lighthouse, easily accessible
+scene=CanneryRegion
+item=GEAR_CWFEmployeeNote4 p=76.5761,96.8220,-918.5320 r=358.7342,176.7789,358.8347 c=100
+item=GEAR_Stone p=76.5736,96.8027,-918.5454 r=358.1432,110.1532,0.7201 c=100
+
+#5
+#ML - behind houses on a cliff at west lake shore, rarely visited, easy
+scene=LakeRegion
+item=GEAR_CWFEmployeeNote5 p=1668.2510,44.6454,187.6500 r=335.0771,103.5396,9.1705 c=100
+item=GEAR_MapleSapling p=1668.3220,44.4618,187.6853 r=87.9643,1.1573,128.2693 c=100
+item=GEAR_bananaChips p=1668.2190,44.5168,187.6915 r=41.1534,102.3209,354.1249 c=100
+
+# ML - lake overview, easily accessible
+#scene=LakeRegion
+#item=GEAR_placeholderNote p=1268.4690,133.4901,499.1721 r=300.3139,215.5800,354.4164 c=100
+#item=GEAR_figConfiture p=1268.3650,131.9261,498.5249 r=5.4711,272.7193,4.6811 c=100
+#item=GEAR_pinenutBrittle p=1268.1900,131.9923,498.5937 r=314.7970,299.7531,336.0622 c=100
+
+# ML - on top of broken tower, hard to reach
+#scene=LakeRegion
+#item=GEAR_placeholderNote p=451.9608,166.5664,1006.5950 r=277.3739,3.8404,359.8960 c=100
+#item=GEAR_KnifeImprovised p=451.9404,166.6000,1006.5500 r=0.0002,291.5505,6.1564 c=100
+
+#6
+# contemplation bridge
+scene=RuralRegion
+item=GEAR_CWFEmployeeNote6 p=2010.8620,49.5967,1737.3050 r=0.0000,308.5305,0.0000 c=100
+item=GEAR_honeyNuts p=2010.8860,49.5951,1737.3280 r=0.0000,276.8244,0.0000 c=100
+
+#7
+# TM - in a small alcove up behind mountaineer's hut, easily accessible
+scene=CrashMountainRegion
+item=GEAR_CWFEmployeeNote7 p=523.7892,237.7578,124.7319 r=280.6528,204.7408,220.8996 c=100
+item=GEAR_BirchSapling p=523.9815,237.9261,124.7415 r=23.1740,261.7465,165.6354 c=100
+
+#8
+# AC - behind a large waterfall, easily accessible
+scene=AshCanyonRegion
+item=GEAR_CWFEmployeeNote8 p=-246.1255,128.9408,441.1785 r=349.8679,323.2158,353.8102 c=100
+item=GEAR_Stone p=-246.1547,128.9276,441.1922 r=351.0544,339.9002,350.5996 c=100
+item=GEAR_nordShoreChocolate p=-246.1283,128.9261,441.3291 r=348.1053,289.7448,0.3509 c=100
+
+#9
+# PV - in the middle of birch forest, on broken tree, easily accessible
+scene=RuralRegion
+item=GEAR_CWFEmployeeNote9 p=1359.8700,46.1243,2078.1740 r=293.4901,258.8530,32.5241 c=100
+item=GEAR_Arrow p=1360.1920,46.5832,2077.9330 r=43.8418,304.0530,273.4344 c=100
+item=GEAR_strawberryPlombir p=1359.7940,45.7555,2078.0190 r=288.1818,264.1722,354.7798 c=100
+
+
+#10
+# CH - on a pole above random trailer, hard to norice
+scene=CoastalRegion
+#item=GEAR_KnifeImprovised p=-806.8141,129.0807,1019.2350 r=75.0012,260.2213,0.0001 c=100
+#item=GEAR_placeholderNote p=-806.8192,129.0501,1019.2650 r=273.1464,318.1360,27.9059 c=100
+# on a rock, accessible via fallen tree, boring
+#item=GEAR_placeholderNote p=-1100.7560,67.5076,458.2266 r=348.6251,320.0043,13.4341 c=100
+#item=GEAR_Softwood p=-1100.8580,67.4957,458.2956 r=342.1969,26.5741,359.3666 c=100
+# on a small island near shore, rarely visited, kinda boring
+#item=GEAR_placeholderNote p=208.8106,28.1183,279.3494 r=286.0325,219.4639,2.7821 c=100
+#item=GEAR_KnifeImprovised p=208.8390,28.1493,279.3692 r=5.7240,142.7199,10.2491 c=100
+# at the end of a pier on upside down boat, hard to notice, nice
+#item=GEAR_Stone p=-651.8530,26.4462,633.8165 r=346.0549,285.0484,344.9775 c=100
+item=GEAR_CWFEmployeeNote10 p=-651.9545,26.5179,633.8535 r=314.9529,285.0945,350.2977 c=100
+# same ^ but held with icecream
+item=GEAR_strawberryPlombir p=-651.8930,26.4627,633.8288 r=356.5172,191.4100,25.0859 c=100
+
+
+#11
+# Crumbling Highway - underneath the snow at mine entrance
+scene=HighwayTransitionZone
+item=GEAR_CWFEmployeeNote11 p=654.7495,73.7072,513.8928 r=359.9540,23.1353,354.7286 c=100
+item=GEAR_BrokenArrow p=654.7854,73.7713,513.7441 r=22.9992,353.8083,60.7424 c=100
+
+
+#12
+# the lighthouse
+scene=LighthouseA
+#item=GEAR_placeholderNote p=-0.9306,1.0100,1.2056 r=306.1459,245.3367,356.9476 c=100
+item=GEAR_CWFEmployeeNote12 p=2.7614,0.8698,4.4648 r=0.1677,21.5597,357.0069 c=100
+item=GEAR_Knife p=2.7574,0.9284,4.4561 r=345.9087,358.4495,269.4684 c=100
+
+

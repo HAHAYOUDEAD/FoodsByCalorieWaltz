@@ -1,0 +1,70 @@
+scene=RiverValleyRegion
+# at the end of the rainbow
+#item=GEAR_candleRedD p=939.8304,19.8522,1043.4610 r=10.8049,296.8601,356.0314 c=100
+#item=GEAR_candleRedD p=943.4825,44.5899,1063.0860 r=358.0319,188.8977,3.2876 c=100
+item=GEAR_candleRedD p=949.2829,36.7573,1054.7330 r=25.2590,208.8957,2.3174 c=100
+item=GEAR_CookingPot p=949.2876,36.7451,1054.7610 r=355.9272,86.5560,350.3291 c=100
+
+scene=ChurchB
+# behind a sheet of metal
+item=GEAR_candlePurpleB p=3.8765,0.1151,2.5151 r=0.0000,161.9510,0.0000 c=100
+
+scene=MountainTownRegion
+# near park
+item=GEAR_candleBlueD p=1095.4210,282.1990,1238.4920 r=1.7396,44.4467,0.2030 c=100
+
+scene=MarshRegion
+# at spencer's warehouse or whatever
+item=GEAR_candlePurpleA p=470.9880,-122.0003,60.6282 r=4.2656,253.4351,349.3301 c=100
+
+scene=HuntingLodgeA
+# at the door in hunting lodge
+item=GEAR_candlePurpleC p=-0.8062,0.0001,-5.0187 r=0.0000,220.6238,0.0000 c=100
+
+scene=LakeRegion
+# near a tree not far from trapper's
+item=GEAR_candleGreenD p=323.6899,11.4211,-45.1078 r=12.8620,225.8401,7.5823 c=100
+
+scene=CanneryRegion
+# in a boat near lighthouse
+item=GEAR_candleRedC p=146.6157,24.7999,-683.6302 r=4.8228,155.9982,1.9774 c=100
+
+scene=RavineTransitionZone
+# at train collapse
+#item=GEAR_candleGreenA p=-769.4801,131.3188,-127.5407 r=357.6391,274.2017,23.2006 c=100
+# inside the tunnel
+item=GEAR_candleGreenA p=-314.0603,136.8305,3.7462 r=351.4738,89.7811,15.3836 c=100
+
+scene=DamRiverTransitionZoneB
+# sitting on metal thing near dam exit
+item=GEAR_candleBlueC p=639.7134,93.0257,290.4405 r=0.0001,116.3749,0.0000 c=100
+
+scene=BarnHouseB
+# at second floor, sitting on hay
+item=GEAR_candleGreenC p=4.4963,5.0271,11.2532 r=351.9634,77.2179,2.3070 c=100
+
+scene=RuralRegion
+# pensive pond
+item=GEAR_candleBlueA p=2540.9140,111.0037,1186.8490 r=1.2356,172.3439,358.9849 c=100
+
+scene=CrashMountainRegion
+# on top of the plane
+item=GEAR_candleRedB p=942.6420,481.0727,1152.2870 r=352.4598,336.8473,3.8968 c=100
+
+scene=AshCanyonRegion
+# at fallen burned house under a table
+#item=GEAR_candleRedA p=31.6771,120.3988,55.7400 r=347.8636,155.2890,0.0289 c=100
+# inside a minecart, only visible from certain angles
+item=GEAR_candleRedA p=-628.8307,299.4438,743.6569 r=25.4022,105.4113,12.1495 c=100
+
+scene=MineTransitionZone
+# at the end of a tunnel, on a rock under lamp
+item=GEAR_candleBlueB p=-65.3194,-48.1469,98.7370 r=357.2475,298.1626,6.2909 c=100
+
+scene=HighwayTransitionZone
+# on top of a swing set
+item=GEAR_candleGreenB p=397.8318,70.4452,479.6478 r=354.0527,288.4718,22.9111 c=100
+
+scene=WhalingStationRegion
+# on a ship hook, handled by script
+item=GEAR_candlePurpleD p=0.0000,0.0000,0.0000 r=0.0000,0.0000,0.0000 c=100

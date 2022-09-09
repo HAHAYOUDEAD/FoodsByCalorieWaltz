@@ -1,0 +1,70 @@
+#    ________  ___
+#   / ____/  |/  /
+#  / /_  / /|_/ / 
+# / __/ / /  / /  
+#/_/   /_/  /_/   
+#
+scene=CanneryMarshTransitionCave
+item=GEAR_roastedAlmonds p=-22.5144,36.8910,3.5025 r=321.3788,185.3374,36.8787 c=30
+#
+scene=CaveD
+item=GEAR_solitudeCider p=25.7844,-24.2883,131.1201 r=308.9674,50.9006,229.7160 c=45
+
+
+#                    _     
+#   ____ ___  ____ _(_)___ 
+#  / __ `__ \/ __ `/ / __ \
+# / / / / / / /_/ / / / / /
+#/_/ /_/ /_/\__,_/_/_/ /_/ 
+
+scene=MarshRegion
+# spence homestead
+item=GEAR_oatsBowl p=467.7186,-124.2051,62.7164 r=5.1915,61.6349,356.0388 c=60
+item=GEAR_pinenutBrittle p=466.6059,-124.1929,64.4830 r=358.4836,337.4492,353.6510 c=15
+item=GEAR_roastedAlmonds p=471.9621,-123.0774,51.9799 r=0.0000,264.0753,0.0000 c=75
+item=GEAR_kvass p=467.9286,-124.2315,62.8134 r=6.3416,48.4961,358.4528 c=90
+item=GEAR_nannasOats p=462.8088,-124.5623,58.3069 r=0.0000,207.3074,0.0000 c=15
+# near spencer's
+item=GEAR_figConfiture p=493.5620,-132.9914,228.4613 r=81.3591,60.2604,312.8158 c=100
+item=GEAR_bananaChips p=495.2852,-132.4725,214.9307 r=13.3341,223.0875,8.6741 c=15
+item=GEAR_marinaraMackerel p=735.0411,-129.9638,-29.9642 r=5.9936,269.2067,344.5370 c=60
+# inside green crate
+item=GEAR_rahatLokum p=728.0265,-129.9874,-25.4312 r=33.1352,80.9451,25.3566 c=60
+item=GEAR_jubileeCookies p=728.0656,-130.0306,-25.3805 r=35.0601,90.2810,25.7397 c=75
+# 
+item=GEAR_solitudeCider p=732.0957,-133.4369,9.3492 r=36.5786,321.3960,332.9633 c=60
+#
+item=GEAR_ABCSoup p=552.7551,-131.7436,336.4451 r=0.0000,195.0000,0.0000 c=90
+# hunter's blind
+item=GEAR_crabSnack p=1071.5540,-126.9109,390.8108 r=5.9331,265.8294,2.1378 c=30
+# northern tower
+item=GEAR_roastedAlmonds p=706.6932,-20.2308,1481.6560 r=355.3798,340.4253,347.6005 c=60
+# northern tower - inside green crate
+item=GEAR_ABCSoup p=701.5536,-19.0256,1488.4050 r=26.9134,28.7251,354.3882 c=90
+item=GEAR_ABCSoup p=701.5981,-18.9679,1488.2490 r=23.1852,42.9386,15.1179 c=90
+item=GEAR_lecso p=701.4518,-19.0132,1488.3550 r=26.1934,26.2066,355.3617 c=90
+item=GEAR_honeyNuts p=701.2189,-18.9426,1488.2070 r=26.5472,351.6989,7.2468 c=15
+item=GEAR_hotSpringSoda p=696.7886,-19.1145,1500.3890 r=3.5199,359.0093,355.1906 c=75
+# hunter's blind
+item=GEAR_marinaraMackerel p=283.4475,-130.8007,1036.7200 r=0.0000,228.8675,0.0000 c=75
+item=GEAR_tunaPate p=283.3000,-130.7607,1036.6230 r=281.7726,162.6029,44.4073 c=90
+# corpse
+item=GEAR_hematogen p=112.4442,-132.3266,616.2795 r=355.3550,101.1772,12.3601 c=75
+# cave corpse
+item=GEAR_tunaPate p=-26.7969,-97.1258,135.4973 r=4.5732,219.8929,4.9791 c=60
+# west tower
+item=GEAR_solitudeCider p=1504.5280,-46.7287,475.3307 r=9.6671,325.5024,12.2515 c=100
+#
+item=GEAR_crabSnack p=1191.0020,-132.7583,686.3085 r=318.6458,11.2731,322.1404 c=60
+# along the tracks
+#item=GEAR_bananaChips p=1554.6220,-130.8967,1078.1890 r=353.0430,347.3462,359.8763 c=30
+item=GEAR_hematogen p=1137.3060,-131.4357,987.4645 r=334.4201,201.5440,338.6084 c=15
+item=GEAR_honeyNuts p=1139.5830,-133.3252,1009.3220 r=10.2176,320.1907,344.5287 c=90
+item=GEAR_applesaucePryanik p=1118.3710,-129.7005,979.2548 r=357.7373,44.3109,357.0960 c=75
+item=GEAR_figConfiture p=1118.5390,-129.6943,979.3149 r=356.3650,5.3223,0.5793 c=30
+item=GEAR_ABCSoup p=1119.3180,-129.6664,979.5787 r=356.7343,344.5746,1.6991 c=90
+item=GEAR_marinaraMackerel p=1119.5370,-129.6595,979.6361 r=0.7138,338.5828,356.3889 c=60
+item=GEAR_lecso p=1113.7810,-128.7278,975.1281 r=3.1780,87.6880,358.1416 c=75
+item=GEAR_ABCSoup p=1113.4420,-130.0401,974.9849 r=1.2553,123.1722,356.5395 c=30
+# on a random fallen tree
+item=GEAR_solitudeCider p=1586.1730,-105.2895,50.7810 r=0.0000,353.9642,0.0000 c=75

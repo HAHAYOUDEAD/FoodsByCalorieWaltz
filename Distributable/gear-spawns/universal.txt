@@ -1,0 +1,431 @@
+#  ______           _ __         
+# /_  __/________ _(_) /__  _____
+#  / / / ___/ __ `/ / / _ \/ ___/
+# / / / /  / /_/ / / /  __/ /    
+#/_/ /_/   \__,_/_/_/\___/_/     
+
+scene=TrailerA
+item=GEAR_marinaraMackerel p=5.9702,0.0720,1.3862 r=1.8417,261.2767,333.5589 c=75
+item=GEAR_pinenutBrittle p=6.3311,0.1302,0.8329 r=-0.0001,54.3544,0.0001 c=30
+item=GEAR_mysteryCake p=-4.9598,0.2524,1.7872 r=359.4004,340.5943,359.6794 c=30
+item=GEAR_jubileeCookies p=-4.0743,2.1860,1.7057 r=90.0000,45.8642,0.0000 c=15
+item=GEAR_applesaucePryanik p=-4.3693,1.6171,1.7581 r=-0.0001,308.1011,0.0001 c=45
+#
+scene=TrailerB
+item=GEAR_figConfiture p=-0.6185,0.5382,-1.8744 r=0.0002,159.3786,-0.0001 c=15
+item=GEAR_kvass p=4.0261,1.0546,-1.7193 r=0.0000,166.8934,0.0000 c=45
+item=GEAR_hematogen p=3.9980,1.6099,-1.8365 r=0.2213,244.3181,245.2337 c=15
+item=GEAR_tunaPate p=-0.1768,1.0086,-1.8582 r=0.0000,198.5952,0.0000 c=75
+item=GEAR_rahatLokum p=6.3281,1.0320,0.7654 r=0.5031,85.9407,27.0325 c=5
+#
+scene=TrailerC
+item=GEAR_ABCSoup p=3.5220,0.0000,1.2618 r=0.0000,335.2044,0.0000 c=60
+item=GEAR_nannasOats p=6.3369,1.4518,0.4493 r=0.0000,358.2152,-0.0002 c=30
+item=GEAR_oatsBowl p=-1.6439,1.1359,-1.1595 r=0.0000,159.8764,0.0000 c=75
+item=GEAR_marinaraMackerel p=2.3128,0.5382,-1.8199 r=0.0000,113.4237,0.0001 c=30
+item=GEAR_roastedAlmonds p=4.6290,0.6008,-1.1153 r=3.5808,190.7050,6.8364 c=45
+#
+scene=TrailerD
+item=GEAR_marinaraMackerel p=4.5163,0.0278,-1.3556 r=-0.0002,139.3826,179.9998 c=30
+item=GEAR_rahatLokum p=6.2204,1.0297,-0.2867 r=90.0000,94.9560,0.0000 c=30
+item=GEAR_tunaPate p=4.4964,0.0543,-1.5357 r=292.3058,320.4676,266.1375 c=90
+item=GEAR_solitudeCider p=-6.5750,0.0361,1.0578 r=292.4817,219.3985,89.9931 c=15
+#
+
+
+
+#    __  __                    
+#   / / / /___  __  __________ 
+#  / /_/ / __ \/ / / / ___/ _ \
+# / __  / /_/ / /_/ (__  )  __/
+#/_/ /_/\____/\__,_/____/\___/ 
+scene=MiltonHouseA
+item=GEAR_figConfiture p=-0.4944,2.7289,-1.0907 r=0.0000,103.3253,0.0000 c=75
+item=GEAR_mysteryCake p=-5.1642,0.9494,2.1410 r=0.0000,287.3478,0.0000 c=30
+item=GEAR_marinaraMackerel p=-2.3175,0.2304,-3.1249 r=0.0000,88.8298,0.0000 c=30
+item=GEAR_roastedAlmonds p=-0.1697,0.1400,-1.0542 r=270.0000,74.9554,0.0000 c=15
+item=GEAR_hematogen p=5.4430,0.8709,-0.3844 r=0.0000,312.4814,0.0000 c=15
+item=GEAR_rahatLokum p=-4.8485,0.9703,2.4839 r=90.0000,328.0744,0.0000 c=15
+#
+scene=MiltonHouseH3
+item=GEAR_tunaPate p=-0.3731,-0.2000,-3.0890 r=0.0000,62.3789,0.0000 c=45
+item=GEAR_marinaraMackerel p=-0.6842,-0.2000,-2.4113 r=0.0000,80.6009,0.0000 c=15
+item=GEAR_lecso p=-0.5118,-0.1500,-3.1376 r=89.3356,144.7891,359.9923 c=90
+#
+scene=MiltonHouseF1
+item=GEAR_strawberryPlombir p=0.0015,1.8876,0.0338 r=0.0000,145.5215,0.0000 c=75
+item=GEAR_honeyNuts p=-4.5416,1.8225,-3.5772 r=0.0000,206.4566,0.0000 c=15
+item=GEAR_solitudeCider p=2.3062,4.4763,-0.1923 r=0.0000,159.8191,0.0000 c=45
+item=GEAR_kvass p=-2.7123,0.0000,0.6607 r=0.0000,226.6367,0.0000 c=15
+#
+scene=MiltonHouseF2
+item=GEAR_mysteryCake p=-2.6307,1.1204,-2.9321 r=90.0000,193.1415,0.0000 c=75
+item=GEAR_applesaucePryanik p=4.6521,1.3330,-2.4585 r=0.0000,58.0713,0.0000 c=60
+item=GEAR_tunaPate p=-3.4366,1.1105,-3.2144 r=0.0000,194.9682,0.0000 c=100
+item=GEAR_tunaPate p=-3.4366,1.1428,-3.2155 r=0.0000,194.9462,0.0000 c=45
+#
+scene=MiltonHouseC
+item=GEAR_glintwein p=-8.4568,2.7049,-1.6333 r=0.0000,13.2821,0.0000 c=90
+item=GEAR_jubileeCookies p=-2.8760,0.9902,-3.5717 r=0.0000,161.2758,0.0000 c=30
+item=GEAR_pinenutBrittle p=5.6055,0.8709,-0.0108 r=0.0000,28.1396,0.0000 c=45
+#
+scene=MiltonHouseD
+item=GEAR_figConfiture p=-4.6171,1.1195,-3.5771 r=0.0000,235.4382,0.0000 c=75
+item=GEAR_icecreamCup p=-3.9761,1.5917,-3.5184 r=0.0000,196.2332,0.0000 c=15
+item=GEAR_strawberryPlombir p=-4.4458,1.8876,-3.3513 r=0.0000,232.1462,0.0000 c=30
+item=GEAR_glintwein p=-5.1554,1.6705,0.7192 r=0.0000,253.2051,0.0000 c=60
+item=GEAR_nannasOats p=-5.2092,1.1028,0.3695 r=0.0000,245.6294,0.0000 c=90
+item=GEAR_lecso p=-4.6937,0.2187,1.6325 r=0.0000,225.9751,0.0000 c=75
+#
+scene=MiltonHouseF3
+item=GEAR_oatsBowl p=-3.5083,1.2293,-3.5345 r=0.0000,159.9988,0.0000 c=90
+item=GEAR_tunaPate p=0.0551,1.1195,-0.3258 r=0.0000,149.6954,0.0000 c=75
+item=GEAR_marinaraMackerel p=0.1201,0.6299,0.2080 r=0.0000,120.3963,0.0000 c=30
+item=GEAR_applesaucePryanik p=-2.5095,1.1004,-2.9102 r=0.0000,222.1537,0.0000 c=90
+item=GEAR_hotSpringSoda p=0.3257,1.1195,0.3486 r=0.0000,86.1272,0.0000 c=15
+#
+scene=MiltonHouseH1
+item=GEAR_crabSnack p=-0.3916,1.4258,-0.7852 r=0.0000,204.6525,0.0000 c=30
+item=GEAR_hotSpringSoda p=-2.0878,0.7821,-0.8502 r=0.0000,78.5872,0.0000 c=5
+item=GEAR_glintwein p=-1.0301,-0.1423,2.5927 r=67.8405,173.2747,89.9445 c=15
+#
+scene=MiltonHouseH2
+item=GEAR_roastedAlmonds p=-0.9051,0.4175,2.9999 r=-0.0001,41.6833,-0.0001 c=75
+item=GEAR_latteDrops p=0.4649,-0.2000,-3.6096 r=0.0000,37.0739,0.0000 c=90
+item=GEAR_solitudeCider p=-4.0111,0.5070,-1.3370 r=67.4272,230.0430,269.9982 c=15
+
+
+
+scene=CoastalHouseA
+item=GEAR_roastedAlmonds p=-4.1971,0.6433,3.0395 r=0.0000,214.7083,0.0000 c=75
+item=GEAR_nordShoreChocolate p=-1.1056,1.7071,-3.4494 r=0.0000,118.2898,0.0000 c=15
+item=GEAR_marinaraMackerel p=-3.2235,0.9905,2.1210 r=0.0000,209.2307,0.0000 c=75
+item=GEAR_jubileeCookies p=-0.3603,1.1144,-2.7745 r=0.0000,48.3268,0.0000 c=5
+item=GEAR_hematogen p=5.4226,0.8709,-3.3329 r=0.0000,54.8289,0.0000 c=5
+item=GEAR_hematogen p=-5.2246,0.0437,1.4615 r=6.0249,16.3799,180.5911 c=5
+item=GEAR_figConfiture p=-0.7194,0.2306,-2.2237 r=0.4001,80.3292,3.2411 c=15
+item=GEAR_applesaucePryanik p=-3.3664,1.1144,-3.0131 r=0.0000,142.7199,0.0000 c=45
+item=GEAR_kvass p=-4.3063,0.9905,2.7034 r=0.0000,238.5747,0.0000 c=30
+item=GEAR_solitudeCider p=2.4812,1.2710,1.1125 r=0.0001,98.3729,0.0000 c=45
+item=GEAR_jubileeCookies p=-0.5180,2.7792,-2.7460 r=90.0000,48.0928,0.0000 c=30
+item=GEAR_lecso p=-0.3364,0.2357,2.7961 r=68.1184,184.8959,90.3044 c=75
+item=GEAR_lecso p=-0.3503,0.2379,2.6557 r=292.3248,171.5420,89.9139 c=15
+item=GEAR_nannasOats p=-0.2604,1.1144,-1.1927 r=0.0000,70.4422,0.0000 c=15
+item=GEAR_ABCSoup p=-0.2463,0.1855,3.3994 r=0.0000,21.0273,0.0000 c=60
+#
+scene=CoastalHouseB
+item=GEAR_applesaucePryanik p=-4.8002,1.7071,3.1272 r=0.0000,291.9457,0.0000 c=45
+item=GEAR_ABCSoup p=-2.2492,1.0458,-3.6332 r=0.0000,84.9822,0.0000 c=15
+item=GEAR_jubileeCookies p=-0.4995,1.1144,3.2797 r=0.0000,338.6931,0.0000 c=15
+item=GEAR_honeyNuts p=-0.2766,2.1952,0.1305 r=0.0000,120.7814,0.0000 c=5
+item=GEAR_nordShoreChocolate p=-4.8625,1.1144,0.8647 r=0.0000,283.7551,0.0000 c=5
+item=GEAR_hematogen p=4.9190,1.0049,3.5630 r=0.0000,331.4933,0.0000 c=5
+item=GEAR_rahatLokum p=-4.8018,1.1145,3.3028 r=0.0000,179.0054,0.0000 c=60
+item=GEAR_marinaraMackerel p=-0.6616,2.1969,-0.5403 r=359.8607,333.0829,359.0945 c=75
+item=GEAR_lecso p=-3.9649,1.5978,3.5093 r=0.0000,327.7595,0.0000 c=45
+item=GEAR_ABCSoup p=-3.9602,1.5978,3.6501 r=0.0000,321.5471,0.0000 c=45
+item=GEAR_kvass p=-0.3536,1.1144,1.0076 r=-0.0003,72.6796,0.0000 c=30
+#
+scene=CoastalHouseC
+item=GEAR_lecso p=-5.5152,0.8876,-6.0494 r=0.0000,58.9693,0.0000 c=45
+item=GEAR_lecso p=-5.5396,0.8876,-6.1619 r=0.0000,116.7579,0.0000 c=60
+item=GEAR_lecso p=-5.6690,0.8876,-6.1916 r=0.0000,119.8421,0.0000 c=75
+item=GEAR_marinaraMackerel p=-8.9539,1.1144,-4.2716 r=0.0000,334.1873,0.0000 c=75
+item=GEAR_nannasOats p=-5.6430,1.2508,-6.1558 r=0.0000,358.8008,0.0000 c=45
+item=GEAR_pinenutBrittle p=-3.6052,0.9902,-2.5804 r=0.0000,103.5818,0.0000 c=30
+item=GEAR_bananaChips p=-2.8516,0.6891,0.3819 r=90.0000,53.4637,0.0000 c=5
+item=GEAR_crabSnack p=-5.6686,1.5978,-5.5682 r=0.0000,36.0856,0.0000 c=15
+item=GEAR_mysteryCake p=-2.0174,0.9902,-3.7315 r=0.0000,177.2333,0.0000 c=15
+item=GEAR_glintwein p=-8.8626,1.1144,-1.6292 r=0.0000,324.2612,0.0000 c=15
+item=GEAR_tunaPate p=-5.6854,0.8876,-6.0487 r=0.0000,98.9722,0.0000 c=45
+item=GEAR_rahatLokum p=-3.1231,1.0049,-2.9379 r=41.1949,106.8285,358.1452 c=45
+item=GEAR_latteDrops p=-4.1803,0.0162,3.5808 r=89.9115,274.6017,0.0000 c=5
+#
+scene=CoastalHouseD
+item=GEAR_latteDrops p=-8.3959,0.6473,2.2914 r=44.6791,88.8924,356.9234 c=5
+item=GEAR_jubileeCookies p=-4.5769,0.2187,1.6821 r=0.0294,218.7985,0.0023 c=15
+item=GEAR_glintwein p=-0.4518,2.5912,0.5919 r=68.0103,301.9949,270.0026 c=90
+item=GEAR_pinenutBrittle p=-4.5272,1.1032,2.6559 r=358.5277,268.2946,356.5011 c=30
+item=GEAR_rahatLokum p=-0.2975,1.1301,0.8622 r=45.6431,94.2185,359.9522 c=15
+item=GEAR_hematogen p=5.2196,0.8876,-3.4997 r=0.0000,91.2146,0.0000 c=15
+item=GEAR_applesaucePryanik p=-7.5318,0.6731,0.6258 r=0.0000,218.2022,0.0000 c=45
+item=GEAR_nannasOats p=-0.5006,2.5502,2.3845 r=0.0198,125.7394,0.0023 c=45
+item=GEAR_roastedAlmonds p=-9.5107,0.8709,2.1433 r=0.0105,334.4779,359.9907 c=75
+#
+scene=CoastalHouseE
+item=GEAR_jubileeCookies p=-0.2881,1.1004,-1.1634 r=0.0000,74.1428,0.0000 c=15
+item=GEAR_glintwein p=-2.5801,0.1855,3.5726 r=0.0000,301.7722,0.0000 c=30
+item=GEAR_nannasOats p=-5.0370,1.1024,-1.2586 r=0.0000,357.6852,0.0000 c=45
+item=GEAR_figConfiture p=-4.7511,1.5978,-3.5439 r=0.0000,207.0868,0.0000 c=15
+item=GEAR_lecso p=-4.0556,0.1855,-3.6314 r=0.0000,155.1116,0.0000 c=45
+item=GEAR_ABCSoup p=-4.7777,0.1855,-3.6346 r=0.0000,128.0722,0.0000 c=30
+item=GEAR_ABCSoup p=-4.6554,0.2366,-3.5601 r=292.4199,190.0137,89.8850 c=90
+item=GEAR_mysteryCake p=-0.4408,2.5006,-1.4085 r=-0.0004,109.7348,-0.0001 c=30
+item=GEAR_honeyNuts p=-4.1086,1.9740,-3.6515 r=0.0000,204.4277,0.0000 c=5
+item=GEAR_pinenutBrittle p=-2.7162,1.0002,1.8303 r=0.0000,198.8169,0.0000 c=15
+item=GEAR_applesaucePryanik p=-2.0694,1.2639,3.3186 r=0.0000,331.2814,0.0000 c=45
+item=GEAR_latteDrops p=2.7660,0.7114,-0.5383 r=1.9392,231.3497,19.5266 c=5
+item=GEAR_solitudeCider p=0.1537,0.9263,-2.7456 r=0.0015,284.3605,-0.0047 c=15
+item=GEAR_kvass p=4.3833,4.3866,-4.4477 r=67.9111,284.9620,89.7279 c=30
+item=GEAR_hematogen p=-5.0811,4.3499,3.6445 r=0.0000,289.9826,0.0000 c=5
+#
+scene=CoastalHouseF
+item=GEAR_applesaucePryanik p=-3.5279,1.1004,-3.5615 r=0.0000,227.3385,0.0000 c=45
+item=GEAR_crabSnack p=0.3196,1.1080,-3.0815 r=0.0000,167.6354,0.0000 c=15
+item=GEAR_figConfiture p=0.3193,1.1080,-3.3256 r=0.0000,150.2899,0.0000 c=30
+item=GEAR_mysteryCake p=-4.5795,1.7257,-3.2729 r=89.5965,236.6703,349.8253 c=5
+item=GEAR_lecso p=0.3459,0.2337,1.4059 r=292.5231,358.3127,90.0137 c=15
+item=GEAR_lecso p=0.1769,0.1813,1.5196 r=0.0000,82.7354,0.0000 c=75
+item=GEAR_ABCSoup p=0.3229,0.1813,1.5158 r=0.0000,72.2045,0.0000 c=60
+item=GEAR_roastedAlmonds p=0.2301,1.1080,-3.0977 r=0.0000,130.8193,0.0000 c=45
+item=GEAR_honeyNuts p=-4.6271,2.6969,-3.5869 r=-0.0003,174.6934,0.0000 c=5
+item=GEAR_oatsBowl p=-0.9723,1.1080,-3.3385 r=0.0000,116.5204,0.0000 c=75
+item=GEAR_pinenutBrittle p=3.2780,1.2639,-0.4621 r=0.0000,21.6205,0.0000 c=15
+item=GEAR_tunaPate p=0.1642,0.2136,0.7914 r=0.0000,111.7363,0.0000 c=15
+item=GEAR_tunaPate p=0.1557,0.1813,0.7921 r=-0.0001,111.9291,0.0000 c=100
+item=GEAR_marinaraMackerel p=0.2856,0.1813,0.8661 r=0.0000,54.2633,0.0000 c=45
+item=GEAR_nannasOats p=-4.3600,1.1004,-0.5084 r=0.0000,256.4505,0.0000 c=15
+item=GEAR_latteDrops p=3.5246,1.0234,3.7176 r=0.0000,181.7550,0.0000 c=60
+#
+
+
+scene=CoastalHouseH
+item=GEAR_tunaPate p=-4.8783,-0.2000,3.5287 r=-0.0012,286.2818,0.0001 c=15
+item=GEAR_figConfiture p=0.5230,0.7836,-3.2261 r=0.2113,166.7724,0.0194 c=15
+#
+
+#   ______      __    _     
+#  / ____/___ _/ /_  (_)___ 
+# / /   / __ `/ __ \/ / __ \
+#/ /___/ /_/ / /_/ / / / / /
+#\____/\__,_/_.___/_/_/ /_/ 
+
+scene=WoodCabinA
+item=GEAR_latteDrops p=1.4494,0.4677,-0.3731 r=0.0000,138.6207,0.0000 c=30
+item=GEAR_honeyNuts p=1.8050,1.4912,3.5471 r=0.0000,13.1100,0.0000 c=5
+item=GEAR_lecso p=1.5889,0.8992,3.5578 r=67.4896,294.1855,270.0098 c=75
+item=GEAR_nannasOats p=-1.9319,0.9059,0.8870 r=0.0000,10.8343,0.0000 c=75
+item=GEAR_hematogen p=-0.6686,0.8728,-3.6481 r=0.0000,119.5368,0.0000 c=5
+item=GEAR_rahatLokum p=1.4479,1.5161,3.4939 r=90.0000,333.7070,0.0000 c=60
+item=GEAR_applesaucePryanik p=2.1421,0.9106,0.5900 r=-0.0001,84.5190,0.0000 c=45
+
+scene=WoodCabinC
+item=GEAR_hotSpringSoda p=-5.6502,3.5254,0.0797 r=335.2748,6.3706,306.5063 c=100
+item=GEAR_jubileeCookies p=-1.7301,2.2110,-3.5393 r=90.0000,247.1182,0.0000 c=30
+item=GEAR_hematogen p=-3.7109,0.1716,1.4579 r=0.0000,69.6166,0.0000 c=15
+item=GEAR_oatsBowl p=1.6492,1.0257,-1.5414 r=0.0000,174.6892,-0.0002 c=45
+item=GEAR_ABCSoup p=-1.8338,0.8489,-3.7371 r=0.0000,211.2753,0.0000 c=75
+#
+
+
+#
+
+scene=LakeCabinA
+item=GEAR_figConfiture p=0.6012,1.9578,3.3619 r=0.0000,349.1961,0.0000 c=5
+item=GEAR_rahatLokum p=-0.4252,1.9542,3.4434 r=0.0000,352.6206,0.0000 c=15
+item=GEAR_kvass p=-0.6713,0.9671,3.1404 r=0.0000,326.3276,0.0000 c=30
+item=GEAR_hematogen p=2.4459,1.7123,2.9688 r=0.0000,57.2416,0.0000 c=15
+item=GEAR_pinenutBrittle p=-0.8400,0.4967,3.1641 r=0.0000,317.1115,0.0000 c=30
+item=GEAR_mysteryCake p=2.1957,1.6945,-0.0740 r=88.6632,113.5998,346.2117 c=15
+item=GEAR_nordShoreChocolate p=1.8019,0.8107,-0.2982 r=358.6674,106.4998,359.5594 c=30
+#
+scene=LakeCabinB
+item=GEAR_glintwein p=2.3401,1.7246,-3.5026 r=0.0000,147.3223,0.0000 c=15
+item=GEAR_ABCSoup p=2.4466,0.0879,0.7120 r=332.5072,289.9836,105.6806 c=75
+item=GEAR_tunaPate p=2.3147,0.9759,-0.2845 r=358.9458,98.9879,357.4585 c=45
+item=GEAR_kvass p=-2.1895,0.0000,-2.6108 r=0.0000,199.7198,0.0000 c=15
+#
+scene=LakeCabinC
+item=GEAR_nordShoreChocolate p=1.2142,2.2649,-3.4612 r=0.0000,239.5285,0.0000 c=45
+item=GEAR_hematogen p=-2.2388,0.0000,-1.1996 r=0.0000,297.8233,0.0000 c=90
+item=GEAR_rahatLokum p=-2.2509,1.4262,0.2080 r=0.0000,205.8801,0.0000 c=45
+item=GEAR_crabSnack p=2.0984,0.5913,1.6443 r=0.3726,41.5245,359.5312 c=5
+item=GEAR_solitudeCider p=2.2558,0.5901,1.5967 r=0.2153,83.1018,359.4412 c=30
+item=GEAR_hotSpringSoda p=1.2112,1.9250,-3.4632 r=0.0000,121.7585,0.0000 c=5
+#
+scene=LakeCabinD
+item=GEAR_ABCSoup p=-0.9999,0.9865,3.1150 r=0.0000,341.2066,0.0000 c=75
+item=GEAR_marinaraMackerel p=-1.3690,1.2674,-3.3455 r=0.0000,66.2018,0.0000 c=100
+item=GEAR_marinaraMackerel p=-1.3661,1.2953,-3.3530 r=0.0000,65.8877,0.0000 c=30
+item=GEAR_icecreamCup p=2.4807,0.0435,-0.8666 r=0.0000,168.4483,270.0004 c=45
+#
+scene=LakeCabinE
+item=GEAR_jubileeCookies p=-2.2702,1.0458,1.9666 r=0.0000,250.0662,0.0000 c=30
+item=GEAR_glintwein p=-0.5013,1.7799,-3.4161 r=0.0000,147.0311,0.0000 c=60
+item=GEAR_applesaucePryanik p=-2.0719,1.0458,1.9990 r=0.0000,274.6645,0.0000 c=45
+item=GEAR_tunaPate p=0.8132,0.5168,3.1876 r=0.0191,20.2773,0.9068 c=100
+item=GEAR_tunaPate p=0.7784,0.5490,3.1675 r=41.8305,254.8414,17.1384 c=30
+#
+scene=LakeCabinF
+item=GEAR_jubileeCookies p=0.4554,1.4582,3.2623 r=89.3694,345.4345,44.9364 c=5
+item=GEAR_applesaucePryanik p=0.5924,1.4095,3.2290 r=0.7912,283.9601,0.1937 c=30
+item=GEAR_glintwein p=-2.3409,2.4907,1.8308 r=67.5368,269.6760,89.9917 c=15
+item=GEAR_marinaraMackerel p=2.3488,0.1446,-1.8281 r=0.2603,343.8048,76.2417 c=60
+item=GEAR_kvass p=-1.2946,0.0075,3.2686 r=0.0000,318.7647,0.0000 c=30
+#
+
+
+scene=FishingCabinA
+item=GEAR_jubileeCookies p=-2.2111,1.6689,3.2032 r=0.0000,333.0476,0.0000 c=30
+item=GEAR_roastedAlmonds p=-2.1098,0.5263,-1.5197 r=0.0000,210.4594,0.0000 c=15
+item=GEAR_mysteryCake p=-2.2018,1.6703,2.0556 r=0.0000,240.3951,0.0000 c=5
+item=GEAR_icecreamCup p=-2.2686,0.5671,0.3031 r=89.5215,113.3016,234.4360 c=75
+#
+scene=FishingCabinB
+item=GEAR_ABCSoup p=2.2265,1.0269,-0.5131 r=67.4589,7.0473,270.0077 c=60
+item=GEAR_pinenutBrittle p=1.8750,0.0811,2.4699 r=42.7770,25.7185,269.9844 c=15
+item=GEAR_tunaPate p=-2.2111,1.6167,-0.6868 r=358.3084,213.0291,0.5348 c=45
+item=GEAR_oatsBowl p=1.4220,0.8863,-2.1779 r=0.0000,91.7014,0.0000 c=15
+#
+scene=FishingCabinD
+item=GEAR_latteDrops p=-0.6807,0.0323,-3.4451 r=89.7925,114.1024,175.0376 c=15
+item=GEAR_nannasOats p=0.8561,2.3082,-3.2869 r=70.3322,218.1350,74.0646 c=15
+item=GEAR_lecso p=-2.3221,0.0350,2.4947 r=-0.0001,250.5194,-0.0001 c=45
+item=GEAR_hotSpringSoda p=1.7354,0.8083,-0.7965 r=359.3557,29.9597,0.1912 c=5
+#
+scene=FishingCabinC
+item=GEAR_crabSnack p=2.4612,0.0819,1.6003 r=0.3033,0.0586,258.0674 c=15
+item=GEAR_solitudeCider p=-2.2962,0.5352,-1.4951 r=359.9716,275.6237,359.9295 c=30
+item=GEAR_applesaucePryanik p=2.2661,0.9831,0.3947 r=0.0000,17.2955,-0.0001 c=30
+item=GEAR_rahatLokum p=2.3848,1.8790,0.1814 r=270.8724,226.8014,218.8417 c=15
+
+
+
+#
+scene=DraftDodgeCabinA
+item=GEAR_figConfiture p=-2.2421,1.6692,3.2255 r=0.0000,285.9038,0.0000 c=30
+item=GEAR_mysteryCake p=2.0275,0.5024,0.2790 r=88.0237,80.9091,4.7253 c=5
+item=GEAR_lecso p=1.2512,0.1046,-3.3742 r=-0.0045,204.2937,-0.0001 c=75
+item=GEAR_kvass p=2.0584,1.1227,0.9625 r=0.0000,55.7894,0.0000 c=30
+
+
+
+#    ____                                       __ 
+#   / __ )____ _________  ____ ___  ___  ____  / /_
+#  / __  / __ `/ ___/ _ \/ __ `__ \/ _ \/ __ \/ __/
+# / /_/ / /_/ (__  )  __/ / / / / /  __/ / / / /_  
+#/_____/\__,_/____/\___/_/ /_/ /_/\___/_/ /_/\__/  
+
+scene=HouseBasementC
+item=GEAR_ABCSoup p=-0.3553,150.9616,2.6742 r=0.0000,303.9148,0.0000 c=15
+item=GEAR_ABCSoup p=-0.4480,151.0128,2.6737 r=292.4982,102.7730,269.9998 c=45
+item=GEAR_figConfiture p=-0.4343,151.6039,2.6079 r=0.0000,42.8719,0.0000 c=45
+item=GEAR_figConfiture p=-0.2760,151.6039,2.5861 r=0.0000,309.6305,0.0000 c=30
+item=GEAR_kvass p=5.3410,150.9053,1.4469 r=22.4935,183.1879,269.9990 c=75
+
+
+
+
+#    ____                                                     __       
+#   / __ \________  ____  ____  ___  _____   _________ ______/ /_  ___ 
+#  / /_/ / ___/ _ \/ __ \/ __ \/ _ \/ ___/  / ___/ __ `/ ___/ __ \/ _ \
+# / ____/ /  /  __/ /_/ / /_/ /  __/ /     / /__/ /_/ / /__/ / / /  __/
+#/_/   /_/   \___/ .___/ .___/\___/_/      \___/\__,_/\___/_/ /_/\___/ 
+#               /_/   /_/                                              
+scene=PrepperCacheA
+item=GEAR_nordShoreChocolate p=-1.9148,2.1248,-1.7529 r=0.0000,136.8328,0.0000 c=100
+item=GEAR_nordShoreChocolate p=-1.9261,2.1166,-1.7465 r=0.0000,132.2991,0.0000 c=5
+item=GEAR_mysteryCake p=3.5631,0.8049,2.0372 r=0.0000,337.0638,0.0000 c=30
+item=GEAR_jubileeCookies p=3.7080,0.8049,1.9829 r=0.0000,323.9882,0.0000 c=15
+item=GEAR_roastedAlmonds p=3.9210,0.1543,1.9939 r=0.0000,19.5860,0.0000 c=30
+item=GEAR_roastedAlmonds p=3.7935,0.1787,2.0114 r=0.0000,228.8278,180.0000 c=45
+item=GEAR_solitudeCider p=3.4893,1.4472,1.7391 r=0.0000,240.4106,0.0000 c=15
+item=GEAR_solitudeCider p=3.4125,1.4472,1.7672 r=0.0000,28.1578,0.0000 c=45
+item=GEAR_hotSpringSoda p=3.3430,1.4840,1.7280 r=-0.0014,28.0122,89.9998 c=15
+item=GEAR_kvass p=3.8773,1.4831,1.6688 r=67.5120,80.2673,90.0034 c=75
+item=GEAR_crabSnack p=3.4486,0.1543,1.8700 r=0.0001,324.5071,-0.0003 c=30
+item=GEAR_ABCSoup p=-1.7337,0.8049,-1.7220 r=0.0000,144.7923,0.0000 c=30
+item=GEAR_ABCSoup p=-1.0471,0.0000,1.8134 r=0.0017,298.0270,-0.0002 c=75
+item=GEAR_lecso p=-0.9227,0.0000,1.8553 r=0.0001,305.1035,0.0000 c=15
+item=GEAR_lecso p=-0.9492,0.0502,1.9254 r=67.4422,215.2442,270.0128 c=75
+item=GEAR_pinenutBrittle p=3.0717,0.8049,1.7594 r=0.0001,11.0593,-0.0001 c=15
+item=GEAR_nannasOats p=-1.3830,2.1736,-1.4027 r=90.0000,239.6373,0.0000 c=60
+item=GEAR_nannasOats p=-1.7773,2.1167,-1.4698 r=0.2958,212.2566,0.0052 c=5
+item=GEAR_figConfiture p=-1.4352,0.8049,-1.6874 r=-0.0010,183.8230,0.0037 c=15
+item=GEAR_rahatLokum p=2.8719,0.8258,1.9224 r=90.0000,306.3897,0.0000 c=30
+item=GEAR_marinaraMackerel p=-1.9146,0.8049,-1.6626 r=0.0000,213.0249,0.0000 c=45
+#
+scene=PrepperCacheAurora
+item=GEAR_lecso p=-3.6391,1.4472,-1.6541 r=-0.0043,215.2914,0.0020 c=15
+item=GEAR_lecso p=-3.5452,1.4974,-1.7165 r=67.5082,115.5618,269.9999 c=75
+item=GEAR_tunaPate p=-2.3706,1.4472,-1.7782 r=0.0000,73.3292,0.0000 c=60
+item=GEAR_tunaPate p=-2.3034,1.4472,-1.8720 r=0.0000,162.0025,0.0000 c=45
+item=GEAR_marinaraMackerel p=-2.2461,1.4472,-1.7244 r=0.0000,55.8728,0.0000 c=45
+item=GEAR_honeyNuts p=1.5404,0.1368,-1.6905 r=359.3732,209.8700,2.4381 c=5
+item=GEAR_figConfiture p=-3.1385,0.1543,-1.9407 r=0.0000,132.9545,0.0000 c=15
+item=GEAR_hematogen p=2.7030,0.8557,1.7210 r=344.9999,247.4952,345.0000 c=5
+item=GEAR_hematogen p=2.6813,0.8507,1.6773 r=0.0000,33.3019,0.0000 c=100
+#
+scene=PrepperCacheB
+item=GEAR_ABCSoup p=3.8377,0.1542,-0.0581 r=0.0000,148.6152,0.0000 c=100
+item=GEAR_ABCSoup p=3.8437,0.1542,-0.1772 r=0.0000,88.6058,0.0000 c=100
+item=GEAR_ABCSoup p=3.8474,0.3085,-0.1761 r=0.0000,345.7501,0.0000 c=15
+item=GEAR_ABCSoup p=3.8422,0.3085,-0.0588 r=0.0000,78.4241,0.0000 c=5
+item=GEAR_ABCSoup p=3.7618,0.2053,-0.0845 r=67.5002,110.4536,270.0001 c=30
+item=GEAR_ABCSoup p=3.7216,0.1542,0.0086 r=0.0000,343.0036,0.0000 c=45
+item=GEAR_hotSpringSoda p=2.6871,1.5755,1.7339 r=0.0000,2.4941,0.0000 c=15
+item=GEAR_solitudeCider p=2.6878,1.4472,1.7382 r=0.0000,2.5871,0.0000 c=100
+item=GEAR_kvass p=2.9338,1.4472,1.7825 r=0.0000,173.0114,0.0000 c=75
+item=GEAR_kvass p=2.8518,1.4472,1.7673 r=0.0000,324.3213,0.0000 c=15
+item=GEAR_crabSnack p=3.8491,0.8048,-0.4022 r=0.0000,163.5721,0.0000 c=15
+item=GEAR_rahatLokum p=3.6368,0.8256,-0.1260 r=90.0000,74.2958,0.0000 c=15
+#
+scene=PrepperCacheC
+item=GEAR_latteDrops p=-3.5471,1.5082,-1.4753 r=-0.0051,28.4619,179.9998 c=45
+item=GEAR_latteDrops p=-3.4735,1.4812,-1.4451 r=0.0000,203.5290,0.0000 c=15
+item=GEAR_figConfiture p=-2.6676,0.8389,-1.7587 r=0.0000,138.6956,0.0000 c=60
+item=GEAR_hotSpringSoda p=-3.0777,0.1868,-1.6180 r=0.0000,248.0274,0.0000 c=15
+item=GEAR_pinenutBrittle p=-2.8822,0.8389,-1.7054 r=0.0000,166.1692,0.0000 c=30
+#
+scene=PrepperCacheD
+item=GEAR_hematogen p=-3.6797,1.0527,0.6406 r=0.0000,140.2819,0.0000 c=5
+item=GEAR_honeyNuts p=-1.9122,0.1465,-4.7403 r=0.0000,252.8117,0.0000 c=5
+item=GEAR_latteDrops p=-1.5131,0.7971,-4.5655 r=-0.0001,270.1881,0.0000 c=5
+item=GEAR_hematogen p=-1.5790,0.7971,-4.4156 r=0.0000,281.4284,0.0000 c=15
+item=GEAR_nordShoreChocolate p=-1.6264,0.7971,-5.3796 r=0.0000,226.5674,0.0000 c=5
+item=GEAR_ABCSoup p=-1.8637,0.1465,-5.5553 r=0.0000,250.8261,0.0000 c=45
+item=GEAR_lecso p=-1.6863,0.1966,-5.3880 r=67.5074,56.7702,90.0031 c=60
+item=GEAR_jubileeCookies p=-2.3417,0.7973,-1.7704 r=0.0000,262.4883,0.0000 c=30
+item=GEAR_nannasOats p=-3.7283,1.4395,-1.8113 r=0.0000,236.5935,0.0000 c=30
+#
+scene=PrepperCacheE
+item=GEAR_solitudeCider p=-2.8902,1.4472,-1.7843 r=0.0000,202.5780,0.0000 c=60
+item=GEAR_solitudeCider p=-2.9951,1.4472,-1.7821 r=0.0000,71.7065,0.0000 c=15
+item=GEAR_crabSnack p=3.4882,0.8507,1.8512 r=0.0000,32.5010,-0.0001 c=15
+item=GEAR_figConfiture p=2.2334,0.8507,1.7962 r=0.0000,284.1987,0.0000 c=15
+item=GEAR_lecso p=3.4787,0.2001,1.6868 r=0.0000,39.0300,0.0000 c=45
+item=GEAR_marinaraMackerel p=3.3236,0.2001,1.6627 r=0.0000,57.1125,0.0000 c=100
+item=GEAR_marinaraMackerel p=3.3342,0.2279,1.6866 r=0.0000,78.1247,0.0000 c=15
+item=GEAR_hematogen p=2.2741,1.4929,1.6561 r=0.0000,306.5183,0.0000 c=15
+item=GEAR_tunaPate p=3.1604,0.2001,1.6303 r=0.0000,31.8917,0.0000 c=45
+item=GEAR_mysteryCake p=-3.8564,0.8049,-1.8368 r=0.0000,231.3653,0.0000 c=15
+item=GEAR_pinenutBrittle p=3.3117,1.0391,-0.8413 r=0.0000,136.7679,0.0000 c=15
+#
+scene=PrepperCacheF
+item=GEAR_kvass p=1.8037,0.1057,2.1551 r=66.9668,136.7981,89.9849 c=45
+item=GEAR_kvass p=1.8219,0.0696,2.3034 r=0.0000,56.6436,0.0000 c=45
+item=GEAR_solitudeCider p=1.8828,0.0696,2.3767 r=0.0000,93.5648,0.0000 c=15
+item=GEAR_nannasOats p=1.3253,0.0697,3.7777 r=0.0000,287.1847,0.0000 c=15
+item=GEAR_marinaraMackerel p=1.5498,-0.5810,2.0514 r=0.0000,221.3933,0.0000 c=100
+item=GEAR_ABCSoup p=1.5827,-0.5531,2.0212 r=0.0000,125.7092,0.0000 c=30
+item=GEAR_hematogen p=1.5584,0.7119,2.0874 r=0.0753,33.7426,0.0338 c=30
+#
+scene=PrepperCacheEmptyB
+item=GEAR_pinenutBrittle p=-3.3801,0.8207,-0.9415 r=0.0000,270.4419,0.0000 c=45
+item=GEAR_latteDrops p=-1.9236,1.4472,-1.5112 r=0.0000,179.6834,0.0000 c=5
+item=GEAR_hematogen p=-1.5626,0.8049,-1.6131 r=0.0000,137.4606,0.0000 c=15
+item=GEAR_roastedAlmonds p=-2.3477,0.7316,0.7223 r=0.0000,238.6020,0.0000 c=30
+item=GEAR_figConfiture p=-1.6251,0.8049,-1.7672 r=0.0000,179.8902,0.0000 c=15
+item=GEAR_honeyNuts p=-2.5363,0.0056,1.9937 r=359.4457,318.1385,358.8955 c=75
+item=GEAR_tunaPate p=-1.4192,0.8049,-1.9773 r=0.0000,180.5130,0.0000 c=30
+#
+scene=PrepperCacheEmptyC
+item=GEAR_hotSpringSoda p=1.7128,0.8049,1.9597 r=0.0000,12.6684,0.0000 c=45
+item=GEAR_hotSpringSoda p=1.6997,0.8034,1.8536 r=0.0000,153.3248,0.0000 c=30
+item=GEAR_hotSpringSoda p=1.7666,0.8416,1.8781 r=89.9802,76.6275,0.0000 c=15
+item=GEAR_crabSnack p=0.3690,0.8049,1.7034 r=0.0000,309.4766,0.0000 c=15
+item=GEAR_lecso p=0.9638,0.1543,1.9567 r=0.0026,9.3484,-0.0013 c=30
+item=GEAR_rahatLokum p=1.2597,1.4680,1.6873 r=90.0000,13.5927,0.0000 c=100
+item=GEAR_rahatLokum p=1.3324,1.5063,1.6976 r=90.0000,331.3722,0.0000 c=15
+
+

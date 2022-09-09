@@ -39,6 +39,9 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>S:\Program Files (x86)\Steam\steamapps\common\TheLongDark\MelonLoader\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>S:\Program Files (x86)\Steam\steamapps\common\TheLongDark\MelonLoader\Managed\Assembly-CSharp.dll</HintPath>
@@ -60,6 +63,9 @@
     <Reference Include="MelonLoader">
       <HintPath>S:\Program Files (x86)\Steam\steamapps\common\TheLongDark\MelonLoader\MelonLoader.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ModComponent">
+      <HintPath>S:\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods\ModComponent.dll</HintPath>
     </Reference>
     <Reference Include="ModSettings">
       <HintPath>S:\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods\ModSettings.dll</HintPath>
@@ -121,6 +127,10 @@
       <HintPath>S:\Program Files (x86)\Steam\steamapps\common\TheLongDark\MelonLoader\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>S:\Program Files (x86)\Steam\steamapps\common\TheLongDark\MelonLoader\Managed\UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.PhysicsModule, Version=3.7.1.6, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>S:\Program Files (x86)\Steam\steamapps\common\TheLongDark\MelonLoader\Managed\UnityEngine.PhysicsModule.dll</HintPath>
@@ -138,8 +148,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CandleComponent.cs" />
+    <Compile Include="Utility.cs" />
     <Compile Include="CWMain.cs" />
-    <Compile Include="Patches.cs" />
+    <Compile Include="UnbreakablePatches.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="CWSettings.cs" />
   </ItemGroup>
@@ -150,6 +162,9 @@
     <Analyzer Include="_References\MelonLoader\MelonLoader.ModHandler.dll" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\cwfcustom" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>

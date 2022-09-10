@@ -155,6 +155,7 @@ namespace CalorieWaltz
     {
         public static bool Prefix(MeshSwapItem __instance)
         {
+            
             if (__instance.IsOpened() && __instance.gameObject.name == "GEAR_ABCSoup")
             {
                 Material currentSoupMaterial = __instance.m_MeshObjOpened.GetComponent<MeshRenderer>().GetMaterialArray()[1];
@@ -226,7 +227,6 @@ namespace CalorieWaltz
     {
         private static bool Prefix(ref GearItem item, ref bool forceEquip, ref bool skipAudio)
         {
-
             for (int i = 0; i < HarmonyValues.allCandleTiers.Count; i++)
             {
                 if (item.name == "GEAR_card" + HarmonyValues.allCandleTiers[i])
@@ -253,6 +253,7 @@ namespace CalorieWaltz
 
         private static bool Prefix(PlayerManager __instance)
         {
+           
             if (!__instance.m_InspectModeActive) return false;
 
             GearItem inspectedGear = GameManager.GetPlayerManagerComponent().GearItemBeingInspected();
@@ -464,7 +465,8 @@ namespace CalorieWaltz
     }
     */
 
-    
+    /*
+
     [HarmonyPatch(typeof(Weather), "IsTooDarkForAction")] // adjust distance to lit candle for being able to read
     public class DistanceToCandleForReading
     {
@@ -474,7 +476,7 @@ namespace CalorieWaltz
             {
                 __result = false;
             }
-
+    
             for (int i = 0; i < GearManager.m_Gear.Count; i++)
             {
                 CollectibleCandleComponent comp = GearManager.m_Gear[i].GetComponent<CollectibleCandleComponent>();
@@ -489,7 +491,39 @@ namespace CalorieWaltz
             }
         }
     }
-    
+    */
+
+    [HarmonyPatch(typeof(Weather), "IsTooDarkForAction")] // adjust distance to lit candle for being able to read
+    public class DistanceToCandleForReading
+    {
+        public static void Postfix(ref ActionsToBlock actionBeingChecked, ref bool __result)
+        {
+            if (!GameManager.GetPlayerManagerComponent().m_ActionsToBlockInDarkness.Contains(actionBeingChecked))
+            {
+                __result = false;
+            }
+
+            if (__result == true)
+            {
+                foreach (GameObject go in CWMain.currentCandleList)
+                {
+                    if (!go) continue;
+                    CollectibleCandleComponent comp = go.GetComponent<CollectibleCandleComponent>();
+                    GearItem gi = go.GetComponent<GearItem>();
+                    if (gi && comp && comp.isLit && !gi.m_InPlayerInventory && !gi.m_WornOut)
+                    {
+                        if (Vector3.Distance(go.transform.position, GameManager.GetVpFPSCamera().transform.position) <= HarmonyValues.distanceToRead)
+                        {
+                            //MelonLogger.Msg("distance to closest " + Vector3.Distance(go.transform.position, GameManager.GetVpFPSCamera().transform.position));
+                            __result = false;
+                            return;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
 
     [HarmonyPatch(typeof(vp_Bullet), "SpawnImpactEffects")] // process bullet hit to extinguish candle
     public class GetBulletHit
@@ -504,7 +538,7 @@ namespace CalorieWaltz
             HarmonyValues.line.SetPosition(1, hit.point);
             // DEBUG
             */
-            
+
 
             //MelonLogger.Msg(hit.collider.gameObject.name);
 
@@ -579,16 +613,16 @@ namespace CalorieWaltz
     [HarmonyPatch(typeof(PlayerManager), "StartPlaceMesh", new Type[] { typeof(GameObject), typeof(float), typeof(PlaceMeshFlags) })] // play animation when placing candle
     public class PlaceCandleStart
     {
-        public static void Postfix(PlayerManager __instance, ref bool __result)
+        public static void Postfix(PlayerManager __instance, ref GameObject objectToPlace, ref bool __result)
         {
             for (int i = 0; i < HarmonyValues.allCandleTiers.Count; i++)
             {
-                if (__instance.m_ObjectToPlace.name == "GEAR_candle" + HarmonyValues.allCandleTiers[i])
+                if (objectToPlace.name == "GEAR_candle" + HarmonyValues.allCandleTiers[i])
                 {
                     if (__result)
                     {
-                        __instance.m_ObjectToPlace.GetComponent<CollectibleCandleComponent>().isInPlacementMode = true;
-                        MelonCoroutines.Start(CWMain.ManageCandleHoldingAnimation(true, __instance.m_ObjectToPlace));
+                        objectToPlace.GetComponent<CollectibleCandleComponent>().isInPlacementMode = true;
+                        MelonCoroutines.Start(CWMain.ManageCandleHoldingAnimation(true, objectToPlace));
                         
                     }
                 }
@@ -638,6 +672,7 @@ namespace CalorieWaltz
     {
         public static void Postfix(ref bool __result)
         {
+            
             if (CWMain.holdingAnimationCoroutineIsRunning)
             {
                 __result = true;

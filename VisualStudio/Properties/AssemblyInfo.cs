@@ -7,7 +7,7 @@ using CalorieWaltz;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: MelonInfo(typeof(CWMain), "FoodsByCalorieWaltz", "1.0.0", "Waltz", "")]
+[assembly: MelonInfo(typeof(CWMain), "FoodsByCalorieWaltz", "1.0.1", "Waltz", "")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
 [assembly: AssemblyTitle("FoodsByCalorieWaltz")]
 [assembly: AssemblyDescription("A food pack")]

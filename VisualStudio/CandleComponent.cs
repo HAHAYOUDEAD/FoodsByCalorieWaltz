@@ -70,6 +70,9 @@ namespace CalorieWaltz
                 destroyed = true;
                 return;
             }
+            
+            CWMain.currentCandleList.Add(this.gameObject);
+            //MelonLogger.Msg("awake " + CWMain.currentCandleList.Count);
 
             FXpoint = thisGearItem.gameObject.transform.FindChild("wick").GetChild(0);
             

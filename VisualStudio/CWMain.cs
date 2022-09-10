@@ -135,6 +135,8 @@ namespace CalorieWaltz
 
         public static bool holdingAnimationCoroutineIsRunning;
 
+        public static List<GameObject> currentCandleList = new List<GameObject>();
+
         // Localized strings
 
         public static LocalizedString localizedCandleLeft100;
@@ -281,6 +283,7 @@ namespace CalorieWaltz
             isLoaded = false;
             bearInDPDoSetup = false;
             //doneWithDPBear = false;
+            CWMain.currentCandleList = new List<GameObject>();
         }
 
         /*

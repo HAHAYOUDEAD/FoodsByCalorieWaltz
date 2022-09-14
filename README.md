@@ -11,16 +11,34 @@ Selection of foods I think looks tasty :yum: You can take a closer look in [this
 ![Poster](Images/allRender2.png)
 
 ## Description
-Some designs came out of my head, some are 'inspired' by others. This food pack is not exactly balanced or anything, I just googled calories for real life analogies and slapped those in. If someone wants to balance things out - be my guest.
+Some designs came out of my head, some are 'inspired' by others. This food pack is not exactly balanced or anything, I just googled calories for real life analogies and slapped those in. There are options for tweaking calorie values however
 
-Most of the spawns are not made by me, so don't praise me if they are amazing. I only made spawns for HRV and half of Milton - if you like those but not the others - tell me so I feel inspired to do more. 
+All scenes except for Blackrock are covered with custom spawn points
 
-There's a tiny bit of unfinished 'lore'.
+## Collectibles
+Includes collectible bear candles that can be found inside every Applesauce Pryanik package. 
+
+One of each bear can be found across the map, you can collect them either that way or from Pryaniks. Or disable collectibles completely if you want pure food mod
+
+**LMB** while holding any flame source to **light the candle**
+
+**LMB** while candle it burning to light a torch(if holding) or **blow out the candle**
+
+Burntime is about **8 hours**, candle will disappear after that(you can keep them as figurines, can be toggled in settings under "Cheating" section)
+
+Candle flame is **affected by wind**
+
+Candle flame **can be shot with weapons**, it will degrade candles quickly though(can be disabled in settings under "Cheating" section)
+
+
+## Lore
+
+There's also lore that can be unveiled by finding notes across the map. In the process of writing it turned from lore of the mod to just a story of a survivor. I tried making it not very trivial, but I'm not a writer so no idea how it turned out. You can disable it in settings if you don't care about it
 
 ## Installation
-It's a standard modcomponent pack, so just throw it in `.../Mods/`
+Unpack the .zip into `.../Mods/`
 
-Requires [ModComponent](https://github.com/ds5678/ModComponent/releases). 
+Requires [ModComponent](https://github.com/ds5678/ModComponent/releases) and [ModSettings](https://github.com/zeobviouslyfakeacc/ModSettings/releases). 
 
 ## Shoutout
-[@ds5678](https://github.com/ds5678) and another mystery person for helping with setting up most of the spawn points.
+[@ds5678](https://github.com/ds5678) and modding discord people for helping out, suggesting ideas and giving feedback.

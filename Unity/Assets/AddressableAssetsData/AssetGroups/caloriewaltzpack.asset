@@ -1,0 +1,613 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: caloriewaltzpack
+  m_EditorClassIdentifier: 
+  m_GroupName: caloriewaltzpack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f978585476e150744894d510909776f3
+  m_SerializeEntries:
+  - m_GUID: d5dfdbdb5e8a9d446aa0929df6ea5945
+    m_Address: ico_GearItem__ABCSoup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c89fd5643d255646abf2108005d7664
+    m_Address: ico_GearItem__ABCSoupCrushed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5756906892d7f444a389c41e4932ae6
+    m_Address: ico_GearItem__applesaucePryanik
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 710ce554059cda44ea1f3d6899a9040a
+    m_Address: ico_GearItem__bananaChips
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a395da4b05004c04594a13d0379ab45e
+    m_Address: ico_GearItem__candleBlueA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80de4823edc90fa4aa4ac86452e907c0
+    m_Address: ico_GearItem__candleBlueB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1883c5e8926acd43ac22d7855fdd991
+    m_Address: ico_GearItem__candleBlueC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 342f4663156cd4848b186ba56fbcf603
+    m_Address: ico_GearItem__candleBlueD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4e7d70d0a0f8b7489090b4ceb8960e6
+    m_Address: ico_GearItem__candleGreenA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 048bbcaf6e0774e49b143597da53ca38
+    m_Address: ico_GearItem__candleGreenB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c0af86fa475821498e62758ae419774
+    m_Address: ico_GearItem__candleGreenC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adcace5a28eeb4e419a501f295228ea9
+    m_Address: ico_GearItem__candleGreenD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba91de0504f3c8d43ad52645523259b3
+    m_Address: ico_GearItem__candlePurpleA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e43e53c5e2aedcd4484a3590cc4656ad
+    m_Address: ico_GearItem__candlePurpleB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6eeb588691dba694ba077da01224ac0e
+    m_Address: ico_GearItem__candlePurpleC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11aff7f1a59ea7d4f8216177f05923a6
+    m_Address: ico_GearItem__candlePurpleD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc3f6d53ebb3a7f40aba1f594f74bbc5
+    m_Address: ico_GearItem__candleRedA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ce7f28ddc3b0fb4ea009b7f3d7a42ae
+    m_Address: ico_GearItem__candleRedB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5bca1ebd1415c641a68eb560d4013e0
+    m_Address: ico_GearItem__candleRedC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc9f791c433c02f4e831130df31a3644
+    m_Address: ico_GearItem__candleRedD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3905ebcc4b42a1c43a0cf881d448ebf2
+    m_Address: ico_GearItem__cardBlueA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63bec9f16d9fcf94899afc42eb8de9e1
+    m_Address: ico_GearItem__cardBlueB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ffa4da6560283544493f43990d50a37b
+    m_Address: ico_GearItem__cardBlueC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 086b674d82f81e84788e5e1baff7c954
+    m_Address: ico_GearItem__cardBlueD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f267a40caeb878c42a34bc4ff9338b72
+    m_Address: ico_GearItem__cardGreenA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6620d61e42e19b4ab37b4852c80a76c
+    m_Address: ico_GearItem__cardGreenB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d4a5134947334448951b7c542a26139
+    m_Address: ico_GearItem__cardGreenC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e3a5a2ca68b9804881d2230657e8325
+    m_Address: ico_GearItem__cardGreenD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2a448f1a797e6e4282f0b1bc75daba1
+    m_Address: ico_GearItem__cardPurpleA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 687578ae2412cd948b6716267d3e714c
+    m_Address: ico_GearItem__cardPurpleB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da54cbd726722ea479bc8b8c240d1602
+    m_Address: ico_GearItem__cardPurpleC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddb72b046a266c74794d6c35e16c6e3e
+    m_Address: ico_GearItem__cardPurpleD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4619df3b0dac2074fa32815554dbe0b1
+    m_Address: ico_GearItem__cardRedA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff147866e21fd4b4aaee2ad1d308d9e1
+    m_Address: ico_GearItem__cardRedB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2dc82c7f7a0c02b40aa5cceb208087e7
+    m_Address: ico_GearItem__cardRedC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c942a995b412ba1439d2a6c1fc05f4a0
+    m_Address: ico_GearItem__cardRedD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 559a889c4368a8f4d95180c0ee3005bd
+    m_Address: ico_GearItem__crabSnack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14d831597ac7bf5418bd108639c3d477
+    m_Address: ico_GearItem__CWFEmployeeNote1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cff7e62643afd04a87f9f3c9936cfa0
+    m_Address: ico_GearItem__CWFEmployeeNote2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdb940c24eef6184680bf3110524b0c7
+    m_Address: ico_GearItem__CWFEmployeeNote3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97f92f7b3c3358541bcb6ecdb3cd1ac3
+    m_Address: ico_GearItem__CWFEmployeeNote3_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65de584584c276a459823305da029c8a
+    m_Address: ico_GearItem__CWFEmployeeNote4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8bd5357d5f7c40642a30ae7c84109d60
+    m_Address: ico_GearItem__CWFEmployeeNote5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 834b1b869644edd4db69a09fce2aed43
+    m_Address: ico_GearItem__CWFEmployeeNote6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a807afb099036947b2621cc7ddd06b2
+    m_Address: ico_GearItem__CWFEmployeeNote7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 652c62cca3b8535468cbc86fb6589713
+    m_Address: ico_GearItem__CWFEmployeeNote8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c2d8f9eb72d6ad4c8544ea7ef4bd4fe
+    m_Address: ico_GearItem__CWFEmployeeNote9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c90012712484e2747966a9f911a95836
+    m_Address: ico_GearItem__CWFEmployeeNote10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a30403e904f58e46a4350feed1c7e3d
+    m_Address: ico_GearItem__CWFEmployeeNote11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 534ba7025327041438d7c02084ae0b51
+    m_Address: ico_GearItem__CWFEmployeeNote12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7c707446b0f6c945908c112594701d7
+    m_Address: ico_GearItem__CWFEmployeeNote13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5beff10586028d479fc3b0c69aeb0c3
+    m_Address: ico_GearItem__figConfiture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a17c9d120acb7104ea7da17d894a12ed
+    m_Address: ico_GearItem__glintwein
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 653e9fec1e81df943a62ed7fcf96d456
+    m_Address: ico_GearItem__glintweinCup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a71a7b1a77b331d43a1e090858594105
+    m_Address: ico_GearItem__hematogen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d658516eba232304caf2b5e5c8926314
+    m_Address: ico_GearItem__honeyNuts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7eee17c81345add44bf4d9458f2018cc
+    m_Address: ico_GearItem__hotSpringSoda
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26d3efa2fd23149438a097cd7f4b3bd0
+    m_Address: ico_GearItem__icecreamCup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cba6dfad7ff7ac438a4262bf9b6bd62
+    m_Address: ico_GearItem__jubileeCookies
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f8db3c5a9d652c478731c03b209833e
+    m_Address: ico_GearItem__kvass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 125faaa48d2299244b047f6b2525d233
+    m_Address: ico_GearItem__latteDrops
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c1d48cb8c4d45a4c94413675e716281
+    m_Address: ico_GearItem__lecso
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25b94ecaced4e534f8adb59a36d4ce34
+    m_Address: ico_GearItem__lecsoCrushed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7669146f4213524a8c793ab9aeac338
+    m_Address: ico_GearItem__marinaraMackerel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe72e2914e03f04438da307e7a340a4b
+    m_Address: ico_GearItem__mysteryCake
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4659efd8644bae449a624edd203c5145
+    m_Address: ico_GearItem__nannasOats
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96e90d56cb04b274a8942747582bb761
+    m_Address: ico_GearItem__nordShoreChocolate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aecbd5eaebb9e2644b3f2f2516f5d356
+    m_Address: ico_GearItem__oatsBowl
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1186536df9d7a5849aaa1119c0d82468
+    m_Address: ico_GearItem__pinenutBrittle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9657cc13c1eded459ee4616a221acbc
+    m_Address: ico_GearItem__rahatLokum
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad4826901b0465b4ea53feb07dd7003f
+    m_Address: ico_GearItem__roastedAlmonds
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 878939815dc6de2429690ea21bf65f49
+    m_Address: ico_GearItem__solitudeCider
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8f0f1a019c8ef441b080dfc413e5263
+    m_Address: ico_GearItem__strawberryPlombir
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53fcc5d0a489acc4e9e202f61893ee7f
+    m_Address: ico_GearItem__tunaPate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33ee927332ab3b44d9b430628d586792
+    m_Address: GEAR_cardBlueA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b9b4475fb7fe3049985628b066c60ef
+    m_Address: GEAR_cardBlueB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 900feb640389ba0499ea8abea679c4c1
+    m_Address: GEAR_cardBlueC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32b92b8d7a02dbc4c87b2c5a8fabb081
+    m_Address: GEAR_cardBlueD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71404337cc08fd6419872c364d305ba6
+    m_Address: GEAR_cardGreenA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97ead255061ca4c4198e702bcda21430
+    m_Address: GEAR_cardGreenB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb196b07cf2a87844b2d6a9bdd8b2ce0
+    m_Address: GEAR_cardGreenC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 832cae20350fc7b4f92a161e7faa65e3
+    m_Address: GEAR_cardGreenD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3c3a3c5a614f6c46b37306c3fea3e82
+    m_Address: GEAR_cardPurpleA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 381742f8bcefc3f469233068c265858a
+    m_Address: GEAR_cardPurpleB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54bb381d1d94c6e4aaca83af66888951
+    m_Address: GEAR_cardPurpleC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbbd4af73c221a94fb9401d1a4ccc431
+    m_Address: GEAR_cardPurpleD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ed1a9b38c52db54c820f4e9efee776a
+    m_Address: GEAR_cardRedA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a93b8a8994d14104dae2f889312467dc
+    m_Address: GEAR_cardRedB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 523dcafcd5d482f48b08ce036f4c1a77
+    m_Address: GEAR_cardRedC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45203540fb657794a8fc3a0b1300c547
+    m_Address: GEAR_cardRedD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59a74c34e35b3a94086e3a284dd74bef
+    m_Address: GEAR_candleBlueA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a47b1bf94ef93ad46a59929114c10515
+    m_Address: GEAR_candleBlueB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ff2558c61db0cb4199f8b6302030637
+    m_Address: GEAR_candleBlueC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f89f11e51294faf49887538b7b166d1b
+    m_Address: GEAR_candleBlueD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 584787146495d0d4aa8aa535ab21372a
+    m_Address: GEAR_candleGreenA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a504d3850a0df54429887dfd94dea817
+    m_Address: GEAR_candleGreenB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ccf25296f67fcf545a2f6b73df0162f4
+    m_Address: GEAR_candleGreenC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f4ca43c86021da4795d6203f4a7ab2c
+    m_Address: GEAR_candleGreenD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d29935f3417e71245875dff6c8bbc5d6
+    m_Address: GEAR_candlePurpleA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b15105b8860a0ce45b6cd787b197ee85
+    m_Address: GEAR_candlePurpleB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5cf6688b60d16eb4e80887ae089976cc
+    m_Address: GEAR_candlePurpleC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcd9a8145bdcb7948973f93bdd026b2c
+    m_Address: GEAR_candlePurpleD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0eb091273f2266f458caccb19f361a48
+    m_Address: GEAR_candleRedA
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34109026170d717498129a919059b072
+    m_Address: GEAR_candleRedB
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 878da0234ab704f40b3365c54cfd023c
+    m_Address: GEAR_candleRedC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f3f1adb7631251458cadb5e9fb14e62
+    m_Address: GEAR_candleRedD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b87c569099c910b4eab015825a927125
+    m_Address: GEAR_ABCSoup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f04ab8c1a7516c04eb48ac5eb0c2b5d4
+    m_Address: GEAR_applesaucePryanik
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 261af800710acc445b707160e76fa5f3
+    m_Address: GEAR_bananaChips
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c7b4965f30155642864aa68e869d42d
+    m_Address: GEAR_crabSnack
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4331bf87355c1347a73dc0c98f8eda8
+    m_Address: GEAR_figConfiture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f8d1cc0831020d47af02dc4c0ea539c
+    m_Address: GEAR_glintwein
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 608d0d266d5d52f48a5539e4669d664d
+    m_Address: GEAR_glintweinCup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3305452111dcb2a40b254273d3a3dc2f
+    m_Address: GEAR_hematogen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 87461f954d751c548bcf18b2529a9b46
+    m_Address: GEAR_honeyNuts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6cc7fb0058958f4e834731ee58db59d
+    m_Address: GEAR_hotSpringSoda
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: daf5af543aad47d428d37cac703e1005
+    m_Address: GEAR_icecreamCup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53b3de450e055994ba6761340e119e4e
+    m_Address: GEAR_jubileeCookies
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c7f482bc46fc6a44aa52a1f3cb75497
+    m_Address: GEAR_kvass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 698983f2db53b1044aec62b41121ab01
+    m_Address: GEAR_latteDrops
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 687d3534d9ffc524f959f2e0fcca5ad7
+    m_Address: GEAR_lecso
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22a33727987813942ab6a861180ad70e
+    m_Address: GEAR_marinaraMackerel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d38eb9ff40a50f549becbd1daae9e763
+    m_Address: GEAR_mysteryCake
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 344245ce641a49149ba582c15adbe941
+    m_Address: GEAR_nannasOats
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0f7834bc7a81f84ea768681ff0f1e60
+    m_Address: GEAR_nordShoreChocolate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7956a3f4a1516244c9ff2d688c926436
+    m_Address: GEAR_oatsBowl
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3aec8d2d4c466db49a382856b25830fd
+    m_Address: GEAR_pinenutBrittle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd53399c9dfe8fa4cbb9af5945226610
+    m_Address: GEAR_rahatLokum
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b668ce010a3a5c41b33e9d3534082a9
+    m_Address: GEAR_roastedAlmonds
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8ebefbf609ca3704b8d45e66ec329124
+    m_Address: GEAR_solitudeCider
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5efb97c4ce846e24382a10ba5cfd15e8
+    m_Address: GEAR_strawberryPlombir
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9129e28260af19249999ad05babea4f0
+    m_Address: GEAR_tunaPate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2173e817d68ac7b419b8b4ab20df8894
+    m_Address: GEAR_CWFEmployeeNote1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75505a3944cdefa479af367878efb049
+    m_Address: GEAR_CWFEmployeeNote2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d9c199b74af9844e950a971d8e9478a
+    m_Address: GEAR_CWFEmployeeNote3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca7d83015d7a3d84b86e9da8c30fa2e1
+    m_Address: GEAR_CWFEmployeeNote3_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 855a7c93017bd4d47b5ab62282d07312
+    m_Address: GEAR_CWFEmployeeNote4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55dd0a889c4830b43b36df3aee530666
+    m_Address: GEAR_CWFEmployeeNote5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce960ecd02536fe4ab5041ba509484f9
+    m_Address: GEAR_CWFEmployeeNote6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b196f36e10d54d547b87eca289c5b165
+    m_Address: GEAR_CWFEmployeeNote7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d796fcef8b176d544aee4f4d90ab4c55
+    m_Address: GEAR_CWFEmployeeNote8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 052ffe940b0e1194db43374016e4ff32
+    m_Address: GEAR_CWFEmployeeNote9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08989b9728844fa48afba4179deb2573
+    m_Address: GEAR_CWFEmployeeNote10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e231bf941fd5748429f04496b9bd9e0b
+    m_Address: GEAR_CWFEmployeeNote11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 204d71dd676a9bb409e55bd696f42db5
+    m_Address: GEAR_CWFEmployeeNote12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42f8ccda6060c194ba2fe05b12ce712c
+    m_Address: GEAR_CWFEmployeeNote13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92ca5fa9d7ce2c54199023b14df6c801
+    m_Address: GEAR_placeholderNote
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 50fdbff00fa490743bb0e7d09188933d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a0e049d01e6a4d84aa307612540c6e68, type: 2}
+    - {fileID: 11400000, guid: 505904cec62894e41bed3ba2c73ab4dd, type: 2}

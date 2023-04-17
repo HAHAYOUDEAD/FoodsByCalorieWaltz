@@ -1,27 +1,33 @@
 ﻿{
 	"CWF_candleLeft100": {
 		"English": "Brand new",
-		"Russian": "Только из коробки"
+		"Russian": "Только из коробки",
+		"Japanese": "まっさら"
 	},
 	"CWF_candleLeft90": {
 		"English": "Almost full",
-		"Russian": "Почти целая"
+		"Russian": "Почти целая",
+		"Japanese": "ほぼ新品"
 	},
 	"CWF_candleLeft75": {
 		"English": "About three quarters left",
-		"Russian": "Осталось примерно три четверти"
+		"Russian": "Осталось примерно три четверти",
+		"Japanese": "およそ四分の三"
 	},
 	"CWF_candleLeft50": {
 		"English": "About a half left",
-		"Russian": "Осталась примерно половина"
+		"Russian": "Осталась примерно половина",
+		"Japanese": "ほぼ半分"
 	},
 	"CWF_candleLeft25": {
 		"English": "About a quarter left",
-		"Russian": "Осталось меньше четверти"
+		"Russian": "Осталось меньше четверти",
+		"Japanese": "およそ四分の一"
 	},
 	"CWF_candleLeft7": {
 		"English": "Almost done",
-		"Russian": "Почти закончилась"
+		"Russian": "Почти закончилась",
+		"Japanese": "燃え尽きている"
 	},
 
 

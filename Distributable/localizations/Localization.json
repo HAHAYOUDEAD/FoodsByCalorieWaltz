@@ -34,192 +34,224 @@
 	"GAMEPLAY_bananaChips": {
 		"English": "Banana Chips",
 		"Russian": "Банановые чипсы",
-		"Polish": "Chipsy Bananowe"
+		"Polish": "Chipsy Bananowe",
+		"Japanese": "バナナチップス"
 	},
 	"GAMEPLAY_bananaChipsDescription": {
 		"English": "Dried banana with sugar. Dry and sweet. Too sweet",
 		"Russian": "Сушеные бананы с сахаром. Сухие и сладкие. Слишком сладкие",
-		"Polish": "Suszone płatki banana z cukrem. Suche i słodkie. Za słodkie"
+		"Polish": "Suszone płatki banana z cukrem. Suche i słodkie. Za słodkie",
+		"Japanese": "砂糖がかかった乾燥バナナチップ。乾燥していて甘い。いや、甘すぎる。"
 	},
 
 
 	"GAMEPLAY_crabSnack": {
 		"English": "Crab Wheat Chips",
 		"Russian": "Крабовые пшеничные чипсы",
-		"Polish": "Przenne Krabowe Chipsy"
+		"Polish": "Przenne Krabowe Chipsy",
+		"Japanese": "かにスナック"
 	},
 	"GAMEPLAY_crabSnackDescription": {
 		"English": "Crunchy little crabs. Extremely tasty, but also exceptionally dry",
 		"Russian": "Хрустящие крабики. Безумно вкусно, но также невероятно сухо",
-		"Polish": "Chrubkie małe krabki. Bardzo smaczne, ale i wyjątkowo suche"
+		"Polish": "Chrubkie małe krabki. Bardzo smaczne, ale i wyjątkowo suche",
+		"Japanese": "パリパリした小さなカニ入り。とてもおいしいが、非常にのどが渇く。"
 	},
 
 
 	"GAMEPLAY_honeyNuts": {
 		"English": "Nuts in Honey",
 		"Russian": "Орехи в меду",
-		"Polish": "Orzechy w Miodzie"
+		"Polish": "Orzechy w Miodzie",
+		"Japanese": "ハニーナッツ"
 	},
 	"GAMEPLAY_honeyNutsDescription": {
 		"English": "Lasts forever. If the lid is tight.\n\nEating too much will cause digestion problems. Do not consume without hot tea!",
 		"Russian": "Хранится вечно. Eсли крышка не отходит.\n\nВ больших количествах вызывает несварение. Не употреблять без горячего чая!",
-		"Polish": "Nigdy się nie psują o ile pokrywka jest szczelna. \n\nZjedzenie za dużo spowoduje problemy trawienne. Nie spożywać bez ciepłej herbaty!"
+		"Polish": "Nigdy się nie psują o ile pokrywka jest szczelna. \n\nZjedzenie za dużo spowoduje problemy trawienne. Nie spożywać bez ciepłej herbaty!",
+		"Japanese": "しっかり蓋をしていればずっと長持ちする。食べ過ぎると胃もたれする。熱いお茶なしでは食べきれない"
 	},
 
 
 	"GAMEPLAY_hotSpringSoda": {
 		"English": "Hot Spring Soda",
 		"Russian": "Газировка ''Горячий источник''",
-		"Polish": "Napój ''Ciepła Wiosna''"
+		"Polish": "Napój ''Ciepła Wiosna''",
+		"Japanese": "ホットスプリングソーダ"
 	},
 	"GAMEPLAY_hotSpringSodaDescription": {
 		"English": "Essentially god's nectar. Will make you appreciate life more",
 		"Russian": "Нектар богов. Жизнь заиграет новыми красками",
-		"Polish": "Praktycznie boski nektar. Sprawi że zaczniesz bardziej doceniać życie"
+		"Polish": "Praktycznie boski nektar. Sprawi że zaczniesz bardziej doceniać życie",
+		"Japanese": "まさしく神の飲み物。生きていることに感謝したくなる。"
 	},
 
 
 	"GAMEPLAY_jubileeCookies": {
 		"English": "Ginger Cookies",
 		"Russian": "Имбирное печенье",
-		"Polish": "Ciastka Imbirowe"
+		"Polish": "Ciastka Imbirowe",
+		"Japanese": "ジンジャークッキー"
 	},
 	"GAMEPLAY_jubileeCookiesDescription": {
 		"English": "Crunchy outside, soft inside. The perfect combination",
 		"Russian": "Хрустящее снаружи, мягкое внутри. Идеальное сочетание",
-		"Polish": "Chrupkie na zewnątrz, miękie w środku. Idealna kombinacja"
+		"Polish": "Chrupkie na zewnątrz, miękie w środku. Idealna kombinacja",
+		"Japanese": "外はサクサク、中はやわらか。完璧なコンビネーションだ。"
 	},
 
 
 	"GAMEPLAY_marinaraMackerel": {
 		"English": "Mackerel in Marinara Sauce",
 		"Russian": "Скумбрия в томатном соусе",
-		"Polish": "Makrela w Paście"
+		"Polish": "Makrela w Paście",
+		"Japanese": "サバのマリナラソース漬け"
 	},
 	"GAMEPLAY_marinaraMackerelDescription": {
 		"English": "Tender and savory mackerel filet. Add some vegetable ragout and the perfect dinner is ready",
 		"Russian": "Пикантное и нежное филе скумбрии. Немного рагу и идеальный ужин готов",
-		"Polish": "Delikatny i pikantny filet z makreli. Dodaj warzywny gulasz i idealny obiad jest gotowy"
+		"Polish": "Delikatny i pikantny filet z makreli. Dodaj warzywny gulasz i idealny obiad jest gotowy",
+		"Japanese": "柔らかくて美味しいサバの切り身。野菜シチューを追加すれば完璧なディナーの出来上がり。"
 	},
 
 
 	"GAMEPLAY_mysteryCake": {
 		"English": "Assorted Wafers",
 		"Russian": "Вафли ассорти",
-		"Polish": "Różane Wafle"
+		"Polish": "Różane Wafle",
+		"Japanese": "ウエハースの詰め合わせ"
 	},
 	"GAMEPLAY_mysteryCakeDescription": {
 		"English": "Wafers with chocolate and praline. Filling will pleasantly surprise you",
 		"Russian": "Вафли с шоколадом и пралине. Начинка приятно удивит",
-		"Polish": "Wafle z pralinową czekoladą. Nadzienie mile Cię zaskoczy"
+		"Polish": "Wafle z pralinową czekoladą. Nadzienie mile Cię zaskoczy",
+		"Japanese": "チョコレートとプラリネが入ったウエハース。楽しい驚きをあなたに。"
 	},
 
 
 	"GAMEPLAY_nannasOats": {
 		"English": "Nanna's Oats",
 		"Russian": "Овсяные хлопья",
-		"Polish": "Owies Babuni"
+		"Polish": "Owies Babuni",
+		"Japanese": "ナンナのオートミール"
 	},
 	"GAMEPLAY_nannasOatsDescription": {
 		"English": "Needs water. Better with berries",
 		"Russian": "Варить на воде. Вкуснее с ягодами",
-		"Polish": "Wymaga wody. Lepiej smakuje z jagodami"
+		"Polish": "Wymaga wody. Lepiej smakuje z jagodami",
+		"Japanese": "食べるには水が必要。ベリーの類もあればなお良し。"
 	},
 
 
 	"GAMEPLAY_oatsBowl": {
 		"English": "Oatmeal",
 		"Russian": "Овсянка",
-		"Polish": "Owśanka"
+		"Polish": "Owśanka",
+		"Japanese": "調理済みオートミール"
 	},
 	"GAMEPLAY_oatsBowlDescription": {
 		"English": "Bowl of plain oats. Nutritious but tastes like rag",
 		"Russian": "Миска обычной овсянки. Питательно, но на вкус как ветошь",
-		"Polish": "Miska płatków owsianych. Pożywna, ale smakuje jak łachmany"
+		"Polish": "Miska płatków owsianych. Pożywna, ale smakuje jak łachmany",
+		"Japanese": "プレーンオートミール。栄養たっぷりだが布切れみたいな味がする。"
 	},
 
 
 	"GAMEPLAY_pinenutBrittle": {
 		"English": "Pine Nut Brittle Candy",
 		"Russian": "Кедровый грильяж",
-		"Polish": "Kruchy plaster nasion sosny"
+		"Polish": "Kruchy plaster nasion sosny",
+		"Japanese": "松の実キャンディー"
 	},
 	"GAMEPLAY_pinenutBrittleDescription": {
 		"English": "Little nuts in caramel. Don't break your teeth!",
 		"Russian": "Маленькие орешки в карамели. Не сломайте зубы!",
-		"Polish": "Małe nasionka w karmelu. Nie połam sobie zębów!"
+		"Polish": "Małe nasionka w karmelu. Nie połam sobie zębów!",
+		"Japanese": "松の実をカラメルで固めてある。歯を折らないように注意！"
 	},
 
 
 	"GAMEPLAY_solitudeCider": {
 		"English": "Solitude Cider",
 		"Russian": "Сидр ''Отшельник''",
-		"Polish": "Cydr ''Samotność''"
+		"Polish": "Cydr ''Samotność''",
+		"Japanese": "ソリチュードサイダー"
 	},
 	"GAMEPLAY_solitudeCiderDescription": {
 		"English": "Semi-sweet berry cider. Doesn't get better than that.\n\nAlcohol 6% vol",
 		"Russian": "Полусладкий ягодный сидр. Что может быть лучше?\n\nСодержание алкоголя 6%",
-		"Polish": "Półsłodki cydr jagodowy. Lepiej się nie da.\n\nAlkohol 6% vol"
+		"Polish": "Półsłodki cydr jagodowy. Lepiej się nie da.\n\nAlkohol 6% vol",
+		"Japanese": "ほのかに甘いベリーサイダー。これ以上のものはないだろう。\n\nアルコール度数6％。"
 	},
 
 
 	"GAMEPLAY_tunaPate": {
 		"English": "Tuna Pate",
 		"Russian": "Паштет из тунца",
-		"Polish": "Pasta z tuńczyka"
+		"Polish": "Pasta z tuńczyka",
+		"Japanese": "ツナのパテ"
 	},
 	"GAMEPLAY_tunaPateDescription": {
 		"English": "Delicious, almost sweet pate. Best with salty crackers",
 		"Russian": "Вкуснейший, почти сладкий паштет. Еще вкуснее с крекером",
-		"Polish": "Pyszna, prawie słodka pasta. Najlepiej ze słonymi krakersami"
+		"Polish": "Pyszna, prawie słodka pasta. Najlepiej ze słonymi krakersami",
+		"Japanese": "おいしいツナのパテ。塩クラッカーの最高の友。"
 	},
 
 
 	"GAMEPLAY_lecso": {
 		"English": "Lecsó",
 		"Russian": "Лечо",
-		"Polish": "Leczo ''Lecsó''"
+		"Polish": "Leczo ''Lecsó''",
+		"Japanese": "レチョーの缶詰"
 	},
 	"GAMEPLAY_lecsoDescription": {
 		"English": "Vegetable ragout. Begs for some baked fish\n\nPronounced ''lecho''",
 		"Russian": "Овощное рагу. Не хватает только запеченой рыбки",
-		"Polish": "Gulasz warzywny. Wprost błaga o pieczoną rybkę"
+		"Polish": "Gulasz warzywny. Wprost błaga o pieczoną rybkę",
+		"Japanese": "ハンガリーの野菜シチュー。こんがり焼けた魚が欲しくなる。"
 	},
 
 
 	"GAMEPLAY_figConfiture": {
 		"English": "Fig Confiture",
 		"Russian": "Конфитюр из инжира",
-		"Polish": "Konfitura z fig"
+		"Polish": "Konfitura z fig",
+		"Japanese": "イチジクのコンフィチュール"
 	},
 	"GAMEPLAY_figConfitureDescription": {
 		"English": "Jam. Perfectly sweet with a little crunch",
 		"Russian": "Варенье. Идеально сладкое с небольшой хрустинкой",
-		"Polish": "Dżem. Idealnie słodki z lekką chrupkością"
+		"Polish": "Dżem. Idealnie słodki z lekką chrupkością",
+		"Japanese": "イチジクのジャム。とても甘くてちょっぴり歯ごたえがある。"
 	},
 
 
 	"GAMEPLAY_nordShoreChocolate": {
 		"English": "Dark Chocolate with Salt and Caramel",
 		"Russian": "Темный шоколад с солью и карамелью",
-		"Polish": "Gorzka czekolada ze słonym karmelem"
+		"Polish": "Gorzka czekolada ze słonym karmelem",
+		"Japanese": "塩とカラメル入りダークチョコレート"
 	},
 	"GAMEPLAY_nordShoreChocolateDescription": {
 		"English": "Just taste it, you won't notice when it's gone",
 		"Russian": "Не заметишь как закончится",
-		"Polish": "Po prostu spróbuj. Nie zorientujesz się kiedy cała zniknie"
+		"Polish": "Po prostu spróbuj. Nie zorientujesz się kiedy cała zniknie",
+		"Japanese": "一口食べたら止まらない味。"
 	},
 
 
 	"GAMEPLAY_kvass": {
 		"English": "Kvass",
 		"Russian": "Квас",
-		"Polish": "Drink ''Kwas''"
+		"Polish": "Drink ''Kwas''",
+		"Japanese": "クワース"
 	},
 	"GAMEPLAY_kvassDescription": {
 		"English": "Barely alcoholic, fizzy and refreshing with suble sweet taste",
 		"Russian": "Едва алкогольный, пенный и освежающий, с приятным сладким вкусом",
-		"Polish": "Lekko alkoholowy, musujący i orzeźwiający napoj o subtelnie słodkim smaku"
+		"Polish": "Lekko alkoholowy, musujący i orzeźwiający napoj o subtelnie słodkim smaku",
+		"Japanese": "炭酸アルコール飲料。ほのかな甘みがあなたをリフレッシュ。"
 	},
 
 

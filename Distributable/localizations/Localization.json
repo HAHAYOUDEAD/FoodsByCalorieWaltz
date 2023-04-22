@@ -258,111 +258,131 @@
 	"GAMEPLAY_roastedAlmonds": {
 		"English": "Roasted Almonds",
 		"Russian": "Жареный миндаль",
-		"Polish": "Prażone Migdały"
+		"Polish": "Prażone Migdały",
+		"Japanese": "ローストアーモンド"
 	},
 	"GAMEPLAY_roastedAlmondsDescription": {
 		"English": "Little nuts, a little salty, a little spicy",
 		"Russian": "Маленькие орешки, маленько солёные, маленько острые",
-		"Polish": "Małe orzechy, lekko słone, lekko pikantne"
+		"Polish": "Małe orzechy, lekko słone, lekko pikantne",
+		"Japanese": "小粒でちょっぴりしょっぱく、そしてちょっぴりスパイシー。"
 	},
 
 	"GAMEPLAY_strawberryPlombir": {
 		"English": "Wild Strawberry Plombir",
 		"Russian": "Земляничный пломбир",
-		"Polish": "Lody z kandyzowaną dziką truskawką"
+		"Polish": "Lody z kandyzowaną dziką truskawką",
+		"Japanese": "ストロベリーアイスバー"
 	},
 	"GAMEPLAY_strawberryPlombirDescription": {
 		"English": "Sweet and soft, just melts on your tongue. May not be a good idea to eat when you cold",
 		"Russian": "Сладкий и мягкий, так и тает на языке. Пожалуй не лучший перекус в холодную погоду",
-		"Polish": "Słodkie i miękkie, po prostu rozpływają się na języku. Mogą nie być dobrym pomysłem, gdy jest ci zimno"
+		"Polish": "Słodkie i miękkie, po prostu rozpływają się na języku. Mogą nie być dobrym pomysłem, gdy jest ci zimno",
+		"Japanese": "甘くて舌の上ですぐ溶けるくらい柔らか。寒い時に食べるにはお勧めできないけど。"
 	},
 
 	"GAMEPLAY_icecreamCup": {
 		"English": "Icecream in a Wafer Cup",
 		"Russian": "Мороженое в стаканчике",
-		"Polish": "Lody w wafelku"
+		"Polish": "Lody w wafelku",
+		"Japanese": "カップ入りアイス"
 	},
 	"GAMEPLAY_icecreamCupDescription": {
 		"English": "Blizzard with chocolate, nuts and caramel mixed in. All in a crunchy wafer cup. Wow\n\nThanks for asking, penguin's name is Jeremy",
 		"Russian": "Мороженое с карамелью, шоколадом и орехами в хрустящем вафельном стаканчике. Вау",
-		"Polish": "Zamieć z czekoladą, orzechami i karmelem w środku. Całość w chrupiącym wafelku"
+		"Polish": "Zamieć z czekoladą, orzechami i karmelem w środku. Całość w chrupiącym wafelku",
+		"Japanese": "アイスクリームとチョコレート、ナッツ、そしてキャラメルがパリッとしたウエハースのカップに入っている。\n\nよく聞いてくれました、ペンギン君の名前はジェレミーだよ。"
 	},
 
 	"GAMEPLAY_applesaucePryanik": {
 		"English": "Pryanik with Applesauce Filling",
 		"Russian": "Пряники с яблочной начинкой",
-		"Polish": "Piernik z jabłkowym nadzieniem"
+		"Polish": "Piernik z jabłkowym nadzieniem",
+		"Japanese": "アップルソース入りプリャーニク"
 	},
 	"GAMEPLAY_applesaucePryanikDescription": {
 		"English": "Glazed honey biscuits. Sweet, soft and aromatic. Perfect complement to a cup of hot tea\n\nCheck out the inside!",
 		"Russian": "Глазированые пряники. Сладкие, нежные и ароматные. Идеальное дополнение к чашке горячего чая\n\nПосмотри что внутри!",
-		"Polish": "Glazurowany piernik miodowy. Słodki, miękki i aromatyczny. Idealne uzupełnienie filiżanki gorącej herbaty \n\nSprawdź co jest w środku!"
+		"Polish": "Glazurowany piernik miodowy. Słodki, miękki i aromatyczny. Idealne uzupełnienie filiżanki gorącej herbaty \n\nSprawdź co jest w środku!",
+		"Japanese": "はちみつをからめたビスケット。甘く柔らかくいい香り。熱いお茶に完璧に合う。\n\n中身に注目！"
 	},
 
 	"GAMEPLAY_glintwein": {
 		"English": "Mulled Wine Kit",
 		"Russian": "Набор для глинтвейна",
-		"Polish": "Zestaw do grzańca"
+		"Polish": "Zestaw do grzańca",
+		"Japanese": "温ワインセット"
 	},
 	"GAMEPLAY_glintweinDescription": {
 		"English": "They call it Glintwein in Russia. Includes red wine and spices. Bring everything to a simmer(don't boil!) and enjoy your cold winter evenings",
 		"Russian": "В комплекте красное вино и набор специй. Инструкция: разогреть(не кипятить!) и наслаждаться холодным зимним вечером",
-		"Polish": "Zawiera czerwone wino i przyprawy. Doprowadź wszystko do wrzenia (nie gotuj!) i ciesz się mroźnymi zimowymi wieczorami"
+		"Polish": "Zawiera czerwone wino i przyprawy. Doprowadź wszystko do wrzenia (nie gotuj!) i ciesz się mroźnymi zimowymi wieczorami",
+		"Japanese": "ロシアではグリントワインと呼ばれる。赤ワインとスパイス入り。ワインにスパイスを入れて温めたら（煮立てないこと！）寒い冬の夜も楽しいものになる。"
 	},
 
 	"GAMEPLAY_glintweinCup": {
 		"English": "Mulled Wine Glass",
 		"Russian": "Кружка глинтвейна",
-		"Polish": "Lampka grzanego wina"
+		"Polish": "Lampka grzanego wina",
+		"Japanese": "グラス入り温ワイン"
 	},
 	"GAMEPLAY_glintweinCupDescription": {
 		"English": "Warms your heart, literally and figuratively",
 		"Russian": "Греет душу, во всех смыслах",
-		"Polish": "Rozgrzewa serce, dosłownie i w przenośni"
+		"Polish": "Rozgrzewa serce, dosłownie i w przenośni",
+		"Japanese": "君を体の芯からも、心の底からも温めてくれる。"
 	},
 
 	"GAMEPLAY_latteDrops": {
 		"English": "Latte Drops",
 		"Russian": "Карамель кофе с молоком",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "カフェラッテドロップ"
 	},
 	"GAMEPLAY_latteDropsDescription": {
 		"English": "Condensed coffee cups in a form of candy. Tastes as good, without the whole brewing hassle. \n\nGives a little energy boost",
 		"Russian": "Чашка кофе в каждой конфете. Тот же вкус, без надобности варить кофе. \n\nДаёт небольшой заряд энергии",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "キャンディーの形をした濃縮コーヒー。文句なしに美味しい。\n\nいくらかのエナジーブースト効果あり。"
 	},
 
 	"GAMEPLAY_alphabetSoup": {
 		"English": "Alphabet Soup",
 		"Russian": "Суп 'Алфавит'",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "アルファベットスープ"
 	},
 	"GAMEPLAY_alphabetSoupDescription": {
 		"English": "Classic alphabet soup. Tastes of nostalgia and good mood. \n\nWhat mood came up for you?",
 		"Russian": "Классический алфавитный суп. На вкус как ностальгия и хорошее настроение. \n\nКакое настроение получилось у вас?",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "昔ながらのアルファベットスープ。懐かしい味わいが良い雰囲気を呼び覚ます。\n\nあなたにも良い雰囲気を。"
 	},
 
 	"GAMEPLAY_hematogen": {
 		"English": "Hematogen",
 		"Russian": "Гематоген",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "ヘマトーゲン・チョコレートバー"
 	},
 	"GAMEPLAY_hematogenDescription": {
 		"English": "Albumin ingredient probably doesn't make a lot of sense. It's blood. \n\nMakes you heal faster, tastes good as a side effect",
 		"Russian": "Альбумин в составе наверняка выглядит странно. Это кровь. \n\nПомогает в выздоровлении, в качестве побочного эффекта - неплохой вкус",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "アルブミンの成分という呼び名は妥当なものではない。これは血液そのもののことなのだ。\n\n君の回復力を高めてくれるが美味しさについては二の次である。"
 	},
 
 	"GAMEPLAY_rahatLokum": {
 		"English": "Turkish Delight",
 		"Russian": "Рахат-Лукум",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "ターキッシュ・ディライト"
 	},
 	"GAMEPLAY_rahatLokumDescription": {
 		"English": "Delicate, delicious candy. Turkish classic. There's a flavor for everyone, so you can't say you don't like it",
 		"Russian": "Нежный, тающий во рту десерт. Классическая турецкая сладость. Вкусов хватит на всех, не пытайтесь отвертеться",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "柔らかく美味しいキャンディー。トルコの伝統菓子。この香りを嫌いだなんて言えるわけがない。"
 	},
 
 

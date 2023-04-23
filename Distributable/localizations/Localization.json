@@ -363,13 +363,13 @@
 		"English": "Hematogen",
 		"Russian": "Гематоген",
 		"Polish": "",
-		"Japanese": "ヘマトーゲン・チョコレートバー"
+		"Japanese": "ヘマトーゲン"
 	},
 	"GAMEPLAY_hematogenDescription": {
 		"English": "Albumin ingredient probably doesn't make a lot of sense. It's blood. \n\nMakes you heal faster, tastes good as a side effect",
 		"Russian": "Альбумин в составе наверняка выглядит странно. Это кровь. \n\nПомогает в выздоровлении, в качестве побочного эффекта - неплохой вкус",
 		"Polish": "",
-		"Japanese": "アルブミンの成分という呼び名は妥当なものではない。これは血液そのもののことなのだ。\n\n君の回復力を高めてくれるが美味しさについては二の次である。"
+		"Japanese": "アルブミンの成分、のことではない。これは血液のことなのだ（材料に牛の血を含む）。\n\n君の回復力を高めてくれるが美味しさについては二の次である。"
 	},
 
 	"GAMEPLAY_rahatLokum": {
@@ -403,118 +403,135 @@
 	"GAMEPLAY_CandleDescription": {
 		"English": "One of the collectible candle bears. There was a description card somewhere...",
 		"Russian": "Коллекционная свечка-медведь. Где-то была карточка с описанием...",
-		"Polish": "Jeden z kolekcjonerskich misiów świecowych. Gdzieś była też karta z opisem..."
+		"Polish": "Jeden z kolekcjonerskich misiów świecowych. Gdzieś była też karta z opisem...",
+		"Japanese": "収集可能なクマのキャンドルの一つ。説明カードはどこだろうか……。"
 
 	},
 
 	"GAMEPLAY_CandleGreenA": {
 		"English": "Candle Bear - Snowballed",
 		"Russian": "Свечка-медведь - Снежок",
-		"Polish": "Świeczka Miś - Śnieżka"
+		"Polish": "Świeczka Miś - Śnieżka",
+		"Japanese": "クマのキャンドル『雪合戦』"
 	},
 
 	"GAMEPLAY_CandleGreenB": {
 		"English": "Candle Bear - Festive",
 		"Russian": "Свечка-медведь - Новогоднее настроение",
-		"Polish": "Świeczka Miś - Sylwestrowicz"
+		"Polish": "Świeczka Miś - Sylwestrowicz",
+		"Japanese": "クマのキャンドル『お祝い』"
 
 	},
 
 	"GAMEPLAY_CandleGreenC": {
 		"English": "Candle Bear - Delicacy",
 		"Russian": "Свечка-медведь - Лакомство",
-		"Polish": "Świeczka Miś - Smakosz"
+		"Polish": "Świeczka Miś - Smakosz",
+		"Japanese": "クマのキャンドル『ご馳走』"
 
 	},
 
 	"GAMEPLAY_CandleGreenD": {
 		"English": "Candle Bear - Dancer",
 		"Russian": "Свечка-медведь - Танцор",
-		"Polish": "Świeczka Miś - Tancerz"
+		"Polish": "Świeczka Miś - Tancerz",
+		"Japanese": "クマのキャンドル『踊り手』"
 
 	},
 
 	"GAMEPLAY_CandleBlueA": {
 		"English": "Candle Bear - Fishing",
 		"Russian": "Свечка-медведь - Рыбалка",
-		"Polish": "Świeczka Miś - Rybak"
+		"Polish": "Świeczka Miś - Rybak",
+		"Japanese": "クマのキャンドル『魚釣り』"
 
 	},
 
 	"GAMEPLAY_CandleBlueB": {
 		"English": "Candle Bear - Struggle",
 		"Russian": "Свечка-медведь - Борьба",
-		"Polish": "Świeczka Miś - Walka"
+		"Polish": "Świeczka Miś - Walka",
+		"Japanese": "クマのキャンドル『取っ組み合い』"
 
 	},
 
 	"GAMEPLAY_CandleBlueC": {
 		"English": "Candle Bear - Friends",
 		"Russian": "Свечка-медведь - Друзья",
-		"Polish": "Świeczka Miś - Przyjeciele"
+		"Polish": "Świeczka Miś - Przyjeciele",
+		"Japanese": "クマのキャンドル『友達』"
 
 	},
 
 	"GAMEPLAY_CandleBlueD": {
 		"English": "Candle Bear - Cards",
 		"Russian": "Свечка-медведь - Карты",
-		"Polish": "Świeczka Miś - Karty"
+		"Polish": "Świeczka Miś - Karty",
+		"Japanese": "クマのキャンドル『カード』"
 
 	},
 
 	"GAMEPLAY_CandlePurpleA": {
 		"English": "Candle Bear - Snow-survivor",
 		"Russian": "Свечка-медведь - Выживший снеговик",
-		"Polish": "Świeczka Miś - Śnieżny Ocalały"
+		"Polish": "Świeczka Miś - Śnieżny Ocalały",
+		"Japanese": "クマのキャンドル『雪の生存者』"
 
 	},
 
 	"GAMEPLAY_CandlePurpleB": {
 		"English": "Candle Bear - Education",
 		"Russian": "Свечка-медведь - Просвещение",
-		"Polish": "Świeczka Miś - Uczony"
+		"Polish": "Świeczka Miś - Uczony",
+		"Japanese": "クマのキャンドル『お勉強』"
 
 	},
 
 	"GAMEPLAY_CandlePurpleC": {
 		"English": "Candle Bear - Haul",
 		"Russian": "Свечка-медведь - Добыча",
-		"Polish": "Świeczka Miś - Przeciążony"
+		"Polish": "Świeczka Miś - Przeciążony",
+		"Japanese": "クマのキャンドル『雄たけび』"
 
 	},
 
 	"GAMEPLAY_CandlePurpleD": {
 		"English": "Candle Bear - Present",
 		"Russian": "Свечка-медведь - Подарок",
-		"Polish": "Świeczka Miś - Prezent"
+		"Polish": "Świeczka Miś - Prezent",
+		"Japanese": "クマのキャンドル『贈り物』"
 
 	},
 
 	"GAMEPLAY_CandleRedA": {
 		"English": "Candle Bear - Joke",
 		"Russian": "Свечка-медведь - Шутка",
-		"Polish": "Świeczka Miś - Kawalarz"
+		"Polish": "Świeczka Miś - Kawalarz",
+		"Japanese": "クマのキャンドル『冗談』"
 
 	},
 
 	"GAMEPLAY_CandleRedB": {
 		"English": "Candle Bear - Hellbender",
 		"Russian": "Свечка-медведь - Hellbender",
-		"Polish": "Świeczka Miś - Pogromca Piekieł"
+		"Polish": "Świeczka Miś - Pogromca Piekieł",
+		"Japanese": "クマのキャンドル『悪魔祓い』"
 
 	},
 
 	"GAMEPLAY_CandleRedC": {
 		"English": "Candle Bear - Dragon",
 		"Russian": "Свечка-медведь - Дракон",
-		"Polish": "Świeczka Miś - Smok"
+		"Polish": "Świeczka Miś - Smok",
+		"Japanese": "クマのキャンドル『竜』"
 
 	},
 
 	"GAMEPLAY_CandleRedD": {
 		"English": "Candle Bear - Moon",
 		"Russian": "Свечка-медведь - Луна",
-		"Polish": "Świeczka Miś - Księżyc"
+		"Polish": "Świeczka Miś - Księżyc",
+		"Japanese": "クマのキャンドル『月』"
 
 	},
 
@@ -531,19 +548,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenA": {
 		"English": "Candle Bear -  Snowballed",
 		"Russian": "Свечка-медведь - Снежок",
-		"Polish": "Świeczka Miś - Śnieżka"
+		"Polish": "Świeczka Miś - Śnieżka",
+		"Japanese": "クマのキャンドル『雪合戦』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #01/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #01/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #01/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #01/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #01/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenA": {
 		"English": "Bears are not known to be Great at playing snowballs. But they love playing! When you see a sad-looking bear - cheer it up with a snowball! \n\nDo not attempt to play snowballs with a bear",
 		"Russian": "Медведи никогда не были Великими игроками в снежки. Но все равно обожают это делать. Если увидите грустного медведя - подбодрите его снежком! \n\nНе пытайтесь играть в снежки с медведем",
-		"Polish": "Nie wiadomo, czy misie były dobre w rzucaniu śnieżkami. Ale one uwielbiają się w to bawić! Kiedy zobaczysz smutno wyglądającego niedźwiadka - rozwesel go śnieżką! \n\nNie próbuj rzucać w śnieżkami w niedźwiedzie"
+		"Polish": "Nie wiadomo, czy misie były dobre w rzucaniu śnieżkami. Ale one uwielbiają się w to bawić! Kiedy zobaczysz smutno wyglądającego niedźwiadka - rozwesel go śnieżką! \n\nNie próbuj rzucać w śnieżkami w niedźwiedzie",
+		"Japanese": "クマたちは雪合戦では何が大事かを知りません。ですが彼らはこの遊びが大好きなのです！元気のなさそうなクマがいたら、雪玉で元気づけてあげましょう。\n\n（実際にクマと一緒に雪合戦をしようとしてはいけません）"
 
 	},
 
@@ -552,19 +572,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenB": {
 		"English": "Candle Bear - Festive",
 		"Russian": "Свечка-медведь - Новогоднее настроение",
-		"Polish": "Świeczka Miś - Sylwestrowicz"
+		"Polish": "Świeczka Miś - Sylwestrowicz",
+		"Japanese": "クマのキャンドル『お祝い』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #02/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #02/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #02/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #02/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #02/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenB": {
 		"English": "Bears love to celebrate New Year. But they do it their own way. Try sneaking into bear den at New Year's eve with a colorful light - maybe you will be just in time for the celebration. \n\nDo not attempt to celebrate New Year with a bear",
 		"Russian": "Медведи обожают отмечать Новый Год. Но делают это по-своему. В канун Нового Года загляните к медведю в берлогу с красочным фонариком - возможно вы как раз попадёта на торжество. \n\nНе пытайтесь поздравлять медведя с Новым Годом",
-		"Polish": "Misie uwielbiają świętować Nowy Rok. Ale robią to po swojemu. Spróbuj zakraść się do niedźwiedziej nory w sylwestra przy kolorowym świetle - może zdążysz w sam raz na świętowanie. \n\nNie próbuj świętować Nowego Roku z niedźwiedziem"
+		"Polish": "Misie uwielbiają świętować Nowy Rok. Ale robią to po swojemu. Spróbuj zakraść się do niedźwiedziej nory w sylwestra przy kolorowym świetle - może zdążysz w sam raz na świętowanie. \n\nNie próbuj świętować Nowego Roku z niedźwiedziem",
+		"Japanese": "クマたちは新年を祝うのが大好きです。ですが彼らのお祝いは自己流です。大みそかに色とりどりの明かりで飾られたクマたちの住処に忍び込んでみましょう。ちょうどお祝いをしているところですよ。\n\n（実際にクマと一緒に新年を祝おうとしてはいけません）"
 
 	},
 
@@ -573,19 +596,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenC": {
 		"English": "Candle Bear - Delicacy",
 		"Russian": "Свечка-медведь - Лакомство",
-		"Polish": "Świeczka Miś - Smakosz"
+		"Polish": "Świeczka Miś - Smakosz",
+		"Japanese": "クマのキャンドル『ご馳走』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #03/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #03/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #03/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #03/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #03/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenC": {
 		"English": "It is known, that the Greatest treat for a bear is honey. Mmm, nuts in honey - what a delight. What treats do you have for a bear? \n\nDo not attempt to have a meal with a bear",
 		"Russian": "Как известно, любимое лакомство медведя - мёд. Ммм, мёд с орехами - какое удовольствие. А чем бы вы угостили медведя? \n\nНе пытайтесь угощать медведя",
-		"Polish": "Wiadomo, że największym przysmakiem niedźwiadka jest miód. Mmm, orzechy w miodzie - co za rozkosz. Jakie smakołyki masz dla misia? \n\nNie próbuj karmić niedźwiedzia"
+		"Polish": "Wiadomo, że największym przysmakiem niedźwiadka jest miód. Mmm, orzechy w miodzie - co za rozkosz. Jakie smakołyki masz dla misia? \n\nNie próbuj karmić niedźwiedzia",
+		"Japanese": "ご存じの通り、クマたちにとってはちみつは最高のご馳走です。ふむ、ではナッツ入りのはちみつは……もう大喜び。あなたが持っているクマたち向けのご馳走は何ですか？\n\n（実際にクマと一緒に食事をしようとしてはいけません）"
 
 	},
 
@@ -594,19 +620,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenD": {
 		"English": "Candle Bear - Dancer",
 		"Russian": "Свечка-медведь - Танцор",
-		"Polish": "Świeczka Miś - Tancerz"
+		"Polish": "Świeczka Miś - Tancerz",
+		"Japanese": "クマのキャンドル『踊り手』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #04/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #04/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #04/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #04/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #04/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenD": {
 		"English": "It may seem that the bear is dancing. But what actually happens is the sweater is too itchy and the bear can't reach to scratch it. If only someone could help out... \n\nDo not attempt to scratch bear's back. Even when it clearly asks for it",
 		"Russian": "Может показаться что медведь танцует. Но на самом деле его свитер необычайно колюч и ему никак не дотянуться чтобы почесать. Если бы кто-то мог его выручить... \n\nНе пытайтесь чесать спинку медведю. Даже если он очевидно напрашивается",
-		"Polish": "Może się wydawać, że niedźwiadek tańczy. Ale tak naprawdę to sweter jest zbyt drapiący i misiek nie może się tam podrapać. Gdyby tylko ktoś mógł pomóc... \n\nNie próbuj drapać niedźwiedzia po plecach. Nawet jeśli wyraźnie o to prosi"
+		"Polish": "Może się wydawać, że niedźwiadek tańczy. Ale tak naprawdę to sweter jest zbyt drapiący i misiek nie może się tam podrapać. Gdyby tylko ktoś mógł pomóc... \n\nNie próbuj drapać niedźwiedzia po plecach. Nawet jeśli wyraźnie o to prosi",
+		"Japanese": "このクマは踊っているように見えるかもしれません。ですが本当はセーターのせいで体がとても痒いのに、痒いところを掻こうとしても手が届かないのです。もし誰かが助けてあげたならば…………。\n\n（実際にクマの背中を掻いてはいけません。たとえそうしてくれとはっきり頼まれてもです）"
 
 	},
 
@@ -615,19 +644,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueA": {
 		"English": "Candle Bear - Fishing",
 		"Russian": "Свечка-медведь - Рыбалка",
-		"Polish": "Świeczka Miś - Rybak"
+		"Polish": "Świeczka Miś - Rybak",
+		"Japanese": "クマのキャンドル『魚釣り』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #05/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #05/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #05/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #05/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #05/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueA": {
 		"English": "This bear tried fishing like humans. The catch doesn't seem to impress. Maybe it should try a different bait? \n\nDo not attempt to give a bear advices on fishing",
 		"Russian": "Этот медведь пытался порыбачить на манер человека. Улов не впечатляет. Может ему стоит попробовать другую наживку? \n\nНе пытайтесь давать медведю советы по рыбалке",
-		"Polish": "Ten misio próbował łowić ryby jak ludzie. Połów nie wydaje się zbyt imponujący. Może warto spróbować innej przynęty? \n\nNie próbuj udzielać niedźwiedziom rad dotyczących łowienia"
+		"Polish": "Ten misio próbował łowić ryby jak ludzie. Połów nie wydaje się zbyt imponujący. Może warto spróbować innej przynęty? \n\nNie próbuj udzielać niedźwiedziom rad dotyczących łowienia",
+		"Japanese": "このクマは人間たちのように魚釣りをしようとしています。ですが釣果は大したものではないようです。違う餌を試してみてはどうでしょうか？\n\n（実際にクマに魚釣りのアドバイスをしてはいけません）"
 
 	},
 
@@ -636,19 +668,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueB": {
 		"English": "Candle Bear - Struggle",
 		"Russian": "Свечка-медведь - Борьба",
-		"Polish": "Świeczka Miś - Walka"
+		"Polish": "Świeczka Miś - Walka",
+		"Japanese": "クマのキャンドル『取っ組み合い』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #06/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #06/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #06/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #06/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #06/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueB": {
-		"English": "Most believe that bear struggle can't be won. This bear seem to disagree with that statement. \n\nDo not attempt to approach a stuggling bear",
+		"English": "Most believe that bear struggle can't be won. This bear seem to disagree with that statement. \n\nDo not attempt to approach a sturggling bear",
 		"Russian": "Большинство считает что борьба с медведем - дело безвыигрышное. Похоже, этот медведь с большинством не согласен. \n\nНе пытайтесь приближаться к сражающемуся медведю",
-		"Polish": "Większość wierzy, że nie da się wygrać walki z niedźwiedziami. Ten niedźwiadek wydaje się nie zgadzać z tym stwierdzeniem. \n\nNie próbuj zbliżać się do szarpiącego się niedźwiedzia"
+		"Polish": "Większość wierzy, że nie da się wygrać walki z niedźwiedziami. Ten niedźwiadek wydaje się nie zgadzać z tym stwierdzeniem. \n\nNie próbuj zbliżać się do szarpiącego się niedźwiedzia",
+		"Japanese": "多くの人はクマに取っ組み合いで勝つのは不可能だと信じています。このクマはどうやらその主張には一致してないようです。\n\n（実際に取っ組み合ってるクマに近づいてはいけません）"
 
 	},
 
@@ -657,13 +692,15 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueC": {
 		"English": "Candle Bear - Friends",
 		"Russian": "Свечка-медведь - Друзья",
-		"Polish": "Świeczka Miś - Przyjaciele"
+		"Polish": "Świeczka Miś - Przyjaciele",
+		"Japanese": "クマのキャンドル『友達』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #07/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #07/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #07/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #07/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #07/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueC": {

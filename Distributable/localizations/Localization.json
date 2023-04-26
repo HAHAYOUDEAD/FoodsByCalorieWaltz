@@ -475,7 +475,7 @@
 		"English": "Candle Bear - Snow-survivor",
 		"Russian": "Свечка-медведь - Выживший снеговик",
 		"Polish": "Świeczka Miś - Śnieżny Ocalały",
-		"Japanese": "クマのキャンドル『雪の生存者』"
+		"Japanese": "クマのキャンドル『雪のサバイバー』"
 
 	},
 
@@ -740,19 +740,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleA": {
 		"English": "Candle Bear - Snow-survivor",
 		"Russian": "Свечка-медведь - Выживший снеговик",
-		"Polish": "Świeczka Miś - Śnieżny Ocalały"
+		"Polish": "Świeczka Miś - Śnieżny Ocalały",
+		"Japanese": "クマのキャンドル『雪のサバイバー』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #09/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #09/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #09/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #09/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #09/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleA": {
 		"English": "Bears have a lot of free time. And what else would they do with all those survivor clothes? \n\nDo not attempt to steal clothes from snowmen",
 		"Russian": "У медведей очень много свободного времени. И что еще им делать со всей этой одеждой выживших? \n\nНе пытайтесь воровать вещи со снеговиков",
-		"Polish": "Niedźwiadki mają dużo wolnego czasu. A co innego zrobiliby z tymi wszystkimi ubraniami ocalałych? \n\nNie próbuj kraść ubrań bałwanom"
+		"Polish": "Niedźwiadki mają dużo wolnego czasu. A co innego zrobiliby z tymi wszystkimi ubraniami ocalałych? \n\nNie próbuj kraść ubrań bałwanom",
+		"Japanese": "クマたちには有り余るほどの暇があります。ですがこれらすべてのサバイバーの衣服の使い道は他になかったのでしょうか？\n\n（雪だるまから服を盗んではいけません）"
 
 	},
 
@@ -761,19 +764,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleB": {
 		"English": "Candle Bear - Education",
 		"Russian": "Свечка-медведь - Просвещение",
-		"Polish": "Świeczka Miś - Uczony"
+		"Polish": "Świeczka Miś - Uczony",
+		"Japanese": "クマのキャンドル『お勉強』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #10/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #10/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #10/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #10/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #10/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleB": {
 		"English": "Bears have an amazing eyesight. This one just wants to look smart. Next time you see a still bear - ask what is it reading. \n\nDo not make loud noises behind bears, they might actually be reading",
 		"Russian": "У медведей отличное зрение. Этот просто хочет казаться умным. В следующий раз когда увидите неподвижного медведя - спросите что он читает. \n\nНе шумите за спиной у медведя - вдруг он действительно читает",
-		"Polish": "Niedźwiedzie mają niesamowity wzrok. Ten po prostu chce wyglądać elegancko. Następnym razem, gdy zobaczysz nieruchomego misia, zapytaj, co czyta. \n\nNie wydawaj głośnych dźwięków wśród niedźwiedzi, mogą faktycznie czytać"
+		"Polish": "Niedźwiedzie mają niesamowity wzrok. Ten po prostu chce wyglądać elegancko. Następnym razem, gdy zobaczysz nieruchomego misia, zapytaj, co czyta. \n\nNie wydawaj głośnych dźwięków wśród niedźwiedzi, mogą faktycznie czytać",
+		"Japanese": "クマたちは驚くべき視力の持ち主です。このクマは今おしゃれをしようとしています。この次あなたがじっとしているクマを見たときは…………何を読んでいるのか尋ねてみましょう。 \n\n（実際に読書をしているクマの背後で大きな音を立ててはいけません）"
 
 	},
 
@@ -782,19 +788,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleC": {
 		"English": "Candle Bear - Haul",
 		"Russian": "Свечка-медведь - Добыча",
-		"Polish": "Świeczka Miś - Przeciążony"
+		"Polish": "Świeczka Miś - Przeciążony",
+		"Japanese": "クマのキャンドル『雄たけび』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #11/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #11/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #11/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #11/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #11/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleC": {
 		"English": "This bear tried to carry everything in one go. Classic situation. \n\nDo not attempt to relate to bear problems",
 		"Russian": "Этот медведь пытался донести всё за один раз. Классическая ситуация. \n\nНе пытайтесь понять медвежьи проблемы",
-		"Polish": "Ten niedźwiedź próbował unieść wszystko za jednym zamachem. Klasyczna sytuacja. \n\nNie próbuj odnosić się do problemów niedźwiedzi"
+		"Polish": "Ten niedźwiedź próbował unieść wszystko za jednym zamachem. Klasyczna sytuacja. \n\nNie próbuj odnosić się do problemów niedźwiedzi",
+		"Japanese": "このクマは何もかもを一まとめにして運ぼうとしています。有名な光景です。（クマの問題に共感してはいけません）"
 
 	},
 
@@ -803,19 +812,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleD": {
 		"English": "Candle Bear - Present",
 		"Russian": "Свечка-медведь - Подарок",
-		"Polish": "Świeczka Miś - Prezent"
+		"Polish": "Świeczka Miś - Prezent",
+		"Japanese": "クマのキャンドル『贈り物』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #12/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #12/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #12/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #12/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #12/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleD": {
 		"English": "Bears enjoy a present as much as humans. But sometimes they mix something up. Make sure a bear doesn't see you placing your present - this might spoil the surprise. \n\nDo not attempt to become a present for a bear",
 		"Russian": "Медведи обожают подарки так же как и люди. Но иногда что-то путается. Когда подкладываете медведю подарок - убедитесь что он вас не видит. Это может испортить сюрприз. \n\nНе пытайтесь стать подарком для медведя",
-		"Polish": "Niedźwiedzie cieszą się prezentami tak samo jak ludzie. Ale czasami coś pomieszają. Upewnij się, że niedźwiedź nie widzi, że kładziesz prezenty – może to zepsuć niespodziankę. \n\nNie próbuj zostać prezentem dla niedźwiedzia"
+		"Polish": "Niedźwiedzie cieszą się prezentami tak samo jak ludzie. Ale czasami coś pomieszają. Upewnij się, że niedźwiedź nie widzi, że kładziesz prezenty – może to zepsuć niespodziankę. \n\nNie próbuj zostać prezentem dla niedźwiedzia",
+		"Japanese": ""
 
 	},
 
@@ -824,13 +836,15 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_RedA": {
 		"English": "Candle Bear - Joke",
 		"Russian": "Свечка-медведь - Шутка",
-		"Polish": "Świeczka Miś - Kawalarz"
+		"Polish": "Świeczka Miś - Kawalarz",
+		"Japanese": "クマのキャンドル『冗談』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #13/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #13/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #13/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #13/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #13/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedA": {
@@ -845,19 +859,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_RedB": {
 		"English": "Candle Bear - Hellbender",
 		"Russian": "Свечка-медведь - Hellbender",
-		"Polish": "Świeczka Miś - Pogromca Piekieł"
+		"Polish": "Świeczka Miś - Pogromca Piekieł",
+		"Japanese": "クマのキャンドル『悪魔祓い』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #14/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #14/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #14/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #14/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #14/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedB": {
 		"English": "This bear is pretending to be in his favorite not-so-normal show. Can you hear the singing? This is not a microphone, bear. \n\nDo not attempt to sing carols with a bear",
 		"Russian": "Этот медведь представил себя в своем любимом не-совсем-нормальном шоу. Слышите как поёт? Это не микрофон, медведь. \n\nНе пытайтесь колядовать с медведем",
-		"Polish": "Ten niedźwiedź udaje, że jest w swoim ulubionym, niezbyt normalnym programie. Słyszysz śpiew? To nie jest mikrofon, misiu. \n\nNie próbuj śpiewać kolęd z niedźwiedziem"
+		"Polish": "Ten niedźwiedź udaje, że jest w swoim ulubionym, niezbyt normalnym programie. Słyszysz śpiew? To nie jest mikrofon, misiu. \n\nNie próbuj śpiewać kolęd z niedźwiedziem",
+		"Japanese": ""
 
 	},
 
@@ -866,19 +883,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_RedC": {
 		"English": "Candle Bear - Dragon",
 		"Russian": "Свечка-медведь - Дракон",
-		"Polish": "Świeczka Miś - Smok"
+		"Polish": "Świeczka Miś - Smok",
+		"Japanese": "クマのキャンドル『竜』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #15/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #15/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #15/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #15/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #15/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedC": {
 		"English": "Some bears wish to collect the most food for the winter. Some wish to have the biggest den. Some wish they were born by a dragon. \n\nHere be no dragons",
 		"Russian": "Некоторые медведи мечтают заготовить больше всех еды на зиму. Некторые мечтают найти самую большую берлогу. Некоторые хотели бы быть рождены драконом. \n\nЗдесь не обитают драконы",
-		"Polish": "Niektóre niedźwiedzie chcialy by zebrać jak najwięcej pożywienia na zimę. Niektóre chciały by mieć największą jaskinię. Niektóre chiały by urodził je smok. \n\nTu nie będzie smoków"
+		"Polish": "Niektóre niedźwiedzie chcialy by zebrać jak najwięcej pożywienia na zimę. Niektóre chciały by mieć największą jaskinię. Niektóre chiały by urodził je smok. \n\nTu nie będzie smoków",
+		"Japanese": ""
 
 	},
 
@@ -887,19 +907,22 @@
 	"GAMEPLAY_COLLECTIBLE_TITL_RedD": {
 		"English": "Candle Bear - Moon",
 		"Russian": "Свечка-медведь - Луна",
-		"Polish": "Świeczka Miś - Księżyc"
+		"Polish": "Świeczka Miś - Księżyc",
+		"Japanese": "クマのキャンドル『月』"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #16/16",
 		"Russian": "Коллекционная свечка-фигурка от 'Calorie Waltz' Foods #16/16",
-		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #16/16"
+		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #16/16",
+		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #16/16"
 
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedD": {
 		"English": "What happened to that bear? Aurora? Moonshine?  \n\nDo not attempt to fly a bicycle",
 		"Russian": "Что это там в небе? Самолет? Облако? Медведь? \n\nНе пытайтесь летать на велосипеде",
-		"Polish": "Co się stało z tym niedźwiedziem? Zorza polarna? Bimber? \n\nNie próbuj latać rowerem"
+		"Polish": "Co się stało z tym niedźwiedziem? Zorza polarna? Bimber? \n\nNie próbuj latać rowerem",
+		"Japanese": "このクマに何が起こったのでしょうか？オーロラ？月光？ \n\n（自転車で空を飛んではいけません）"
 
 	},
 
@@ -917,7 +940,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL": {
 		"English": "A note from a lost soul",
 		"Russian": "Записка от потерянной души",
-		"Polish": "Notatka od zagubionej duszy"
+		"Polish": "Notatka od zagubionej duszy",
+		"Japanese": "失われた魂からのメッセージ"
 
 	},
 	"GAMEPLAY_LOSTNOTE_DESC": {
@@ -929,7 +953,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_1": {
 		"English": "Note from a lost soul #1",
 		"Russian": "Записка от потерянной души #1",
-		"Polish": "Notatka zagubionej duszy #1"
+		"Polish": "Notatka zagubionej duszy #1",
+		"Japanese": "失われた魂からのメッセージ #1"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_1": {
@@ -943,7 +968,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_2": {
 		"English": "Note from a lost soul #2",
 		"Russian": "Записка от потерянной души #2",
-		"Polish": "Notatka zagubionej duszy #2"
+		"Polish": "Notatka zagubionej duszy #2",
+		"Japanese": "失われた魂からのメッセージ #2"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_2": {
@@ -955,7 +981,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_3": {
 		"English": "Note from a lost soul #3 part 1",
 		"Russian": "Записка от потерянной души #3 часть 1",
-		"Polish": "Notatka zagubionej duszy #3 część 1"
+		"Polish": "Notatka zagubionej duszy #3 część 1",
+		"Japanese": "失われた魂からのメッセージ #3-1"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3": {
@@ -966,7 +993,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_3-2": {
 		"English": "Note from a lost soul #3 part 2",
 		"Russian": "Записка от потерянной души #3 часть 2",
-		"Polish": "Notatka zagubionej duszy #3 część 2"
+		"Polish": "Notatka zagubionej duszy #3 część 2",
+		"Japanese": "失われた魂からのメッセージ #3-2"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3-2": {
@@ -978,7 +1006,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_4": {
 		"English": "Note from a lost soul #4",
 		"Russian": "Записка от потерянной души #4",
-		"Polish": "Notatka zagubionej duszy #4"
+		"Polish": "Notatka zagubionej duszy #4",
+		"Japanese": "失われた魂からのメッセージ #4"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_4": {
@@ -990,7 +1019,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_5": {
 		"English": "Note from a lost soul #5",
 		"Russian": "Записка от потерянной души #5",
-		"Polish": "Notatka zagubionej duszy #5"
+		"Polish": "Notatka zagubionej duszy #5",
+		"Japanese": "失われた魂からのメッセージ #5"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_5": {
 		"English": "Day 530\n\nI enjoy writing those now, it gives me illusion that you can hear me. I should have done it from the beginning, keeping a journal or something\n\nYou are wondering why I'm leaving my messages in such strange places? I'm not entirely sure. Maybe I don't actually want to be heard? Not by everyone at least. The first message I wrote was just a despair cry. Later that didn't feel right, so I wanted to apologize. That's when I met you, wasn't it? Haha. I trust you. I trust you my thoughts, Ro. But let's keep this game, what do you say? I'll keep hiding them and you keep finding? Please",
@@ -1001,7 +1031,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_6": {
 		"English": "Note from a lost soul #6",
 		"Russian": "Записка от потерянной души #6",
-		"Polish": "Notatka zagubionej duszy #6"
+		"Polish": "Notatka zagubionej duszy #6",
+		"Japanese": "失われた魂からのメッセージ #6"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_6": {
 		"English": "I could not remember how we managed to get from the sinking launch to the shore. I tried talking to Rory about what happened that night, again and again, but never got any adequate response. As if it didn't happen for real. As if we just appeared on this island\n\nThe longer I live here, the more I start to feel that.. estrangement? I still recall who I was and how I got here, if only partially, but the past is getting hazier every day\n\nI found myself alone after a month. No word, no message, one morning Rory was just gone. Must have been snowing during the night, since I couldn't even see any tracks... ",
@@ -1012,7 +1043,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_7": {
 		"English": "Note from a lost soul #7",
 		"Russian": "Записка от потерянной души #7",
-		"Polish": "Notatka zagubionej duszy #7"
+		"Polish": "Notatka zagubionej duszy #7",
+		"Japanese": "失われた魂からのメッセージ #7"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_7": {
 		"English": "I had a dream last night, Ro. It was roughly like this:\n\nI was sitting in a helicopter. Looking outside, I saw nothing but white haze. Cabin was all filled with equipment: ropes, tools, cameras. And there was a wolf. A wolf was sitting across me, and we were talking. Nothing of what wolf was saying made any sense, something about friendship and ghosts and uhh.. magnets? That's all I can recall. Then I felt it was time to get out, so I went looking for the rope. Suddenly I shivered in fear, looking over my shoulder I saw the wolf right up my face smacking it's jaws: 'Over again!'. I tipped over the door and fell right out of my dream\n\nHa-ha, could you imagine what happened for real that evening though. Damned wolf took my leg and scurried away! Caught me off guard. I managed to track it down though, don't worry about me. Now that I think about it.. that wolf looked exactly like the one from the dream. You learn to tell bastards apart when they are the only living things you met every day\n\n'Over again'. The hell would that mean?",
@@ -1023,7 +1055,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_8": {
 		"English": "Note from a lost soul #8",
 		"Russian": "Записка от потерянной души #8",
-		"Polish": "Notatka zagubionej duszy #8"
+		"Polish": "Notatka zagubionej duszy #8",
+		"Japanese": "失われた魂からのメッセージ #8"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_8": {
 		"English": "You won't believe me, but I just now noticed the similarity in the names. I swear it was not my intention to call you after Rory. I knew a few other good people whose name started with R though. And you are a good person. So it fits you well, I think\n\nI can't remember how Rory was. Can't even remember the face. It's just a blank character in my head...\n\nThat last image of Jiji will never leave my head though. Never wondered if cats can survive cold weather. If so, she would probably found me by now, right? On the other hand, who knows what Aurora does to one's soul. Have you seen what it does to poor wolves?\n\n...\n\nDo you think Rory found a way out?",
@@ -1034,7 +1067,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_9": {
 		"English": "Note from a lost soul #9",
 		"Russian": "Записка от потерянной души #9",
-		"Polish": "Notatka zagubionej duszy #9"
+		"Polish": "Notatka zagubionej duszy #9",
+		"Japanese": "失われた魂からのメッセージ #9"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_9": {
@@ -1046,7 +1080,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_10": {
 		"English": "Note from a lost soul #10",
 		"Russian": "Записка от потерянной души #10",
-		"Polish": "Notatka zagubionej duszy #10"
+		"Polish": "Notatka zagubionej duszy #10",
+		"Japanese": "失われた魂からのメッセージ #10"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_10": {
@@ -1058,7 +1093,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_11": {
 		"English": "Note from a lost soul #11",
 		"Russian": "Записка от потерянной души #11",
-		"Polish": "Notatka zagubionej duszy #11"
+		"Polish": "Notatka zagubionej duszy #11",
+		"Japanese": "失われた魂からのメッセージ #11"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_11": {
@@ -1070,7 +1106,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_12": {
 		"English": "Note from a lost soul #12",
 		"Russian": "Записка от потерянной души #12",
-		"Polish": "Notatka zagubionej duszy #12"
+		"Polish": "Notatka zagubionej duszy #12",
+		"Japanese": "失われた魂からのメッセージ #12"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_12": {
@@ -1082,7 +1119,8 @@
 	"GAMEPLAY_LOSTNOTE_TITL_LAST": {
 		"English": "Last note from a lost soul",
 		"Russian": "Последняя записка от потерянной души",
-		"Polish": ""
+		"Polish": "",
+		"Japanese": "失われた魂からの最後のメッセージ"
 
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_LAST": {

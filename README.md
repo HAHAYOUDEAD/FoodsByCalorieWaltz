@@ -6,7 +6,7 @@ Spawn points and lore is now complete, collectible candles are now proper candle
 hurray c:
 
 ## Foods by 'Calorie Waltz'
-Selection of foods I think looks tasty :yum: You can take a closer look in [this video](https://www.youtube.com/watch?v=hHTd108ro48) :)
+Selection of foods I think looks tasty :yum: You can take a closer look in [this video](https://www.youtube.com/watch?v=JeQy1t07uN4) :)
 
 ![Poster](Images/allRender2.png)
 

@@ -575,6 +575,7 @@
 
         public override void OnUpdate()
         {
+
             if (!isLoaded || GameManager.GetPlayerManagerComponent() == null) return;
 
 
@@ -909,12 +910,8 @@
                     }
                 }
             }
-
-
-
-
-
         }
+
 
         public static void ResetDPBear(bool kill)
         {

@@ -41,7 +41,7 @@
 		"English": "Dried banana with sugar. Dry and sweet. Too sweet",
 		"Russian": "Сушеные бананы с сахаром. Сухие и сладкие. Слишком сладкие",
 		"Polish": "Suszone płatki banana z cukrem. Suche i słodkie. Za słodkie",
-		"Japanese": "砂糖がかかった乾燥バナナチップ。乾燥していて甘い。甘すぎるほどに。"
+		"Japanese": "砂糖がかかった乾燥バナナチップ。乾燥していて甘い。甘すぎるくらいだ。"
 	},
 
 
@@ -69,7 +69,7 @@
 		"English": "Lasts forever. If the lid is tight.\n\nEating too much will cause digestion problems. Do not consume without hot tea!",
 		"Russian": "Хранится вечно. Eсли крышка не отходит.\n\nВ больших количествах вызывает несварение. Не употреблять без горячего чая!",
 		"Polish": "Nigdy się nie psują o ile pokrywka jest szczelna. \n\nZjedzenie za dużo spowoduje problemy trawienne. Nie spożywać bez ciepłej herbaty!",
-		"Japanese": "しっかり蓋をしていればずっと長持ちする。食べ過ぎると胃もたれする。熱いお茶なしでは食べきれない"
+		"Japanese": "しっかり蓋をしていればずっと長持ちする。\n\n食べ過ぎると胃もたれする。熱いお茶なしでは食べきれない"
 	},
 
 
@@ -251,7 +251,7 @@
 		"English": "Barely alcoholic, fizzy and refreshing with suble sweet taste",
 		"Russian": "Едва алкогольный, пенный и освежающий, с приятным сладким вкусом",
 		"Polish": "Lekko alkoholowy, musujący i orzeźwiający napoj o subtelnie słodkim smaku",
-		"Japanese": "炭酸アルコール飲料。ほのかな甘みがあなたをリフレッシュ。"
+		"Japanese": "炭酸アルコール飲料。爽やかさとほのかな甘みがあなたをリフレッシュ。"
 	},
 
 
@@ -278,14 +278,14 @@
 		"English": "Sweet and soft, just melts on your tongue. May not be a good idea to eat when you cold",
 		"Russian": "Сладкий и мягкий, так и тает на языке. Пожалуй не лучший перекус в холодную погоду",
 		"Polish": "Słodkie i miękkie, po prostu rozpływają się na języku. Mogą nie być dobrym pomysłem, gdy jest ci zimno",
-		"Japanese": "甘くて舌の上ですぐ溶けるくらい柔らか。寒い時に食べるにはお勧めできないけど。"
+		"Japanese": "甘くて舌の上ですぐ溶けるくらい柔らか。寒い時に食べるのはお勧めできないけど。"
 	},
 
 	"GAMEPLAY_icecreamCup": {
 		"English": "Icecream in a Wafer Cup",
 		"Russian": "Мороженое в стаканчике",
 		"Polish": "Lody w wafelku",
-		"Japanese": "カップ入りアイス"
+		"Japanese": "ウエハースカップ入りのアイス"
 	},
 	"GAMEPLAY_icecreamCupDescription": {
 		"English": "Blizzard with chocolate, nuts and caramel mixed in. All in a crunchy wafer cup. Wow\n\nThanks for asking, penguin's name is Jeremy",
@@ -731,7 +731,7 @@
 		"English": "There is no gambling addiction among bears. They just love the sound the cards make. What was the bear playing? Poker? \n\nDo not attempt to search for cards near bear dens",
 		"Russian": "Медведи не азартны, им просто нравится звук тасуемых карт. Во что он играл? Покер?. \n\nНе пытайтесь найти карты рядом с медвежьей берлогой",
 		"Polish": "Wśród niedźwiedzi nie ma uzależnienia od hazardu. Po prostu uwielbiają dźwięk, który wydają karty. W co grał miś? W Pokera? \n\nNie próbuj szukać kart w pobliżu legowisk niedźwiedzi",
-		"Japanese": "クマたちの間にはギャンブル依存症はありません。彼らはカードが出す音が大好きです。このクマは何をプレイしているのでしょうか？ポーカー？ \n\n（クマの巣穴の近くでカードを探してはいけません）"
+		"Japanese": "クマたちの間にはギャンブル依存症はありません。彼らはカードが出す音が大好きなのです。このクマは何をプレイしているのでしょうか？ポーカー？ \n\n（クマの巣穴の近くでカードを探してはいけません）"
 
 	},
 
@@ -851,7 +851,7 @@
 		"English": "There is this Russian joke: 'A bear once walked through the forest and saw a burning car. Sat in it and burned dead'. Get it? \n\nDo not attempt to understand the joke",
 		"Russian": "Есть такая шутка: 'Шел медведь по лесу - видит машина горит. Сел в неё и сгорел'. Уловили? \n\nНе пытайтесь понять шутку",
 		"Polish": "Jest taki rosyjski żart: „Pewnego razu niedźwiedź szedł lasem i zobaczył płonące auto. Siadł więc w nim i wypaił”. Łapiesz? \n\nNie próbuj zrozumieć tego żartu",
-		"Japanese": "ロシアの冗談に『森を歩いている最中に燃えている車を見たクマが、車に乗って焼け死んだ』というものがあります。分かりますか？ \n\nこの冗談を理解してはいけません。"
+		"Japanese": "ロシアの冗談に『森を歩いている最中に燃えている車を見たクマが、車に乗って焼け死んだ』というものがあります。分かりますか？ \n\n（この冗談を理解してはいけません）"
 
 	},
 
@@ -899,7 +899,7 @@
 		"English": "Some bears wish to collect the most food for the winter. Some wish to have the biggest den. Some wish they were born by a dragon. \n\nHere be no dragons",
 		"Russian": "Некоторые медведи мечтают заготовить больше всех еды на зиму. Некторые мечтают найти самую большую берлогу. Некоторые хотели бы быть рождены драконом. \n\nЗдесь не обитают драконы",
 		"Polish": "Niektóre niedźwiedzie chcialy by zebrać jak najwięcej pożywienia na zimę. Niektóre chciały by mieć największą jaskinię. Niektóre chiały by urodził je smok. \n\nTu nie będzie smoków",
-		"Japanese": ""
+		"Japanese": "冬ごもりのために大量の食糧を貯めこもうとするクマがいます。巨大な巣穴を持ちたがるクマもいます。ドラゴンになりたがるクマもいるかもしれません。 \n\n（ドラゴンなんていません）"
 
 	},
 
@@ -923,7 +923,7 @@
 		"English": "What happened to that bear? Aurora? Moonshine?  \n\nDo not attempt to fly a bicycle",
 		"Russian": "Что это там в небе? Самолет? Облако? Медведь? \n\nНе пытайтесь летать на велосипеде",
 		"Polish": "Co się stało z tym niedźwiedziem? Zorza polarna? Bimber? \n\nNie próbuj latać rowerem",
-		"Japanese": "このクマに何が起こったのでしょうか？オーロラ？月光？ \n\n（自転車で空を飛んではいけません）"
+		"Japanese": "このクマに何が起こったのでしょうか？オーロラのしわざ？それとも月の光のせい？ \n\n（自転車で空を飛んではいけません）"
 
 	},
 
@@ -948,7 +948,8 @@
 	"GAMEPLAY_LOSTNOTE_DESC": {
 		"English": "A lore piece from 'Calorie Waltz' Foods employee",
 		"Russian": "Кусочек лора от сотрудника 'Calorie Waltz' Foods",
-		"Polish": "Kawałek fabuły od 'Calorie Waltz'"
+		"Polish": "Kawałek fabuły od 'Calorie Waltz'",
+		"Japanese": "『Calorie Waltz』食品の社員が残したメッセージ"
 
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_1": {
@@ -961,7 +962,8 @@
 	"GAMEPLAY_LOSTNOTE_LORE_1": {
 		"English": "If you reading this... I'm lost. \n\n500 days I was wandering around the island, hoping to find another living soul. Everybody is dead. What about me then? Well... I'll make the last trip around the island and leave provisions. If another wretched soul gets stranded on this damned island - at least you won't die from starvation. If you ''lucky'' - you'll find me at the lighthouse(the still-standing one), I'll end my journey there.",
 		"Russian": "Если вы это читаете... Я потерян. \n\n500 дней я бродил по острову, надеясь найти хоть одну живую душу. Все мертвы. А что насчет меня? Что ж... Я сделаю последний круг по острову и оставлю припасы. Если еще одну несчастную душу занесло на этот проклятый остров - по крайней мере тебе не придется умереть от голода. Если ''повезет'' - найдешь меня на маяке(том что еще стоит), там я закончу свой путь.",
-		"Polish": "Jeśli to czytasz... zgubiłem się. \n\n500 dni błąkałem się po wyspie, mając nadzieję na znalezienie innej żywej duszy. Wszyscy nie żyją. Co więc ze mną? Cóż... Odbędę ostatnią podróż dookoła wyspy i zostawię prowiant. Jeśli kolejna nieszczęsna dusza utknie na tej przeklętej wyspie - przynajmniej nie umrzesz z głodu. Jeśli masz ''szczęście'' - znajdziesz mnie przy latarni morskiej (tej wciąż stojącej), tam zakończę swoją podróż"
+		"Polish": "Jeśli to czytasz... zgubiłem się. \n\n500 dni błąkałem się po wyspie, mając nadzieję na znalezienie innej żywej duszy. Wszyscy nie żyją. Co więc ze mną? Cóż... Odbędę ostatnią podróż dookoła wyspy i zostawię prowiant. Jeśli kolejna nieszczęsna dusza utknie na tej przeklętej wyspie - przynajmniej nie umrzesz z głodu. Jeśli masz ''szczęście'' - znajdziesz mnie przy latarni morskiej (tej wciąż stojącej), tam zakończę swoją podróż",
+		"Japanese": "もし君がこれを読んでいるのなら……私は死んだということだ。 \n\n500日間、私は他の生存者を見つけようと島をさまよっていた。だが皆死に絶えていた。ではどうする？ふむ……最後に島を一巡りして食糧を残すか。もし他の哀れな者がこの呪われた島に流れ着いたなら……最低でも飢え死にだけはしないだろう。もし君が『幸運にも』私を灯台（いまだ健在な唯一のもの）で見つけたなら、私の旅はそこで終わる。"
 
 	},
 
@@ -975,7 +977,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_2": {
 		"English": "Hell, that was morbid. That note I left there, in the valley? Well, I won't go pick it up now so I'll just hope you didn't see it lad. Or lass? I wonder who you are, my lovely reader\n\nAnyway, I overestimated how many supplies I have, so I'll be more modest with leaving them behind from now on. Fortunately, 'Calorie Waltz' is already very much spread across this island, so you, my precious reader, won't die from hunger",
-		"Russian": "Черт, это было нездорово. Та записка что я оставил. Ну, сделанного не воротишь, остается лишь надеяться что ты её не нашел. Или не нашла? Интересно кто ты, любезный читатель\n\nЧто хотел сказать, похоже я слегка переоценил количество своих припасов... Стану оставлять чуть меньше, иначе не хватит до маяка. К счастью, 'Calorie Waltz' уже достаточно распространена на острове, так что ты, мой драгоценный читатель, с голоду не умрёшь"
+		"Russian": "Черт, это было нездорово. Та записка что я оставил. Ну, сделанного не воротишь, остается лишь надеяться что ты её не нашел. Или не нашла? Интересно кто ты, любезный читатель\n\nЧто хотел сказать, похоже я слегка переоценил количество своих припасов... Стану оставлять чуть меньше, иначе не хватит до маяка. К счастью, 'Calorie Waltz' уже достаточно распространена на острове, так что ты, мой драгоценный читатель, с голоду не умрёшь",
+		"Japanese": "地獄、それは恐ろしいものだ。私はそこ、谷間？にメモを残してきた。まあ、今となってはそれを拾いに戻ることはないから、君がメモを目にすることがないよう願うだけだ、若者よ。それとも娘さんか？素敵な読者さん、あなたは何者なのだろうな。\n\nとにかく、私は手持ちの物資の量を多く見積もり過ぎてたようだ、これからは残す物資の量を控えめにしよう。幸いにも『Calorie Waltz』の食品はすでにこの島に大量にばら撒かれているから、君が、私の大切な読者である君が飢え死ぬことはないだろう。"
 	},
 
 
@@ -988,7 +991,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3": {
 		"English": "Day 518\n\nLovely weather today. Rare occasion. About -10 degrees I'd wager, light snowfall. Quiet\n\nI have something to tell you, I can't get it out of my head. Can't get you out of my head. Or the idea of 'you'? Of someone who I can talk to. Talking to myself doesn't feel strange anymore, but writing those messages... makes me feel human again?\n\n...I'll call you Ro, do you mind?",
-		"Russian": "День 518\n\n#Чудная погода сегодня. Не частое явление. Минус десять, небольшой снег. Тишина\n\nМне нужно тебе кое-что сказать, никак не выходит из головы. Ты не выходишь из головы. Сам факт того что я с тобой разговариваю? Не знаю как иначе это описать. Разговоры с самим собой уже давно стали привычными, странным это больше не кажется. Но эти сообщения для тебя... как будто я снова чувствую себя человеком?\n\n...ты не против если я буду звать тебя Ро?"
+		"Russian": "День 518\n\n#Чудная погода сегодня. Не частое явление. Минус десять, небольшой снег. Тишина\n\nМне нужно тебе кое-что сказать, никак не выходит из головы. Ты не выходишь из головы. Сам факт того что я с тобой разговариваю? Не знаю как иначе это описать. Разговоры с самим собой уже давно стали привычными, странным это больше не кажется. Но эти сообщения для тебя... как будто я снова чувствую себя человеком?\n\n...ты не против если я буду звать тебя Ро?",
+		"Japanese": "518日目\n\n今日は素敵な天気だ。滅多にないことだ。気温はおよそマイナス10度というところで、小雪が舞っている。とても静かだ。\n\n君に伝えたいことが頭から離れない。あるいは、『君』のこと、私が話せる相手である君のことも？独り言を言うのがおかしなことだとはもう思わないが、こうしたメッセージを書いていると……人間らしさを取り戻せた気分になる？ \n\n……君のことをローと呼んでも構わないかな？"
 	},
 
 	"GAMEPLAY_LOSTNOTE_TITL_3-2": {
@@ -1000,7 +1004,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3-2": {
 		"English": "Evening 518\n\nI'm Victor by the way. Dowd. I'm working for 'CW', hauling goods to remote islands on my little launch. Was working, that is. I wonder if mainland even exists at this point\n\nDid no one even tried to rescue people here? Does nobody care about this island anymore to the point they didn't even notice it's death?\n\nWell, I figured if no one came for locals, I shouldn't wait for help either",
-		"Russian": "Вечер 518\n\nЯ, кстати, Виктор. Дауд. Работаю на 'CW', доставляю товары к удаленным островам на своём баркасе. Работал, раньше. Интересно, как там дела на материке\n\nНикто не пытался спасти местных? Неужели всем настолько плевать на этот остров что никто даже не заметил его гибели?\n\nЧто ж, если подумать, раз за местных никто не печётся, то и мне ждать помощи не стоит"
+		"Russian": "Вечер 518\n\nЯ, кстати, Виктор. Дауд. Работаю на 'CW', доставляю товары к удаленным островам на своём баркасе. Работал, раньше. Интересно, как там дела на материке\n\nНикто не пытался спасти местных? Неужели всем настолько плевать на этот остров что никто даже не заметил его гибели?\n\nЧто ж, если подумать, раз за местных никто не печётся, то и мне ждать помощи не стоит",
+		"Japanese": "518日目、夕方 \n\nちなみに私の名はヴィクター・ダウドだ。『CW』で働いていて、離島に小舟で商品を運んでいる。いや、働いていた、だな。私はカナダ本土が未だ健在であるのか疑問に思っている。 \n\n誰もここの住民たちを助けようとしなかったのか？この島の死に気づかないほど、誰もこの島に興味を持たなくなったのだろうか？ \n\nああ、もし誰も助けに来てくれないのなら、私も助けを待っていてはいけないのだろうな。"
 	},
 
 
@@ -1013,7 +1018,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_4": {
 		"English": "Day 522\n\nThere were 3 of us: me, Rory and Jiji. Rory was my cargo officer. Jiji was a.. cat\n\nBefore any electronics showed any sign of something being amiss, Jiji knew. And she made sure we knew too. We knew, but had no idea at the same time. The Aurora. When you experience something like that for the first time, your whole undestanding of the world crumbles. Being a sailor for 40 years, I had no clue what to do in that chaos\n\nRory acted... normal. Just carrying out orders like usual, taking care of the equipment. I didn't give it much thought at the time, but that didn't seem quite right\n\nInevitably, we hit a glacier. Rory fell over the railing. I managed to hold on\n\nLast thing I remembered was Jiji. She was standing on top of the glacier, looking at me with glowing eyes. Like a lighthouse",
-		"Russian": "День 522\n\nНас было трое: я, Рори и Джиджи. Рори - помощник по погрузке. Джиджи была.. кошкой\n\nЕщё до того как электроника начала сбоить, Джиджи уже дала нам знать что что-то было не так. Что конкретно - мы не могли и представить. Полярное Cияние. Когда такое случается с тобой впервые - всё представление о мире рушится. Я моряк уже более 40 лет, но представления не имел что предпринять в этом хаосе\n\nПоведение Рори меня озадачило. Не сразу, тогда было не до этого. Но потом, вспоминая произошедшее, я не мог понять как в такой суматохе можно сохранять спокойствие. Как обычно следить за оснасткой, выполнять приказы без тени смятения на лице...\n\nНеизбежно мы налетели на айсберг. Я удержался, но Рори выкинуло за борт\n\nПоследнее что я запомнил была Джиджи, стоящая на айсберге. Буравила меня светящимися глазами. Как маяк"
+		"Russian": "День 522\n\nНас было трое: я, Рори и Джиджи. Рори - помощник по погрузке. Джиджи была.. кошкой\n\nЕщё до того как электроника начала сбоить, Джиджи уже дала нам знать что что-то было не так. Что конкретно - мы не могли и представить. Полярное Cияние. Когда такое случается с тобой впервые - всё представление о мире рушится. Я моряк уже более 40 лет, но представления не имел что предпринять в этом хаосе\n\nПоведение Рори меня озадачило. Не сразу, тогда было не до этого. Но потом, вспоминая произошедшее, я не мог понять как в такой суматохе можно сохранять спокойствие. Как обычно следить за оснасткой, выполнять приказы без тени смятения на лице...\n\nНеизбежно мы налетели на айсберг. Я удержался, но Рори выкинуло за борт\n\nПоследнее что я запомнил была Джиджи, стоящая на айсберге. Буравила меня светящимися глазами. Как маяк",
+		"Japanese": "522日目 \n\n私たち3人、私、ロリー、そしてジジ。ロリーは貨物担当。ジジは……猫だ。 \n\nジジは異常事態が起こっていることを電子機器が示す前に気づいていた。彼女はそれを私たちにも分かるようにしてくれたのだ。私たちは知っていた、だがどうすればいいかは分からなかった。オーロラ。君が初めてあのようなものを体験したら、世界観の全てが崩壊してしまうだろう。40年間船乗りをやってきたが、私はあの混乱の中で何をすべきなのか、まったくわからなかった。 \n\nロリーは...いつも通りだった。いつものように指示を実行し、機器の手入れをする。その時は何とも思わなかったが、どうも腑に落ちない。 \n\n必然的に氷山にぶつかった。ロリーは手すりを越えて転落。私はなんとか持ちこたえた。 \n\n最後に思い出したのはジジのことだった。彼女は氷山の天辺に立っていて、輝くような目で僕を見ていた。ちょうど灯台のように。"
 	},
 
 
@@ -1025,7 +1031,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_5": {
 		"English": "Day 530\n\nI enjoy writing those now, it gives me illusion that you can hear me. I should have done it from the beginning, keeping a journal or something\n\nYou are wondering why I'm leaving my messages in such strange places? I'm not entirely sure. Maybe I don't actually want to be heard? Not by everyone at least. The first message I wrote was just a despair cry. Later that didn't feel right, so I wanted to apologize. That's when I met you, wasn't it? Haha. I trust you. I trust you my thoughts, Ro. But let's keep this game, what do you say? I'll keep hiding them and you keep finding? Please",
-		"Russian": "День 530\n\nЛовлю себя на мысли, что мне нравится излагать свои мысли на бумаге. Создается впечатление что ты меня слышишь. Надо было с самого начала вести дневник или что-то навроде\n\nИнтересуешься, зачем я оставляю свои сообщения в таких странных, труднодоступных местах? Чтож, я не уверен. Не уверен что хочу чтобы кто-то меня слышал. По крайней мере не все подряд. Первое моё сообщение было криком отчаяния. Не следовало мне так себя вести, пришлось извиняться. Тогда то мы и познакомились, не так ли? Ха ха. Я доверяю тебе. Доверяю свои мысли, Ро. Однако, давай продолжим эту игру - я буду прятать сообщения а ты продолжай их находить, что скажешь? Пожалуйста"
+		"Russian": "День 530\n\nЛовлю себя на мысли, что мне нравится излагать свои мысли на бумаге. Создается впечатление что ты меня слышишь. Надо было с самого начала вести дневник или что-то навроде\n\nИнтересуешься, зачем я оставляю свои сообщения в таких странных, труднодоступных местах? Чтож, я не уверен. Не уверен что хочу чтобы кто-то меня слышал. По крайней мере не все подряд. Первое моё сообщение было криком отчаяния. Не следовало мне так себя вести, пришлось извиняться. Тогда то мы и познакомились, не так ли? Ха ха. Я доверяю тебе. Доверяю свои мысли, Ро. Однако, давай продолжим эту игру - я буду прятать сообщения а ты продолжай их находить, что скажешь? Пожалуйста",
+		"Japanese": "530日目 \n\n今の私は書き物をすることが楽しい、それは君が私の言葉を聞いているような幻を私に見せてくれる。こんなことなら最初から日記か何かを書いておけばよかった。 \n\nなぜ私がこんな奇妙な場所ばかりにメッセージを残しているのか、君は不思議に思っているのじゃないか？でも私にもわからないんだよ。おそらく、私は本当は知られたくないのかな？最低でも、誰も彼もには。私が書いた最初のメッセージはただ絶望の叫びだった。その後、あれは間違っていたと思うようになって、謝りたくなった。それが、私があなたに出会った時、なのかな？はは。私はあなたを信じます。私の想いの中のあなたを信じます、ロー。でも、この遊びは続けるよ、君は何て言うかな？私が隠し続けるなら、君は見つけ続けるのかな？お願いだよ。"
 	},
 
 
@@ -1037,7 +1044,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_6": {
 		"English": "I could not remember how we managed to get from the sinking launch to the shore. I tried talking to Rory about what happened that night, again and again, but never got any adequate response. As if it didn't happen for real. As if we just appeared on this island\n\nThe longer I live here, the more I start to feel that.. estrangement? I still recall who I was and how I got here, if only partially, but the past is getting hazier every day\n\nI found myself alone after a month. No word, no message, one morning Rory was just gone. Must have been snowing during the night, since I couldn't even see any tracks... ",
-		"Russian": "Я не мог вспомнить как мы добрались с тонущего баркаса на берег. Пытался поговорить с Рори о той ночи, снова и снова, но ничего вразумительного не услышал. Как будто ничего и не было. Будто мы просто возникли на этом острове\n\nЧем дольше я здесь живу, тем сильнее ощущается некая... отстранённость? Я всё ещё помню кем был и как сюда попал, хоть и не вполне, но память затуманивается с каждым днём\n\nМесяц спустя, я остался один. Ни слова ни записки, на утро Рори просто не было. Я отправился было на поиски, но не нашел даже следов. Видимо ночью шел снег..."
+		"Russian": "Я не мог вспомнить как мы добрались с тонущего баркаса на берег. Пытался поговорить с Рори о той ночи, снова и снова, но ничего вразумительного не услышал. Как будто ничего и не было. Будто мы просто возникли на этом острове\n\nЧем дольше я здесь живу, тем сильнее ощущается некая... отстранённость? Я всё ещё помню кем был и как сюда попал, хоть и не вполне, но память затуманивается с каждым днём\n\nМесяц спустя, я остался один. Ни слова ни записки, на утро Рори просто не было. Я отправился было на поиски, но не нашел даже следов. Видимо ночью шел снег...",
+		"Japanese": "沈む小舟からどうやって脱出して岸にたどり着いたのか思い出せない。ロリーにあの夜のことを繰り返し話してみたのだが、まともな答えが返ってくることはなかった。まるで現実の出来事ではないようだった。まるで、私たちがいきなりこの島に現れたようだった。 \n\nここで暮らすうちに、だんだん……疎外感？を感じるようになった。自分が誰で、どうやってここに来たか、部分的にまだ思い出せるけど、日に日に過去が曖昧になってる。 \n\n1ヶ月後、気が付くと私は一人になっていた。言葉も書き置きもなく、ある朝、ロリーがいなくなった。夜中に雪が降ったのだろうか、足跡すら見つけられなかった……。"
 	},
 
 
@@ -1049,7 +1057,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_7": {
 		"English": "I had a dream last night, Ro. It was roughly like this:\n\nI was sitting in a helicopter. Looking outside, I saw nothing but white haze. Cabin was all filled with equipment: ropes, tools, cameras. And there was a wolf. A wolf was sitting across me, and we were talking. Nothing of what wolf was saying made any sense, something about friendship and ghosts and uhh.. magnets? That's all I can recall. Then I felt it was time to get out, so I went looking for the rope. Suddenly I shivered in fear, looking over my shoulder I saw the wolf right up my face smacking it's jaws: 'Over again!'. I tipped over the door and fell right out of my dream\n\nHa-ha, could you imagine what happened for real that evening though. Damned wolf took my leg and scurried away! Caught me off guard. I managed to track it down though, don't worry about me. Now that I think about it.. that wolf looked exactly like the one from the dream. You learn to tell bastards apart when they are the only living things you met every day\n\n'Over again'. The hell would that mean?",
-		"Russian": "Прошлой ночью мне приснился сон, Ро. Попробую пересказать:\n\nЯ сидел в вертолёте. За окном не было видно ничего кроме белой дымки. Кабина была завалена оборудовением: инструменты, камеры, веревки. А напротив меня сидел волк. И мы разговаривали. Всё что он говорил не имело никакого смысла: что-то про дружбу, духов, ээ.. магниты? Это всё что я могу вспомнить. Затем я почувствовал что пора высаживаться и пошел за канатом. Вдруг я застыл в ужасе, обернулся и увидел волка лязгающего зубами: 'Заново!'. У меня подкосились ноги и я вывалился изо сна\n\nХа ха, можешь себе представить что случилось в вечер перед этим? Чертов волчара сцапал мою ногу и сбежал восвояси! Застал меня врасплох. Но не переживай, я его нашел. Сейчас вспоминаю того волка... черт побети, у него морда была точь в точь как у того волка из сна. Я их уже столько перевидал что могу различать их по чертам\n\n'Заново'. И что бы это, черт побери, значило?"
+		"Russian": "Прошлой ночью мне приснился сон, Ро. Попробую пересказать:\n\nЯ сидел в вертолёте. За окном не было видно ничего кроме белой дымки. Кабина была завалена оборудовением: инструменты, камеры, веревки. А напротив меня сидел волк. И мы разговаривали. Всё что он говорил не имело никакого смысла: что-то про дружбу, духов, ээ.. магниты? Это всё что я могу вспомнить. Затем я почувствовал что пора высаживаться и пошел за канатом. Вдруг я застыл в ужасе, обернулся и увидел волка лязгающего зубами: 'Заново!'. У меня подкосились ноги и я вывалился изо сна\n\nХа ха, можешь себе представить что случилось в вечер перед этим? Чертов волчара сцапал мою ногу и сбежал восвояси! Застал меня врасплох. Но не переживай, я его нашел. Сейчас вспоминаю того волка... черт побети, у него морда была точь в точь как у того волка из сна. Я их уже столько перевидал что могу различать их по чертам\n\n'Заново'. И что бы это, черт побери, значило?",
+		"Japanese": "昨日の夜、夢を見たんだ、ロー。だいたいこんな感じだった：\n\n私はヘリコプターに乗っていた。外を見ると、白い靄がかかっていて何も見えなかった。機内にはロープや道具、カメラなどの機材がぎっしりと積まれていた。そして、オオカミがいた。オオカミは私の向かいに座っていて、私と会話していた。オオカミの言うこと、友情とか幽霊とか……磁石？はどれも意味をなしていなかった。それしか思い出せない。そして、そろそろ外に出ようと思って、ロープを探したんだ。突然、私は恐怖に震えた、肩越しに振り向くと、オオカミが私の顔の真上で顎を鳴らしていたんだ。『オーバーアゲイン！』私はドアを倒し、そのまま夢から覚めてしまった。 \n\nはは、その夜、実際に何が起こったか君は想像がつくだろうか。あの忌々しいオオカミが私の靴を取って逃げたんだ！不意を突かれたよ。でも、なんとか見つけ出せたから心配しないでくれ。今にして思えば……あのオオカミは夢に出てきたオオカミと瓜二つだった。君も毎日会っている生き物の中の、ろくでなしの見分け方を学ぶんだ。 \n\n『オーバーアゲイン』、一体どういう意味なんだろうか？"
 	},
 
 
@@ -1061,7 +1070,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_8": {
 		"English": "You won't believe me, but I just now noticed the similarity in the names. I swear it was not my intention to call you after Rory. I knew a few other good people whose name started with R though. And you are a good person. So it fits you well, I think\n\nI can't remember how Rory was. Can't even remember the face. It's just a blank character in my head...\n\nThat last image of Jiji will never leave my head though. Never wondered if cats can survive cold weather. If so, she would probably found me by now, right? On the other hand, who knows what Aurora does to one's soul. Have you seen what it does to poor wolves?\n\n...\n\nDo you think Rory found a way out?",
-		"Russian": "Ты мне не поверишь, но я только сейчас заметил сходство в именах. Клянусь я не хотел называть тебя в честь Рори. Я знавал несколько хороших людей, чьи имена начинались на Р. А ты, вроде, хороший человек. Так что тебе идет это имя, я так думаю\n\nНе могу вспомнить Рори. Ни лицо, ни характер. Это просто пустой персонаж в моей голове...\n\nЗато это последнее воспоминание о Джиджи никогда не покинет мой разум. Интересно, кошки могут выжить в холодную погоду? Если так, она бы наверняка уже нашла меня, не так ли? С другой стороны, кто знает что Полярное Сияние творит с душой живого существа. Что творится с бедными волками под Её влиянием\n\n...\n\nДумаешь Рори удалось выбраться?"
+		"Russian": "Ты мне не поверишь, но я только сейчас заметил сходство в именах. Клянусь я не хотел называть тебя в честь Рори. Я знавал несколько хороших людей, чьи имена начинались на Р. А ты, вроде, хороший человек. Так что тебе идет это имя, я так думаю\n\nНе могу вспомнить Рори. Ни лицо, ни характер. Это просто пустой персонаж в моей голове...\n\nЗато это последнее воспоминание о Джиджи никогда не покинет мой разум. Интересно, кошки могут выжить в холодную погоду? Если так, она бы наверняка уже нашла меня, не так ли? С другой стороны, кто знает что Полярное Сияние творит с душой живого существа. Что творится с бедными волками под Её влиянием\n\n...\n\nДумаешь Рори удалось выбраться?",
+		"Japanese": "信じないだろうが、今になって名前の類似性に気づいた。ロリーにちなんで君を呼ぶつもりはなかったんだ。名前がRで始まるいい奴を他にも何人か知っていたんだけどね。そして、あなたはいい奴だ。だから、君にぴったりだと私は思うんだ。 \n\nロリーがどんな奴だったか思い出せない。顔さえも思い出せない。私の頭の中のロリーは空白のままなんだ...。 \n\nでも、最後のジジのイメージは、私の脳裏から離れないだろう。猫って寒さに強いのかって思ったことないんだ。もしそうなら、今頃ジジは私を見つけてるはず、そうじゃないかな？一方で、オーロラが人の魂に何をもたらすかなんて誰にもわからない。君は哀れな狼がどうなるか見たことあるかい？ \n\n...\n\n君は、ロリーは逃げ道を見つけたと思うかい？"
 	},
 
 
@@ -1074,7 +1084,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_9": {
 		"English": "Ro, I saw someone!\n\nWoke up from a gunshot in the middle of the night, looked out the window and saw a flare in the distance. The night was clear, so I took a torch and ran towards it as fast as I could. Didn't make it in time still, the shooter was already gone. I wish I thought to get my distress pistol, but I was too excited to see another human\n\nThe shooter was not very good it seemed, as the wolf was alive and irritated. I had to retreat to a nearest barn\n\nIn the morning I went back to the farmhouse where I was residing. The shooter spent the night there and felt free to take some of my stuff. We have missed each other again. Well... my fault",
-		"Russian": "Ро, я кого-то видел\n\nПроснулся посреди ночи от звука выстрела, выглянул в окно и увидел свет от фаера. Ночь была ясная, так что я схватил факел и побежал со всех ног в сторону огня. Всё же не успел, стрелок уже скрылся. Ах, если бы я сразу подумал взять сигнальный пистолет.. но я был слишком занят мыслью о том что вижу другого человека\n\nСтрелок из стрелка был похоже не очень, посколько волк был жив и очень раздражен. Мне пришлось отступить в ближайший амбар\n\nУтром я вернулся на ферму в которой основался. Стрелок побывал там и забрал некоторые мои вещи. Мы снова разминулись. Что-ж, я сам виноват"
+		"Russian": "Ро, я кого-то видел\n\nПроснулся посреди ночи от звука выстрела, выглянул в окно и увидел свет от фаера. Ночь была ясная, так что я схватил факел и побежал со всех ног в сторону огня. Всё же не успел, стрелок уже скрылся. Ах, если бы я сразу подумал взять сигнальный пистолет.. но я был слишком занят мыслью о том что вижу другого человека\n\nСтрелок из стрелка был похоже не очень, посколько волк был жив и очень раздражен. Мне пришлось отступить в ближайший амбар\n\nУтром я вернулся на ферму в которой основался. Стрелок побывал там и забрал некоторые мои вещи. Мы снова разминулись. Что-ж, я сам виноват",
+		"Japanese": "ロー、人を見たんだ！\n\n真夜中に銃声で目が覚め、窓の外を見ると、遠くに照明弾が見えた。夜空は晴れていたから、たいまつを持ってそこへ全速力で走ったんだ。だけど間に合わなくて、照明弾を撃った人はすでにいなくなっていたんだ。信号拳銃を入手することを考えるべきだったんだろうけど、私は他の人に会えるのが楽しみで仕方がなかったんだ。\n\nその人の射撃の腕はあまり良くなかったようで、撃たれたオオカミは生きていて、興奮していた。おかげで近くの納屋に逃げ込むことになったよ。\n\n朝になって、私は居住していた農家へ戻った。信号拳銃を撃った人はそこで一晩を過ごし、私の荷物を好き勝手に持っていっていた。お互い出会うことにしくじったわけだ。ああ……私のせいだな。"
 	},
 
 
@@ -1087,7 +1098,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_10": {
 		"English": "Are you listening to me right now, Ro? I can't sleep anymore... That someone.. is following me. My supplies are going missing every night\n\nEarly morning, it was very foggy but I saw a figure, close. No response to my calls, so I went after it. Coming back emptyhanded, all my equipment was gone. Should've guessed. It's like they are toying with me. Was that flare earlier also a lure? What kind of person would do that when we're fighting for our lives every day?\n\nI keep my notepad on me though, you can't take away my thoughs.\n\nUnless that someone was you, Ro?...",
-		"Russian": "Ро, слушай меня. Я больше не могу спать. Этот... человек... преследует меня. Мои припасы пропадают каждую ночь\n\nРано этим утром было очень туманно, но я разглядел фигуру, достаточно близко как мне показалось. На мой зов фигура не откликнулась, поэтому я пошел за ней. Возвращаясь без успеха, я обнаружил что все моё снаряжение пропало. Я должен был догадаться. Водит меня вокру пальца. Кто в своём уме станет себя так вести когда мы каждый день боремся за жизнь?\n\nЗаписная книжка, однако, всегда при мне. Моих мыслей тебе меня не лишить\n\nЕсли только тот кто-то это не ты, Ро?"
+		"Russian": "Ро, слушай меня. Я больше не могу спать. Этот... человек... преследует меня. Мои припасы пропадают каждую ночь\n\nРано этим утром было очень туманно, но я разглядел фигуру, достаточно близко как мне показалось. На мой зов фигура не откликнулась, поэтому я пошел за ней. Возвращаясь без успеха, я обнаружил что все моё снаряжение пропало. Я должен был догадаться. Водит меня вокру пальца. Кто в своём уме станет себя так вести когда мы каждый день боремся за жизнь?\n\nЗаписная книжка, однако, всегда при мне. Моих мыслей тебе меня не лишить\n\nЕсли только тот кто-то это не ты, Ро?",
+		"Japanese": "ロー、今、私の話を聞いているかい？もう眠れないんだ……。あいつが……私をつけている。毎晩のように物資が行方不明になる。\n\n早朝、霧がひどかったが、人影が見えたんだ、すぐ近くに。呼びかけても反応がないので、追いかけた。手ぶらで帰ってきたら、荷物が全部なくなってた。察するべきだった。まるで、私を弄んでいるようだ。あの照明弾も罠だったのか？私たちは毎日命がけで戦っているのに、そんなことをする人がいるのだろうか。\n\nでも、メモ帳は持ち歩いてるんだ、これだけは誰にも奪えない。\n\nその誰かが、君じゃなければ、ロー……。"
 	},
 
 
@@ -1100,7 +1112,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_11": {
 		"English": "Are you scared? Are you afraid of me? Why are you hiding? I need you to talk to me. I can't recall anything anymore. My memory is fading. Everything is covered with snow. But there's you. Ro, you are the only one who knows me\n\nI remember the lighthouse. I told you about the green lighthouse? I will get there. Please come see me. I won't hide this message this time, to be sure you can find it\n\nHow long have I been wandering here? Please tell me",
-		"Russian": "Тебе страшно? Ты боишься меня? Почему ты прячешься? Мне нужно твоё общение. Я не могу ничего вспомнить. Память покидает меня. Все запорошено снегом. Но есть ты. Ро, никто не знает меня кроме тебя\n\nЯ помню маяк. Я рассказывал тебе о зеленом маяке? Я доберусь до него. Пожалуйста, приходи. Я не стану прятать эту записку, не хочу чтобы тебе пришлось её искать\n\nКак долго я уже скитаюсь? Расскажи мне, пожалуйста"
+		"Russian": "Тебе страшно? Ты боишься меня? Почему ты прячешься? Мне нужно твоё общение. Я не могу ничего вспомнить. Память покидает меня. Все запорошено снегом. Но есть ты. Ро, никто не знает меня кроме тебя\n\nЯ помню маяк. Я рассказывал тебе о зеленом маяке? Я доберусь до него. Пожалуйста, приходи. Я не стану прятать эту записку, не хочу чтобы тебе пришлось её искать\n\nКак долго я уже скитаюсь? Расскажи мне, пожалуйста",
+		"Japanese": "怖いのか？私が怖いのか？なぜ隠れているんだ？話して欲しいんだ。もう何も思い出せない。記憶が薄れていく。何もかも雪で覆われてしまった。だけど、君がいる。ロー、私を知っているのは君だけだ。\n\n灯台のことは覚えているかい。君に緑の灯台の話をしたよな？私はそこに行く。頼むから会いに来てくれ。今回はこのメッセージを隠さない、確実に見つけてもらうために。\n\n私はいつからここをさまよっていたのだろうか？教えてくれ。"
 	},
 
 
@@ -1113,7 +1126,8 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_12": {
 		"English": "You... you know too much about me... you know everything! I told you everything... And you treat me this way?\n\nI found your message here. You made sure to hide it from me but I found it! You dare to mock me with those words... Making fun of me?\n\nI can't end it now... I will find you. I must get my memories back from you",
-		"Russian": "Ты... ты знаешь обо мне слишком много... ты знаешь обо мне всё! Я тебе всё рассказал... И ты так со мной поступаешь?\n\nЯ нашёл здесь твоё письмо. Спрятано было что надо, но уж я то нашёл! Как ты смеешь издеваться надо мной... Насмехаешься?\n\nЯ не могу так закончить... Я найду тебя. Я должен забрать у тебя свои воспоминания"
+		"Russian": "Ты... ты знаешь обо мне слишком много... ты знаешь обо мне всё! Я тебе всё рассказал... И ты так со мной поступаешь?\n\nЯ нашёл здесь твоё письмо. Спрятано было что надо, но уж я то нашёл! Как ты смеешь издеваться надо мной... Насмехаешься?\n\nЯ не могу так закончить... Я найду тебя. Я должен забрать у тебя свои воспоминания",
+		"Japanese": "君は……私のことを知りすぎている……何もかも知っている！何もかも話した... なのに、こんな風に私を扱うのか？\n\n君ののメッセージをここで見つけた。君は隠そうとしたんだろうが私は見つけた！そんな言葉で私をバカにするなんて……バカにしてるのか？\n\nこのままでは終われない... 必ず見つけてやる。お前から記憶を取り戻すんだ。"
 	},
 
 
@@ -1126,6 +1140,7 @@
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_LAST": {
 		"English": "To whomever is reading this: I'm lost\n\nI've been on this island for 500 days now, looking for another living soul. But there's nothing left but death and despair\n\nI'm setting up on my last journey. I will spread around what's left of my provisions. In case some poor soul gets stranded on this damned island - at the very least you won't have to die from starvation\n\nCome find me at the lighthouse if you will. The one on the East shore. That's where my story will come to an end",
-		"Russian": "Если кто-то это читает: я потерян\n\nЯ блуждаю по этому острову вот уже 500 дней, в поисках хоть одной живой души. Но здесь не осталось ничего кроме смерти и отчаяния\n\nЯ собираюсь в свое последнее странствие. Соберу оставшуюся провизию и распределю по дороге на восток. Если вдруг другая несчастная душа окажется на этом чертовом острове - по крайней мере тебе не придется помирать от голода\n\nНайди меня на маяке, если хочешь. На восточном побережье. Там моя история подойдет к концу"
+		"Russian": "Если кто-то это читает: я потерян\n\nЯ блуждаю по этому острову вот уже 500 дней, в поисках хоть одной живой души. Но здесь не осталось ничего кроме смерти и отчаяния\n\nЯ собираюсь в свое последнее странствие. Соберу оставшуюся провизию и распределю по дороге на восток. Если вдруг другая несчастная душа окажется на этом чертовом острове - по крайней мере тебе не придется помирать от голода\n\nНайди меня на маяке, если хочешь. На восточном побережье. Там моя история подойдет к концу",
+		"Japanese": "これを読んでいる誰かへ：私は死んだ。\n\nこの島に来て今日で500日、生存者を探してきた。だが、そこには死と絶望しか残されていない。\n\n私は最後の旅に出る。残り少ない食料をばらまくんだ。万が一、この忌まわしい島に流れ着いた哀れな人がいたとしても、少なくとも餓死することはないだろう。\n\n君がいいのなら灯台に会いに来てくれ。東の海岸にあるやつだ。そこで、私の物語は終わる。"
 	}
 }

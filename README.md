@@ -13,8 +13,6 @@ Selection of foods I think looks tasty :yum: You can take a closer look in [this
 ## Description
 Some designs came out of my head, some are 'inspired' by others. This food pack is not exactly balanced or anything, I just googled calories for real life analogies and slapped those in. There are options for tweaking calorie values however
 
-All scenes except for Blackrock are covered with custom spawn points
-
 ## Collectibles
 Includes collectible bear candles that can be found inside every Applesauce Pryanik package. 
 

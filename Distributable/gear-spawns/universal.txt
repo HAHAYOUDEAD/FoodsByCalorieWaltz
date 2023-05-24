@@ -94,7 +94,7 @@ item=GEAR_hotSpringSoda p=-2.0878,0.7821,-0.8502 r=0.0000,78.5872,0.0000 c=5
 item=GEAR_glintwein p=-1.0301,-0.1423,2.5927 r=67.8405,173.2747,89.9445 c=15
 #
 scene=MiltonHouseH2
-item=GEAR_roastedAlmonds p=-0.9051,0.4175,2.9999 r=-0.0001,41.6833,-0.0001 c=75
+item=GEAR_roastedAlmonds p=-3.5784,0.1330,3.3078 r=-0.0001,41.6833,-0.0001 c=75
 item=GEAR_latteDrops p=0.4649,-0.2000,-3.6096 r=0.0000,37.0739,0.0000 c=90
 item=GEAR_solitudeCider p=-4.0111,0.5070,-1.3370 r=67.4272,230.0430,269.9982 c=15
 

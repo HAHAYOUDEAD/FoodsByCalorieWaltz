@@ -26,7 +26,7 @@ scene=QuonsetGasStation
 item=GEAR_roastedAlmonds p=7.9461,1.2490,0.2686 r=270.0000,175.4349,0.0000 c=15
 item=GEAR_roastedAlmonds p=7.9463,1.2490,0.1970 r=270.0000,189.4331,0.0000 c=75
 item=GEAR_bananaChips p=8.2900,2.0700,0.2673 r=0.0000,183.2415,0.0000 c=5
-item=GEAR_jubileeCookies p=9.1561,1.1992,8.1243 r=0.0000,74.7831,0.0000 c=5
+item=GEAR_jubileeCookies p=9.2256,1.1992,8.1197 r=0.0000,74.7831,0.0000 c=5
 item=GEAR_jubileeCookies p=9.1060,1.1992,8.2963 r=0.0000,2.0595,0.0000 c=30
 item=GEAR_glintwein p=9.2816,1.9172,6.3695 r=0.3875,75.0930,0.0667 c=15
 item=GEAR_lecso p=9.2580,1.9170,6.6271 r=0.0000,64.1348,0.0000 c=100
@@ -119,3 +119,5 @@ item=GEAR_hotSpringSoda p=-26.9843,24.6886,866.6611 r=75.0017,310.2389,-0.0002 c
 item=GEAR_roastedAlmonds p=-28.0610,25.3215,866.6525 r=0.0000,15.6697,0.0000 c=15
 # town
 item=GEAR_strawberryPlombir p=734.5061,24.6891,584.9841 r=55.0178,34.3502,58.9046 c=15
+# Heli crash
+item=GEAR_kvass p=1060.3787,121.9858,370.2496 r=357.0178,187.0517,261.5076 c=50

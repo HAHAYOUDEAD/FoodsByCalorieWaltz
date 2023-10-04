@@ -180,14 +180,18 @@
                     AA.AppendTool(CWFCustomBundle, "plate", null, AA.ToolPoint.RightHand);
                 }
 
+                if (!loadedCalories)
+                {
+                    UpdateFoodArray();
+                    UpdateCaloriesInPrefabs();
+                    loadedCalories = true;
+                }
+
+                DoStuffWithGear();
+
             }
 
-            if (!loadedCalories)
-            {
-                UpdateFoodArray();
-                UpdateCaloriesInPrefabs();
-                loadedCalories = true;
-            }
+
 
             if (!loadedLocalizations)
             {
@@ -201,7 +205,7 @@
                 loadedLocalizations = true;
             }
 
-            DoStuffWithGear();
+            
 
             if (!Settings.options.disableCollectibleSpawns) // setup some custom objects in scene
             {

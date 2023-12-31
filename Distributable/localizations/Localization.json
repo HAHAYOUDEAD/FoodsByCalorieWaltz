@@ -4,7 +4,8 @@
 		"Russian": "Только из коробки",
 		"Japanese": "まっさら",
 		"German": "Brandneu",
-		"Turkish": "Yepyeni"
+		"Turkish": "Yepyeni",
+		"Italian": "Nuovo di pacca"
 		
 	},
 	"CWF_candleLeft90": {
@@ -12,35 +13,40 @@
 		"Russian": "Почти целая",
 		"Japanese": "ほぼ新品",
 		"German": "Fast voll",
-		"Turkish": "Neredeyse dolu"
+		"Turkish": "Neredeyse dolu",
+		"Italian": "Quasi pieno"
 	},
 	"CWF_candleLeft75": {
 		"English": "About three quarters left",
 		"Russian": "Осталось примерно три четверти",
 		"Japanese": "およそ四分の三",
 		"German": "Etwa drei Viertel übrig",
-		"Turkish": "Yaklaşık dörtte üçü kaldı"
+		"Turkish": "Yaklaşık dörtte üçü kaldı",
+		"Italian": "Rimasto circa tre quarti"
 	},
 	"CWF_candleLeft50": {
 		"English": "About a half left",
 		"Russian": "Осталась примерно половина",
 		"Japanese": "ほぼ半分",
 		"German": "Über die Hälfte übrig",
-		"Turkish": "Yaklaşık yarısı kaldı"
+		"Turkish": "Yaklaşık yarısı kaldı",
+		"Italian": "Rimasto circa la metà"
 	},
 	"CWF_candleLeft25": {
 		"English": "About a quarter left",
 		"Russian": "Осталось меньше четверти",
 		"Japanese": "およそ四分の一",
 		"German": "Etwa ein Viertel übrig",
-		"Turkish": "Yaklaşık çeyreği kaldı"
+		"Turkish": "Yaklaşık çeyreği kaldı",
+		"Italian": "Rimasto circa un quarto"
 	},
 	"CWF_candleLeft7": {
 		"English": "Almost done",
 		"Russian": "Почти закончилась",
 		"Japanese": "燃え尽きている",
 		"German": "Fast leer",
-		"Turkish": "Neredeyse bitti"
+		"Turkish": "Neredeyse bitti",
+		"Italian": "Quasi finito"
 	},
 	"GAMEPLAY_bananaChips": {
 		"English": "Banana Chips",
@@ -48,7 +54,8 @@
 		"Polish": "Chipsy Bananowe",
 		"Japanese": "バナナチップス",
 		"German": "Bananenchips",
-		"Turkish": "Muz Cipsi"
+		"Turkish": "Muz Cipsi",
+		"Italian": "Chips di banane
 	},
 	"GAMEPLAY_bananaChipsDescription": {
 		"English": "Dried banana with sugar. Dry and sweet. Too sweet",
@@ -56,7 +63,8 @@
 		"Polish": "Suszone płatki banana z cukrem. Suche i słodkie. Za słodkie",
 		"Japanese": "砂糖がかかった乾燥バナナチップ。乾燥していて甘い。甘すぎるくらいだ。",
 		"German": "Getrocknete Bananenscheiben mit Zucker. Trocken und süß. Zu süß",
-		"Turkish": "Şeker ilave edilmiş kurutulmuş muz. Kuru ve Tatlı. Bayağı tatlı."
+		"Turkish": "Şeker ilave edilmiş kurutulmuş muz. Kuru ve Tatlı. Bayağı tatlı.",
+		"Italian": "Banane essicate con zucchero. Secche e dolci. Troppo dolci."
 	},
 	"GAMEPLAY_crabSnack": {
 		"English": "Crab Wheat Chips",
@@ -64,7 +72,8 @@
 		"Polish": "Przenne Krabowe Chipsy",
 		"Japanese": "かにスナック",
 		"German": "Krabbenweizenchips",
-		"Turkish": "Buğdaylı Yengeç Cipsi"
+		"Turkish": "Buğdaylı Yengeç Cipsi",
+		"Italian": "Chips in Grano di Grancio"
 	},
 	"GAMEPLAY_crabSnackDescription": {
 		"English": "Crunchy little crabs. Extremely tasty, but also exceptionally dry",
@@ -72,7 +81,8 @@
 		"Polish": "Chrubkie małe krabki. Bardzo smaczne, ale i wyjątkowo suche",
 		"Japanese": "パリパリした小さなカニ入り。とてもおいしいが、非常にのどが渇く。",
 		"German": "Knusprige kleine Krabben. Sehr geschmackvoll, aber auch außergewöhnlich trocken",
-		"Turkish": "Gevrek küçük yengeçler. Son derece lezzetli ama aynı zamanda son derece kuru"
+		"Turkish": "Gevrek küçük yengeçler. Son derece lezzetli ama aynı zamanda son derece kuru",
+		"Italian": "Croccanti piccolo granchi. Estremamente buone, ma anche eccezionalmente secche"
 	},
 	"GAMEPLAY_honeyNuts": {
 		"English": "Nuts in Honey",
@@ -80,7 +90,8 @@
 		"Polish": "Orzechy w Miodzie",
 		"Japanese": "ハニーナッツ",
 		"German": "Nüsse in Honig",
-		"Turkish": "Fındıklı Bal"
+		"Turkish": "Fındıklı Bal",
+		"Italian": "Noccioline in Miele"
 	},
 	"GAMEPLAY_honeyNutsDescription": {
 		"English": "Lasts forever. If the lid is tight.\n\nEating too much will cause digestion problems. Do not consume without hot tea!",
@@ -88,7 +99,8 @@
 		"Polish": "Nigdy się nie psują o ile pokrywka jest szczelna. \n\nZjedzenie za dużo spowoduje problemy trawienne. Nie spożywać bez ciepłej herbaty!",
 		"Japanese": "しっかり蓋をしていればずっと長持ちする。\n\n食べ過ぎると胃もたれする。熱いお茶なしでは食べきれない",
 		"German": "Hält ewig, wenn der Deckel zu ist.\n\nZu viel davon führt zu Verdauungsproblemen. Nicht ohne heißen Tee verzehren!",
-		"Turkish": "Kapak sıkıysa sonsuza kadar saklanabilir. Çok yemek sindirim problemlerine yol açar. Sıcak çay olmadan tüketmeyin!"
+		"Turkish": "Kapak sıkıysa sonsuza kadar saklanabilir. Çok yemek sindirim problemlerine yol açar. Sıcak çay olmadan tüketmeyin!",
+		"Italian": "Dura per sempre. Se il coperchio è stretto.\n\nUn consumo elevato causerà problemi digestivi. Non consumarlo senza tisana calda!"
 	},
 	"GAMEPLAY_hotSpringSoda": {
 		"English": "Hot Spring Soda",
@@ -96,7 +108,8 @@
 		"Polish": "Napój ''Ciepła Wiosna''",
 		"Japanese": "ホットスプリングソーダ",
 		"German": "Quellwasser-Soda",
-		"Turkish": "Kaplıca Gazozu"
+		"Turkish": "Kaplıca Gazozu",
+		"Italian": "Soda 'Primavera Calda'"
 	},
 	"GAMEPLAY_hotSpringSodaDescription": {
 		"English": "Essentially god's nectar. Will make you appreciate life more",
@@ -104,7 +117,8 @@
 		"Polish": "Praktycznie boski nektar. Sprawi że zaczniesz bardziej doceniać życie",
 		"Japanese": "まさしく神の飲み物。生きていることに感謝したくなる。",
 		"German": "Im Wesentlichen der Nektar Gottes. Dadurch wirst du dein Leben mehr schätzen",
-		"Turkish": "Esasen yaz meyveli. Hayatı daha çok takdir etmeni sağlayacak"
+		"Turkish": "Esasen yaz meyveli. Hayatı daha çok takdir etmeni sağlayacak",
+		"Italian": "Essenzialmente nettare di dio. Ti farà apprezzare la vita di più"
 	},
 	"GAMEPLAY_jubileeCookies": {
 		"English": "Ginger Cookies",
@@ -112,7 +126,8 @@
 		"Polish": "Ciastka Imbirowe",
 		"Japanese": "ジンジャークッキー",
 		"German": "Ingwer-Kekse",
-		"Turkish": "Zencefilli kurabiyeler"
+		"Turkish": "Zencefilli kurabiyeler",
+		"Italian": "Biscotti allo zenzero"
 	},
 	"GAMEPLAY_jubileeCookiesDescription": {
 		"English": "Crunchy outside, soft inside. The perfect combination",
@@ -120,7 +135,8 @@
 		"Polish": "Chrupkie na zewnątrz, miękie w środku. Idealna kombinacja",
 		"Japanese": "外はサクサク、中はやわらか。完璧なコンビネーションだ。",
 		"German": "Außen knusprig, innen weich. Die perfekte Kombination",
-		"Turkish": "Dışı çıtır, içi yumuşacık. Mükemmel uyum"
+		"Turkish": "Dışı çıtır, içi yumuşacık. Mükemmel uyum",
+		"Italian": "Croccanti all'esterno, morbidi all'interno. La combinazione perfetta"
 	},
 	"GAMEPLAY_marinaraMackerel": {
 		"English": "Mackerel in Marinara Sauce",
@@ -128,7 +144,8 @@
 		"Polish": "Makrela w Paście",
 		"Japanese": "サバのマリナラソース漬け",
 		"German": "Makrele in Marinara-Sauce",
-		"Turkish": "Marinara Soslu Uskumru"
+		"Turkish": "Marinara Soslu Uskumru",
+		"Italian": "Sgorbro in Salsa Marinara"
 	},
 	"GAMEPLAY_marinaraMackerelDescription": {
 		"English": "Tender and savory mackerel filet. Add some vegetable ragout and the perfect dinner is ready",
@@ -136,7 +153,8 @@
 		"Polish": "Delikatny i pikantny filet z makreli. Dodaj warzywny gulasz i idealny obiad jest gotowy",
 		"Japanese": "柔らかくて美味しいサバの切り身。野菜シチューを追加すれば完璧なディナーの出来上がり。",
 		"German": "Zartes, herzhaftes Makrelenfilet. Füge etwas Gemüseragout hinzu und fertig ist das perfekte Abendessen",
-		"Turkish": "Yumuşak ve lezzetli uskumru filetosu. Biraz sebze yahnisi ekleyin ve mükemmel akşam yemeği hazır."
+		"Turkish": "Yumuşak ve lezzetli uskumru filetosu. Biraz sebze yahnisi ekleyin ve mükemmel akşam yemeği hazır.",
+		"Italian": "Filetto di sgombro tenero e saporito. Aggiungi un po' di ragù di verdure e la cena perfetta è pronta"
 	},
 	"GAMEPLAY_mysteryCake": {
 		"English": "Assorted Wafers",
@@ -144,7 +162,8 @@
 		"Polish": "Różane Wafle",
 		"Japanese": "ウエハースの詰め合わせ",
 		"German": "Waffelmischung",
-		"Turkish": "Karışık Gofretler"
+		"Turkish": "Karışık Gofretler",
+		"Italian": "Cialde Assortite"
 	},
 	"GAMEPLAY_mysteryCakeDescription": {
 		"English": "Wafers with chocolate and praline. Filling will pleasantly surprise you",
@@ -152,7 +171,8 @@
 		"Polish": "Wafle z pralinową czekoladą. Nadzienie mile Cię zaskoczy",
 		"Japanese": "チョコレートとプラリネが入ったウエハース。楽しい驚きをあなたに。",
 		"German": "Waffeln mit Schokolade und Pralinen. Die Füllung wird Sie angenehm überraschen",
-		"Turkish": "Çikolatalı ve badem şekerli gofretler sizi hoş bir şekilde şaşırtacak"
+		"Turkish": "Çikolatalı ve badem şekerli gofretler sizi hoş bir şekilde şaşırtacak",
+		"Italian": "Cialde con cioccolato e pralina. Il riempimento ti sorprenderà piacevolmente"
 	},
 	"GAMEPLAY_nannasOats": {
 		"English": "Nanna's Oats",
@@ -160,7 +180,8 @@
 		"Polish": "Owies Babuni",
 		"Japanese": "ナンナのオートミール",
 		"German": "Nanna's Hafer",
-		"Turkish": "Yulaf Ezmesi"
+		"Turkish": "Yulaf Ezmesi",
+		"Italian": "Avena della Nanna"
 	},
 	"GAMEPLAY_nannasOatsDescription": {
 		"English": "Needs water. Better with berries",
@@ -168,7 +189,8 @@
 		"Polish": "Wymaga wody. Lepiej smakuje z jagodami",
 		"Japanese": "食べるには水が必要。ベリーの類もあればなお良し。",
 		"German": "Benötigt Wasser. Besser mit Beeren",
-		"Turkish": "Suya ihtiyacı var. Çilek ile daha iyi"
+		"Turkish": "Suya ihtiyacı var. Çilek ile daha iyi",
+		"Italian": "Serve acqua. Meglio con qualche bacca"
 	},
 	"GAMEPLAY_oatsBowl": {
 		"English": "Oatmeal",
@@ -176,7 +198,8 @@
 		"Polish": "Owśanka",
 		"Japanese": "調理済みオートミール",
 		"German": "Haferflocken",
-		"Turkish": "Hazırlanmış Yulaf Ezmesi"
+		"Turkish": "Hazırlanmış Yulaf Ezmesi",
+		"Italian": "Fiocchi d'avena"
 	},
 	"GAMEPLAY_oatsBowlDescription": {
 		"English": "Bowl of plain oats. Nutritious but tastes like rag",
@@ -184,7 +207,8 @@
 		"Polish": "Miska płatków owsianych. Pożywna, ale smakuje jak łachmany",
 		"Japanese": "プレーンオートミール。栄養たっぷりだが布切れみたいな味がする。",
 		"German": "Eine Schüssel Haferflocken. Nahrhaft, aber schmeckt nach Lumpen",
-		"Turkish": "Bir kase sade yulaf. Besleyici ama tadı paçavra gibi"
+		"Turkish": "Bir kase sade yulaf. Besleyici ama tadı paçavra gibi",
+		"Italian": "Ciotola di avena semplice. Nutriente ma ha un sapore di straccio"
 	},
 	"GAMEPLAY_pinenutBrittle": {
 		"English": "Pine Nut Brittle Candy",
@@ -192,7 +216,8 @@
 		"Polish": "Kruchy plaster nasion sosny",
 		"Japanese": "松の実キャンディー",
 		"German": "Kiefernnuss-Krokantbonbons",
-		"Turkish": "Çam Fıstıklı Gevrek Şeker"
+		"Turkish": "Çam Fıstıklı Gevrek Şeker",
+		"Italian": "Caramelle Fragili ai Pinoli"
 	},
 	"GAMEPLAY_pinenutBrittleDescription": {
 		"English": "Little nuts in caramel. Don't break your teeth!",
@@ -200,7 +225,8 @@
 		"Polish": "Małe nasionka w karmelu. Nie połam sobie zębów!",
 		"Japanese": "松の実をカラメルで固めてある。歯を折らないように注意！",
 		"German": "Kleine Nüsse in Karamel. Brich dir nicht die Zähne aus!",
-		"Turkish": "Karamelin içinde küçük fındıklar. Dişlerini kırma!"
+		"Turkish": "Karamelin içinde küçük fındıklar. Dişlerini kırma!",
+		"Italian": "Piccole noccioline in caramello. Attento ai denti!"
 	},
 	"GAMEPLAY_solitudeCider": {
 		"English": "Solitude Cider",
@@ -208,7 +234,8 @@
 		"Polish": "Cydr ''Samotność''",
 		"Japanese": "ソリチュードサイダー",
 		"German": "Solitude Apfelwein",
-		"Turkish": "Elma Şarabı"
+		"Turkish": "Elma Şarabı",
+		"Italian": "Sidro 'Solitudine'"
 	},
 	"GAMEPLAY_solitudeCiderDescription": {
 		"English": "Semi-sweet berry cider. Doesn't get better than that.\n\nAlcohol 6% vol",
@@ -216,7 +243,8 @@
 		"Polish": "Półsłodki cydr jagodowy. Lepiej się nie da.\n\nAlkohol 6% vol",
 		"Japanese": "ほのかに甘いベリーサイダー。これ以上のものはないだろう。\n\nアルコール度数6％。",
 		"German": "Halbsüßer Beeren-Apfelwein. Besser geht es nicht.\n\nAlkoholgehalt: 6%",
-		"Turkish": "Yarı tatlı elma şarabı. Bundan iyisi olamaz.\n\n%6 Alkollü "
+		"Turkish": "Yarı tatlı elma şarabı. Bundan iyisi olamaz.\n\n%6 Alkollü ",
+		"Italian": "Un sidro di bacche semi dolci. Non c'è niente di meglio.\n\nContiene 6% vol di alcol"
 	},
 	"GAMEPLAY_tunaPate": {
 		"English": "Tuna Pate",
@@ -224,7 +252,8 @@
 		"Polish": "Pasta z tuńczyka",
 		"Japanese": "ツナのパテ",
 		"German": "Thunfischpastete",
-		"Turkish": "Ton balıklı ezme"
+		"Turkish": "Ton balıklı ezme",
+		"Italian": "Paté di Tonno"
 	},
 	"GAMEPLAY_tunaPateDescription": {
 		"English": "Delicious, almost sweet pate. Best with salty crackers",
@@ -232,7 +261,8 @@
 		"Polish": "Pyszna, prawie słodka pasta. Najlepiej ze słonymi krakersami",
 		"Japanese": "おいしいツナのパテ。塩クラッカーの最高の友。",
 		"German": "Köstliche, fast süße Pastete. Am besten mit salzigen Crackern",
-		"Turkish": "Lezzetli, neredeyse tatlı ezme. Tuzlu kraker ile en iyisi"
+		"Turkish": "Lezzetli, neredeyse tatlı ezme. Tuzlu kraker ile en iyisi",
+		"Italian": "Un paté delizioso, quasi dolce. Meglio con i cracker salati"
 	},
 	"GAMEPLAY_lecso": {
 		"English": "Lecsó",
@@ -240,7 +270,8 @@
 		"Polish": "Leczo ''Lecsó''",
 		"Japanese": "レチョーの缶詰",
 		"German": "Letscho",
-		"Turkish": "Lescó"
+		"Turkish": "Lescó",
+		"Italian": "Lecsó"
 	},
 	"GAMEPLAY_lecsoDescription": {
 		"English": "Vegetable ragout. Begs for some baked fish\n\nPronounced ''lecho''",
@@ -248,7 +279,8 @@
 		"Polish": "Gulasz warzywny. Wprost błaga o pieczoną rybkę",
 		"Japanese": "ハンガリーの野菜シチュー。こんがり焼けた魚が欲しくなる。",
 		"German": "Gemüseragout. Bittet um etwas gebackenen Fisch",
-		"Turkish": "Sebze yahnisi. Pişmiş balık için yalvarır\n\n''lecho'' olarak telaffuz edilir"
+		"Turkish": "Sebze yahnisi. Pişmiş balık için yalvarır\n\n''lecho'' olarak telaffuz edilir",
+		"Italian": "Ragù di verdura. Implora un po' di pesce al forno\n\nPronunciato ''lecho''"
 	},
 	"GAMEPLAY_figConfiture": {
 		"English": "Fig Confiture",
@@ -256,7 +288,8 @@
 		"Polish": "Konfitura z fig",
 		"Japanese": "イチジクのコンフィチュール",
 		"German": "Feigenkonfitüre",
-		"Turkish": "İncir reçeli"
+		"Turkish": "İncir reçeli",
+		"Italian": "Confettura di Fichi"
 	},
 	"GAMEPLAY_figConfitureDescription": {
 		"English": "Jam. Perfectly sweet with a little crunch",
@@ -264,7 +297,8 @@
 		"Polish": "Dżem. Idealnie słodki z lekką chrupkością",
 		"Japanese": "イチジクのジャム。とても甘くてちょっぴり歯ごたえがある。",
 		"German": "Marmelade. Perfekt süß mit ein wenig Biss",
-		"Turkish": "Reçel. Parçacıklı ve mükemmel tatlı."
+		"Turkish": "Reçel. Parçacıklı ve mükemmel tatlı.",
+		"Italian": "Marmellata. Perfettamente dolce con un po' di croccantezza"
 	},
 	"GAMEPLAY_nordShoreChocolate": {
 		"English": "Dark Chocolate with Salt and Caramel",
@@ -272,7 +306,8 @@
 		"Polish": "Gorzka czekolada ze słonym karmelem",
 		"Japanese": "塩とカラメル入りダークチョコレート",
 		"German": "Dunkle Schokolade mit Salz und Karamell",
-		"Turkish": "Tuzlu ve Karamelli Bitter Çikolata"
+		"Turkish": "Tuzlu ve Karamelli Bitter Çikolata",
+		"Italian": "Cioccolato Fondente con Sale e Caramello"
 	},
 	"GAMEPLAY_nordShoreChocolateDescription": {
 		"English": "Just taste it, you won't notice when it's gone",
@@ -280,7 +315,8 @@
 		"Polish": "Po prostu spróbuj. Nie zorientujesz się kiedy cała zniknie",
 		"Japanese": "一口食べたら止まらない味。",
 		"German": "Probier es einfach, du wirst es nicht merken, wenn es weg ist",
-		"Turkish": "Sadece tadına bak, bittiğinde fark etmeyeceksin"
+		"Turkish": "Sadece tadına bak, bittiğinde fark etmeyeceksin",
+		"Italian": "Provalo, non te ne accorgerai quando l'hai finito"
 	},
 	"GAMEPLAY_kvass": {
 		"English": "Kvass",
@@ -288,7 +324,8 @@
 		"Polish": "Drink ''Kwas''",
 		"Japanese": "クワース",
 		"German": "Kwass",
-		"Turkish": "Kvass"
+		"Turkish": "Kvass",
+		"Italian": "Kvas"
 	},
 	"GAMEPLAY_kvassDescription": {
 		"English": "Barely alcoholic, fizzy and refreshing with suble sweet taste",
@@ -296,7 +333,8 @@
 		"Polish": "Lekko alkoholowy, musujący i orzeźwiający napoj o subtelnie słodkim smaku",
 		"Japanese": "炭酸アルコール飲料。爽やかさとほのかな甘みがあなたをリフレッシュ。",
 		"German": "Kaum alkoholisch, spritzig und erfrischend mit dezent süßem Geschmack",
-		"Turkish": "Bir rus birası. Az alkollü, gazlı ve hafif tatlı tadıyla ferahlatıcı"
+		"Turkish": "Bir rus birası. Az alkollü, gazlı ve hafif tatlı tadıyla ferahlatıcı",
+		"Italian": "Appena alcolico, frizzante e rinfrescante con un gusto dolce e delicato"
 	},
 	"GAMEPLAY_roastedAlmonds": {
 		"English": "Roasted Almonds",
@@ -304,7 +342,8 @@
 		"Polish": "Prażone Migdały",
 		"Japanese": "ローストアーモンド",
 		"German": "Geröstete Mandeln",
-		"Turkish": "Kavrulmuş Badem"
+		"Turkish": "Kavrulmuş Badem",
+		"Italian": "Mandorle Arrostite"
 	},
 	"GAMEPLAY_roastedAlmondsDescription": {
 		"English": "Little nuts, a little salty, a little spicy",
@@ -312,7 +351,8 @@
 		"Polish": "Małe orzechy, lekko słone, lekko pikantne",
 		"Japanese": "小粒でちょっぴりしょっぱく、そしてちょっぴりスパイシー。",
 		"German": "Kleine Nüsse, ein bisschen salzig, ein bisschen würzig",
-		"Turkish": "Biraz fındıklı, biraz tuzlu, biraz baharatlı"
+		"Turkish": "Biraz fındıklı, biraz tuzlu, biraz baharatlı",
+		"Italian": "Piccole noccioline, un po' salate, un po' piccanti"
 	},
 	"GAMEPLAY_strawberryPlombir": {
 		"English": "Wild Strawberry Plombir",
@@ -320,7 +360,8 @@
 		"Polish": "Lody z kandyzowaną dziką truskawką",
 		"Japanese": "ストロベリーアイスバー",
 		"German": "Wilderdbeeren-Plombir",
-		"Turkish": "Dağ Çilekli Dondurma"
+		"Turkish": "Dağ Çilekli Dondurma",
+		"Italian": "Gelato alla Fragola Selvatica"
 	},
 	"GAMEPLAY_strawberryPlombirDescription": {
 		"English": "Sweet and soft, just melts on your tongue. May not be a good idea to eat when you cold",
@@ -328,7 +369,8 @@
 		"Polish": "Słodkie i miękkie, po prostu rozpływają się na języku. Mogą nie być dobrym pomysłem, gdy jest ci zimno",
 		"Japanese": "甘くて舌の上ですぐ溶けるくらい柔らか。寒い時に食べるのはお勧めできないけど。",
 		"German": "Süß und weich, zergeht auf der Zunge. Möglicherweise keine gute Idee, wenn dir kalt ist",
-		"Turkish": "Tatlı ve yumuşak, dilinizde eriyor. Üşüdüğünde bunu yemek iyi bir fikir olmayabilir"
+		"Turkish": "Tatlı ve yumuşak, dilinizde eriyor. Üşüdüğünde bunu yemek iyi bir fikir olmayabilir",
+		"Italian": "Dolce e morbida, appena si scoglie sulla tua lingua. Forse è una brutta idea mangiarlo quando hai freddo"
 	},
 	"GAMEPLAY_icecreamCup": {
 		"English": "Icecream in a Wafer Cup",
@@ -336,7 +378,8 @@
 		"Polish": "Lody w wafelku",
 		"Japanese": "ウエハースカップ入りのアイス",
 		"German": "Eiscreme im Waffelbecher",
-		"Turkish": "Gofretli Dondurma"
+		"Turkish": "Gofretli Dondurma",
+		"Italian": "Gelato in una Tazza di Cialda"
 	},
 	"GAMEPLAY_icecreamCupDescription": {
 		"English": "Blizzard with chocolate, nuts and caramel mixed in. All in a crunchy wafer cup. Wow\n\nThanks for asking, penguin's name is Jeremy",
@@ -344,7 +387,8 @@
 		"Polish": "Zamieć z czekoladą, orzechami i karmelem w środku. Całość w chrupiącym wafelku",
 		"Japanese": "アイスクリームとチョコレート、ナッツ、そしてキャラメルがパリッとしたウエハースのカップに入っている。\n\nよく聞いてくれました、ペンギン君の名前はジェレミーだよ。",
 		"German": "Eis mit Schokoladen, Nüssen und Karamell. Alles in einem knusprigen Waffelbecher. Wow\n\nDanke der Nachfrage, der Name des Pinguins ist Jeremy",
-		"Turkish": "Çikolata, Fındık ve karamel ile dondurulmuş çıtır gofret.\n\nSorduğun için teşekürler. Penguenin adı Jeremy."
+		"Turkish": "Çikolata, Fındık ve karamel ile dondurulmuş çıtır gofret.\n\nSorduğun için teşekürler. Penguenin adı Jeremy.",
+		"Italian": "Una buffera con cioccolata, noccioline e caramello mescolati dentro di esso. Tutto in una tazza fatta di cialda croccante. Wow\n\nGrazie per avermelo chiesto, il nome del pinguino è Jeremy"
 	},
 	"GAMEPLAY_applesaucePryanik": {
 		"English": "Pryanik with Applesauce Filling",
@@ -352,7 +396,8 @@
 		"Polish": "Piernik z jabłkowym nadzieniem",
 		"Japanese": "アップルソース入りプリャーニク",
 		"German": "Lebkuchen mit Apfelmusfüllung",
-		"Turkish": "Elma dolgulu zencefilli kurabiye"
+		"Turkish": "Elma dolgulu zencefilli kurabiye",
+		"Italian": "Panforte con Ripieno di Salsa di Mela"
 	},
 	"GAMEPLAY_applesaucePryanikDescription": {
 		"English": "Glazed honey biscuits. Sweet, soft and aromatic. Perfect complement to a cup of hot tea\n\nCheck out the inside!",
@@ -360,7 +405,8 @@
 		"Polish": "Glazurowany piernik miodowy. Słodki, miękki i aromatyczny. Idealne uzupełnienie filiżanki gorącej herbaty \n\nSprawdź co jest w środku!",
 		"Japanese": "はちみつをからめたビスケット。甘く柔らかくいい香り。熱いお茶に完璧に合う。\n\n中身に注目！",
 		"German": "Glasiertes Honiggebäck. Süß, weich und aromatisch. Perfekte Ergänzung zu einer heißen Tasse Tee\n\nSchauen Sie sich das Innere an!",
-		"Turkish": "Elma dolgulu zencefilli kurabiye. Tatlı, hassas ve aromatik. Bir fincan sıcak çayın mükemmel eşlikçisi\n\nİçinde ne olduğunu görün"
+		"Turkish": "Elma dolgulu zencefilli kurabiye. Tatlı, hassas ve aromatik. Bir fincan sıcak çayın mükemmel eşlikçisi\n\nİçinde ne olduğunu görün",
+		"Italian": "Biscotti glassati in miele. Dolci, morbidi e aromatici. Un completo perfetto con una tazza di tè caldo\n\nGuarda cosa c'è dentro!"
 	},
 	"GAMEPLAY_glintwein": {
 		"English": "Mulled Wine Kit",
@@ -368,7 +414,8 @@
 		"Polish": "Zestaw do grzańca",
 		"Japanese": "温ワインセット",
 		"German": "Glühwein-Set",
-		"Turkish": "Sıcak Şarap Seti"
+		"Turkish": "Sıcak Şarap Seti",
+		"Italian": "Kit di Vin Brulé"
 	},
 	"GAMEPLAY_glintweinDescription": {
 		"English": "They call it Glintwein in Russia. Includes red wine and spices. Bring everything to a simmer(don't boil!) and enjoy your cold winter evenings",
@@ -376,7 +423,8 @@
 		"Polish": "Zawiera czerwone wino i przyprawy. Doprowadź wszystko do wrzenia (nie gotuj!) i ciesz się mroźnymi zimowymi wieczorami",
 		"Japanese": "ロシアではグリントワインと呼ばれる。赤ワインとスパイス入り。ワインにスパイスを入れて温めたら（煮立てないこと！）寒い冬の夜も楽しいものになる。",
 		"German": "In Russland nennt man es Glintwein. Enthält Rotwein und Gewürze. Bringen Sie alles zum Köcheln (nicht kochen!) und genießen Sie Ihre kalten Winterabende",
-		"Turkish": "Rusya'da buna Glintwein diyorlar. Kırmızı şarap ve baharatlar içerir. Her şeyi ısıtın (kaynatmayın!) ve soğuk kış akşamlarınızın tadını çıkarın"
+		"Turkish": "Rusya'da buna Glintwein diyorlar. Kırmızı şarap ve baharatlar içerir. Her şeyi ısıtın (kaynatmayın!) ve soğuk kış akşamlarınızın tadını çıkarın",
+		"Italian": "Chiamato Glintwein in Russia. È incluse vino rosso e spezie. Cuocere tutto su un fuoco lento(non bollire!) e goditi le tue fredde serate invernali"
 	},
 	"GAMEPLAY_glintweinCup": {
 		"English": "Mulled Wine Glass",
@@ -384,7 +432,8 @@
 		"Polish": "Lampka grzanego wina",
 		"Japanese": "グラス入り温ワイン",
 		"German": "Glühweinglas",
-		"Turkish": "Sıcak Şarap Kadehi"
+		"Turkish": "Sıcak Şarap Kadehi",
+		"Italian": "Bicchiere di Vin Brulé"
 	},
 	"GAMEPLAY_glintweinCupDescription": {
 		"English": "Warms your heart, literally and figuratively",
@@ -392,7 +441,8 @@
 		"Polish": "Rozgrzewa serce, dosłownie i w przenośni",
 		"Japanese": "君を体の芯からも、心の底からも温めてくれる。",
 		"German": "Wärmt dein Herz, buchstäblich und bildlich",
-		"Turkish": "Kelimenin tam anlamıyla ve mecazi olarak içini ısıtır"
+		"Turkish": "Kelimenin tam anlamıyla ve mecazi olarak içini ısıtır",
+		"Italian": "Scalda il tuo cuore, letteralmente e figuratamente"
 	},
 	"GAMEPLAY_latteDrops": {
 		"English": "Latte Drops",
@@ -400,7 +450,8 @@
 		"Polish": "",
 		"Japanese": "カフェラッテドロップ",
 		"German": "Latte-Drops",
-		"Turkish": "latte damlaları"
+		"Turkish": "latte damlaları",
+		"Italian": "Gocce di Latte"
 	},
 	"GAMEPLAY_latteDropsDescription": {
 		"English": "Condensed coffee cups in a form of candy. Tastes as good, without the whole brewing hassle. \n\nGives a little energy boost",
@@ -408,7 +459,8 @@
 		"Polish": "",
 		"Japanese": "キャンディーの形をした濃縮コーヒー。文句なしに美味しい。\n\nいくらかのエナジーブースト効果あり。",
 		"German": "Milchkaffee in Form von Süßigkeiten. Schmeckt genauso gut, ohne den Aufwand Kaffee zu kochen.\n\nGibt einen kleinen Energieschub",
-		"Turkish": "Şeker şeklinde konsantre kahve. Kesinlikle lezzetli. \n\nBir miktar enerji artırma etkisi vardır"
+		"Turkish": "Şeker şeklinde konsantre kahve. Kesinlikle lezzetli. \n\nBir miktar enerji artırma etkisi vardır",
+		"Italian": "Tazze di caffè condensato in una forma di caramella. Buon gusto, senza tutto il processo di preparazione. \n\nDà una piccola spinta d'energia"
 	},
 	"GAMEPLAY_alphabetSoup": {
 		"English": "Alphabet Soup",
@@ -416,7 +468,8 @@
 		"Polish": "",
 		"Japanese": "アルファベットスープ",
 		"German": "Buchstaben-Suppe",
-		"Turkish": "Alfabe Çorbası"
+		"Turkish": "Alfabe Çorbası",
+		"Italian": "Zuppa di Alfabeto"
 	},
 	"GAMEPLAY_alphabetSoupDescription": {
 		"English": "Classic alphabet soup. Tastes of nostalgia and good mood. \n\nWhat mood came up for you?",
@@ -424,7 +477,8 @@
 		"Polish": "",
 		"Japanese": "昔ながらのアルファベットスープ。懐かしい味わいが良い雰囲気を呼び覚ます。\n\nあなたにも良い雰囲気を。",
 		"German": "Klassische Buchstaben-Suppe. Schmeckt nach Nostalgie und guter Laune. \n\nWelche Stimmung kommt bei dir auf?",
-		"Turkish": "Klasik alfabe çorbası. Nostalji tadı ve iyi bir ruh hali. \n\nSizin için hangi ruh hali geldi?"
+		"Turkish": "Klasik alfabe çorbası. Nostalji tadı ve iyi bir ruh hali. \n\nSizin için hangi ruh hali geldi?",
+		"Italian": "Classica zuppa di alfabeto. Ha un gusto di nostalgia e buon umore. \n\nIn che umore sei oggi?"
 	},
 	"GAMEPLAY_hematogen": {
 		"English": "Hematogen",
@@ -432,7 +486,8 @@
 		"Polish": "",
 		"Japanese": "ゲマトーゲン",
 		"German": "Hämatogen",
-		"Turkish": "Hematojen"
+		"Turkish": "Hematojen",
+		"Italian": "Ematogeno"
 	},
 	"GAMEPLAY_hematogenDescription": {
 		"English": "Albumin ingredient probably doesn't make a lot of sense. It's blood. \n\nMakes you heal faster, tastes good as a side effect",
@@ -440,7 +495,8 @@
 		"Polish": "",
 		"Japanese": "アルブミンの成分を意味するこのネーミングはいささか奇妙ではある。これは血液のことなのだ（材料に牛の血を含む）。\n\n君の回復力を高めてくれるが美味しさについては二の次である。",
 		"German": "Der Inhaltsstoff Albumin macht wahrscheinlich nicht viel Sinn. Es ist Blut. \n\nHeilt dich schneller, und schmeckt nebenbei ganz gut",
-		"Turkish": "Albümin içeriği muhtemelen pek bir anlam ifade etmiyor. Bu kan. \n\nDaha hızlı iyileşmenizi sağlar, yan etki olarak tadı güzeldir"
+		"Turkish": "Albümin içeriği muhtemelen pek bir anlam ifade etmiyor. Bu kan. \n\nDaha hızlı iyileşmenizi sağlar, yan etki olarak tadı güzeldir",
+		"Italian": "L'ingrediente albumina non ha alcun senso. È sangue. \n\nTi farà guarire più in fretta, ha un buon gusto come effetto collaterale"
 	},
 	"GAMEPLAY_rahatLokum": {
 		"English": "Turkish Delight",
@@ -448,7 +504,8 @@
 		"Polish": "",
 		"Japanese": "ターキッシュ・ディライト",
 		"German": "Türkischer Honig",
-		"Turkish": "Türk Lokumu"
+		"Turkish": "Türk Lokumu",
+		"Italian": "Delizia Turca"
 	},
 	"GAMEPLAY_rahatLokumDescription": {
 		"English": "Delicate, delicious candy. Turkish classic. There's a flavor for everyone, so you can't say you don't like it",
@@ -456,7 +513,8 @@
 		"Polish": "",
 		"Japanese": "柔らかく美味しいキャンディー。トルコの伝統菓子。この香りを嫌いだなんて言えるわけがない。",
 		"German": "Zarte, köstliche Süßigkeit. Türkischer Klassiker. Für jeden Geschmack ist etwas dabei, man kann also nicht sagen, dass es jemandem nicht schmeckt",
-		"Turkish": "Lezzetli, lezzetli şeker. Türk klasiği. Herkese göre bir lezzet vardır beğenmedim diyemezsin"
+		"Turkish": "Lezzetli, lezzetli şeker. Türk klasiği. Herkese göre bir lezzet vardır beğenmedim diyemezsin",
+		"Italian": "Dolciumi delicati e deliziosi. Un classico turco. Ci sono gusti per tutti, quindi non puoi dire che non ti piace"
 	},
 	"GAMEPLAY_CandleDescription": {
 		"English": "One of the collectible candle bears. There was a description card somewhere...",
@@ -464,7 +522,8 @@
 		"Polish": "Jeden z kolekcjonerskich misiów świecowych. Gdzieś była też karta z opisem...",
 		"Japanese": "収集可能なクマのキャンドルの一つ。説明カードはどこだろうか……。",
 		"German": "Eine der Sammelkerzenbären. Irgendwo gab es eine Beschreibungskarte...",
-		"Turkish": "Koleksiyonluk mum ayılarından biri. Bir yerde bir açıklama kartı vardı..."
+		"Turkish": "Koleksiyonluk mum ayılarından biri. Bir yerde bir açıklama kartı vardı...",
+		"Italian": "Una delle candele-orso collezionabili. C'era una carta con le descrizione da qualche parte..."
 	},
 	"GAMEPLAY_CandleGreenA": {
 		"English": "Candle Bear - Snowballed",
@@ -472,7 +531,8 @@
 		"Polish": "Świeczka Miś - Śnieżka",
 		"Japanese": "クマのキャンドル『雪合戦』",
 		"German": "Kerzenbär - Schneeball",
-		"Turkish": "Ayıcık Mumu - Kar Topu"
+		"Turkish": "Ayıcık Mumu - Kar Topu",
+		"Italian": "Candela-Orso - Palla di Neve"
 	},
 	"GAMEPLAY_CandleGreenB": {
 		"English": "Candle Bear - Festive",
@@ -480,7 +540,8 @@
 		"Polish": "Świeczka Miś - Sylwestrowicz",
 		"Japanese": "クマのキャンドル『お祝い』",
 		"German": "Kerzenbär - Festlich",
-		"Turkish": "Ayıcık Mumu - Festival"
+		"Turkish": "Ayıcık Mumu - Festival",
+		"Italian": "Candela-Orso - Festivo"
 	},
 	"GAMEPLAY_CandleGreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -488,7 +549,8 @@
 		"Polish": "Świeczka Miś - Smakosz",
 		"Japanese": "クマのキャンドル『ご馳走』",
 		"German": "Kerzenbär - Delikatesse",
-		"Turkish": "Ayıcık Mumu - Nezaket"
+		"Turkish": "Ayıcık Mumu - Nezaket",
+		"Italian": "Candela-Orso - Delicatezza"
 	},
 	"GAMEPLAY_CandleGreenD": {
 		"English": "Candle Bear - Dancer",
@@ -496,7 +558,8 @@
 		"Polish": "Świeczka Miś - Tancerz",
 		"Japanese": "クマのキャンドル『踊り手』",
 		"German": "Kerzenbär - Tänzer",
-		"Turkish": "Ayıcık Mumu - Dansçı"
+		"Turkish": "Ayıcık Mumu - Dansçı",
+		"Italian": "Candela-Orso - Ballerino"
 	},
 	"GAMEPLAY_CandleBlueA": {
 		"English": "Candle Bear - Fishing",
@@ -504,7 +567,8 @@
 		"Polish": "Świeczka Miś - Rybak",
 		"Japanese": "クマのキャンドル『魚釣り』",
 		"German": "Kerzenbär - Angler",
-		"Turkish": "Ayıcık Mumu - Balıkçı"
+		"Turkish": "Ayıcık Mumu - Balıkçı",
+		"Italian": "Candela-Orso - Pescatore"
 	},
 	"GAMEPLAY_CandleBlueB": {
 		"English": "Candle Bear - Struggle",
@@ -512,7 +576,8 @@
 		"Polish": "Świeczka Miś - Walka",
 		"Japanese": "クマのキャンドル『取っ組み合い』",
 		"German": "Kerzenbär - Kampf",
-		"Turkish": "Ayıcık Mumu - Çabalamak"
+		"Turkish": "Ayıcık Mumu - Çabalamak",
+		"Italian": "Candela-Orso - Lotta"
 	},
 	"GAMEPLAY_CandleBlueC": {
 		"English": "Candle Bear - Friends",
@@ -520,7 +585,8 @@
 		"Polish": "Świeczka Miś - Przyjeciele",
 		"Japanese": "クマのキャンドル『友達』",
 		"German": "Kerzenbär - Freunde",
-		"Turkish": "Ayıcık Mumu - Arkadaşlar"
+		"Turkish": "Ayıcık Mumu - Arkadaşlar",
+		"Italian": "Candela-Orso - Amici"
 	},
 	"GAMEPLAY_CandleBlueD": {
 		"English": "Candle Bear - Cards",
@@ -528,7 +594,8 @@
 		"Polish": "Świeczka Miś - Karty",
 		"Japanese": "クマのキャンドル『カード』",
 		"German": "Kerzenbär - Karten",
-		"Turkish": "Ayıcık Mumu - Kartlar"
+		"Turkish": "Ayıcık Mumu - Kartlar",
+		"Italian": "Candela-Orso - Carte"
 	},
 	"GAMEPLAY_CandlePurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -536,7 +603,8 @@
 		"Polish": "Świeczka Miś - Śnieżny Ocalały",
 		"Japanese": "クマのキャンドル『雪のサバイバー』",
 		"German": "Kerzenbär - Schneeüberlebender",
-		"Turkish": "Ayıcık Mumu - kardan kurtulan"
+		"Turkish": "Ayıcık Mumu - kardan kurtulan",
+		"Italian": "Candela-Orso - Sopravvissuto di Neve"
 	},
 	"GAMEPLAY_CandlePurpleB": {
 		"English": "Candle Bear - Education",
@@ -544,7 +612,8 @@
 		"Polish": "Świeczka Miś - Uczony",
 		"Japanese": "クマのキャンドル『お勉強』",
 		"German": "Kerzenbär - Ausbildung",
-		"Turkish": "Ayıcık Mumu - Eğitim"
+		"Turkish": "Ayıcık Mumu - Eğitim",
+		"Italian": "Candela-Orso - Educazione"
 	},
 	"GAMEPLAY_CandlePurpleC": {
 		"English": "Candle Bear - Haul",
@@ -552,7 +621,8 @@
 		"Polish": "Świeczka Miś - Przeciążony",
 		"Japanese": "クマのキャンドル『雄たけび』",
 		"German": "Kerzenbär - Schleppen",
-		"Turkish": "Ayıcık Mumu - Hambal"
+		"Turkish": "Ayıcık Mumu - Hambal",
+		"Italian": "Candela-Orso - Trasporto"
 	},
 	"GAMEPLAY_CandlePurpleD": {
 		"English": "Candle Bear - Present",
@@ -560,7 +630,8 @@
 		"Polish": "Świeczka Miś - Prezent",
 		"Japanese": "クマのキャンドル『贈り物』",
 		"German": "Kerzenbär - Geschenk",
-		"Turkish": "Ayıcık Mumu - Hediye"
+		"Turkish": "Ayıcık Mumu - Hediye",
+		"Italian": "Candela-Orso - Regalo"
 	},
 	"GAMEPLAY_CandleRedA": {
 		"English": "Candle Bear - Joke",
@@ -568,7 +639,8 @@
 		"Polish": "Świeczka Miś - Kawalarz",
 		"Japanese": "クマのキャンドル『冗談』",
 		"German": "Kerzenbär - Witz",
-		"Turkish": "Ayıcık Mumu - Şaka"
+		"Turkish": "Ayıcık Mumu - Şaka",
+		"Italian": "Candela-Orso - Barzeletta"
 	},
 	"GAMEPLAY_CandleRedB": {
 		"English": "Candle Bear - Hellbender",
@@ -576,7 +648,8 @@
 		"Polish": "Świeczka Miś - Pogromca Piekieł",
 		"Japanese": "クマのキャンドル『大酒飲み』",
 		"German": "Kerzenbär - Schlammteufel",
-		"Turkish": "Ayıcık Mumu - Cehennem bükücü"
+		"Turkish": "Ayıcık Mumu - Cehennem bükücü",
+		"Italian": "Candela-Orso - Hellbender"
 	},
 	"GAMEPLAY_CandleRedC": {
 		"English": "Candle Bear - Dragon",
@@ -584,7 +657,8 @@
 		"Polish": "Świeczka Miś - Smok",
 		"Japanese": "クマのキャンドル『竜』",
 		"German": "Kerzenbär - Drache",
-		"Turkish": "Ayıcık Mumu - Ejderha"
+		"Turkish": "Ayıcık Mumu - Ejderha",
+		"Italian": "Candela-Orso - Drago"
 	},
 	"GAMEPLAY_CandleRedD": {
 		"English": "Candle Bear - Moon",
@@ -592,7 +666,8 @@
 		"Polish": "Świeczka Miś - Księżyc",
 		"Japanese": "クマのキャンドル『月』",
 		"German": "Kerzenbär - Mond",
-		"Turkish": "Ayıcık Mumu - Ay"
+		"Turkish": "Ayıcık Mumu - Ay",
+		"Italian": "Candela-Orso - Luna"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenA": {
 		"English": "Candle Bear -  Snowballed",
@@ -600,7 +675,8 @@
 		"Polish": "Świeczka Miś - Śnieżka",
 		"Japanese": "クマのキャンドル『雪合戦』",
 		"German": "Kerzenbär - Schneeball",
-		"Turkish": "Ayıcık Mumu - Kartopu"
+		"Turkish": "Ayıcık Mumu - Kartopu",
+		"Italian": "Candela-Orso - Palla di Neve"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #01/16",
@@ -608,7 +684,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #01/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #01/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #01/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #01/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #01/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #01/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenA": {
 		"English": "Bears are not known to be Great at playing snowballs. But they love playing! When you see a sad-looking bear - cheer it up with a snowball! \n\nDo not attempt to play snowballs with a bear",
@@ -616,7 +693,8 @@
 		"Polish": "Nie wiadomo, czy misie były dobre w rzucaniu śnieżkami. Ale one uwielbiają się w to bawić! Kiedy zobaczysz smutno wyglądającego niedźwiadka - rozwesel go śnieżką! \n\nNie próbuj rzucać w śnieżkami w niedźwiedzie",
 		"Japanese": "クマたちは雪合戦の達人ではありません。ですが彼らはこの遊びが大好きです！元気のなさそうなクマを見かけたら、雪玉で元気づけてあげましょう。 \n\n（クマと一緒に雪合戦をしようとしてはいけません）",
 		"German": "Es ist nicht bekannt, ob Bären besonders gut darin sind, Schneeball zu spielen. Aber sie lieben es zu spielen! Wenn sie einen traurig aussehenden Bären sehen, muntern Sie ihn mit einem Schneeball auf! \n\nVersuchen Sie nicht, mit einem Bären Schneeball zu spielen.",
-		"Turkish": "Ayıların kartopu oynamakta pek iyi olduğu bilinmez. Ama oynamayı seviyorlar! Üzgün görünen bir ayı gördüğünüzde onu bir kartopu ile neşelendirin! \n\nAyı ile kartopu oynamaya çalışmayın"
+		"Turkish": "Ayıların kartopu oynamakta pek iyi olduğu bilinmez. Ama oynamayı seviyorlar! Üzgün görünen bir ayı gördüğünüzde onu bir kartopu ile neşelendirin! \n\nAyı ile kartopu oynamaya çalışmayın",
+		"Italian": "Gli orsi non sono noti per essere bravi a giocare alle palle di neve. Ma amavo giocare! Quando vedi un orso triste - lanciali una palla di neve per rallegrarlo! \n\nNon tentare di giocare a palle di neve con un orso"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenB": {
 		"English": "Candle Bear - Festive",
@@ -624,7 +702,8 @@
 		"Polish": "Świeczka Miś - Sylwestrowicz",
 		"Japanese": "クマのキャンドル『お祝い』",
 		"German": "Kerzenbär - Festlich",
-		"Turkish": "Ayıcık Mumu - Festival"
+		"Turkish": "Ayıcık Mumu - Festival",
+		"Italian": "Candela-Orso - Festivo"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #02/16",
@@ -633,6 +712,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #02/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #02/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #02/16"
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #02/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenB": {
 		"English": "Bears love to celebrate New Year. But they do it their own way. Try sneaking into bear den at New Year's eve with a colorful light - maybe you will be just in time for the celebration. \n\nDo not attempt to celebrate New Year with a bear",
@@ -640,7 +720,8 @@
 		"Polish": "Misie uwielbiają świętować Nowy Rok. Ale robią to po swojemu. Spróbuj zakraść się do niedźwiedziej nory w sylwestra przy kolorowym świetle - może zdążysz w sam raz na świętowanie. \n\nNie próbuj świętować Nowego Roku z niedźwiedziem",
 		"Japanese": "クマたちは新年を祝うのが大好きです。ですが彼らのお祝いは自己流です。大みそかに色とりどりの明かりで飾られたクマたちの住処に忍び込んでみましょう。もしかしたらお祝いに間に合うかもしれません。 \n\n（クマと一緒に新年を祝おうとしてはいけません）",
 		"German": "Bären lieben es, Neujahr zu feiern. Aber sie machen es auf ihre eigene Art. Versuchen Sie, sich am Silvesterabend mit buntem Licht in die Bärenhöhle zu schleichen - vielleicht kommen Sie gerade rechtzeitig zur Feier. \n\n Versuchen Sie nicht, Neujahr mit einem Bären zu feiern.",
-		"Turkish": "Ayılar Yeni Yılı kutlamayı sever. Ama bunu kendi yöntemleriyle yapıyorlar. Yeni Yıl arifesinde renkli bir ışıkla ayı inine gizlice girmeyi deneyin - belki kutlama için tam zamanında gelirsiniz. \n\nYeni Yılı ayıyla kutlamaya kalkmayın"
+		"Turkish": "Ayılar Yeni Yılı kutlamayı sever. Ama bunu kendi yöntemleriyle yapıyorlar. Yeni Yıl arifesinde renkli bir ışıkla ayı inine gizlice girmeyi deneyin - belki kutlama için tam zamanında gelirsiniz. \n\nYeni Yılı ayıyla kutlamaya kalkmayın",
+		"Italian": "Gli orsi amavo festeggiare il Capodanno. Ma lo fanno a modo loro. Prova a intrufolarti nella tana d'orso alla Vigilia del Capodanno con luci colorate - Forse sarai in tempo per la festa. \n\nNon tentare di festeggiare la Vigilia del Capodanno con un orso"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -648,7 +729,8 @@
 		"Polish": "Świeczka Miś - Smakosz",
 		"Japanese": "クマのキャンドル『ご馳走』",
 		"German": "Kerzenbär - Delikatesse",
-		"Turkish": "Ayıcık Mumu - Nezaket"
+		"Turkish": "Ayıcık Mumu - Nezaket",
+		"Italian": "Candela-Orso - Delicatezza"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #03/16",
@@ -656,7 +738,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #03/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #03/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #03/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #03/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #03/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #03/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenC": {
 		"English": "It is known, that the Greatest treat for a bear is honey. Mmm, nuts in honey - what a delight. What treats do you have for a bear? \n\nDo not attempt to have a meal with a bear",
@@ -664,7 +747,8 @@
 		"Polish": "Wiadomo, że największym przysmakiem niedźwiadka jest miód. Mmm, orzechy w miodzie - co za rozkosz. Jakie smakołyki masz dla misia? \n\nNie próbuj karmić niedźwiedzia",
 		"Japanese": "ご存じの通り、クマたちにとってはちみつは最高のご馳走です。ふむ、ではナッツ入りのはちみつは……もう大喜び。あなたはクマたち向けにどんなお菓子を持ってますか？\n\n（クマと一緒に食事をしようとしてはいけません）",
 		"German": "Es ist bekannt, dass der größte Leckerbissen für einen Bären Honig ist. Mmm, Nüsse in Honig - was für ein Genuss. Welche Leckereien hast du für einen Bären? \n\nVersuchen Sie nicht, mit einem Bären zu essen.",
-		"Turkish": "Ayı için en büyük ikramın bal olduğu bilinir. Mmm, ballı fındık - ne güzel. Bir ayı için ne tür ikramlarınız var? \n\nAyıyla yemek yemeye kalkışmayın"
+		"Turkish": "Ayı için en büyük ikramın bal olduğu bilinir. Mmm, ballı fındık - ne güzel. Bir ayı için ne tür ikramlarınız var? \n\nAyıyla yemek yemeye kalkışmayın",
+		"Italian": "È noto, che la più grande delicatezza per un orso è il miele. Mmm, noccioline in miele - Che delicatezza. Quale delicatezza hai da offrire per un orso? \n\nNon tentare di consumare un pasto insieme a un orso"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenD": {
 		"English": "Candle Bear - Dancer",
@@ -672,7 +756,8 @@
 		"Polish": "Świeczka Miś - Tancerz",
 		"Japanese": "クマのキャンドル『踊り手』",
 		"German": "Kerzenbär - Tänzer",
-		"Turkish": "Ayıcık Mumu - Dansçı"
+		"Turkish": "Ayıcık Mumu - Dansçı",
+		"Italian": "Candela-Orso - Ballerino"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #04/16",
@@ -680,7 +765,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #04/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #04/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #04/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #04/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #04/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #04/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenD": {
 		"English": "It may seem that the bear is dancing. But what actually happens is the sweater is too itchy and the bear can't reach to scratch it. If only someone could help out... \n\nDo not attempt to scratch bear's back. Even when it clearly asks for it",
@@ -688,7 +774,8 @@
 		"Polish": "Może się wydawać, że niedźwiadek tańczy. Ale tak naprawdę to sweter jest zbyt drapiący i misiek nie może się tam podrapać. Gdyby tylko ktoś mógł pomóc... \n\nNie próbuj drapać niedźwiedzia po plecach. Nawet jeśli wyraźnie o to prosi",
 		"Japanese": "このクマは踊っているように見えるかもしれません。ですが本当はセーターのせいで体が痒いのに、そこを掻こうとしても手が届かないのです。もし誰かが助けてあげたならば……。 \n\n（クマの背中を掻いてはいけません。たとえそうしてくれとはっきり頼まれてもです）",
 		"German": "Es scheint, als würde der Bär tanzen. Tatsächlich aber juckt der Pullover zu stark und der Bär ist nicht in der Lage, sich zu kratzen. Wenn ihm nur jemand helfen würde... \n\n Versuchen Sie nicht, dem Bären den Rücken zu kratzen. Auch wenn eindeutig danach gefragt wird.",
-		"Turkish": "Ayı dans ediyor gibi görünebilir. Ama gerçekte olan şey, süveterin çok kaşınmasıdır ve ayı kaşımak için uzanamaz. Keşke biri yardım edebilse... \n\nAyının sırtını kaşımaya çalışmayın. Açıkça bunu istediğinde bile"
+		"Turkish": "Ayı dans ediyor gibi görünebilir. Ama gerçekte olan şey, süveterin çok kaşınmasıdır ve ayı kaşımak için uzanamaz. Keşke biri yardım edebilse... \n\nAyının sırtını kaşımaya çalışmayın. Açıkça bunu istediğinde bile",
+		"Italian": "Può sembrare che l'orso sta ballando. Ma quello che veramente sta accadendo e che il maglione è troppo prurito e l'orso non può raggiungere la zona dove vuole grattarsi. Se solo qualcuno potesse aiutarlo... \n\nNon tentare di grattare la schiena di un orso. Anche se te lo chiede"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueA": {
 		"English": "Candle Bear - Fishing",
@@ -696,7 +783,8 @@
 		"Polish": "Świeczka Miś - Rybak",
 		"Japanese": "クマのキャンドル『魚釣り』",
 		"German": "Kerzenbär - Angler",
-		"Turkish": "Ayıcık Mumu - Balıkçı"
+		"Turkish": "Ayıcık Mumu - Balıkçı",
+		"Italian": "Candela-Orso - Pescatore"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #05/16",
@@ -704,7 +792,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #05/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #05/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #05/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #05/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #05/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #05/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueA": {
 		"English": "This bear tried fishing like humans. The catch doesn't seem to impress. Maybe it should try a different bait?\n\nDo not attempt to give a bear advices on fishing",
@@ -712,7 +801,8 @@
 		"Polish": "Ten misio próbował łowić ryby jak ludzie. Połów nie wydaje się zbyt imponujący. Może warto spróbować innej przynęty?\n\nNie próbuj udzielać niedźwiedziom rad dotyczących łowienia",
 		"Japanese": "このクマは人間たちのように魚釣りをしようとしています。ですが釣果は大したものではないようです。違う餌を試してみてはどうでしょうか？\n\n（クマに魚釣りのアドバイスをしてはいけません）",
 		"German": "Dieser Bär versucht wie Menschen zu fischen. Der Fang scheint ihn nicht zu beeindrucken. Vielleicht sollte er einen anderen Köder ausprobieren?\n\nVersuchen Sie nicht, einem Bären Ratschläge zum Angeln zu geben.",
-		"Turkish": "Bu ayı, insanlar gibi balık tutmayı denedi. Yakalama etkileyici görünmüyor. Belki de farklı bir yem denemelidir?\n\nBir ayıya balık tutma konusunda tavsiyeler vermeye kalkmayın."
+		"Turkish": "Bu ayı, insanlar gibi balık tutmayı denedi. Yakalama etkileyici görünmüyor. Belki de farklı bir yem denemelidir?\n\nBir ayıya balık tutma konusunda tavsiyeler vermeye kalkmayın.",
+		"Italian": "Questo orso ha provato a pescare come gli umani. La presa non sembra impressionante. Forse deve usare un'altro tipo di esca?\n\nNon tentare di dare consigli sulla pesca all'orso"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueB": {
 		"English": "Candle Bear - Struggle",
@@ -721,6 +811,7 @@
 		"Japanese": "クマのキャンドル『取っ組み合い』",
 		"German": "Kerzenbär - Kampf",
 		"Turkish": "Ayıcık Mumu - Çabalamak"
+		"Italian": "Candela-Orso - Lotta"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #06/16",
@@ -728,7 +819,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #06/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #06/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #06/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #06/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #06/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #06/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueB": {
 		"English": "Most believe that bear struggle can't be won. This bear seem to disagree with that statement. \n\nDo not attempt to approach a sturggling bear",
@@ -736,7 +828,8 @@
 		"Polish": "Większość wierzy, że nie da się wygrać walki z niedźwiedziami. Ten niedźwiadek wydaje się nie zgadzać z tym stwierdzeniem. \n\nNie próbuj zbliżać się do szarpiącego się niedźwiedzia",
 		"Japanese": "多くの人はクマに取っ組み合いで勝つのは不可能だと信じています。このクマはどうやらその主張には一致してないようです。\n\n（取っ組み合ってるクマに近づいてはいけません）",
 		"German": "Die meisten glauben, dass der Bärenkampf nicht gewonnen werden kann. Dieser Bär scheint der Aussage nicht zuzustimmen. \n\nVersuchen Sie nicht, sich einem zappelnden Bären zu nähern.",
-		"Turkish": "Çoğu, ayı mücadelesinin kazanılamayacağına inanıyor. Bu ayı bu ifadeye katılmıyor gibi görünüyor. \n\nMücadele eden bir ayıya yaklaşmaya çalışmayın"
+		"Turkish": "Çoğu, ayı mücadelesinin kazanılamayacağına inanıyor. Bu ayı bu ifadeye katılmıyor gibi görünüyor. \n\nMücadele eden bir ayıya yaklaşmaya çalışmayın",
+		"Italian": "Molti credono che le lotto con gli orsi non si possono vincere. Questo orso sembra essere il contrario. \n\nNon tentare di avvicinarti a un orso in difficoltà"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueC": {
 		"English": "Candle Bear - Friends",
@@ -744,7 +837,8 @@
 		"Polish": "Świeczka Miś - Przyjaciele",
 		"Japanese": "クマのキャンドル『友達』",
 		"German": "Kerzenbär - Freunde",
-		"Turkish": "Ayıcık Mumu - Arkadaşlar"
+		"Turkish": "Ayıcık Mumu - Arkadaşlar",
+		"Italian": "Candela-Orso - Amici"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #07/16",
@@ -753,6 +847,7 @@
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #07/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #07/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #08/16"
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #07/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueC": {
 		"English": "The Greatest food for bear is honey. The Greatest complement to honey is tea. The Greatest way to enjoy tea is with a friend. \n\nDo not attempt to befriend a bear for a free cup of tea",
@@ -760,7 +855,8 @@
 		"Polish": "Najlepszym łakociem misia jest miód. Najlepszym uzupełnieniem miodu jest herbata. Najlepszym sposobem na delektowanie się herbatą jest spotkanie z kolegą. \n\nNie próbuj zaprzyjaźnić się z niedźwiedziem za darmową filiżankę herbaty",
 		"Japanese": "クマにとってはちみつは一番のごちそうです。はちみつに一番合う飲み物はお茶です。お茶を楽しむ一番の方法は友達と一緒に飲むことです。\n\n（お茶の飲み放題のためにクマと友達になってはいけません）",
 		"German": "Das beste Futter für Bären ist Honig. Die beste Ergänzung zu Honig ist Tee. Die schönste Art, Tee zu genießen, ist mit einem Freund. \n\nVersuchen Sie nicht, sich für eine kostenlose Tasse Tee mit einem Bären anzufreunden.",
-		"Turkish": "Ayı için en büyük yiyecek baldır. Balın en büyük tamamlayıcısı çaydır. Çayın tadını çıkarmanın en harika yolu bir arkadaşla birliktedir. \n\nBedava bir fincan çay için bir ayıyla arkadaş olmaya çalışmayın"
+		"Turkish": "Ayı için en büyük yiyecek baldır. Balın en büyük tamamlayıcısı çaydır. Çayın tadını çıkarmanın en harika yolu bir arkadaşla birliktedir. \n\nBedava bir fincan çay için bir ayıyla arkadaş olmaya çalışmayın",
+		"Italian": "Il cibo migliore per un orso è il miele. Il completo migliore per un orso è il miele con tè. Il miglior modo per godere il tè è con un amico. \n\nNon tentare di diventare amici con un orso quando ti offre una tazza di tè"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueD": {
 		"English": "Candle Bear - Cards",
@@ -768,7 +864,8 @@
 		"Polish": "Świeczka Miś - Karty",
 		"Japanese": "クマのキャンドル『カード』",
 		"German": "Kerzenbär - Karten",
-		"Turkish": "Ayıcık Mumu - Kartlar"
+		"Turkish": "Ayıcık Mumu - Kartlar",
+		"Italian": "Candela-Orso - Carte"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #08/16",
@@ -776,7 +873,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #08/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #08/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #08/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #09/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #09/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #08/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueD": {
 		"English": "There is no gambling addiction among bears. They just love the sound the cards make. What was the bear playing? Poker? \n\nDo not attempt to search for cards near bear dens",
@@ -784,7 +882,8 @@
 		"Polish": "Wśród niedźwiedzi nie ma uzależnienia od hazardu. Po prostu uwielbiają dźwięk, który wydają karty. W co grał miś? W Pokera? \n\nNie próbuj szukać kart w pobliżu legowisk niedźwiedzi",
 		"Japanese": "クマたちの間にはギャンブル依存症はありません。彼らはカードが出す音が大好きなのです。このクマは何をプレイしているのでしょうか？ポーカー？ \n\n（クマの巣穴の近くでカードを探してはいけません）",
 		"German": "Bei Bären gibt es keine Spielsucht. Sie lieben einfach den Klang, den Karten machen. Was spielte der Bär? Poker? \n\nVersuchen Sie nciht, in der Nähe von Bärenhöhlen nach Karten zu suchen.",
-		"Turkish": "Ayılar arasında kumar bağımlılığı yoktur. Sadece kartların çıkardığı sesi seviyorlar. Ayı ne oynuyordu? Poker? \n\nAyı yuvalarının yakınında kart aramaya çalışmayın"
+		"Turkish": "Ayılar arasında kumar bağımlılığı yoktur. Sadece kartların çıkardığı sesi seviyorlar. Ayı ne oynuyordu? Poker? \n\nAyı yuvalarının yakınında kart aramaya çalışmayın",
+		"Italian": "Non c'è nessuna dipendenza nei giochi d'azzardo tra gli orsi. A loro piace il suono che le carte fanno. Cosa gioca l'orso? Poker? \n\nNon tentare di cercare carte in una tana d'orso"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -792,7 +891,8 @@
 		"Polish": "Świeczka Miś - Śnieżny Ocalały",
 		"Japanese": "クマのキャンドル『雪のサバイバー』",
 		"German": "Kerzenbär - Schneeüberlebender",
-		"Turkish": "Ayıcık Mumu - Kardan kurtulan"
+		"Turkish": "Ayıcık Mumu - Kardan kurtulan",
+		"Italian": "Candela-Orso - Sopravvissuto di Neve"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #09/16",
@@ -800,7 +900,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #09/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #09/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #09/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #09/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #09/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #09/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleA": {
 		"English": "Bears have a lot of free time. And what else would they do with all those survivor clothes? \n\nDo not attempt to steal clothes from snowmen",
@@ -808,7 +909,8 @@
 		"Polish": "Niedźwiadki mają dużo wolnego czasu. A co innego zrobiliby z tymi wszystkimi ubraniami ocalałych? \n\nNie próbuj kraść ubrań bałwanom",
 		"Japanese": "クマたちには有り余るほどの時間があります。そして、そのサバイバーの衣服の使い道は他になかったのでしょうか？ \n\n（雪だるまから服を盗んではいけません）",
 		"German": "Bären haben viel Freizeit. Und was würden sie sonst mit dieser Überlebenskleidung machen? \n\nVersuchen Sie nicht, Schneemännern Kleidung zu stehlen.",
-		"Turkish": "Ayıların çok fazla boş zamanı vardır. Ve tüm bu kurtulan kıyafetleriyle başka ne yapacaklardı? \n\nve kardan adamdan kıyafet çalmaya çalışmayın"
+		"Turkish": "Ayıların çok fazla boş zamanı vardır. Ve tüm bu kurtulan kıyafetleriyle başka ne yapacaklardı? \n\nve kardan adamdan kıyafet çalmaya çalışmayın",
+		"Italian": "Gli orsi hanno tanto tempo libero. È cos'altro farebbero con tutti quei vestiti dei sopravvissuti? \n\nNon tentare di rubare i vestiti a un pupazzo di neve"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleB": {
 		"English": "Candle Bear - Education",
@@ -816,7 +918,8 @@
 		"Polish": "Świeczka Miś - Uczony",
 		"Japanese": "クマのキャンドル『お勉強』",
 		"German": "Kerzenbär - Ausbildung",
-		"Turkish": "Ayıcık Mumu - Eğitim"
+		"Turkish": "Ayıcık Mumu - Eğitim",
+		"Italian": "Candela-Orso - Educazione"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #10/16",
@@ -824,7 +927,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #10/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #10/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #10/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #10/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #10/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #10/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleB": {
 		"English": "Bears have an amazing eyesight. This one just wants to look smart. Next time you see a still bear - ask what is it reading. \n\nDo not make loud noises behind bears, they might actually be reading",
@@ -832,7 +936,8 @@
 		"Polish": "Niedźwiedzie mają niesamowity wzrok. Ten po prostu chce wyglądać elegancko. Następnym razem, gdy zobaczysz nieruchomego misia, zapytaj, co czyta. \n\nNie wydawaj głośnych dźwięków wśród niedźwiedzi, mogą faktycznie czytać",
 		"Japanese": "クマたちは驚くべき視力の持ち主です。このクマは今おしゃれをしようとしています。この次あなたがじっとしているクマを見たときは……何を読んでいるのか尋ねてみましょう。 \n\n（読書をしているかもしれないクマの背後で大きな音を立ててはいけません）",
 		"German": "Bären haben erstaunliches Sehvermögen. Dieser will einfach nur schick aussehen. Wenn Sie das nächste Mal einen ruhigen Bären sehen, fragen Sie ihn, was er liest. \n\nMachen Sie keine lauten Geräusche hinter Bären, sie könnten tatsächlich lesen.",
-		"Turkish": "Ayılar inanılmaz bir görüşe sahiptir. Bu sadece akıllı görünmek istiyor. Bir daha hareketsiz bir ayı gördüğünüzde ne okuduğunu sorun. \n\nAyıların arkasında yüksek sesler çıkarmayın, gerçekten okuyor olabilirler"
+		"Turkish": "Ayılar inanılmaz bir görüşe sahiptir. Bu sadece akıllı görünmek istiyor. Bir daha hareketsiz bir ayı gördüğünüzde ne okuduğunu sorun. \n\nAyıların arkasında yüksek sesler çıkarmayın, gerçekten okuyor olabilirler",
+		"Italian": "Gli orsi hanno una vista straordinaria. Questo qua vuole sembrare intelligente. La prossima volta che vedi un orso - chiedili cosa sta leggendo. \n\nNon tentare di fare suoni forti dietro gli orsi, potrebbero addiritura leggere"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleC": {
 		"English": "Candle Bear - Haul",
@@ -840,7 +945,8 @@
 		"Polish": "Świeczka Miś - Przeciążony",
 		"Japanese": "クマのキャンドル『雄たけび』",
 		"German": "Kerzenbär - Schleppen",
-		"Turkish": "Ayıcık Mumu - Hambal"
+		"Turkish": "Ayıcık Mumu - Hambal",
+		"Italian": "Candela-Orso - Trasporto"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #11/16",
@@ -848,7 +954,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #11/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #11/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #11/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #11/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #11/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #11/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleC": {
 		"English": "This bear tried to carry everything in one go. Classic situation. \n\nDo not attempt to relate to bear problems",
@@ -856,7 +963,8 @@
 		"Polish": "Ten niedźwiedź próbował unieść wszystko za jednym zamachem. Klasyczna sytuacja. \n\nNie próbuj odnosić się do problemów niedźwiedzi",
 		"Japanese": "このクマは何もかもを一まとめにして運ぼうとしています。よくある光景です。 \n\n（クマの問題に共感してはいけません）",
 		"German": "Dieser Bär versuchte alles auf einmal zu tragen. Klassische Situation. \n\nVersuchen Sie nicht, sich auf Bärenprobleme einzulassen.",
-		"Turkish": "Bu ayı her şeyi tek seferde taşımaya çalıştı. Klasik durum. \n\nAyı sorunlarıyla ilişkilendirmeye çalışmayın"
+		"Turkish": "Bu ayı her şeyi tek seferde taşımaya çalıştı. Klasik durum. \n\nAyı sorunlarıyla ilişkilendirmeye çalışmayın",
+		"Italian": "Questo orso ha provato a trasportare tutto in un colpo solo. Una situazione classica. \n\nNon tentare di mettere in relazione i problemi degli orsi"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleD": {
 		"English": "Candle Bear - Present",
@@ -864,7 +972,8 @@
 		"Polish": "Świeczka Miś - Prezent",
 		"Japanese": "クマのキャンドル『贈り物』",
 		"German": "Kerzenbär - Geschenk",
-		"Turkish": "Ayıcık Mumu - Hediye"
+		"Turkish": "Ayıcık Mumu - Hediye",
+		"Italian": "Candela-Orso - Regalo"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #12/16",
@@ -872,7 +981,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #12/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #12/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #12/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #12/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #12/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #12/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleD": {
 		"English": "Bears enjoy a present as much as humans. But sometimes they mix something up. Make sure a bear doesn't see you placing your present - this might spoil the surprise. \n\nDo not attempt to become a present for a bear",
@@ -880,7 +990,8 @@
 		"Polish": "Niedźwiedzie cieszą się prezentami tak samo jak ludzie. Ale czasami coś pomieszają. Upewnij się, że niedźwiedź nie widzi, że kładziesz prezenty – może to zepsuć niespodziankę. \n\nNie próbuj zostać prezentem dla niedźwiedzia",
 		"Japanese": "クマたちは人間たちと同じくらい贈り物をします。ですが彼らは時々混乱することがあります。プレゼントを置いているところをクマに見られないよう気をつけてください……サプライズを台無しにしないためにも。 \n\n（クマにとっての贈り物になってはいけません）",
 		"German": "Bären freuen sich genauso über Geschenke, wie Menschen. Aber manchmal verwechseln sie etwas. Achten Sie darauf, dass kein Bär Sie dabei beobachtet, wie Sie Ihr Geschenk ablegen - das könnte die Überraschung verderben. \n\nVersuschen Sie nicht, ein Geschenk für einen Bären zu werden.",
-		"Turkish": "Ayılar, insanlar kadar bir hediyeden hoşlanırlar. Ama bazen bir şeyleri karıştırıyorlar. Bir ayının hediyenizi verdiğinizi görmediğinden emin olun - bu, sürprizi bozabilir. \n\nBir ayıya hediye olmaya çalışmayın"
+		"Turkish": "Ayılar, insanlar kadar bir hediyeden hoşlanırlar. Ama bazen bir şeyleri karıştırıyorlar. Bir ayının hediyenizi verdiğinizi görmediğinden emin olun - bu, sürprizi bozabilir. \n\nBir ayıya hediye olmaya çalışmayın",
+		"Italian": "Gli orsi si godono gli regali proprio come gli umani. Però certe volte mescolano qualcosa. Fai attenzione, da non farti sgamare dall'orso mentre piazzi il regalo - potrebbe rovinare la sorpresa. \n\nNon tentare di diventare un regalo per un orso"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedA": {
 		"English": "Candle Bear - Joke",
@@ -888,7 +999,8 @@
 		"Polish": "Świeczka Miś - Kawalarz",
 		"Japanese": "クマのキャンドル『冗談』",
 		"German": "Kerzenbär - Witz",
-		"Turkish": "Ayıcık Mumu - Şaka"
+		"Turkish": "Ayıcık Mumu - Şaka",
+		"Italian": "Candela-Orso - Barzeletta"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #13/16",
@@ -896,7 +1008,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #13/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #13/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #13/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #13/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #13/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #13/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedA": {
 		"English": "There is this Russian joke: 'A bear once walked through the forest and saw a burning car. Sat in it and burned dead'. Get it? \n\nDo not attempt to understand the joke",
@@ -904,7 +1017,8 @@
 		"Polish": "Jest taki rosyjski żart: „Pewnego razu niedźwiedź szedł lasem i zobaczył płonące auto. Siadł więc w nim i wypaił”. Łapiesz? \n\nNie próbuj zrozumieć tego żartu",
 		"Japanese": "ロシアの冗談に『森を歩いている最中に燃えている車を見たクマが、車に乗って焼け死んだ』というものがあります。分かりますか？ \n\n（この冗談を理解してはいけません）",
 		"German": "Es gibt diesen russischen Witz: 'Einst ging ein Bär durch den Wald und sah ein brennendes Auto. Saß drin und verbrannte.' Kapiert? \n\nVersuchen Sie nicht, diesen Witz zu verstehen.",
-		"Turkish": "Bir Rus fıkrası vardır: Bir keresinde bir ayı ormandan geçmiş ve yanan bir araba görmüş. İçine oturdu ve yanarak öldü'. Anla? \n\nŞakayı anlamaya çalışmayın"
+		"Turkish": "Bir Rus fıkrası vardır: Bir keresinde bir ayı ormandan geçmiş ve yanan bir araba görmüş. İçine oturdu ve yanarak öldü'. Anla? \n\nŞakayı anlamaya çalışmayın",
+		"Italian": "C'è questa barzeletta russa: 'Una volta un orso attraversò la foresta e vide un'auto in fiamme. Ci si sedette e morì bruciato'. Hai capito? \n\nNon tentare di capire la barzeletta"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedB": {
 		"English": "Candle Bear - Hellbender",
@@ -912,7 +1026,8 @@
 		"Polish": "Świeczka Miś - Pogromca Piekieł",
 		"Japanese": "クマのキャンドル『大酒飲み』",
 		"German": "Kerzenbär - Schlammteufel",
-		"Turkish": "Ayıcık Mumu - Cehennem bükücü"
+		"Turkish": "Ayıcık Mumu - Cehennem bükücü",
+		"Italian": "Candela-Orso - Hellbender"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #14/16",
@@ -920,7 +1035,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #14/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #14/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #14/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #14/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #14/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #14/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedB": {
 		"English": "This bear is pretending to be in his favorite not-so-normal show. Can you hear the singing? This is not a microphone, bear. \n\nDo not attempt to sing carols with a bear",
@@ -928,7 +1044,8 @@
 		"Polish": "Ten niedźwiedź udaje, że jest w swoim ulubionym, niezbyt normalnym programie. Słyszysz śpiew? To nie jest mikrofon, misiu. \n\nNie próbuj śpiewać kolęd z niedźwiedziem",
 		"Japanese": "このクマはお気に入りの番組に出ているつもりです。歌声が聞こえませんか？でもそれはマイクじゃないんですよ、クマ君。 \n\n（クマと一緒にキャロルを歌ってはいけません）",
 		"German": "Dieser Bär tut so, als wäre er in seiner 'nicht ganz normalen' Lieblingssendung dabei. Kannst du den Gesang hören? Das ist kein Mikrofon, Bär. \n\nVersuchen Sie nicht, mit einem Bären Weihnachtslieder zu singen.",
-		"Turkish": "Bu ayı, pek de normal olmayan favori şovundaymış gibi davranıyor. Şarkıyı duyabiliyor musun? Bu bir mikrofon değil, ayı. \n\nBir ayıyla ilahiler söylemeye kalkışmayın"
+		"Turkish": "Bu ayı, pek de normal olmayan favori şovundaymış gibi davranıyor. Şarkıyı duyabiliyor musun? Bu bir mikrofon değil, ayı. \n\nBir ayıyla ilahiler söylemeye kalkışmayın",
+		"Italian": "Questo orso pretende di essere nel suo preferito, non-così-normale, show. Puoi sentire le canzoni? Quello non è un microfono, Orso. \n\nNon tentare di cantare insieme al orso"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedC": {
 		"English": "Candle Bear - Dragon",
@@ -936,7 +1053,8 @@
 		"Polish": "Świeczka Miś - Smok",
 		"Japanese": "クマのキャンドル『竜』",
 		"German": "Kerzenbär - Drache",
-		"Turkish": "Ayıcık Mumu - Ejderha"
+		"Turkish": "Ayıcık Mumu - Ejderha",
+		"Italian": "Candela-Orso - Drago"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #15/16",
@@ -944,7 +1062,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #15/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #15/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #15/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #15/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #15/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #15/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedC": {
 		"English": "Some bears wish to collect the most food for the winter. Some wish to have the biggest den. Some wish they were born by a dragon. \n\nHere be no dragons",
@@ -952,7 +1071,8 @@
 		"Polish": "Niektóre niedźwiedzie chcialy by zebrać jak najwięcej pożywienia na zimę. Niektóre chciały by mieć największą jaskinię. Niektóre chiały by urodził je smok. \n\nTu nie będzie smoków",
 		"Japanese": "冬ごもりのために大量の食糧を貯めこもうとするクマがいます。巨大な巣穴を持ちたがるクマもいます。ドラゴンになりたがるクマもいるかもしれません。 \n\n（ドラゴンなんていません）",
 		"German": "Manche Bären möchten möglichst viel Futter für den Winter sammeln. Manche wünschen sich die größte Höhle. Manche wünschen sich, von einem Drachen geboren zu werden.\n\nHier gibt es keine Drachen.",
-		"Turkish": "Bazı ayılar kış için en fazla yiyeceği toplamak ister. Bazıları en büyük yuvaya sahip olmak ister. Bazıları bir ejderha tarafından doğmak ister. \n\nBurada ejderhalar olmasın"
+		"Turkish": "Bazı ayılar kış için en fazla yiyeceği toplamak ister. Bazıları en büyük yuvaya sahip olmak ister. Bazıları bir ejderha tarafından doğmak ister. \n\nBurada ejderhalar olmasın",
+		"Italian": "Certi orso desiderano di collezionare cibe e acqua il più possible per l'inverno. Certi desiderano di avere la più grande tana. Certi desiderano di nascere come draghi. \n\nQui non ci sono draghi"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedD": {
 		"English": "Candle Bear - Moon",
@@ -960,7 +1080,8 @@
 		"Polish": "Świeczka Miś - Księżyc",
 		"Japanese": "クマのキャンドル『月』",
 		"German": "Kerzenbär - Mond",
-		"Turkish": "Ayıcık Mumu - Ay"
+		"Turkish": "Ayıcık Mumu - Ay",
+		"Italian": "Candela-Orso - Luna"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #16/16",
@@ -968,7 +1089,8 @@
 		"Polish": "Kolekcjonerska świeczka figurka od 'Calorie Waltz'. Zestaw #16/16",
 		"Japanese": "『Calorie Waltz』の食品から収集可能なろうそく人形 #16/16",
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #16/16",
-		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #16/16"
+		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #16/16",
+		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #16/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedD": {
 		"English": "What happened to that bear? Aurora? Moonshine?  \n\nDo not attempt to fly a bicycle",
@@ -976,7 +1098,8 @@
 		"Polish": "Co się stało z tym niedźwiedziem? Zorza polarna? Bimber? \n\nNie próbuj latać rowerem",
 		"Japanese": "このクマに何が起こったのでしょうか？オーロラのしわざ？それとも月の光のせい？ \n\n（自転車で空を飛んではいけません）",
 		"German": "Was ist mit diesem Bären passiert? Aurora? Mondschein? \n\nVersuchen Sie nicht, ein Fahrrad zu fliegen.",
-		"Turkish": "O ayıya ne oldu? Aurora mı? kaçak içki? \n\nBisikleti uçurmaya çalışmayın"
+		"Turkish": "O ayıya ne oldu? Aurora mı? kaçak içki? \n\nBisikleti uçurmaya çalışmayın",
+		"Italian": "Cosa è successo a quell'orso? Aurora? Moonshine? \n\nNon tentare di volare con una bicicletta"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL": {
 		"English": "A note from a lost soul",
@@ -984,7 +1107,8 @@
 		"Polish": "Notatka od zagubionej duszy",
 		"Japanese": "失われた魂からのメッセージ",
 		"German": "Eine Nachricht von einer verlorenen Seele",
-		"Turkish": "Kayıp ruhtan bir not"
+		"Turkish": "Kayıp ruhtan bir not",
+		"Italian": "Una nota da una anima persa"
 	},
 	"GAMEPLAY_LOSTNOTE_DESC": {
 		"English": "A lore piece from 'Calorie Waltz' Foods employee",
@@ -992,7 +1116,8 @@
 		"Polish": "Kawałek fabuły od 'Calorie Waltz'",
 		"Japanese": "『Calorie Waltz』食品の社員が残したメッセージ",
 		"German": "Ein Stück aus der Überlieferung eines 'Calorie Waltz'Foods - Angestellten",
-		"Turkish": "'Calorie Waltz' Foods çalışanından bir parşömen"
+		"Turkish": "'Calorie Waltz' Foods çalışanından bir parşömen",
+		"Italian": "Un pezzo di storia da un impiegato di 'Calorie Waltz' Foods"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_1": {
 		"English": "Note from a lost soul #1",
@@ -1000,7 +1125,8 @@
 		"Polish": "Notatka zagubionej duszy #1",
 		"Japanese": "失われた魂からのメッセージ #1",
 		"German": "Nachricht einer verlorenen Seele #1",
-		"Turkish": "Kayıp ruhtan bir not #1"
+		"Turkish": "Kayıp ruhtan bir not #1",
+		"Italian": "Nota di un'anima persa #1"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_1": {
 		"English": "If you reading this... I'm lost. \n\n500 days I was wandering around the island, hoping to find another living soul. Everybody is dead. What about me then? Well... I'll make the last trip around the island and leave provisions. If another wretched soul gets stranded on this damned island - at least you won't die from starvation. If you ''lucky'' - you'll find me at the lighthouse(the still-standing one), I'll end my journey there.",
@@ -1008,7 +1134,8 @@
 		"Polish": "Jeśli to czytasz... zgubiłem się. \n\n500 dni błąkałem się po wyspie, mając nadzieję na znalezienie innej żywej duszy. Wszyscy nie żyją. Co więc ze mną? Cóż... Odbędę ostatnią podróż dookoła wyspy i zostawię prowiant. Jeśli kolejna nieszczęsna dusza utknie na tej przeklętej wyspie - przynajmniej nie umrzesz z głodu. Jeśli masz ''szczęście'' - znajdziesz mnie przy latarni morskiej (tej wciąż stojącej), tam zakończę swoją podróż",
 		"Japanese": "もし君がこれを読んでいるのなら……私は死んだということだ。 \n\n500日間、私は他の生存者を見つけようと島をさまよっていた。だが皆死に絶えていた。ではどうする？ふむ……最後に島を一巡りして食糧を残すか。もし他の哀れな者がこの呪われた島に流れ着いたなら……最低でも飢え死にだけはしないだろう。もし君が『幸運にも』私を灯台（いまだ健在な唯一のもの）で見つけたなら、私の旅はそこで終わる。",
 		"German": "Wenn Sie das lesen... bin ich verloren. \n\n500 Tage lang wanderte iich auf der Insel umher, in der Hoffnung, eine weitere lebende Seele zu finden. Alle sind tot. Was ist dann mit mir? Nun... Ich werde die letzte Reise um die Insel antreten und Proviant zurücklassen. Wenn noch eine elende Seele auf dieser verdammten Insel strandet, wird sie wenigstens nicht verhungern. Wenn du Glück hast, findest du mich am Leuchtturm (dem, der noch steht), dort beende ich meine Reise.",
-		"Turkish": "Eğer bunu okuyorsan... Kayboldum. \n\n500 gün başka bir yaşayan ruh bulmayı umarak adanın etrafında dolaştım. Herkes öldü. Peki ya ben? Pekala... Adanın etrafındaki son yolculuğu yapacağım ve erzak bırakacağım. Bu lanet adada başka bir sefil ruh mahsur kalırsa - en azından açlıktan ölmezsin. Eğer ''şanslı''ysanız - beni deniz fenerinde (hala ayakta olarak) bulursanız, yolculuğumu orada bitireceğim."
+		"Turkish": "Eğer bunu okuyorsan... Kayboldum. \n\n500 gün başka bir yaşayan ruh bulmayı umarak adanın etrafında dolaştım. Herkes öldü. Peki ya ben? Pekala... Adanın etrafındaki son yolculuğu yapacağım ve erzak bırakacağım. Bu lanet adada başka bir sefil ruh mahsur kalırsa - en azından açlıktan ölmezsin. Eğer ''şanslı''ysanız - beni deniz fenerinde (hala ayakta olarak) bulursanız, yolculuğumu orada bitireceğim.",
+		"Italian": "Se stai leggendo questo... mi sono perso. \n\n500 giorni ho vagato per l'isola, sperando di trovare un'altra anima vivente. Sono tutti morti. E io allora? Bene... farò l'ultimo giro dell'isola e lascerò le provviste. Se un'altra anima miserabile rimane bloccata su questa dannata isola, almeno non morirà di fame. Se sei ''fortunato'', mi troverai al faro (quello ancora in piedi), finirò lì il mio viaggio."
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_2": {
 		"English": "Note from a lost soul #2",
@@ -1016,14 +1143,16 @@
 		"Polish": "Notatka zagubionej duszy #2",
 		"Japanese": "失われた魂からのメッセージ #2",
 		"German": "Nachricht einer verlorenen Seele #2",
-		"Turkish": "Kayıp ruhtan bir not #2"
+		"Turkish": "Kayıp ruhtan bir not #2",
+		"Italian": "Nota di un'anima persa #2"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_2": {
 		"English": "Hell, that was morbid. That note I left there, in the valley? Well, I won't go pick it up now so I'll just hope you didn't see it lad. Or lass? I wonder who you are, my lovely reader\n\nAnyway, I overestimated how many supplies I have, so I'll be more modest with leaving them behind from now on. Fortunately, 'Calorie Waltz' is already very much spread across this island, so you, my precious reader, won't die from hunger",
 		"Russian": "Черт, это было нездорово. Та записка что я оставил. Ну, сделанного не воротишь, остается лишь надеяться что ты её не нашел. Или не нашла? Интересно кто ты, любезный читатель\n\nЧто хотел сказать, похоже я слегка переоценил количество своих припасов... Стану оставлять чуть меньше, иначе не хватит до маяка. К счастью, 'Calorie Waltz' уже достаточно распространена на острове, так что ты, мой драгоценный читатель, с голоду не умрёшь",
 		"Japanese": "地獄、それは恐ろしいものだ。私はそこ、谷間？にメモを残してきた。まあ、今となってはそれを拾いに戻ることはないから、君がメモを目にすることがないよう願うだけだ、若者よ。それとも娘さんか？素敵な読者さん、あなたは何者なのだろうな。\n\nとにかく、私は手持ちの物資の量を多く見積もり過ぎてたようだ、これからは残す物資の量を控えめにしよう。幸いにも『Calorie Waltz』の食品はすでにこの島に大量にばら撒かれているから、君が、私の大切な読者である君が飢え死ぬことはないだろう。",
 		"German": "Verdammt, das war krank. Diese Notiz, die ich im Tal hinterlassen habe? Nun, ich werde es jetzt nicht abholen, also hoffe ich, dass du es nicht gesehen hast, Junge. Oder Mädchen? Ich frage mich, wer du bist, mein lieber Leser.\n\nJedenfalls habe ich überschätzt, wie viele Vorräte ich habe, also werde ich von nun an bescheidener sein und sie zurücklassen. Glücklicherweise ist 'Calorie Waltz' auf dieser Insel bereits weit verbreitet, sodass Sie, mein werter Lesser, nicht vor Hunger sterben werden.",
-		"Turkish": "Kahretsin, bu hastalıklıydı. Orada, vadide bıraktığım notu mu? Pekala, şimdi gidip almayacağım, umarım görmemişsindir delikanlı. Ya da bayan? Acaba kimsin sevgili okuyucum\n\nHer neyse, elimdeki erzakları fazla tahmin ettim, o yüzden bundan sonra onları geride bırakırken daha mütevazi olacağım. Neyse ki, 'Calorie Waltz' bu adaya şimdiden çok yayıldı, bu yüzden siz değerli okuyucum açlıktan ölmeyeceksiniz."
+		"Turkish": "Kahretsin, bu hastalıklıydı. Orada, vadide bıraktığım notu mu? Pekala, şimdi gidip almayacağım, umarım görmemişsindir delikanlı. Ya da bayan? Acaba kimsin sevgili okuyucum\n\nHer neyse, elimdeki erzakları fazla tahmin ettim, o yüzden bundan sonra onları geride bırakırken daha mütevazi olacağım. Neyse ki, 'Calorie Waltz' bu adaya şimdiden çok yayıldı, bu yüzden siz değerli okuyucum açlıktan ölmeyeceksiniz.",
+		"Italian": "Diamine, quello era morboso. La nota che ho lasciato lì, nella valle? Bhe, non ci vado ad recuperarla quindi spero che non l'hai visto, ragazzo. O ragazza? Mi chiedo chi sei, mio ​​adorabile lettore\n\nComunque, ho sopravvalutato quante scorte ho, quindi sarò più modesto nel lasciarle indietro d'ora in poi. Fortunatamente, 'Calorie Waltz' è già molto diffuso in quest'isola, quindi tu, mio ​​prezioso lettore, non morirai di fame",
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_3": {
 		"English": "Note from a lost soul #3 part 1",
@@ -1031,14 +1160,16 @@
 		"Polish": "Notatka zagubionej duszy #3 część 1",
 		"Japanese": "失われた魂からのメッセージ #3-1",
 		"German": "Nachricht einer verlorenen Seele #3 - Teil 1",
-		"Turkish": "Kayıp ruhtan bir not #3 bölüm 1"
+		"Turkish": "Kayıp ruhtan bir not #3 bölüm 1",
+		"Italian": "Nota di un'anima persa #3 parte 1"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3": {
 		"English": "Day 518\n\nLovely weather today. Rare occasion. About -10 degrees I'd wager, light snowfall. Quiet\n\nI have something to tell you, I can't get it out of my head. Can't get you out of my head. Or the idea of 'you'? Of someone who I can talk to. Talking to myself doesn't feel strange anymore, but writing those messages... makes me feel human again?\n\n...I'll call you Ro, do you mind?",
 		"Russian": "День 518\n\n#Чудная погода сегодня. Не частое явление. Минус десять, небольшой снег. Тишина\n\nМне нужно тебе кое-что сказать, никак не выходит из головы. Ты не выходишь из головы. Сам факт того что я с тобой разговариваю? Не знаю как иначе это описать. Разговоры с самим собой уже давно стали привычными, странным это больше не кажется. Но эти сообщения для тебя... как будто я снова чувствую себя человеком?\n\n...ты не против если я буду звать тебя Ро?",
 		"Japanese": "518日目\n\n今日は素敵な天気だ。滅多にないことだ。気温はおよそマイナス10度というところで、小雪が舞っている。とても静かだ。\n\n君に伝えたいことが頭から離れない。あるいは、『君』のこと、私が話せる相手である君のことも？独り言を言うのがおかしなことだとはもう思わないが、こうしたメッセージを書いていると……人間らしさを取り戻せた気分になる？ \n\n……君のことをローと呼んでも構わないかな？",
 		"German": "Tag 518\n\nSchönes Wetter heute. Seltene Gelegenheit. Etwa -10 Grad würde ich wetten, leichter Schneefall. Ruhig.\n\nIch muss dir etwas sagen, es geht mir nicht mehr aus dem Kopf. Du gehst mir nicht mehr aus dem Kopf. Oder die Idee von 'Dir'? Von jemandem, mit dem ich reden kann. Mit mir selbst zu reden, fühlt sich nicht mehr seltsam an, aber wenn ich diese Nachrichten schreibe... fühle ich mich wieder menschlich?\n\n...Ich nenne dich Ro, hast du was dagegen?",
-		"Turkish": "518. Gün\n\nBugün hava çok güzel. Nadir fırsat. -10 dereceye bahse girerim, hafif kar yağışı. Sessiz\n\nSana söylemem gereken bir şey var, aklımdan çıkaramıyorum. Seni aklımdan çıkaramıyorum. Yoksa 'sen' fikri mi? Konuşabileceğim birinin. Kendi kendime konuşmak artık garip gelmiyor ama o mesajları yazmak... beni tekrar insan hissettiriyor?\n\n...Sana Ro diyeceğim, sakıncası var mı?"
+		"Turkish": "518. Gün\n\nBugün hava çok güzel. Nadir fırsat. -10 dereceye bahse girerim, hafif kar yağışı. Sessiz\n\nSana söylemem gereken bir şey var, aklımdan çıkaramıyorum. Seni aklımdan çıkaramıyorum. Yoksa 'sen' fikri mi? Konuşabileceğim birinin. Kendi kendime konuşmak artık garip gelmiyor ama o mesajları yazmak... beni tekrar insan hissettiriyor?\n\n...Sana Ro diyeceğim, sakıncası var mı?",
+		"Italian": "Giorno 518\n\nBel tempo oggi. Rara occasione. Scommetto circa -10 gradi, leggera nevicata. Silenzioso\n\nHo qualcosa da dirti, non riesco a togliermelo dalla testa. Non riesco a toglierti dalla testa. O l'idea di 'te'? Di qualcuno con cui posso parlare. Parlare da solo non mi sembra più strano, ma scrivere quei messaggi... mi fa sentire di nuovo umano?\n\n...ti chiamerò Ro, ti dispiace?"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_3-2": {
 		"English": "Note from a lost soul #3 part 2",
@@ -1046,14 +1177,16 @@
 		"Polish": "Notatka zagubionej duszy #3 część 2",
 		"Japanese": "失われた魂からのメッセージ #3-2",
 		"German": "Nachricht einer verlorenen Seele #3 - Teil 2",
-		"Turkish": "Kayıp ruhtan bir not #3 bölüm 2"
+		"Turkish": "Kayıp ruhtan bir not #3 bölüm 2",
+		"Italian": "Nota di un'anima persa #3 parte 2"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3-2": {
 		"English": "Evening 518\n\nI'm Victor by the way. Dowd. I'm working for 'CW', hauling goods to remote islands on my little launch. Was working, that is. I wonder if mainland even exists at this point\n\nDid no one even tried to rescue people here? Does nobody care about this island anymore to the point they didn't even notice it's death?\n\nWell, I figured if no one came for locals, I shouldn't wait for help either",
 		"Russian": "Вечер 518\n\nЯ, кстати, Виктор. Дауд. Работаю на 'CW', доставляю товары к удаленным островам на своём баркасе. Работал, раньше. Интересно, как там дела на материке\n\nНикто не пытался спасти местных? Неужели всем настолько плевать на этот остров что никто даже не заметил его гибели?\n\nЧто ж, если подумать, раз за местных никто не печётся, то и мне ждать помощи не стоит",
 		"Japanese": "518日目、夕方 \n\nちなみに私の名はヴィクター・ダウドだ。『CW』で働いていて、離島に小舟で商品を運んでいる。いや、働いていた、だな。私はカナダ本土が未だ健在であるのか疑問に思っている。 \n\n誰もここの住民たちを助けようとしなかったのか？この島の死に気づかないほど、誰もこの島に興味を持たなくなったのだろうか？ \n\nああ、もし誰も助けに来てくれないのなら、私も助けを待っていてはいけないのだろうな。",
 		"German": "Abend 518\n\nIch bin übrigens Victor. Dowd. Ich arbeite für 'CW', transportiere mit einer kleinen Barkasse Waren zu abgelegenen Inseln. Habe gearbeitet, das ist richtig. Ich frage mich, ob es zu diesem Zeitpunkt überhaupt ein Festland gibt.\n\nHat hier noch niemand versucht, Menschen zu retten? Kümmert sich niemand mehr um diese Insel, bis zu dem Punkt, dass man nicht mal ihren Tod bemerkt hat?\n\nNun, ich dachte mir, wenn niemand für die Einheimischen kommt, sollte auch ich nicht auf Hilfe warten.",
-		"Turkish": "Akşam 518\n\nBu arada ben Victor. Dowd. 'CW' için çalışıyorum, küçük teknemde uzak adalara mal taşıyorum. Çalışıyordu, yani. Acaba bu noktada anakara var mı?\n\nBurada kimse insanları kurtarmaya çalışmadı mı? Artık kimse bu adayı, öldüğünü fark etmeyecek kadar umursamıyor mu?\n\nPekala, eğer kimse yerliler için gelmiyorsa ben de yardım beklememeliyim diye düşündüm."
+		"Turkish": "Akşam 518\n\nBu arada ben Victor. Dowd. 'CW' için çalışıyorum, küçük teknemde uzak adalara mal taşıyorum. Çalışıyordu, yani. Acaba bu noktada anakara var mı?\n\nBurada kimse insanları kurtarmaya çalışmadı mı? Artık kimse bu adayı, öldüğünü fark etmeyecek kadar umursamıyor mu?\n\nPekala, eğer kimse yerliler için gelmiyorsa ben de yardım beklememeliyim diye düşündüm.",
+		"Italian": "Sera 518\n\nA proposito, sono Victor. Dowd. Lavoro per 'CW', trasportando merci verso isole remote sulla mia piccola lancia. Funzionava, intendo. Mi chiedo se la terraferma esiste a questo punto\n\nNessuno ha nemmeno provato a salvare le persone qui? A nessuno importa più di quest'isola al punto da non accorgersi nemmeno della sua morte?\n\nBeh, ho pensato che se nessuno fosse venuto a prendere la gente del posto, non avrei dovuto aspettare nemmeno io aiuto"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_4": {
 		"English": "Note from a lost soul #4",
@@ -1062,13 +1195,15 @@
 		"Japanese": "失われた魂からのメッセージ #4",
 		"German": "Nachricht einer verlorenen Seele #4",
 		"Turkish": "Kayıp ruhtan bir not #4"
+		"Italian": "Nota di un'anima persa #4"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_4": {
 		"English": "Day 522\n\nThere were 3 of us: me, Rory and Jiji. Rory was my cargo officer. Jiji was a.. cat\n\nBefore any electronics showed any sign of something being amiss, Jiji knew. And she made sure we knew too. We knew, but had no idea at the same time. The Aurora. When you experience something like that for the first time, your whole undestanding of the world crumbles. Being a sailor for 40 years, I had no clue what to do in that chaos\n\nRory acted... normal. Just carrying out orders like usual, taking care of the equipment. I didn't give it much thought at the time, but that didn't seem quite right\n\nInevitably, we hit a glacier. Rory fell over the railing. I managed to hold on\n\nLast thing I remembered was Jiji. She was standing on top of the glacier, looking at me with glowing eyes. Like a lighthouse",
 		"Russian": "День 522\n\nНас было трое: я, Рори и Джиджи. Рори - помощник по погрузке. Джиджи была.. кошкой\n\nЕщё до того как электроника начала сбоить, Джиджи уже дала нам знать что что-то было не так. Что конкретно - мы не могли и представить. Полярное Cияние. Когда такое случается с тобой впервые - всё представление о мире рушится. Я моряк уже более 40 лет, но представления не имел что предпринять в этом хаосе\n\nПоведение Рори меня озадачило. Не сразу, тогда было не до этого. Но потом, вспоминая произошедшее, я не мог понять как в такой суматохе можно сохранять спокойствие. Как обычно следить за оснасткой, выполнять приказы без тени смятения на лице...\n\nНеизбежно мы налетели на айсберг. Я удержался, но Рори выкинуло за борт\n\nПоследнее что я запомнил была Джиджи, стоящая на айсберге. Буравила меня светящимися глазами. Как маяк",
 		"Japanese": "522日目 \n\n私たち3人、私、ロリー、そしてジジ。ロリーは貨物担当。ジジは……猫だ。 \n\nジジは異常事態が起こっていることを電子機器が示す前に気づいていた。彼女はそれを私たちにも分かるようにしてくれたのだ。私たちは知っていた、だがどうすればいいかは分からなかった。オーロラ。君が初めてあのようなものを体験したら、世界観の全てが崩壊してしまうだろう。40年間船乗りをやってきたが、私はあの混乱の中で何をすべきなのか、まったくわからなかった。 \n\nロリーは...いつも通りだった。いつものように指示を実行し、機器の手入れをする。その時は何とも思わなかったが、どうも腑に落ちない。 \n\n必然的に氷山にぶつかった。ロリーは手すりを越えて転落。私はなんとか持ちこたえた。 \n\n最後に思い出したのはジジのことだった。彼女は氷山の天辺に立っていて、輝くような目で僕を見ていた。ちょうど灯台のように。",
 		"German": "Tag 522\n\nWir waren zu dritt: Ich, Rory und Jiji. Rory war mein Frachtoffizier. Jiji war eine... Katze.\n\nBevor die Elektronik Anzeichen dafür zeigte, dass etwas nicht stimmte, wusste Jiji es. Und sie sorgte dafür, dass wir es auch wussten. Wir wussten es, aber hatten gleichzeitig keine Ahnung. Die Aurora. Wenn du so etwas zum ersten Mal erlebst, bricht dein gesamtes Verständnis der Welt zusammen. Obwohl ich seit 40 Jahren Seemann bin, hatte ich keine Ahnuing, was ich in diesem Chaos tun sollte.\n\nRory verhielt sich... normal. Einfach wie gewohnt Befehle ausführen und sich um die Ausrüstung kümmern. Damals habe ich nicht darüber nachgedacht, aber das kam mir nicht ganz richtig vor.\n\nUnweigerlich steißen wir auf einen Gletscher. Rory fiel über das Geländer. Ich konnte mich festhalten.\n\nDas Letzte, woran ich mich erinnerte, war Jiji. Sie stand oben auf dem Gletscher und sah mich mit leuchtenden Augen an. Wie ein Leuchtturm.",
-		"Turkish": "522. Gün\n\n3 kişiydik: ben, Rory ve Jiji. Rory benim kargo memurumdu. Jiji bir.. kediydi\n\nHerhangi bir elektronik cihaz bir şeylerin ters gittiğine dair herhangi bir işaret göstermeden önce, Jiji biliyordu. Ve bizim de bildiğimizden emin oldu. Biliyorduk ama aynı zamanda hiçbir fikrimiz yoktu. Aurora. Böyle bir şeyi ilk kez deneyimlediğinizde, dünyaya dair tüm anlayışınız paramparça olur. 40 yıllık bir denizci olarak, o kaos içinde ne yapacağım hakkında hiçbir fikrim yoktu\n\nRory... normal davrandı. Her zamanki gibi emirleri yerine getirmek, ekipmanla ilgilenmek. O zaman pek düşünmedim ama bu pek doğru gelmedi\n\nKaçınılmaz olarak bir buzulla karşılaştık. Rory korkuluktan düştü. Dayanmayı başardım\n\nSon hatırladığım şey Jiji'ydi. Buzulun tepesinde durmuş, parıldayan gözlerle bana bakıyordu. Bir deniz feneri gibi"
+		"Turkish": "522. Gün\n\n3 kişiydik: ben, Rory ve Jiji. Rory benim kargo memurumdu. Jiji bir.. kediydi\n\nHerhangi bir elektronik cihaz bir şeylerin ters gittiğine dair herhangi bir işaret göstermeden önce, Jiji biliyordu. Ve bizim de bildiğimizden emin oldu. Biliyorduk ama aynı zamanda hiçbir fikrimiz yoktu. Aurora. Böyle bir şeyi ilk kez deneyimlediğinizde, dünyaya dair tüm anlayışınız paramparça olur. 40 yıllık bir denizci olarak, o kaos içinde ne yapacağım hakkında hiçbir fikrim yoktu\n\nRory... normal davrandı. Her zamanki gibi emirleri yerine getirmek, ekipmanla ilgilenmek. O zaman pek düşünmedim ama bu pek doğru gelmedi\n\nKaçınılmaz olarak bir buzulla karşılaştık. Rory korkuluktan düştü. Dayanmayı başardım\n\nSon hatırladığım şey Jiji'ydi. Buzulun tepesinde durmuş, parıldayan gözlerle bana bakıyordu. Bir deniz feneri gibi",
+		"Italian": "Giorno 522\n\nEravamo in 3: io, Rory e Jiji. Rory era il mio ufficiale di carico. Jiji era un... gatto\n\nPrima che qualsiasi dispositivo elettronico mostrasse qualsiasi segno di qualcosa che non andava, Jiji lo sapeva. E ha fatto certo che lo sapevamo anche noi. Lo sapevamo, ma allo stesso tempo non ne avevamo idea. L'Aurora. Quando provi qualcosa del genere per la prima volta, tutta la tua comprensione del mondo crolla. Essendo un marinaio per 40 anni, non ne avevo idea cosa fare in quel caos\n\nRory si comportava... normalmente. Eseguiva gli ordini come al solito, prendendosi cura dell'attrezzatura. Non ci avevo pensato molto in quel momento, ma non mi sembrava del tutto giusto\n\nInevitabilmente, abbiamo colpito un ghiacciaio. Rory è caduta dalla ringhiera. Sono riuscito a trattenermi\n\nL'ultima cosa che mi sono ricordata è stata Jiji. Era in piedi in cima al ghiacciaio e mi guardava con occhi luminosi. Come un faro"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_5": {
 		"English": "Note from a lost soul #5",
@@ -1076,14 +1211,16 @@
 		"Polish": "Notatka zagubionej duszy #5",
 		"Japanese": "失われた魂からのメッセージ #5",
 		"German": "Nachricht einer verlorenen Seele #5",
-		"Turkish": "Kayıp ruhtan bir not #5"
+		"Turkish": "Kayıp ruhtan bir not #5",
+		"Italian": "Nota di un'anima persa #5"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_5": {
 		"English": "Day 530\n\nI enjoy writing those now, it gives me illusion that you can hear me. I should have done it from the beginning, keeping a journal or something\n\nYou are wondering why I'm leaving my messages in such strange places? I'm not entirely sure. Maybe I don't actually want to be heard? Not by everyone at least. The first message I wrote was just a despair cry. Later that didn't feel right, so I wanted to apologize. That's when I met you, wasn't it? Haha. I trust you. I trust you my thoughts, Ro. But let's keep this game, what do you say? I'll keep hiding them and you keep finding? Please",
 		"Russian": "День 530\n\nЛовлю себя на мысли, что мне нравится излагать свои мысли на бумаге. Создается впечатление что ты меня слышишь. Надо было с самого начала вести дневник или что-то навроде\n\nИнтересуешься, зачем я оставляю свои сообщения в таких странных, труднодоступных местах? Чтож, я не уверен. Не уверен что хочу чтобы кто-то меня слышал. По крайней мере не все подряд. Первое моё сообщение было криком отчаяния. Не следовало мне так себя вести, пришлось извиняться. Тогда то мы и познакомились, не так ли? Ха ха. Я доверяю тебе. Доверяю свои мысли, Ро. Однако, давай продолжим эту игру - я буду прятать сообщения а ты продолжай их находить, что скажешь? Пожалуйста",
 		"Japanese": "530日目 \n\n今の私は書き物をすることが楽しい、それは君が私の言葉を聞いているような幻を私に見せてくれる。こんなことなら最初から日記か何かを書いておけばよかった。 \n\nなぜ私がこんな奇妙な場所ばかりにメッセージを残しているのか、君は不思議に思っているのじゃないか？でも私にもわからないんだよ。おそらく、私は本当は知られたくないのかな？最低でも、誰も彼もには。私が書いた最初のメッセージはただ絶望の叫びだった。その後、あれは間違っていたと思うようになって、謝りたくなった。それが、私があなたに出会った時、なのかな？はは。私はあなたを信じます。私の想いの中のあなたを信じます、ロー。でも、この遊びは続けるよ、君は何て言うかな？私が隠し続けるなら、君は見つけ続けるのかな？お願いだよ。",
 		"German": "Tag 530\n\nEs macht mir Spaß, dieses jetzt zu schreiben. Es gibt mir die Illusion, dass du mich hören kannst. Ich hätte von Anfang an ein Tagebuch führen sollen, oder etwas in der Art.\n\nDu fragst dich, warum ich meine Nachrichten an so seltsamen Orten hinterlasse? Ich bin mir nicht ganz sicher. Vielleicht möchte ich eigentlich gar nicht gehört werden? Zumindest nicht von jedem. Die erste Nachricht, die ich schrieb, war nur ein verzweifelter Schrei. Später fühlte sich das nicht richtig an, also wollte ich mich entschuldigen. Da habe ich dich kennengelernt, nicht wahr? Haha. Ich vertraue dir. Ich vertraue dir meine Gedanken an, Ro. Aber lass uns dieses Spiel beibehalten, was sagst du dazu? Ich werde sie weiter verstecken und du findest sie weiterhin? Bitte.",
-		"Turkish": "530. Gün\n\nŞu anda bunları yazmaktan zevk alıyorum, beni duyabiliyormuşsun gibi bir yanılsama yaşıyorum. Bunu en başından yapmalıydım, günlük falan tutmalıydım\n\nMesajlarımı neden bu kadar tuhaf yerlerde bıraktığımı merak ediyorsun? Tam olarak emin değilim. Belki de gerçekten duyulmak istemiyorum? En azından herkes tarafından değil. Yazdığım ilk mesaj sadece bir çaresizlik çığlığıydı. Daha sonra bu doğru gelmedi, ben de özür dilemek istedim. Seninle o zaman tanıştım, değil mi? Haha. Sana güveniyorum. Sana düşüncelerime güveniyorum, Ro. Ama bu oyuna devam edelim, ne dersiniz? Ben saklamaya devam edeceğim ve sen bulmaya devam mı edeceksin? Lütfen"
+		"Turkish": "530. Gün\n\nŞu anda bunları yazmaktan zevk alıyorum, beni duyabiliyormuşsun gibi bir yanılsama yaşıyorum. Bunu en başından yapmalıydım, günlük falan tutmalıydım\n\nMesajlarımı neden bu kadar tuhaf yerlerde bıraktığımı merak ediyorsun? Tam olarak emin değilim. Belki de gerçekten duyulmak istemiyorum? En azından herkes tarafından değil. Yazdığım ilk mesaj sadece bir çaresizlik çığlığıydı. Daha sonra bu doğru gelmedi, ben de özür dilemek istedim. Seninle o zaman tanıştım, değil mi? Haha. Sana güveniyorum. Sana düşüncelerime güveniyorum, Ro. Ama bu oyuna devam edelim, ne dersiniz? Ben saklamaya devam edeceğim ve sen bulmaya devam mı edeceksin? Lütfen",
+		"Italian": "Giorno 530\n\nMi piace scriverli adesso, mi dà l'illusione che tu possa sentirmi. Avrei dovuto farlo dall'inizio, tenendo un diario o qualcosa del genere\n\nTi stai chiedendo perché sto lasciando i miei messaggi in posti così strani? Non ne sono del tutto sicuro. Forse non voglio davvero essere ascoltato? Non da tutti, almeno. Il primo messaggio che ho scritto era solo un grido di disperazione. In seguito non mi è sembrato giusto, quindi ho voluto per scusarmi. È stato allora che ti ho incontrato, vero? Haha. Mi fido di te. Mi fido dei miei pensieri, Ro. Ma continuiamo con questo gioco, che ne dici? Io continuerò a nasconderli e tu continui a trovarli? Per favore"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_6": {
 		"English": "Note from a lost soul #6",
@@ -1091,14 +1228,16 @@
 		"Polish": "Notatka zagubionej duszy #6",
 		"Japanese": "失われた魂からのメッセージ #6",
 		"German": "Nachricht einer verlorenen Seele #6",
-		"Turkish": "Kayıp ruhtan bir not #6"
+		"Turkish": "Kayıp ruhtan bir not #6",
+		"Italian": "Nota di un'anima persa #6"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_6": {
 		"English": "I could not remember how we managed to get from the sinking launch to the shore. I tried talking to Rory about what happened that night, again and again, but never got any adequate response. As if it didn't happen for real. As if we just appeared on this island\n\nThe longer I live here, the more I start to feel that.. estrangement? I still recall who I was and how I got here, if only partially, but the past is getting hazier every day\n\nI found myself alone after a month. No word, no message, one morning Rory was just gone. Must have been snowing during the night, since I couldn't even see any tracks... ",
 		"Russian": "Я не мог вспомнить как мы добрались с тонущего баркаса на берег. Пытался поговорить с Рори о той ночи, снова и снова, но ничего вразумительного не услышал. Как будто ничего и не было. Будто мы просто возникли на этом острове\n\nЧем дольше я здесь живу, тем сильнее ощущается некая... отстранённость? Я всё ещё помню кем был и как сюда попал, хоть и не вполне, но память затуманивается с каждым днём\n\nМесяц спустя, я остался один. Ни слова ни записки, на утро Рори просто не было. Я отправился было на поиски, но не нашел даже следов. Видимо ночью шел снег...",
 		"Japanese": "沈む小舟からどうやって脱出して岸にたどり着いたのか思い出せない。ロリーにあの夜のことを繰り返し話してみたのだが、まともな答えが返ってくることはなかった。まるで現実の出来事ではないようだった。まるで、私たちがいきなりこの島に現れたようだった。 \n\nここで暮らすうちに、だんだん……疎外感？を感じるようになった。自分が誰で、どうやってここに来たか、部分的にまだ思い出せるけど、日に日に過去が曖昧になってる。 \n\n1ヶ月後、気が付くと私は一人になっていた。言葉も書き置きもなく、ある朝、ロリーがいなくなった。夜中に雪が降ったのだろうか、足跡すら見つけられなかった……。",
 		"German": "Ich kann mich nicht erinnern, wie wir es geschafft haben, von diesem sinkenden Ding an das Ufer zu gelangen. Ich habe immer wieder versucht, mit Rory über das, was in der Nacht passiert ist, zu sprechen, bekam aber nie eine angemessene Antwort. Als ob es nicht wirklich passiert wäre. Als ob wir gerade erst auf dieser Insel aufgetaucht wären.\n\nJe länger ich hier lebe, desto mehr sprüe ich diese... Entfremdung? Ich erinnere mich noch, wer ich war und wie ich hier her gekommen bin, wenn auch nur teilweise. Aber die Vergangenheit wird von Tag zu Tag verschwommener.\n\nIch war nach einem Monat allein. Kein Wort, keine Nachricht, eines Morgens war Rory einfach weg. In der Nacht muss es geschneit haben, da ich keine Spuren erkennen konnte...",
-		"Turkish": "Batan tekneden kıyıya nasıl ulaştığımızı hatırlayamadım. Rory ile o gece olanlar hakkında defalarca konuşmaya çalıştım ama hiçbir zaman yeterli bir yanıt alamadım. Sanki gerçek olmamış gibi. Sanki bu adaya yeni gelmişiz gibi\n\nBurada ne kadar uzun yaşarsam o kadar çok hissetmeye başlıyorum.. yabancılaşma? Kısmen de olsa kim olduğumu ve buraya nasıl geldiğimi hâlâ hatırlıyorum ama geçmiş her geçen gün daha da belirsizleşiyor\n\nBir ay sonra kendimi yalnız buldum. Tek kelime yok, mesaj yok, bir sabah Rory gitmişti. Hiçbir iz göremediğime göre gece boyunca kar yağmış olmalı..."
+		"Turkish": "Batan tekneden kıyıya nasıl ulaştığımızı hatırlayamadım. Rory ile o gece olanlar hakkında defalarca konuşmaya çalıştım ama hiçbir zaman yeterli bir yanıt alamadım. Sanki gerçek olmamış gibi. Sanki bu adaya yeni gelmişiz gibi\n\nBurada ne kadar uzun yaşarsam o kadar çok hissetmeye başlıyorum.. yabancılaşma? Kısmen de olsa kim olduğumu ve buraya nasıl geldiğimi hâlâ hatırlıyorum ama geçmiş her geçen gün daha da belirsizleşiyor\n\nBir ay sonra kendimi yalnız buldum. Tek kelime yok, mesaj yok, bir sabah Rory gitmişti. Hiçbir iz göremediğime göre gece boyunca kar yağmış olmalı...",
+		"Italian": "Non riuscivo a ricordare come siamo riusciti ad arrivare dalla lancia che affondava alla riva. Ho provato a parlare con Rory di quello che è successo quella notte, più e più volte, ma non ho mai ricevuto alcuna risposta adeguata. Come se non fosse successo davvero. Come se fossimo appena apparsi su quest'isola\n\nPiù vivo qui, più inizio a sentire che... estraniamento? Ricordo ancora chi ero e come sono arrivato qui, anche se solo parzialmente, ma il passato sta diventando più confuso ogni giorno\n\nMi sono ritrovato solo dopo un mese. Nessuna parola, nessun messaggio, una mattina Rory non c'era più. Ha dovuto nevicare durante la notte, dato che non riuscivo nemmeno a vedere alcuna traccia... "
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_7": {
 		"English": "Note from a lost soul #7",
@@ -1106,14 +1245,16 @@
 		"Polish": "Notatka zagubionej duszy #7",
 		"Japanese": "失われた魂からのメッセージ #7",
 		"German": "Nachricht einer verlorenen Seele #7",
-		"Turkish": "Kayıp ruhtan bir not #8"
+		"Turkish": "Kayıp ruhtan bir not #8",
+		"Italian": "Nota di un'anima persa #7"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_7": {
 		"English": "I had a dream last night, Ro. It was roughly like this:\n\nI was sitting in a helicopter. Looking outside, I saw nothing but white haze. Cabin was all filled with equipment: ropes, tools, cameras. And there was a wolf. A wolf was sitting across me, and we were talking. Nothing of what wolf was saying made any sense, something about friendship and ghosts and uhh.. magnets? That's all I can recall. Then I felt it was time to get out, so I went looking for the rope. Suddenly I shivered in fear, looking over my shoulder I saw the wolf right up my face smacking it's jaws: 'Over again!'. I tipped over the door and fell right out of my dream\n\nHa-ha, could you imagine what happened for real that evening though. Damned wolf took my leg and scurried away! Caught me off guard. I managed to track it down though, don't worry about me. Now that I think about it.. that wolf looked exactly like the one from the dream. You learn to tell bastards apart when they are the only living things you met every day\n\n'Over again'. The hell would that mean?",
 		"Russian": "Прошлой ночью мне приснился сон, Ро. Попробую пересказать:\n\nЯ сидел в вертолёте. За окном не было видно ничего кроме белой дымки. Кабина была завалена оборудовением: инструменты, камеры, веревки. А напротив меня сидел волк. И мы разговаривали. Всё что он говорил не имело никакого смысла: что-то про дружбу, духов, ээ.. магниты? Это всё что я могу вспомнить. Затем я почувствовал что пора высаживаться и пошел за канатом. Вдруг я застыл в ужасе, обернулся и увидел волка лязгающего зубами: 'Заново!'. У меня подкосились ноги и я вывалился изо сна\n\nХа ха, можешь себе представить что случилось в вечер перед этим? Чертов волчара сцапал мою ногу и сбежал восвояси! Застал меня врасплох. Но не переживай, я его нашел. Сейчас вспоминаю того волка... черт побети, у него морда была точь в точь как у того волка из сна. Я их уже столько перевидал что могу различать их по чертам\n\n'Заново'. И что бы это, черт побери, значило?",
 		"Japanese": "昨日の夜、夢を見たんだ、ロー。だいたいこんな感じだった：\n\n私はヘリコプターに乗っていた。外を見ると、白い靄がかかっていて何も見えなかった。機内にはロープや道具、カメラなどの機材がぎっしりと積まれていた。そして、オオカミがいた。オオカミは私の向かいに座っていて、私と会話していた。オオカミの言うこと、友情とか幽霊とか……磁石？はどれも意味をなしていなかった。それしか思い出せない。そして、そろそろ外に出ようと思って、ロープを探したんだ。突然、私は恐怖に震えた、肩越しに振り向くと、オオカミが私の顔の真上で顎を鳴らしていたんだ。『オーバーアゲイン！』私はドアを倒し、そのまま夢から覚めてしまった。 \n\nはは、その夜、実際に何が起こったか君は想像がつくだろうか。あの忌々しいオオカミが私の靴を取って逃げたんだ！不意を突かれたよ。でも、なんとか見つけ出せたから心配しないでくれ。今にして思えば……あのオオカミは夢に出てきたオオカミと瓜二つだった。君も毎日会っている生き物の中の、ろくでなしの見分け方を学ぶんだ。 \n\n『オーバーアゲイン』、一体どういう意味なんだろうか？",
 		"German": "Letzte Nacht hatte ich einen Traum, Ro. Es war ungefähr so:\n\nIch saß in einem Hubschrauber. Als ich nach draußen schaute, sah ich nichts als weißen Dunst. Die Kabine war voller Ausrüstung: Seile, Werkzeuge, Kameras. Und da war ein Wolf. Ein Wolf saß mir gegenüber und wir unterhielten uns. Nichts von dem, was der Wolf sagte, ergab irgendeinen Sinn. Etwas über Freundschaft und Geister und, ähm... Magnete? Das ist alles, woran ich mich erinnern kann. Dann hatte ich das Gefühl, dass es an der Zeit war auszusteigen, also machte ich mich auf die Suche nach einem Seil. Plötzlich zitterte ich vor Angst. Als ich über meine Schulter schaute, sah ich, wie der Wolf direkt vor meinem Gesicht mit dem Maul schmatzte: 'Noch einmal!'. Ich kippte über die Tür und fiel direkt aus meinem Traum.\n\nHaha, kannst du dir vorstellen, was an diesem Abend wirklich passiert ist? Der verdammte Wolf nahm mein Bein und rannte davon! Er traf mich unerwartet. Ich habe es jedoch geschafft, ihn aufzuspüren. Machen Sie sich um mich keine Sorgen. Wenn ich jetzt darüber nachdenke, sah der Wolf genauso aus, wie der aus dem Traum. Du lernst Bastarde zu unterscheiden, wenn sie die einzigen Lebewesen sind, denen du jeden Tag begegnest.\n\n'",
-		"Turkish": "Dün gece bir rüya gördüm, Ro. Kabaca şöyleydi:\n\nBir helikopterde oturuyordum. Dışarıya baktığımda beyaz pustan başka bir şey görmedim. Kabinin tamamı ekipmanla doluydu: ipler, aletler, kameralar. Ve bir kurt vardı. Karşımda bir kurt oturuyordu ve konuşuyorduk. Kurdun söylediklerinin hiçbiri mantıklı gelmiyordu, arkadaşlık, hayaletler ve uhh.. mıknatıslar hakkında bir şeyler mi? Tüm hatırlayabildiğim bu. Sonra dışarı çıkma zamanının geldiğini hissettim ve ipi aramaya gittim. Aniden korkuyla titredim, omzumun üzerinden baktığımda kurdun tam yüzümde çenesini şapırdattığını gördüm: 'Tekrar tekrar!'. Kapıyı devirdim ve rüyamdan düştüm\n\nHa-ha, o akşam gerçekten ne olduğunu hayal edebiliyor musun? Lanet kurt bacağımı aldı ve kaçtı! Beni gafil yakaladı. Yine de izini sürmeyi başardım, benim için endişelenme. Şimdi düşünüyorum da... o kurt tıpkı rüyadakine benziyordu. Her gün karşılaştığınız tek canlı onlar olduğunda, piçleri birbirinden ayırmayı öğreniyorsunuz\n\n'Yeniden'. Bu ne anlama geliyor?"
+		"Turkish": "Dün gece bir rüya gördüm, Ro. Kabaca şöyleydi:\n\nBir helikopterde oturuyordum. Dışarıya baktığımda beyaz pustan başka bir şey görmedim. Kabinin tamamı ekipmanla doluydu: ipler, aletler, kameralar. Ve bir kurt vardı. Karşımda bir kurt oturuyordu ve konuşuyorduk. Kurdun söylediklerinin hiçbiri mantıklı gelmiyordu, arkadaşlık, hayaletler ve uhh.. mıknatıslar hakkında bir şeyler mi? Tüm hatırlayabildiğim bu. Sonra dışarı çıkma zamanının geldiğini hissettim ve ipi aramaya gittim. Aniden korkuyla titredim, omzumun üzerinden baktığımda kurdun tam yüzümde çenesini şapırdattığını gördüm: 'Tekrar tekrar!'. Kapıyı devirdim ve rüyamdan düştüm\n\nHa-ha, o akşam gerçekten ne olduğunu hayal edebiliyor musun? Lanet kurt bacağımı aldı ve kaçtı! Beni gafil yakaladı. Yine de izini sürmeyi başardım, benim için endişelenme. Şimdi düşünüyorum da... o kurt tıpkı rüyadakine benziyordu. Her gün karşılaştığınız tek canlı onlar olduğunda, piçleri birbirinden ayırmayı öğreniyorsunuz\n\n'Yeniden'. Bu ne anlama geliyor?",
+		"Italian": "Ho fatto un sogno la scorsa notte, Ro. Era più o meno così:\n\nEro seduto su un elicottero. Guardando fuori, non vedevo altro che foschia bianca. La cabina era piena di attrezzature: corde, attrezzi, macchine fotografiche. E c'era un lupo. Un lupo era seduto di fronte a me e stavamo parlando. Niente di ciò che diceva il lupo aveva alcun senso, qualcosa sull'amicizia, sui fantasmi e uhh... magneti? Questo è tutto ciò che riesco a ricordare. Poi ho sentito che era giunto il momento per uscire, così sono andato a cercare la corda. All'improvviso ho tremato di paura, guardandomi alle spalle ho visto il lupo sulla mia faccia che schioccava le mascelle: 'Ancora una volta!'. Mi sono ribaltato dalla porta e sono caduto di colpo il mio sogno\n\nAh-ah, potresti immaginare cosa è successo davvero quella sera? Quel maledetto lupo mi ha preso una gamba ed è scappato via! Mi ha colto di sorpresa. Sono riuscito a rintracciarlo però, non preoccuparti per me. Ora che ci penso... quel lupo era esattamente identico a quello del sogno Impari a distinguere i bastardi quando sono gli unici esseri viventi che incontri ogni giorno\n\n'Ripeto'. Che diavolo significherebbe?"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_8": {
 		"English": "Note from a lost soul #8",
@@ -1121,14 +1262,16 @@
 		"Polish": "Notatka zagubionej duszy #8",
 		"Japanese": "失われた魂からのメッセージ #8",
 		"German": "Nachricht einer verlorenen Seele #8",
-		"Turkish": "Kayıp ruhtan bir not #8"
+		"Turkish": "Kayıp ruhtan bir not #8",
+		"Italian": "Nota di un'anima persa #8"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_8": {
 		"English": "You won't believe me, but I just now noticed the similarity in the names. I swear it was not my intention to call you after Rory. I knew a few other good people whose name started with R though. And you are a good person. So it fits you well, I think\n\nI can't remember how Rory was. Can't even remember the face. It's just a blank character in my head...\n\nThat last image of Jiji will never leave my head though. Never wondered if cats can survive cold weather. If so, she would probably found me by now, right? On the other hand, who knows what Aurora does to one's soul. Have you seen what it does to poor wolves?\n\n...\n\nDo you think Rory found a way out?",
 		"Russian": "Ты мне не поверишь, но я только сейчас заметил сходство в именах. Клянусь я не хотел называть тебя в честь Рори. Я знавал несколько хороших людей, чьи имена начинались на Р. А ты, вроде, хороший человек. Так что тебе идет это имя, я так думаю\n\nНе могу вспомнить Рори. Ни лицо, ни характер. Это просто пустой персонаж в моей голове...\n\nЗато это последнее воспоминание о Джиджи никогда не покинет мой разум. Интересно, кошки могут выжить в холодную погоду? Если так, она бы наверняка уже нашла меня, не так ли? С другой стороны, кто знает что Полярное Сияние творит с душой живого существа. Что творится с бедными волками под Её влиянием\n\n...\n\nДумаешь Рори удалось выбраться?",
 		"Japanese": "信じないだろうが、今になって名前の類似性に気づいた。ロリーにちなんで君を呼ぶつもりはなかったんだ。名前がRで始まるいい奴を他にも何人か知っていたんだけどね。そして、あなたはいい奴だ。だから、君にぴったりだと私は思うんだ。 \n\nロリーがどんな奴だったか思い出せない。顔さえも思い出せない。私の頭の中のロリーは空白のままなんだ...。 \n\nでも、最後のジジのイメージは、私の脳裏から離れないだろう。猫って寒さに強いのかって思ったことないんだ。もしそうなら、今頃ジジは私を見つけてるはず、そうじゃないかな？一方で、オーロラが人の魂に何をもたらすかなんて誰にもわからない。君は哀れな狼がどうなるか見たことあるかい？ \n\n...\n\n君は、ロリーは逃げ道を見つけたと思うかい？",
 		"German": "Du wirst es mir nicht glauben, aber mir ist gerade erst die Ähnlichkeit der Namen aufgefallen. Ich schwöre, es war nicht meine Absicht, dich nach Rory zu nennen. Ich kannte jedoch ein paar gute Leute, deren Name mit R begann. Und du bist ein guter Mensch. Es passt also zu dir, denke ich.\n\nIch kann mich nicht erinnern, wie Rory war. Ich kann mich nicht einmal mehr an das Gesicht erinnern. Es ist nur ein leeres Zeichen in meinem Kopf...\n\nDas letzte Bild von Jiji wird mir jedoch nie aus dem Kopf gehen. Ich habe mich nie gefragt, ob Katzen kaltes Wetter überleben können. Wenn ja, hätte sie mich wahrscheinlich inzwischen gefunden, oder? Andererseits, wer weiß, was die Aurora mit der Seele macht. Hast du gesehen, was es mit den armen Wölfen macht?\n\n...\n\nGlaubst du, Rory hat einen Ausweg gefunden?",
-		"Turkish": "Bana inanmayacaksın ama isimlerdeki benzerliği şimdi fark ettim. Yemin ederim niyetim Rory'den sonra seni aramak değildi. Adı R ile başlayan birkaç iyi insan daha tanıyordum. Ve sen iyi bir insansın. Yani sana çok yakışmış, sanırım\n\nRory'nin nasıl olduğunu hatırlayamıyorum. Yüzünü bile hatırlayamıyorum. Kafamda sadece boş bir karakter...\n\nJiji'nin o son görüntüsü yine de aklımdan hiç çıkmayacak. Kedilerin soğuk havalarda hayatta kalıp kalamayacaklarını hiç merak etmemiştim. Eğer öyleyse, muhtemelen şimdiye kadar beni bulurdu, değil mi? Öte yandan Aurora'nın insanın ruhuna neler yaptığını kim bilebilir. Zavallı kurtlara ne yaptığını gördün mü?\n\n...\n\nSence Rory bir çıkış yolu buldu mu?"
+		"Turkish": "Bana inanmayacaksın ama isimlerdeki benzerliği şimdi fark ettim. Yemin ederim niyetim Rory'den sonra seni aramak değildi. Adı R ile başlayan birkaç iyi insan daha tanıyordum. Ve sen iyi bir insansın. Yani sana çok yakışmış, sanırım\n\nRory'nin nasıl olduğunu hatırlayamıyorum. Yüzünü bile hatırlayamıyorum. Kafamda sadece boş bir karakter...\n\nJiji'nin o son görüntüsü yine de aklımdan hiç çıkmayacak. Kedilerin soğuk havalarda hayatta kalıp kalamayacaklarını hiç merak etmemiştim. Eğer öyleyse, muhtemelen şimdiye kadar beni bulurdu, değil mi? Öte yandan Aurora'nın insanın ruhuna neler yaptığını kim bilebilir. Zavallı kurtlara ne yaptığını gördün mü?\n\n...\n\nSence Rory bir çıkış yolu buldu mu?",
+		"Italian": "Non mi crederai, ma ho notato solo ora la somiglianza nei nomi. Giuro che non era mia intenzione chiamarti come Rory. Però conoscevo altre brave persone il cui nome iniziava con R. E tu sei una brava persona. Quindi ti sta bene, penso\n\nNon riesco a ricordare come stava Rory. Non riesco nemmeno a ricordare il viso. È solo un carattere vuoto nella mia testa...\n\nL'ultima immagine di Jiji non lascerà mai la mia testa però. Non mi sono mai chiesto se i gatti possano sopravvivere al freddo. Se così fosse, probabilmente a quest'ora mi avrebbe trovato, giusto? D'altra parte, chissà cosa fa Aurora all'anima. Hai visto cosa fa all'anima poveri lupi?\n\n...\n\nPensi che Rory abbia trovato una via d'uscita?"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_9": {
 		"English": "Note from a lost soul #9",
@@ -1136,14 +1279,16 @@
 		"Polish": "Notatka zagubionej duszy #9",
 		"Japanese": "失われた魂からのメッセージ #9",
 		"German": "Nachricht einer verlorenen Seele #9",
-		"Turkish": "Kayıp ruhtan bir not #9"
+		"Turkish": "Kayıp ruhtan bir not #9",
+		"Italian": "Nota di un'anima persa #9"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_9": {
 		"English": "Ro, I saw someone!\n\nWoke up from a gunshot in the middle of the night, looked out the window and saw a flare in the distance. The night was clear, so I took a torch and ran towards it as fast as I could. Didn't make it in time still, the shooter was already gone. I wish I thought to get my distress pistol, but I was too excited to see another human\n\nThe shooter was not very good it seemed, as the wolf was alive and irritated. I had to retreat to a nearest barn\n\nIn the morning I went back to the farmhouse where I was residing. The shooter spent the night there and felt free to take some of my stuff. We have missed each other again. Well... my fault",
 		"Russian": "Ро, я кого-то видел\n\nПроснулся посреди ночи от звука выстрела, выглянул в окно и увидел свет от фаера. Ночь была ясная, так что я схватил факел и побежал со всех ног в сторону огня. Всё же не успел, стрелок уже скрылся. Ах, если бы я сразу подумал взять сигнальный пистолет.. но я был слишком занят мыслью о том что вижу другого человека\n\nСтрелок из стрелка был похоже не очень, посколько волк был жив и очень раздражен. Мне пришлось отступить в ближайший амбар\n\nУтром я вернулся на ферму в которой основался. Стрелок побывал там и забрал некоторые мои вещи. Мы снова разминулись. Что-ж, я сам виноват",
 		"Japanese": "ロー、人を見たんだ！\n\n真夜中に銃声で目が覚め、窓の外を見ると、遠くに照明弾が見えた。夜空は晴れていたから、たいまつを持ってそこへ全速力で走ったんだ。だけど間に合わなくて、照明弾を撃った人はすでにいなくなっていたんだ。信号拳銃を入手することを考えるべきだったんだろうけど、私は他の人に会えるのが楽しみで仕方がなかったんだ。\n\nその人の射撃の腕はあまり良くなかったようで、撃たれたオオカミは生きていて、興奮していた。おかげで近くの納屋に逃げ込むことになったよ。\n\n朝になって、私は居住していた農家へ戻った。信号拳銃を撃った人はそこで一晩を過ごし、私の荷物を好き勝手に持っていっていた。お互い出会うことにしくじったわけだ。ああ……私のせいだな。",
 		"German": "Ro, ich habe jemanden gesehen!\n\nIch bin mitten in der Nacht von einem Schuss aufgewacht, habe aus dem Fenster geschaut und in der Ferne eine Leuchtrakete gesehen. Die Nacht war klar, also nahm ich eine Taschenlampe und rannte so schnell ich konnte darauf zu. Habe es nicht rechtzeitig geschafft, der Schütze war schon weg. Ich wünschte ich hätte daran gedacht, mir eine Notsignal-Pistole mitzunehmen, aber ich war zu aufgeregt, einen anderen Menschen zu sehen.\n\nDer Schütze war anscheinend nicht sehr gut, der Wolf war noch am Leben, aber gereizt. Ich musste mich in die nächstgelegene Scheune zurückziehen.\n\nAm Morgen ging ich zurück zum Bauernhaus, in dem ich wohnte. Der Schütze verbrachte die Nacht dort und nahm einige meiner Sachen mit. Wir haben uns wieder einmal verpasst. Nun... meine Schuld.",
-		"Turkish": "Ro, birini gördüm!\n\nGece yarısı bir silah sesiyle uyandım, pencereden dışarı baktım ve uzakta bir işaret fişeği gördüm. Gece açıktı, bu yüzden bir meşale aldım ve elimden geldiğince hızlı bir şekilde ona doğru koştum. Hala zamanında gelmedi, tetikçi çoktan gitmişti. Keşke imdat tabancamı almayı düşünseydim ama başka bir insan göreceğim için çok heyecanlıydım\n\nAtıcı pek iyi görünmüyordu, çünkü kurt canlı ve sinirliydi. En yakın ahıra çekilmek zorunda kaldım\n\nSabah, yaşadığım çiftlik evine geri döndüm. Tetikçi geceyi orada geçirdi ve eşyalarımdan bazılarını almakta özgür hissetti. Yine özledik birbirimizi. Benim hatam"
+		"Turkish": "Ro, birini gördüm!\n\nGece yarısı bir silah sesiyle uyandım, pencereden dışarı baktım ve uzakta bir işaret fişeği gördüm. Gece açıktı, bu yüzden bir meşale aldım ve elimden geldiğince hızlı bir şekilde ona doğru koştum. Hala zamanında gelmedi, tetikçi çoktan gitmişti. Keşke imdat tabancamı almayı düşünseydim ama başka bir insan göreceğim için çok heyecanlıydım\n\nAtıcı pek iyi görünmüyordu, çünkü kurt canlı ve sinirliydi. En yakın ahıra çekilmek zorunda kaldım\n\nSabah, yaşadığım çiftlik evine geri döndüm. Tetikçi geceyi orada geçirdi ve eşyalarımdan bazılarını almakta özgür hissetti. Yine özledik birbirimizi. Benim hatam",
+		"Italian": "Ro, ho visto qualcuno!\n\nMi sono svegliato da uno sparo nel cuore della notte, ho guardato fuori dalla finestra e ho visto un razzo in lontananza. La notte era limpida, così ho preso una torcia e sono corso verso di essa il più velocemente possibile come ho potuto. Non ho fatto ancora in tempo, chi ha sparato era già sparito. Vorrei aver pensato di prendere la mia pistola di soccorso, ma ero troppo eccitato per vedere un altro essere umano\n\nChi ha sparato non sembrava molto bravo, poiché il lupo era vivo ed irritato. Ho dovuto ritirarmi nella stalla più vicina\n\nLa mattina sono tornato alla fattoria dove risiedevo. Il tiratore ha trascorso lì la notte e si è sentito libero di prendere un po' della mia roba. Abbiamo ci siamo persi ancora una volta. Beh... colpa mia"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_10": {
 		"English": "Note from a lost soul #10",
@@ -1151,14 +1296,16 @@
 		"Polish": "Notatka zagubionej duszy #10",
 		"Japanese": "失われた魂からのメッセージ #10",
 		"German": "Nachricht einer verlorenen Seele #10",
-		"Turkish": "Kayıp ruhtan bir not #10"
+		"Turkish": "Kayıp ruhtan bir not #10",
+		"Italian": "Nota di un'anima persa #10"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_10": {
 		"English": "Are you listening to me right now, Ro? I can't sleep anymore... That someone.. is following me. My supplies are going missing every night\n\nEarly morning, it was very foggy but I saw a figure, close. No response to my calls, so I went after it. Coming back emptyhanded, all my equipment was gone. Should've guessed. It's like they are toying with me. Was that flare earlier also a lure? What kind of person would do that when we're fighting for our lives every day?\n\nI keep my notepad on me though, you can't take away my thoughs.\n\nUnless that someone was you, Ro?...",
 		"Russian": "Ро, слушай меня. Я больше не могу спать. Этот... человек... преследует меня. Мои припасы пропадают каждую ночь\n\nРано этим утром было очень туманно, но я разглядел фигуру, достаточно близко как мне показалось. На мой зов фигура не откликнулась, поэтому я пошел за ней. Возвращаясь без успеха, я обнаружил что все моё снаряжение пропало. Я должен был догадаться. Водит меня вокру пальца. Кто в своём уме станет себя так вести когда мы каждый день боремся за жизнь?\n\nЗаписная книжка, однако, всегда при мне. Моих мыслей тебе меня не лишить\n\nЕсли только тот кто-то это не ты, Ро?",
 		"Japanese": "ロー、今、私の話を聞いているかい？もう眠れないんだ……。あいつが……私をつけている。毎晩のように物資が行方不明になる。\n\n早朝、霧がひどかったが、人影が見えたんだ、すぐ近くに。呼びかけても反応がないので、追いかけた。手ぶらで帰ってきたら、荷物が全部なくなってた。察するべきだった。まるで、私を弄んでいるようだ。あの照明弾も罠だったのか？私たちは毎日命がけで戦っているのに、そんなことをする人がいるのだろうか。\n\nでも、メモ帳は持ち歩いてるんだ、これだけは誰にも奪えない。\n\nその誰かが、君じゃなければ、ロー……。",
 		"German": "Hörst du mir gerade zu, Ro? Ich kann nicht mehr schlafen... Da ist jemand... Er folgt mir. Jede Nacht gehen Vorräte von mir verloren.\n\nAm frühen Morgen war es sehr neblig, aber ich sah eine Gestalt ganz in der Nähe. Keine Reaktion auf mein Rufen, also ging ich einfach weiter. Als ich mit leeren Händen zurückkam, war meine gesamte Ausrüstung weg. Ich hätte es ahnen müssen. Es ist, als würde er mit mir spielen. War die Fackel früher ein Lockmittel? Was für ein Mensch würde das tun, wenn wir doch jeden Tag um unser Leben kämpfen?\n\nMeinen Notizblock behalte ich bei mir, meine Gedanken kann mir niemand wegnehmen.\n\nEs sei denn, dieser jemand wärest du, Ro? ...",
-		"Turkish": "Şu anda beni dinliyor musun, Ro? Artık uyuyamıyorum... O biri.. beni takip ediyor. Malzemelerim her gece kayboluyor\n\nSabah erken saatlerde hava çok sisliydi ama yakınlarda bir figür gördüm. Aramalarıma cevap yok, ben de peşinden gittim. Elim boş döndüğümde tüm ekipmanım gitmişti. Tahmin etmeliydim. Sanki benimle oynuyorlar. Daha önceki parlama da bir yem miydi? Her gün hayatlarımız için savaşırken ne tür bir insan bunu yapar?\n\nYine de not defterimi üzerimde tutuyorum, düşüncelerimi alamazsınız.\n\nTabi o biri sen değilsen, Ro?. .."
+		"Turkish": "Şu anda beni dinliyor musun, Ro? Artık uyuyamıyorum... O biri.. beni takip ediyor. Malzemelerim her gece kayboluyor\n\nSabah erken saatlerde hava çok sisliydi ama yakınlarda bir figür gördüm. Aramalarıma cevap yok, ben de peşinden gittim. Elim boş döndüğümde tüm ekipmanım gitmişti. Tahmin etmeliydim. Sanki benimle oynuyorlar. Daha önceki parlama da bir yem miydi? Her gün hayatlarımız için savaşırken ne tür bir insan bunu yapar?\n\nYine de not defterimi üzerimde tutuyorum, düşüncelerimi alamazsınız.\n\nTabi o biri sen değilsen, Ro?. ..",
+		"Italian": "Mi stai ascoltando in questo momento, Ro? Non riesco più a dormire... Quel qualcuno.. mi sta seguendo. Le mie provviste spariscono ogni notte\n\nLa mattina presto, c'era molta nebbia ma ho visto una figura , vicino. Nessuna risposta alle mie chiamate, quindi l'ho seguito. Sono tornato a mani vuote, tutta la mia attrezzatura era sparita. Avrei dovuto immaginarlo. È come se stessero giocando con me. Quel razzo di prima era anche un'esca? Che tipo di persona lo faresti quando combattiamo per le nostre vite ogni giorno?\n\nPerò tengo il mio taccuino con me, non puoi portarmi via i miei pensieri.\n\nA meno che quel qualcuno non fossi tu, Ro?..."
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_11": {
 		"English": "Note from a lost soul #11",
@@ -1166,14 +1313,16 @@
 		"Polish": "Notatka zagubionej duszy #11",
 		"Japanese": "失われた魂からのメッセージ #11",
 		"German": "Nachricht einer verlorenen Seele #11",
-		"Turkish": "Kayıp ruhtan bir not #11"
+		"Turkish": "Kayıp ruhtan bir not #11",
+		"Italian": "Nota di un'anima persa #11"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_11": {
 		"English": "Are you scared? Are you afraid of me? Why are you hiding? I need you to talk to me. I can't recall anything anymore. My memory is fading. Everything is covered with snow. But there's you. Ro, you are the only one who knows me\n\nI remember the lighthouse. I told you about the green lighthouse? I will get there. Please come see me. I won't hide this message this time, to be sure you can find it\n\nHow long have I been wandering here? Please tell me",
 		"Russian": "Тебе страшно? Ты боишься меня? Почему ты прячешься? Мне нужно твоё общение. Я не могу ничего вспомнить. Память покидает меня. Все запорошено снегом. Но есть ты. Ро, никто не знает меня кроме тебя\n\nЯ помню маяк. Я рассказывал тебе о зеленом маяке? Я доберусь до него. Пожалуйста, приходи. Я не стану прятать эту записку, не хочу чтобы тебе пришлось её искать\n\nКак долго я уже скитаюсь? Расскажи мне, пожалуйста",
 		"Japanese": "怖いのか？私が怖いのか？なぜ隠れているんだ？話して欲しいんだ。もう何も思い出せない。記憶が薄れていく。何もかも雪で覆われてしまった。だけど、君がいる。ロー、私を知っているのは君だけだ。\n\n灯台のことは覚えているかい。君に緑の灯台の話をしたよな？私はそこに行く。頼むから会いに来てくれ。今回はこのメッセージを隠さない、確実に見つけてもらうために。\n\n私はいつからここをさまよっていたのだろうか？教えてくれ。",
 		"German": "Bist du erschrocken? Hast du Angst vor mir? Warum versteckst du dich? Du musst mit mir reden. Ich kann mich an nichts mehr erinnern. Meine Erinnerungen verblassen. Alles ist mit Schnee bedeckt. Aber du bist da, Ro. Du bist der Einzige, der mich kennt.\n\nIch erinnere mich an den Leuchtturm. Ich habe dir vom grünen Leuchtturm erzählt? Ich werde dort hinkommen. Bitte komm zu mir. Dieses Mal werde ich diese Nachricht nicht verstecken, um sicherzustellen, dass du sie finden kannst.\n\nWie lange wandere ich hier schon umher? Bitte sage es mir...",
-		"Turkish": "Korktun mu? Benden korkuyor musun? Neden saklanıyorsun? Benimle konuşmana ihtiyacım var. Artık hiçbir şey hatırlayamıyorum. Hafızam siliniyor. Her şey karla kaplı. Ama sen varsın. Ro, beni tanıyan tek kişi sensin\n\nDeniz fenerini hatırlıyorum. Sana yeşil deniz fenerinden bahsettim mi? Oraya geleceğim. Lütfen gel beni gör. Bulabileceğinden emin olmak için bu mesajı bu kez saklamayacağım\n\nNe zamandır burada dolaşıyorum? lütfen söyle"
+		"Turkish": "Korktun mu? Benden korkuyor musun? Neden saklanıyorsun? Benimle konuşmana ihtiyacım var. Artık hiçbir şey hatırlayamıyorum. Hafızam siliniyor. Her şey karla kaplı. Ama sen varsın. Ro, beni tanıyan tek kişi sensin\n\nDeniz fenerini hatırlıyorum. Sana yeşil deniz fenerinden bahsettim mi? Oraya geleceğim. Lütfen gel beni gör. Bulabileceğinden emin olmak için bu mesajı bu kez saklamayacağım\n\nNe zamandır burada dolaşıyorum? lütfen söyle",
+		"Italian": "Hai paura? Hai paura di me? Perché ti nascondi? Ho bisogno che tu mi parli. Non ricordo più niente. La mia memoria sta svanendo. Tutto è coperto di neve. Ma ci sei tu. Ro, tu sei l'unico che mi conosce\n\nRicordo il faro. Ti avevo parlato del faro verde? Arriverò lì. Per favore, vieni a trovarmi. Questa volta non nasconderò questo messaggio, per essere sicuro che tu possa trovarlo \n\nDa quanto tempo vago qui? Per favore dimmi"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_12": {
 		"English": "Note from a lost soul #12",
@@ -1181,14 +1330,16 @@
 		"Polish": "Notatka zagubionej duszy #12",
 		"Japanese": "失われた魂からのメッセージ #12",
 		"German": "Nachricht einer verlorenen Seele #12",
-		"Turkish": "Kayıp ruhtan bir not #11"
+		"Turkish": "Kayıp ruhtan bir not #11",
+		"Italian": "Nota di un'anima persa #12"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_12": {
 		"English": "You... you know too much about me... you know everything! I told you everything... And you treat me this way?\n\nI found your message here. You made sure to hide it from me but I found it! You dare to mock me with those words... Making fun of me?\n\nI can't end it now... I will find you. I must get my memories back from you",
 		"Russian": "Ты... ты знаешь обо мне слишком много... ты знаешь обо мне всё! Я тебе всё рассказал... И ты так со мной поступаешь?\n\nЯ нашёл здесь твоё письмо. Спрятано было что надо, но уж я то нашёл! Как ты смеешь издеваться надо мной... Насмехаешься?\n\nЯ не могу так закончить... Я найду тебя. Я должен забрать у тебя свои воспоминания",
 		"Japanese": "君は……私のことを知りすぎている……何もかも知っている！何もかも話した... なのに、こんな風に私を扱うのか？\n\n君ののメッセージをここで見つけた。君は隠そうとしたんだろうが私は見つけた！そんな言葉で私をバカにするなんて……バカにしてるのか？\n\nこのままでは終われない... 必ず見つけてやる。お前から記憶を取り戻すんだ。",
 		"German": "Du... Du weißt zu viel über mich... Du weißt alles! Ich habe dir alles erzählt... Und so behandelst du mich?\n\nIch habe deine Nachricht hier gefunden. Du hast sie mir verheimlichen wollen, aber ich habe sie gefunden. Du wagst es, mich mit diesen Worten zu verspotten... Machst du dich lustig über mich?\n\nIch kann es jetzt nicht beenden... Ich werde dich finden. Ich muss meine Erinnerungen von dir zurückbekommen.",
-		"Turkish": "sen... benim hakkımda çok şey biliyorsun... her şeyi biliyorsun! Sana her şeyi anlattım... Ve sen bana böyle mi davranıyorsun?\n\nMesajını burada buldum. Benden sakladığınızdan emin oldunuz ama ben buldum! Bu sözlerle benimle alay etmeye cüret ediyorsun... Benimle dalga mı geçiyorsun?\n\nBunu şimdi bitiremem... Seni bulacağım. Anılarımı senden geri almalıyım"
+		"Turkish": "sen... benim hakkımda çok şey biliyorsun... her şeyi biliyorsun! Sana her şeyi anlattım... Ve sen bana böyle mi davranıyorsun?\n\nMesajını burada buldum. Benden sakladığınızdan emin oldunuz ama ben buldum! Bu sözlerle benimle alay etmeye cüret ediyorsun... Benimle dalga mı geçiyorsun?\n\nBunu şimdi bitiremem... Seni bulacağım. Anılarımı senden geri almalıyım",
+		"Italian": "Tu... tu sai troppo di me... sai tutto! Ti ho detto tutto... E tu mi tratti così?\n\nHo trovato il tuo messaggio qui. Hai fatto in modo di nascondermelo ma l'ho trovato! Hai il coraggio di prendermi in giro con quelle parole... Mi stai prendendo in giro?\n\nNon posso farla finita adesso... Ti troverò. Devo recuperare i miei ricordi da te"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_LAST": {
 		"English": "Last note from a lost soul",
@@ -1196,13 +1347,15 @@
 		"Polish": "",
 		"Japanese": "失われた魂からの最後のメッセージ",
 		"German": "Letzte Nachricht einer verlorenen Seele",
-		"Turkish": "Kayıp ruhtan son bir not"
+		"Turkish": "Kayıp ruhtan son bir not",
+		"Italian": "L'ultima nota di un'anima persa"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_LAST": {
 		"English": "To whomever is reading this: I'm lost\n\nI've been on this island for 500 days now, looking for another living soul. But there's nothing left but death and despair\n\nI'm setting up on my last journey. I will spread around what's left of my provisions. In case some poor soul gets stranded on this damned island - at the very least you won't have to die from starvation\n\nCome find me at the lighthouse if you will. The one on the East shore. That's where my story will come to an end",
 		"Russian": "Если кто-то это читает: я потерян\n\nЯ блуждаю по этому острову вот уже 500 дней, в поисках хоть одной живой души. Но здесь не осталось ничего кроме смерти и отчаяния\n\nЯ собираюсь в свое последнее странствие. Соберу оставшуюся провизию и распределю по дороге на восток. Если вдруг другая несчастная душа окажется на этом чертовом острове - по крайней мере тебе не придется помирать от голода\n\nНайди меня на маяке, если хочешь. На восточном побережье. Там моя история подойдет к концу",
 		"Japanese": "これを読んでいる誰かへ：私は死んだ。\n\nこの島に来て今日で500日、生存者を探してきた。だが、そこには死と絶望しか残されていない。\n\n私は最後の旅に出る。残り少ない食料をばらまくんだ。万が一、この忌まわしい島に流れ着いた哀れな人がいたとしても、少なくとも餓死することはないだろう。\n\n君がいいのなら灯台に会いに来てくれ。東の海岸にあるやつだ。そこで、私の物語は終わる。",
 		"German": "Wer auch immer dieses liest: Ich bin verloren.\n\nIch bin jetzt seit 500 Tagen auf dieser Insel und suche nach einer anderen lebenden Seele. Aber es bleibt nichts übrig als Tod und Verzweiflung.\n\nIch bereite mich auf meine letzte Reise vor. Ich werde den Rest meines Proviants verteilen. Für den Fall, dass eine arme Seele auf dieser verdammten Insel strandet, musst du zumindest nicht verhungern.\n\nKomm und finde mich am Leuchtturm, wenn du willst. Der am Ostufer. Damit endet meine Geschichte.",
-		"Turkish": "Bunu okuyan kişiye: Kayboldum\n\n500 gündür bu adada yaşayan başka bir ruh arıyorum. Ama ölüm ve umutsuzluktan başka bir şey kalmadı\n\nSon yolculuğuma hazırlanıyorum. Erzakımdan arta kalanları etrafa yayacağım. Zavallılardan biri bu lanet adada mahsur kalırsa - en azından açlıktan ölmek zorunda kalmazsın\n\nİstersen gel beni deniz fenerinde bul. Doğu kıyısında olan. İşte benim hikayem burada sona erecek"
+		"Turkish": "Bunu okuyan kişiye: Kayboldum\n\n500 gündür bu adada yaşayan başka bir ruh arıyorum. Ama ölüm ve umutsuzluktan başka bir şey kalmadı\n\nSon yolculuğuma hazırlanıyorum. Erzakımdan arta kalanları etrafa yayacağım. Zavallılardan biri bu lanet adada mahsur kalırsa - en azından açlıktan ölmek zorunda kalmazsın\n\nİstersen gel beni deniz fenerinde bul. Doğu kıyısında olan. İşte benim hikayem burada sona erecek",
+		"Italian": "A chiunque stia leggendo questo messaggio: mi sono perso\n\nSono su quest'isola ormai da 500 giorni, alla ricerca di un'altra anima vivente. Ma non è rimasta altro che morte e disperazione\n\nSto preparando la mia ultimo viaggio. Distribuirò ciò che resta delle mie provviste. Nel caso in cui qualche povera anima rimanga bloccata su questa dannata isola, almeno non dovrai morire di fame\n\nVieni a trovarmi al faro, se vuoi . Quello sulla sponda orientale. È lì che la mia storia finirà"
 	}
 }

@@ -38,7 +38,7 @@
                             "EatingTime" : 5,
                             "EatingAudio" : "Play_EatingCanned",
                             "EatingPackagedAudio" : "Play_EatingSoftCanned",
-                            "ThirstEffect" : 0,
+                            "ThirstEffect" : 5,
 
                             "FoodPoisoning" : 0,
                             "FoodPoisoningLowCondition" : 50,

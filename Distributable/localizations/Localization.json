@@ -55,7 +55,7 @@
 		"Japanese": "バナナチップス",
 		"German": "Bananenchips",
 		"Turkish": "Muz Cipsi",
-		"Italian": "Chips di banane"
+		"Italian": "Chips di Banane"
 	},
 	"GAMEPLAY_bananaChipsDescription": {
 		"English": "Dried banana with sugar. Dry and sweet. Too sweet",
@@ -73,7 +73,7 @@
 		"Japanese": "かにスナック",
 		"German": "Krabbenweizenchips",
 		"Turkish": "Buğdaylı Yengeç Cipsi",
-		"Italian": "Chips in Grano di Grancio"
+		"Italian": "Chips di Grano di Grancio"
 	},
 	"GAMEPLAY_crabSnackDescription": {
 		"English": "Crunchy little crabs. Extremely tasty, but also exceptionally dry",
@@ -82,7 +82,7 @@
 		"Japanese": "パリパリした小さなカニ入り。とてもおいしいが、非常にのどが渇く。",
 		"German": "Knusprige kleine Krabben. Sehr geschmackvoll, aber auch außergewöhnlich trocken",
 		"Turkish": "Gevrek küçük yengeçler. Son derece lezzetli ama aynı zamanda son derece kuru",
-		"Italian": "Piccoli granchi croccanti. Estremamente buone, ma anche eccezionalmente secche."
+		"Italian": "Piccoli granchi croccanti. Estremamente buoni, ma anche eccezionalmente secchi."
 	},
 	"GAMEPLAY_honeyNuts": {
 		"English": "Nuts in Honey",
@@ -109,7 +109,7 @@
 		"Japanese": "ホットスプリングソーダ",
 		"German": "Quellwasser-Soda",
 		"Turkish": "Kaplıca Gazozu",
-		"Italian": "Soda 'Primavera Calda'"
+		"Italian": "Bevanda Gassosa 'Primavera Calda'"
 	},
 	"GAMEPLAY_hotSpringSodaDescription": {
 		"English": "Essentially god's nectar. Will make you appreciate life more",
@@ -127,7 +127,7 @@
 		"Japanese": "ジンジャークッキー",
 		"German": "Ingwer-Kekse",
 		"Turkish": "Zencefilli kurabiyeler",
-		"Italian": "Biscotti allo zenzero"
+		"Italian": "Biscotti allo Zenzero"
 	},
 	"GAMEPLAY_jubileeCookiesDescription": {
 		"English": "Crunchy outside, soft inside. The perfect combination",
@@ -370,7 +370,7 @@
 		"Japanese": "甘くて舌の上ですぐ溶けるくらい柔らか。寒い時に食べるのはお勧めできないけど。",
 		"German": "Süß und weich, zergeht auf der Zunge. Möglicherweise keine gute Idee, wenn dir kalt ist",
 		"Turkish": "Tatlı ve yumuşak, dilinizde eriyor. Üşüdüğünde bunu yemek iyi bir fikir olmayabilir",
-		"Italian": "Dolce e morbida, appena si scoglie sulla tua lingua. Forse è una brutta idea mangiarlo quando hai freddo."
+		"Italian": "Dolce e morbida, appena si scioglie sulla tua lingua. Forse è una brutta idea mangiarlo quando hai freddo."
 	},
 	"GAMEPLAY_icecreamCup": {
 		"English": "Icecream in a Wafer Cup",
@@ -694,7 +694,7 @@
 		"Japanese": "クマたちは雪合戦の達人ではありません。ですが彼らはこの遊びが大好きです！元気のなさそうなクマを見かけたら、雪玉で元気づけてあげましょう。 \n\n（クマと一緒に雪合戦をしようとしてはいけません）",
 		"German": "Es ist nicht bekannt, ob Bären besonders gut darin sind, Schneeball zu spielen. Aber sie lieben es zu spielen! Wenn sie einen traurig aussehenden Bären sehen, muntern Sie ihn mit einem Schneeball auf! \n\nVersuchen Sie nicht, mit einem Bären Schneeball zu spielen.",
 		"Turkish": "Ayıların kartopu oynamakta pek iyi olduğu bilinmez. Ama oynamayı seviyorlar! Üzgün görünen bir ayı gördüğünüzde onu bir kartopu ile neşelendirin! \n\nAyı ile kartopu oynamaya çalışmayın",
-		"Italian": "Gli orsi non sono noti per essere bravi a giocare alle palle di neve. Ma amano giocare! Quando vedi un orso triste - lanciali una palla di neve per rallegrarlo! \n\nNon tentare di giocare a palle di neve con un orso."
+		"Italian": "Gli orsi non sono noti per essere bravi a giocare alle palle di neve. Ma amano giocare! Quando vedi un orso triste - lanciali una palla di neve per rallegrarlo! \n\nNon tentare di giocare alle palle di neve con un orso."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenB": {
 		"English": "Candle Bear - Festive",
@@ -721,7 +721,7 @@
 		"Japanese": "クマたちは新年を祝うのが大好きです。ですが彼らのお祝いは自己流です。大みそかに色とりどりの明かりで飾られたクマたちの住処に忍び込んでみましょう。もしかしたらお祝いに間に合うかもしれません。 \n\n（クマと一緒に新年を祝おうとしてはいけません）",
 		"German": "Bären lieben es, Neujahr zu feiern. Aber sie machen es auf ihre eigene Art. Versuchen Sie, sich am Silvesterabend mit buntem Licht in die Bärenhöhle zu schleichen - vielleicht kommen Sie gerade rechtzeitig zur Feier. \n\n Versuchen Sie nicht, Neujahr mit einem Bären zu feiern.",
 		"Turkish": "Ayılar Yeni Yılı kutlamayı sever. Ama bunu kendi yöntemleriyle yapıyorlar. Yeni Yıl arifesinde renkli bir ışıkla ayı inine gizlice girmeyi deneyin - belki kutlama için tam zamanında gelirsiniz. \n\nYeni Yılı ayıyla kutlamaya kalkmayın",
-		"Italian": "Gli orsi amano festeggiare il Capodanno. Ma lo fanno a modo loro. Prova a intrufolarti nella tana d'orso alla Vigilia del Capodanno con luci colorate - Forse sarai in tempo per la festa. \n\nNon tentare di festeggiare la Vigilia del Capodanno con un orso."
+		"Italian": "Gli orsi amano festeggiare il Capodanno. Ma lo fanno a modo loro. Prova a intrufolarti nella tana di un orso alla Vigilia del Capodanno con luci colorate - Forse sarai in tempo per la festa. \n\nNon tentare di festeggiare la Vigilia del Capodanno con un orso."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -883,7 +883,7 @@
 		"Japanese": "クマたちの間にはギャンブル依存症はありません。彼らはカードが出す音が大好きなのです。このクマは何をプレイしているのでしょうか？ポーカー？ \n\n（クマの巣穴の近くでカードを探してはいけません）",
 		"German": "Bei Bären gibt es keine Spielsucht. Sie lieben einfach den Klang, den Karten machen. Was spielte der Bär? Poker? \n\nVersuchen Sie nciht, in der Nähe von Bärenhöhlen nach Karten zu suchen.",
 		"Turkish": "Ayılar arasında kumar bağımlılığı yoktur. Sadece kartların çıkardığı sesi seviyorlar. Ayı ne oynuyordu? Poker? \n\nAyı yuvalarının yakınında kart aramaya çalışmayın",
-		"Italian": "Non c'è nessuna dipendenza nei giochi d'azzardo tra gli orsi. A loro piace il suono che le carte fanno. Cosa gioca l'orso? Poker? \n\nNon tentare di cercare carte in una tana d'orso."
+		"Italian": "Non c'è nessuna dipendenza nei giochi d'azzardo tra gli orsi. A loro piace il suono che le carte fanno. A cosa stava giocando l'orso? Poker? \n\nNon tentare di cercare carte in una tana di un orso."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -910,7 +910,7 @@
 		"Japanese": "クマたちには有り余るほどの時間があります。そして、そのサバイバーの衣服の使い道は他になかったのでしょうか？ \n\n（雪だるまから服を盗んではいけません）",
 		"German": "Bären haben viel Freizeit. Und was würden sie sonst mit dieser Überlebenskleidung machen? \n\nVersuchen Sie nicht, Schneemännern Kleidung zu stehlen.",
 		"Turkish": "Ayıların çok fazla boş zamanı vardır. Ve tüm bu kurtulan kıyafetleriyle başka ne yapacaklardı? \n\nve kardan adamdan kıyafet çalmaya çalışmayın",
-		"Italian": "Gli orsi hanno tanto tempo libero. È cos'altro farebbero con tutti quei vestiti dei sopravvissuti? \n\nNon tentare di rubare i vestiti a un pupazzo di neve."
+		"Italian": "Gli orsi hanno tanto tempo libero. È cos'altro farebbero con tutti quei vestiti dei sopravvissuti? \n\nNon tentare di rubare i vestiti da un pupazzo di neve."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleB": {
 		"English": "Candle Bear - Education",
@@ -1045,7 +1045,7 @@
 		"Japanese": "このクマはお気に入りの番組に出ているつもりです。歌声が聞こえませんか？でもそれはマイクじゃないんですよ、クマ君。 \n\n（クマと一緒にキャロルを歌ってはいけません）",
 		"German": "Dieser Bär tut so, als wäre er in seiner 'nicht ganz normalen' Lieblingssendung dabei. Kannst du den Gesang hören? Das ist kein Mikrofon, Bär. \n\nVersuchen Sie nicht, mit einem Bären Weihnachtslieder zu singen.",
 		"Turkish": "Bu ayı, pek de normal olmayan favori şovundaymış gibi davranıyor. Şarkıyı duyabiliyor musun? Bu bir mikrofon değil, ayı. \n\nBir ayıyla ilahiler söylemeye kalkışmayın",
-		"Italian": "Questo orso pretende di essere nel suo preferito, non-così-normale, show. Puoi sentire le canzoni? Quello non è un microfono, Orso. \n\nNon tentare di cantare insieme al orso."
+		"Italian": "Questo orso pretende di essere nel suo preferito, non-così-normale, spettacolo. Puoi sentire le canzoni? Quello non è un microfono, Orso. \n\nNon tentare di cantare insieme al orso."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedC": {
 		"English": "Candle Bear - Dragon",

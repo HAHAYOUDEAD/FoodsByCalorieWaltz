@@ -1,0 +1,39 @@
+# SUNDERED PASS SPAWN POINTS
+
+# Sundered Pass
+scene=MountainPassRegion
+# Cabin A
+item=GEAR_hotSpringSoda p=202.7324,196.5012,766.4406 r=284.9973,125.3397,0.0001 c=45
+item=GEAR_lecso p=202.7012,196.9585,763.9625 r=-0.0000,125.9083,90.0000 c=55
+item=GEAR_crabSnack p=202.8907,197.4670,761.2062 r=-0.0000,5.8164,-0.0000 c=20
+# Cabin B
+item=GEAR_ABCSoup p=258.8496,371.5901,-53.1128 r=0.0000,342.7898,0.0000 c=40
+item=GEAR_latteDrops p=260.2559,373.1846,-56.6187 r=0.0000,193.0023,0.0000 c=35
+# Cabin C
+item=GEAR_kvass p=-339.2393,601.7661,-1000.3979 r=270.0000,323.3114,0.0000 c=60
+item=GEAR_solitudeCider p=-339.4153,599.9346,-999.6918 r=270.0000,342.9531,0.0000 c=20
+
+
+#
+scene=MountainPassCabinA
+item=GEAR_ABCSoup p=1.3868,0.0298,2.9625 r=0.0000,298.8512,0.0000 c=40
+item=GEAR_marinaraMackerel p=4.0708,0.0283,-0.8143 r=0.0000,263.0126,0.0000 c=35
+item=GEAR_mysteryCake p=6.1275,0.0019,-0.6244 r=-0.0000,84.5561,-0.0000 c=20
+#
+scene=MountainPassBuriedCabin
+item=GEAR_rahatLokum p=-1.2487,3.7855,5.6797 r=270.0000,51.6254,0.0000 c=35
+item=GEAR_glintweinCup p=-2.2558,4.6945,-3.7769 r=0.0000,295.6630,0.0000 c=20
+item=GEAR_nannasOats p=-3.0110,2.5418,6.5730 r=0.0000,359.8831,0.0000 c=40
+item=GEAR_lecso p=-2.7960,1.8780,6.5603 r=-0.0000,28.0217,-0.0000 c=65
+item=GEAR_lecso p=-2.8870,1.8819,6.4241 r=358.7087,226.5374,359.5190 c=20
+item=GEAR_roastedAlmonds p=-0.4587,0.9505,-2.6197 r=-0.0000,63.1068,-0.0000 c=45
+#
+scene=RadarBuilding
+item=GEAR_honeyNuts p=-2.1412,0.0000,1.4456 r=-0.0000,130.4211,-0.0000 c=85
+item=GEAR_jubileeCookies p=-5.5387,0.9927,-2.8407 r=0.0000,207.5184,0.0000 c=50
+item=GEAR_glintwein p=-5.6659,0.1142,-2.5630 r=-0.0000,91.0739,-0.0000 c=45
+item=GEAR_hematogen p=-5.4845,0.9976,-2.5922 r=0.0000,260.1972,0.0000 c=20
+#
+scene=MountainPassCaveB
+item=GEAR_tunaPate p=72.8955,57.9546,12.7822 r=355.3201,51.7296,3.7046 c=65
+item=GEAR_hotSpringSoda p=72.4702,56.6325,12.3218 r=275.7101,77.6367,145.8862 c=45

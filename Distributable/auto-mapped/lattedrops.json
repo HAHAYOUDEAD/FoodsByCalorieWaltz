@@ -72,13 +72,15 @@
 
                             "ContainsAlcohol" : false,
                             "AlcoholPercentage" : 0,
-                            "AlcoholUptakeMinutes" : 45
+                            "AlcoholUptakeMinutes" : 45,
+							
+							"VitaminC" : 0
                         },
-    "ModStackableBehaviour": {
+"ModStackableBehaviour" : {
                             "SingleUnitTextId" : "GAMEPLAY_latteDrops",
                             "MultipleUnitTextId" : "GAMEPLAY_latteDrops",
                             "StackSprite" : "",
                             "UnitsPerItem" : 6,
                             "ChanceFull" : 100
-                            }
+                          }
 }

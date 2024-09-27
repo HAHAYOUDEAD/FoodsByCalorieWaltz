@@ -41,6 +41,8 @@
                 AA.SendTrigger(false, "bring");
                 AA.SendTrigger(false, "putDown");
 
+                
+
                 AA.currentAnimator.IsLocked(true);
 
                 // setup plate and bear

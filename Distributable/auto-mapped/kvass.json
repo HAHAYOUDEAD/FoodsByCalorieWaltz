@@ -72,6 +72,8 @@
 
                             "ContainsAlcohol" : false,
                             "AlcoholPercentage" : 0,
-                            "AlcoholUptakeMinutes" : 45
+                            "AlcoholUptakeMinutes" : 45,
+							
+							"VitaminC" : 10
                         }
 }

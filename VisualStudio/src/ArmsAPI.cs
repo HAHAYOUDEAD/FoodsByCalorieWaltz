@@ -1,5 +1,10 @@
-﻿namespace CalorieWaltz
+﻿
+using System.Collections;
+
+namespace CalorieWaltz
+
 {
+
     public static class AA
     {
         public static Animator? currentAnimator;
@@ -30,6 +35,10 @@
 
         public static bool CR_Activate_isRunning;
 
+        public static readonly string paramFinished = "external_finished";
+        public static readonly string paramAccess = "external_access";
+        public static readonly string paramLocked = "external_lockAcess";
+
 
         public enum ToolPoint
         {
@@ -42,7 +51,6 @@
         {
             // skip if animator is already setup
             if (animatorHolder && !force) return;
-
             animatorHolder = assBun.LoadAsset<GameObject>(mainBundleObject);
             if (!animatorHolder) return;
             string keepName = animatorHolder.name;
@@ -50,11 +58,10 @@
             animatorHolder.name = keepName;
             UnityEngine.Object.DontDestroyOnLoad(animatorHolder);
             animatorHolder.active = false;
-
             objectToAppendTo = GameManager.GetTopLevelCharacterFpsPlayer()?.transform.Find("NEW_FPHand_Rig/GAME_DATA")?.gameObject;
+
             if (objectToAppendTo == null)
             {
-                Utility.Log(CC.Red, "Can't find vanilla rig");
                 return;
             }
 
@@ -63,23 +70,20 @@
             propPointLeft = GameManager.GetPlayerAnimationComponent().m_LeftPropPoint;
             animatorPreset = animatorHolder.GetComponent<Animator>();
             vanillaAnimator = objectToAppendTo.transform.GetParent().GetComponent<Animator>();
-
             cameraPositioning = objectToAppendTo.transform.GetParent().Find("AimingModes/Standard")?.GetComponent<CameraBasedJointPositioning>();
-
             if (cameraPositioning == null)
             {
-                Utility.Log(CC.Red, "Can't find vanilla tilt component");
                 return;
             }
 
             animatorRegistered = true;
+
         }
 
         public static GameObject? AppendTool(AssetBundle assBun, string toolName, string? toolRigRoot = null, ToolPoint point = ToolPoint.Torso, bool replaceStandardShader = true, bool force = false)
         {
             if (!animatorRegistered)
             {
-                Utility.Log(CC.Red, "Animator is not registered (0)");
                 return null;
             }
 
@@ -96,7 +100,6 @@
                 toolRig = animatorHolder.transform.Find(toolRigRoot)?.gameObject;
                 if (!toolRig)
                 {
-                    Utility.Log(CC.Red, "No rig root found for tool: " + toolName);
                     return null;
                 }
             }
@@ -106,7 +109,6 @@
 
             if (!tool)
             {
-                Utility.Log(CC.Red, "Can't find tool: " + toolName);
                 return null;
             }
 
@@ -158,12 +160,12 @@
         {
             if (b != null)
             {
-                a.SetBool("external_finished", (bool)b);
+                a.SetBool(paramFinished, (bool)b);
                 return null;
             }
             else
             {
-                return a.GetBool("external_finished");
+                return a.GetBool(paramFinished);
             }
         }
 
@@ -171,12 +173,12 @@
         {
             if (b != null)
             {
-                a.SetBool("external_access", (bool)b);
+                a.SetBool(paramAccess, (bool)b);
                 return null;
             }
             else
             {
-                return a.GetBool("external_access");
+                return a.GetBool(paramAccess);
             }
         }
 
@@ -184,12 +186,12 @@
         {
             if (b != null)
             {
-                a.SetBool("external_lockAcess", (bool)b);
+                a.SetBool(paramLocked, (bool)b);
                 return null;
             }
             else
             {
-                return a.GetBool("external_lockAcess");
+                return a.GetBool(paramLocked);
             }
         }
 
@@ -215,7 +217,6 @@
 
             if (!animatorRegistered || !objectToAppendTo)
             {
-                Utility.Log(CC.Red, "Animator is not registered (1)");
                 CR_Activate_isRunning = false;
                 yield break;
             }
@@ -268,7 +269,6 @@
         {
             if (!animatorRegistered)
             {
-                Utility.Log(CC.Red, "Animator is not registered (2)");
                 return;
             }
 
@@ -291,7 +291,6 @@
         {
             if (!animatorRegistered)
             {
-                Utility.Log(CC.Red, "Animator is not registered (3)");
                 return;
             }
 
@@ -301,6 +300,26 @@
             currentAnimator.enabled = false;
 
             currentAnimator.IsFinished(true);
+        }
+
+        public static bool AnimatorIsActiveAndRunning()
+        {
+            bool hasExternalFinished = false;
+            if (currentAnimator)
+            {
+                int i = 0;
+                foreach (AnimatorControllerParameter acp in currentAnimator.parameters)
+                {
+                    if (acp.name == paramFinished) i++;
+                }
+                if (i > 0) hasExternalFinished = true;
+            }
+            else return false;
+
+            bool flagEnabled = animatorRegistered && currentAnimator.enabled;
+            bool flagRunning = hasExternalFinished ? currentAnimator.IsFinished() == false : true;
+
+            return flagEnabled && flagRunning;
         }
 
         public static void DestroyOnMainMenu()

@@ -1,17 +1,20 @@
 #1
 # HRV - top of fallen tree over ravine, very hard to get to
 scene=RiverValleyRegion
-item=GEAR_CWFEmployeeNote1 p=499.2732,277.9415,394.4724 r=318.7271,126.2798,346.7682 c=100
-item=GEAR_Knife p=499.2477,277.9936,394.4541 r=301.5199,80.3437,278.5127 c=100
+#item=GEAR_CWFEmployeeNote1 p=499.2732,277.9415,394.4724 r=318.7271,126.2798,346.7682 c=100
+#item=GEAR_Knife p=499.2477,277.9936,394.4541 r=301.5199,80.3437,278.5127 c=100
 item=GEAR_honeyNuts p=499.0031,277.5636,394.8963 r=66.7685,117.5168,79.4021 c=100
-item=GEAR_nordShoreChocolate p=498.9908,277.5981,395.0210 r=14.7443,215.8261,72.9540 c=100
+item=GEAR_nordShoreChocolate p=498.9908,277.5981,395.0210 r=14.7443,215.8261,72.9540 c=35
 item=GEAR_BlueFlare p=497.9295,219.4459,387.5448 r=345.3748,95.1921,105.4594 c=100
 item=GEAR_BasicWoolScarf p=498.9582,277.8922,395.3494 r=72.9103,323.5114,131.6462 c=75
+item=GEAR_CWFEmployeeNote1 p=499.2732,277.9500,394.4724 r=318.7271,126.2798,346.7682 c=100
+item=GEAR_ArrowHead p=499.2902,277.9762,394.4438 r=307.9543,92.2304,241.8395 c=100
+
 
 #13 
 # Not far from the #1, on a side of a cliff, easy to get to, hard to notice
 item=GEAR_CWFEmployeeNote13 p=332.6819,200.2562,459.9082 r=291.6652,219.3725,272.9567 c=100
-item=GEAR_KnifeImprovised p=332.6430,200.2092,459.9649 r=351.2475,53.6782,317.6407 c=100
+#item=GEAR_KnifeImprovised p=332.6430,200.2092,459.9649 r=351.2475,53.6782,317.6407 c=100
 item=GEAR_figConfiture p=332.5974,200.1293,459.8532 r=352.0679,59.7771,4.7390 c=100
 item=GEAR_strawberryPlombir p=331.7476,200.4585,458.0196 r=81.7595,328.1806,280.0150 c=25
 
@@ -31,8 +34,8 @@ item=GEAR_BasicWoolScarf p=243.4049,204.2126,898.1927 r=84.1646,352.5273,115.187
 scene=MarshRegion
 item=GEAR_CWFEmployeeNote3 p=1094.3990,-123.4793,972.5697 r=284.9947,16.9733,310.9358 c=100
 item=GEAR_hematogen p=1095.5970,-124.5272,971.9766 r=2.5548,283.6074,355.7614 c=100
-item=GEAR_honeyNuts p=1095.4440,-124.5315,971.9794 r=3.7481,304.2367,356.7677 c=100
-item=GEAR_WoolSocks p=1095.4360,-124.5500,971.8386 r=353.4272,114.2088,12.0206 c=100
+item=GEAR_honeyNuts p=1095.4440,-124.5315,971.9794 r=3.7481,304.2367,356.7677 c=60
+item=GEAR_WoolSocks p=1095.4360,-124.5500,971.8386 r=353.4272,114.2088,12.0206 c=75
 
 #3.5
 # FM>BI transition cave
@@ -50,7 +53,7 @@ item=GEAR_CWFEmployeeNote4 p=76.5761,96.8220,-918.5320 r=358.7342,176.7789,358.8
 item=GEAR_Stone p=76.5736,96.8027,-918.5454 r=358.1432,110.1532,0.7201 c=100
 
 #5
-#ML - behind houses on a cliff at west lake shore, rarely visited, easy
+#ML - behind houses on a cliff at east lake shore, rarely visited, easy
 scene=LakeRegion
 item=GEAR_CWFEmployeeNote5 p=1668.2510,44.6454,187.6500 r=335.0771,103.5396,9.1705 c=100
 item=GEAR_MapleSapling p=1668.3220,44.4618,187.6853 r=87.9643,1.1573,128.2693 c=100
@@ -68,7 +71,7 @@ item=GEAR_bananaChips p=1668.2190,44.5168,187.6915 r=41.1534,102.3209,354.1249 c
 #item=GEAR_KnifeImprovised p=451.9404,166.6000,1006.5500 r=0.0002,291.5505,6.1564 c=100
 
 #6
-# contemplation bridge
+# PV - contemplation bridge
 scene=RuralRegion
 item=GEAR_CWFEmployeeNote6 p=2010.8620,49.5967,1737.3050 r=0.0000,308.5305,0.0000 c=100
 item=GEAR_honeyNuts p=2010.8860,49.5951,1737.3280 r=0.0000,276.8244,0.0000 c=100
@@ -123,7 +126,10 @@ item=GEAR_BrokenArrow p=654.7854,73.7713,513.7441 r=22.9992,353.8083,60.7424 c=1
 # the lighthouse
 scene=LighthouseA
 #item=GEAR_placeholderNote p=-0.9306,1.0100,1.2056 r=306.1459,245.3367,356.9476 c=100
-item=GEAR_CWFEmployeeNote12 p=2.7614,0.8698,4.4648 r=0.1677,21.5597,357.0069 c=100
-item=GEAR_Knife p=2.7574,0.9284,4.4561 r=345.9087,358.4495,269.4684 c=100
+#item=GEAR_CWFEmployeeNote12 p=2.7614,0.8698,4.4648 r=0.1677,21.5597,357.0069 c=100
+#item=GEAR_Knife p=2.7574,0.9284,4.4561 r=345.9087,358.4495,269.4684 c=100
+item=GEAR_KnifeImprovised p=3.0074,0.9027,4.1986 r=344.9999,272.2468,270.0000 c=100
+item=GEAR_CWFEmployeeNote12 p=2.9658,0.8698,4.1891 r=0.1677,51.7925,357.0069 c=100
+
 
 

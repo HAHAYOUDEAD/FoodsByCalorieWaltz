@@ -6,6 +6,7 @@ global using Il2Cpp;
 global using System.Collections;
 global using HarmonyLib;
 global using Il2CppInterop.Runtime.Attributes;
+global using Il2CppTLD.Placement;
 
 namespace CalorieWaltz
 

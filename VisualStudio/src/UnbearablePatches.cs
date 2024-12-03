@@ -190,7 +190,7 @@
     }
 
 
-    [HarmonyPatch(typeof(PlayerManager), nameof(PlayerManager.StartPlaceMesh), new Type[] { typeof(GameObject), typeof(float), typeof(PlaceMeshFlags) })] // play animation when placing candle
+    [HarmonyPatch(typeof(PlayerManager), nameof(PlayerManager.StartPlaceMesh), new Type[] { typeof(GameObject), typeof(float), typeof(PlaceMeshFlags), typeof(PlaceMeshRules) })] // play animation when placing candle
     public class PlaceCandleStart
     {
         public static void Postfix(PlayerManager __instance, ref GameObject objectToPlace, ref bool __result)

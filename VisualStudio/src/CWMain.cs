@@ -152,6 +152,14 @@
 
         public override void OnSceneWasLoaded(int level, string name)
         {
+            if (Utility.IsScenePlayable(name))
+            {
+                DoStuffWithGear();
+            }
+        }
+
+        public override void OnSceneWasInitialized(int level, string name)
+        {
             if (Utility.IsMainMenu(name)) // reset everything in main menu
             {
                 if (honeyConsumed != 0f)
@@ -186,12 +194,7 @@
                     UpdateCaloriesInPrefabs();
                     loadedCalories = true;
                 }
-
-                DoStuffWithGear();
-
             }
-
-
 
             if (!loadedLocalizations)
             {
@@ -537,7 +540,8 @@
                 bigSoup2D = bigSoup.ToTexture2D();
             }
 
-            Texture2D newTexture = new Texture2D(blockSize, blockSize);
+            Texture2D newTexture = new Texture2D(blockSize, blockSize, TextureFormat.RGBA32, false);
+            newTexture.filterMode = FilterMode.Trilinear;
 
             int xInit;
             int yInit = 0;

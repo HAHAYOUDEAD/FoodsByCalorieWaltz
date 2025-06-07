@@ -150,7 +150,7 @@
             vanillaShader = Shader.Find("Shader Forge/TLD_StandardSkinned");
         }
 
-        public override void OnSceneWasInitialized(int level, string name)
+        public override void OnSceneWasLoaded(int level, string name)
         {
             if (Utility.IsMainMenu(name)) // reset everything in main menu
             {

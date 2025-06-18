@@ -6,7 +6,8 @@
 		"German": "Brandneu",
 		"Turkish": "Yepyeni",
 		"Italian": "Nuovo di pacca",
-		"Korean": "새 제품"
+		"Korean": "새 제품",
+		"French": "Toute neuve"
 		
 	},
 	"CWF_candleLeft90": {
@@ -16,7 +17,8 @@
 		"German": "Fast voll",
 		"Turkish": "Neredeyse dolu",
 		"Italian": "Quasi pieno",
-		"Korean": "거의 가득 참"
+		"Korean": "거의 가득 참",
+		"French": "Presque entière"
 	},
 	"CWF_candleLeft75": {
 		"English": "About three quarters left",
@@ -25,7 +27,8 @@
 		"German": "Etwa drei Viertel übrig",
 		"Turkish": "Yaklaşık dörtte üçü kaldı",
 		"Italian": "Rimasto circa tre quarti",
-		"Korean": "4분의 3정도 남음"
+		"Korean": "4분의 3정도 남음",
+		"French": "Environ trois quarts restants"
 	},
 	"CWF_candleLeft50": {
 		"English": "About a half left",
@@ -34,7 +37,8 @@
 		"German": "Über die Hälfte übrig",
 		"Turkish": "Yaklaşık yarısı kaldı",
 		"Italian": "Rimasto circa la metà",
-		"Korean": "반 정도 남음"
+		"Korean": "반 정도 남음",
+		"French": "Il en reste la moitié"
 	},
 	"CWF_candleLeft25": {
 		"English": "About a quarter left",
@@ -43,7 +47,8 @@
 		"German": "Etwa ein Viertel übrig",
 		"Turkish": "Yaklaşık çeyreği kaldı",
 		"Italian": "Rimasto circa un quarto",
-		"Korean": "4분의 1정도 남음"
+		"Korean": "4분의 1정도 남음",
+		"French": "Environ un quart restant"
 	},
 	"CWF_candleLeft7": {
 		"English": "Almost done",
@@ -52,7 +57,8 @@
 		"German": "Fast leer",
 		"Turkish": "Neredeyse bitti",
 		"Italian": "Quasi finito",
-		"Korean": "거의 다 씀"
+		"Korean": "거의 다 씀",
+		"French": "Quasi terminée"
 	},
 	"GAMEPLAY_bananaChips": {
 		"English": "Banana Chips",
@@ -62,7 +68,8 @@
 		"German": "Bananenchips",
 		"Turkish": "Muz Cipsi",
 		"Italian": "Chips di Banane",
-		"Korean": "바나나 칩"
+		"Korean": "바나나 칩",
+		"French": "Chips de banane"
 	},
 	"GAMEPLAY_bananaChipsDescription": {
 		"English": "Dried banana with sugar. Dry and sweet. Too sweet",
@@ -72,7 +79,8 @@
 		"German": "Getrocknete Bananenscheiben mit Zucker. Trocken und süß. Zu süß",
 		"Turkish": "Şeker ilave edilmiş kurutulmuş muz. Kuru ve Tatlı. Bayağı tatlı.",
 		"Italian": "Banane essicate con zucchero. Secche e dolci. Troppo dolci.",
-		"Korean": "설탕을 넣어 말린 바나나. 바삭하고 달콤하지만, 너무 달다"
+		"Korean": "설탕을 넣어 말린 바나나. 바삭하고 달콤하지만, 너무 달다",
+		"French": "Des bananes séchées au sucre. Sèches et sucrées. Trop sucrées."
 	},
 	"GAMEPLAY_crabSnack": {
 		"English": "Crab Wheat Chips",
@@ -82,7 +90,8 @@
 		"German": "Krabbenweizenchips",
 		"Turkish": "Buğdaylı Yengeç Cipsi",
 		"Italian": "Chips di Grano di Grancio",
-		"Korean": "게맛 크래커"
+		"Korean": "게맛 크래커",
+		"French": "Chips de crabe"
 	},
 	"GAMEPLAY_crabSnackDescription": {
 		"English": "Crunchy little crabs. Extremely tasty, but also exceptionally dry",
@@ -92,7 +101,8 @@
 		"German": "Knusprige kleine Krabben. Sehr geschmackvoll, aber auch außergewöhnlich trocken",
 		"Turkish": "Gevrek küçük yengeçler. Son derece lezzetli ama aynı zamanda son derece kuru",
 		"Italian": "Piccoli granchi croccanti. Estremamente buoni, ma anche eccezionalmente secchi.",
-		"Korean": "바삭바삭한 작은 게. 맛은 끝내주지만, 너무 말라있다"
+		"Korean": "바삭바삭한 작은 게. 맛은 끝내주지만, 너무 말라있다",
+		"French": "Des petits crabes croustillants. Extrêmement goûtus, mais exceptionnellement secs."
 	},
 	"GAMEPLAY_honeyNuts": {
 		"English": "Nuts in Honey",
@@ -102,7 +112,8 @@
 		"German": "Nüsse in Honig",
 		"Turkish": "Fındıklı Bal",
 		"Italian": "Noccioline in Miele",
-		"Korean": "꿀에 절인 견과류"
+		"Korean": "꿀에 절인 견과류",
+		"French": "Noix au miel"
 	},
 	"GAMEPLAY_honeyNutsDescription": {
 		"English": "Lasts forever. If the lid is tight.\n\nEating too much will cause digestion problems. Do not consume without hot tea!",
@@ -112,7 +123,8 @@
 		"German": "Hält ewig, wenn der Deckel zu ist.\n\nZu viel davon führt zu Verdauungsproblemen. Nicht ohne heißen Tee verzehren!",
 		"Turkish": "Kapak sıkıysa sonsuza kadar saklanabilir. Çok yemek sindirim problemlerine yol açar. Sıcak çay olmadan tüketmeyin!",
 		"Italian": "Dura per sempre. Se il coperchio è stretto.\n\nUn consumo elevato causerà problemi digestivi. Non consumarlo senza tisana calda!",
-		"Korean": "꿀에 절인 견과류. \n\n뚜껑만 잘 닫아두면 오래 보관할 수 있습니다. 하지만 너무 많이 먹으면 소화불량을 일으킬 수 있으니 주의하세요. 따뜻한 차와 함께 드시면 더욱 좋습니다!"
+		"Korean": "꿀에 절인 견과류. \n\n뚜껑만 잘 닫아두면 오래 보관할 수 있습니다. 하지만 너무 많이 먹으면 소화불량을 일으킬 수 있으니 주의하세요. 따뜻한 차와 함께 드시면 더욱 좋습니다!",
+		"French": "Dure éternellement. Si le couvercle est bien serré.\n\nEn manger trop causera des problèmes de digestion. Ne pas consommer sans thé chaud!"
 	},
 	"GAMEPLAY_hotSpringSoda": {
 		"English": "Hot Spring Soda",
@@ -122,7 +134,8 @@
 		"German": "Quellwasser-Soda",
 		"Turkish": "Kaplıca Gazozu",
 		"Italian": "Bevanda Gassosa 'Primavera Calda'",
-		"Korean": "온천 소다"
+		"Korean": "온천 소다",
+		"French": "Soda à l'eau de source"
 	},
 	"GAMEPLAY_hotSpringSodaDescription": {
 		"English": "Essentially god's nectar. Will make you appreciate life more",
@@ -132,7 +145,8 @@
 		"German": "Im Wesentlichen der Nektar Gottes. Dadurch wirst du dein Leben mehr schätzen",
 		"Turkish": "Esasen yaz meyveli. Hayatı daha çok takdir etmeni sağlayacak",
 		"Italian": "Essenzialmente nettare di dio. Ti farà apprezzare la vita di più.",
-		"Korean": "신이 내린 꿀맛이라고 할 수 있죠. 이 음료를 마시면 인생을 더욱 감사하게 느끼게 될 거에요"
+		"Korean": "신이 내린 꿀맛이라고 할 수 있죠. 이 음료를 마시면 인생을 더욱 감사하게 느끼게 될 거에요",
+		"French": "Essentiellement le nectar divin. Vous fera encore plus apprécier la vie"
 	},
 	"GAMEPLAY_jubileeCookies": {
 		"English": "Ginger Cookies",
@@ -142,7 +156,8 @@
 		"German": "Ingwer-Kekse",
 		"Turkish": "Zencefilli kurabiyeler",
 		"Italian": "Biscotti allo Zenzero",
-		"Korean": "생강 쿠키"
+		"Korean": "생강 쿠키",
+		"French": "Biscuits au gingembre"
 	},
 	"GAMEPLAY_jubileeCookiesDescription": {
 		"English": "Crunchy outside, soft inside. The perfect combination",
@@ -152,7 +167,8 @@
 		"German": "Außen knusprig, innen weich. Die perfekte Kombination",
 		"Turkish": "Dışı çıtır, içi yumuşacık. Mükemmel uyum",
 		"Italian": "Croccanti all'esterno, morbidi all'interno. La combinazione perfetta.",
-		"Korean": "바삭한 겉과 부드러운 속의 완벽한 조화를 자랑합니다"
+		"Korean": "바삭한 겉과 부드러운 속의 완벽한 조화를 자랑합니다",
+		"French": "Croquant à l'exterieux, moelleux à l'intérieur. Le combo parfait"
 	},
 	"GAMEPLAY_marinaraMackerel": {
 		"English": "Mackerel in Marinara Sauce",
@@ -162,7 +178,8 @@
 		"German": "Makrele in Marinara-Sauce",
 		"Turkish": "Marinara Soslu Uskumru",
 		"Italian": "Sgombro in Salsa Marinara",
-		"Korean": "마리네이드 소스를 곁들인 고등어"
+		"Korean": "마리네이드 소스를 곁들인 고등어",
+		"French": "Maquereaux à la Sauce Marinara"
 	},
 	"GAMEPLAY_marinaraMackerelDescription": {
 		"English": "Tender and savory mackerel filet. Add some vegetable ragout and the perfect dinner is ready",
@@ -172,7 +189,8 @@
 		"German": "Zartes, herzhaftes Makrelenfilet. Füge etwas Gemüseragout hinzu und fertig ist das perfekte Abendessen",
 		"Turkish": "Yumuşak ve lezzetli uskumru filetosu. Biraz sebze yahnisi ekleyin ve mükemmel akşam yemeği hazır.",
 		"Italian": "Filetto di sgombro tenero e saporito. Aggiungi un po' di ragù di verdure e la cena perfetta è pronta.",
-		"Korean": "마리네이드 소스를 곁들인 부드럽고 짭짤한 고등어 필레입니다. 야채 라구를 추가하면 완벽한 저녁 식사가 완성됩니다"
+		"Korean": "마리네이드 소스를 곁들인 부드럽고 짭짤한 고등어 필레입니다. 야채 라구를 추가하면 완벽한 저녁 식사가 완성됩니다",
+		"French": "De tendres et savoureux filets de maquereaux. Ajoutez du ragoût de légumes et le dîner parfait est prêt"
 	},
 	"GAMEPLAY_mysteryCake": {
 		"English": "Assorted Wafers",
@@ -182,7 +200,8 @@
 		"German": "Waffelmischung",
 		"Turkish": "Karışık Gofretler",
 		"Italian": "Cialde Assortite",
-		"Korean": "와플 모음"
+		"Korean": "와플 모음",
+		"French": "Gaufrettes assorties"
 	},
 	"GAMEPLAY_mysteryCakeDescription": {
 		"English": "Wafers with chocolate and praline. Filling will pleasantly surprise you",
@@ -192,7 +211,8 @@
 		"German": "Waffeln mit Schokolade und Pralinen. Die Füllung wird Sie angenehm überraschen",
 		"Turkish": "Çikolatalı ve badem şekerli gofretler sizi hoş bir şekilde şaşırtacak",
 		"Italian": "Cialde con cioccolato e pralina. Il riempimento ti sorprenderà piacevolmente.",
-		"Korean": "초콜릿과 프랄린이 들어간 와플 모음입니다. 달콤한 속재료가 당신을 기쁘게 해줄 거에요"
+		"Korean": "초콜릿과 프랄린이 들어간 와플 모음입니다. 달콤한 속재료가 당신을 기쁘게 해줄 거에요",
+		"French": "Des gaufrettes au chocolat et au pralin. Le fourrage vous surprendra agréablement"
 	},
 	"GAMEPLAY_nannasOats": {
 		"English": "Nanna's Oats",
@@ -202,7 +222,8 @@
 		"German": "Nanna's Hafer",
 		"Turkish": "Yulaf Ezmesi",
 		"Italian": "Avena della Nanna",
-		"Korean": "할머니표 오트밀"
+		"Korean": "할머니표 오트밀",
+		"French": "L'avoine de Nanna"
 	},
 	"GAMEPLAY_nannasOatsDescription": {
 		"English": "Needs water. Better with berries",

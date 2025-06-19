@@ -552,7 +552,8 @@
 		"German": "Latte-Drops",
 		"Turkish": "latte damlaları",
 		"Italian": "Gocce di Latte",
-		"Korean": "라떼 사탕"
+		"Korean": "라떼 사탕",
+		"French": "Latte Drops"
 	},
 	"GAMEPLAY_latteDropsDescription": {
 		"English": "Condensed coffee cups in a form of candy. Tastes as good, without the whole brewing hassle. \n\nGives a little energy boost",
@@ -562,7 +563,8 @@
 		"German": "Milchkaffee in Form von Süßigkeiten. Schmeckt genauso gut, ohne den Aufwand Kaffee zu kochen.\n\nGibt einen kleinen Energieschub",
 		"Turkish": "Şeker şeklinde konsantre kahve. Kesinlikle lezzetli. \n\nBir miktar enerji artırma etkisi vardır",
 		"Italian": "Tazze di caffè condensato in una forma di caramella. Buon gusto, senza tutto il processo di preparazione. \n\nDà una piccola spinta d'energia.",
-		"Korean": "라떼 드롭스. 커피 한 잔을 사탕 형태로 압축했습니다. 번거롭게 커피를 내릴 필요 없이 커피 맛 그대로 즐길 수 있어요. \n\n당신에게 조금의 에너지를 더해줄겁니다"
+		"Korean": "라떼 드롭스. 커피 한 잔을 사탕 형태로 압축했습니다. 번거롭게 커피를 내릴 필요 없이 커피 맛 그대로 즐길 수 있어요. \n\n당신에게 조금의 에너지를 더해줄겁니다",
+		"French": "Des tasses de café condensés en une sorte de bonbon. Tout aussi bon, sans tout le processus de préparation. \n\nFournit un petit sursaut d'énergie"
 	},
 	"GAMEPLAY_alphabetSoup": {
 		"English": "Alphabet Soup",
@@ -572,7 +574,8 @@
 		"German": "Buchstaben-Suppe",
 		"Turkish": "Alfabe Çorbası",
 		"Italian": "Zuppa di Alfabeto",
-		"Korean": "알파벳 수프"
+		"Korean": "알파벳 수프",
+		"French": "Soupe Alphabet"
 	},
 	"GAMEPLAY_alphabetSoupDescription": {
 		"English": "Classic alphabet soup. Tastes of nostalgia and good mood. \n\nWhat mood came up for you?",
@@ -582,7 +585,8 @@
 		"German": "Klassische Buchstaben-Suppe. Schmeckt nach Nostalgie und guter Laune. \n\nWelche Stimmung kommt bei dir auf?",
 		"Turkish": "Klasik alfabe çorbası. Nostalji tadı ve iyi bir ruh hali. \n\nSizin için hangi ruh hali geldi?",
 		"Italian": "Classica zuppa di alfabeto. Ha un gusto di nostalgia e buon umore. \n\nIn che umore sei oggi?",
-		"Korean": "고전적인 알파벳 수프입니다. 추억과 좋은 기분을 떠올리게 하는 맛이죠. \n\n어떤 기분이 떠올랐나요?"
+		"Korean": "고전적인 알파벳 수프입니다. 추억과 좋은 기분을 떠올리게 하는 맛이죠. \n\n어떤 기분이 떠올랐나요?",
+		"French": "Une soupe alphabet classique. Un goût de nostalgie et de bonne humeur. \n\nEt vous, vous êtes de quelle humeur ?"
 	},
 	"GAMEPLAY_hematogen": {
 		"English": "Hematogen",
@@ -592,7 +596,8 @@
 		"German": "Hämatogen",
 		"Turkish": "Hematojen",
 		"Italian": "Ematogeno",
-		"Korean": "헤마토겐"
+		"Korean": "헤마토겐",
+		"French": "Hematogen"
 	},
 	"GAMEPLAY_hematogenDescription": {
 		"English": "Albumin ingredient probably doesn't make a lot of sense. It's blood. \n\nMakes you heal faster, tastes good as a side effect",
@@ -602,7 +607,8 @@
 		"German": "Der Inhaltsstoff Albumin macht wahrscheinlich nicht viel Sinn. Es ist Blut. \n\nHeilt dich schneller, und schmeckt nebenbei ganz gut",
 		"Turkish": "Albümin içeriği muhtemelen pek bir anlam ifade etmiyor. Bu kan. \n\nDaha hızlı iyileşmenizi sağlar, yan etki olarak tadı güzeldir",
 		"Italian": "L'ingrediente albumina non ha alcun senso. È sangue. \n\nTi farà guarire più in fretta, ha un buon gusto come effetto collaterale.",
-		"Korean": "알루민 성분이라고는 하지만 사실 혈액으로 만든 겁니다. \n\n상처 회복을 빠르게 해주고, 맛도 좋습니다."
+		"Korean": "알루민 성분이라고는 하지만 사실 혈액으로 만든 겁니다. \n\n상처 회복을 빠르게 해주고, 맛도 좋습니다.",
+		"French": "L'ingrédient 'albumine' n'a probablement pas beaucoup de sens. C'est du sang. \n\nVous fait guérir plus vite. Effet secondaire : bon goût"
 	},
 	"GAMEPLAY_rahatLokum": {
 		"English": "Turkish Delight",
@@ -612,7 +618,8 @@
 		"German": "Türkischer Honig",
 		"Turkish": "Türk Lokumu",
 		"Italian": "Delizia Turca",
-		"Korean": "로쿰"
+		"Korean": "로쿰",
+		"French": "Délices Turques"
 	},
 	"GAMEPLAY_rahatLokumDescription": {
 		"English": "Delicate, delicious candy. Turkish classic. There's a flavor for everyone, so you can't say you don't like it",
@@ -622,7 +629,8 @@
 		"German": "Zarte, köstliche Süßigkeit. Türkischer Klassiker. Für jeden Geschmack ist etwas dabei, man kann also nicht sagen, dass es jemandem nicht schmeckt",
 		"Turkish": "Lezzetli, lezzetli şeker. Türk klasiği. Herkese göre bir lezzet vardır beğenmedim diyemezsin",
 		"Italian": "Dolciumi delicati e deliziosi. Un classico turco. Ci sono gusti per tutti, quindi non puoi dire che non ti piace.",
-		"Korean": "터키쉬 딜라이트. 부드럽고 맛있는 사탕입니다. 터키의 전통과자로 모든 사람을 위한 맛이 있어, 싫어할 수가 없죠"
+		"Korean": "터키쉬 딜라이트. 부드럽고 맛있는 사탕입니다. 터키의 전통과자로 모든 사람을 위한 맛이 있어, 싫어할 수가 없죠",
+		"French": "De délicats et délicieux bonbons. Un classique turque. Des saveurs pour tout le monde, vous ne pouvez dire que vous n'aimez pas"
 	},
 	"GAMEPLAY_CandleDescription": {
 		"English": "One of the collectible candle bears. There was a description card somewhere...",
@@ -632,7 +640,8 @@
 		"German": "Eine der Sammelkerzenbären. Irgendwo gab es eine Beschreibungskarte...",
 		"Turkish": "Koleksiyonluk mum ayılarından biri. Bir yerde bir açıklama kartı vardı...",
 		"Italian": "Una delle candele-orso collezionabili. C'era una carta con le descrizione da qualche parte...",
-		"Korean": "수집용 곰돌이 양초 중 하나입니다. 어딘가에 설명 카드가 있었을 텐데..."
+		"Korean": "수집용 곰돌이 양초 중 하나입니다. 어딘가에 설명 카드가 있었을 텐데...",
+		"French": "Une des Candle Bear à collectionner. Il y avait une carte descriptive quelque part..."
 	},
 	"GAMEPLAY_CandleGreenA": {
 		"English": "Candle Bear - Snowballed",
@@ -642,7 +651,8 @@
 		"German": "Kerzenbär - Schneeball",
 		"Turkish": "Ayıcık Mumu - Kar Topu",
 		"Italian": "Candela-Orso - Palla di Neve",
-		"Korean": "곰돌이 양초 - 눈싸움"
+		"Korean": "곰돌이 양초 - 눈싸움",
+		"French": "Candle Bear - Boule de neige"
 	},
 	"GAMEPLAY_CandleGreenB": {
 		"English": "Candle Bear - Festive",
@@ -652,7 +662,8 @@
 		"German": "Kerzenbär - Festlich",
 		"Turkish": "Ayıcık Mumu - Festival",
 		"Italian": "Candela-Orso - Festivo",
-		"Korean": "곰돌이 양초 - 축제"
+		"Korean": "곰돌이 양초 - 축제",
+		"French": "Candle Bear - Festive"
 	},
 	"GAMEPLAY_CandleGreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -662,7 +673,8 @@
 		"German": "Kerzenbär - Delikatesse",
 		"Turkish": "Ayıcık Mumu - Nezaket",
 		"Italian": "Candela-Orso - Delicatezza",
-		"Korean": "곰돌이 양초 - 미식가"
+		"Korean": "곰돌이 양초 - 미식가",
+		"French": "Candle Bear - Délicatesse"
 	},
 	"GAMEPLAY_CandleGreenD": {
 		"English": "Candle Bear - Dancer",
@@ -672,7 +684,8 @@
 		"German": "Kerzenbär - Tänzer",
 		"Turkish": "Ayıcık Mumu - Dansçı",
 		"Italian": "Candela-Orso - Ballerino",
-		"Korean": "곰돌이 양초 - 댄서"
+		"Korean": "곰돌이 양초 - 댄서",
+		"French": "Candle Bear - Danseur"
 	},
 	"GAMEPLAY_CandleBlueA": {
 		"English": "Candle Bear - Fishing",
@@ -682,7 +695,8 @@
 		"German": "Kerzenbär - Angler",
 		"Turkish": "Ayıcık Mumu - Balıkçı",
 		"Italian": "Candela-Orso - Pescatore",
-		"Korean": "곰돌이 양초 - 낚시꾼"
+		"Korean": "곰돌이 양초 - 낚시꾼",
+		"French": "Candle Bear - Pêcheur"
 	},
 	"GAMEPLAY_CandleBlueB": {
 		"English": "Candle Bear - Struggle",
@@ -692,7 +706,8 @@
 		"German": "Kerzenbär - Kampf",
 		"Turkish": "Ayıcık Mumu - Çabalamak",
 		"Italian": "Candela-Orso - Lotta",
-		"Korean": "곰돌이 양초 - 고난"
+		"Korean": "곰돌이 양초 - 고난",
+		"French": "Candle Bear - Lutte"
 	},
 	"GAMEPLAY_CandleBlueC": {
 		"English": "Candle Bear - Friends",
@@ -702,7 +717,8 @@
 		"German": "Kerzenbär - Freunde",
 		"Turkish": "Ayıcık Mumu - Arkadaşlar",
 		"Italian": "Candela-Orso - Amici",
-		"Korean": "곰돌이 양초 - 친구"
+		"Korean": "곰돌이 양초 - 친구",
+		"French": "Candle Bear - Amis"
 	},
 	"GAMEPLAY_CandleBlueD": {
 		"English": "Candle Bear - Cards",
@@ -712,7 +728,8 @@
 		"German": "Kerzenbär - Karten",
 		"Turkish": "Ayıcık Mumu - Kartlar",
 		"Italian": "Candela-Orso - Carte",
-		"Korean": "곰돌이 양초 - 카드"
+		"Korean": "곰돌이 양초 - 카드",
+		"French": "Candle Bear - Cartes"
 	},
 	"GAMEPLAY_CandlePurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -722,7 +739,8 @@
 		"German": "Kerzenbär - Schneeüberlebender",
 		"Turkish": "Ayıcık Mumu - kardan kurtulan",
 		"Italian": "Candela-Orso - Sopravvissuto di Neve",
-		"Korean": "곰돌이 양초 - 눈 속 생존자"
+		"Korean": "곰돌이 양초 - 눈 속 생존자",
+		"French": "Candle Bear - Survivant des neiges"
 	},
 	"GAMEPLAY_CandlePurpleB": {
 		"English": "Candle Bear - Education",
@@ -732,7 +750,8 @@
 		"German": "Kerzenbär - Ausbildung",
 		"Turkish": "Ayıcık Mumu - Eğitim",
 		"Italian": "Candela-Orso - Educazione",
-		"Korean": "곰돌이 양초 - 교육"
+		"Korean": "곰돌이 양초 - 교육",
+		"French": "Candle Bear - Education"
 	},
 	"GAMEPLAY_CandlePurpleC": {
 		"English": "Candle Bear - Haul",
@@ -742,7 +761,8 @@
 		"German": "Kerzenbär - Schleppen",
 		"Turkish": "Ayıcık Mumu - Hambal",
 		"Italian": "Candela-Orso - Trasporto",
-		"Korean": "곰돌이 양초 - 수확"
+		"Korean": "곰돌이 양초 - 수확",
+		"French": "Candle Bear - Transport"
 	},
 	"GAMEPLAY_CandlePurpleD": {
 		"English": "Candle Bear - Present",
@@ -752,7 +772,8 @@
 		"German": "Kerzenbär - Geschenk",
 		"Turkish": "Ayıcık Mumu - Hediye",
 		"Italian": "Candela-Orso - Regalo",
-		"Korean": "곰돌이 양초 - 선물"
+		"Korean": "곰돌이 양초 - 선물",
+		"French": "Candle Bear - Cadeau"
 	},
 	"GAMEPLAY_CandleRedA": {
 		"English": "Candle Bear - Joke",
@@ -762,7 +783,8 @@
 		"German": "Kerzenbär - Witz",
 		"Turkish": "Ayıcık Mumu - Şaka",
 		"Italian": "Candela-Orso - Barzeletta",
-		"Korean": "곰돌이 양초 - 농담"
+		"Korean": "곰돌이 양초 - 농담",
+		"French": "Candle Bear - Blague"
 	},
 	"GAMEPLAY_CandleRedB": {
 		"English": "Candle Bear - Hellbender",
@@ -772,7 +794,8 @@
 		"German": "Kerzenbär - Schlammteufel",
 		"Turkish": "Ayıcık Mumu - Cehennem bükücü",
 		"Italian": "Candela-Orso - Hellbender",
-		"Korean": "곰돌이 양초 - 장수도롱뇽"
+		"Korean": "곰돌이 양초 - 장수도롱뇽",
+		"French": "Candle Bear - Hellbender"
 	},
 	"GAMEPLAY_CandleRedC": {
 		"English": "Candle Bear - Dragon",
@@ -782,7 +805,8 @@
 		"German": "Kerzenbär - Drache",
 		"Turkish": "Ayıcık Mumu - Ejderha",
 		"Italian": "Candela-Orso - Drago",
-		"Korean": "곰돌이 양초 - 용"
+		"Korean": "곰돌이 양초 - 용",
+		"French": "Candle Bear - Dragon"
 	},
 	"GAMEPLAY_CandleRedD": {
 		"English": "Candle Bear - Moon",
@@ -792,7 +816,8 @@
 		"German": "Kerzenbär - Mond",
 		"Turkish": "Ayıcık Mumu - Ay",
 		"Italian": "Candela-Orso - Luna",
-		"Korean": "곰돌이 양초 - 달"
+		"Korean": "곰돌이 양초 - 달",
+		"French": "Candle Bear - Lune"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenA": {
 		"English": "Candle Bear -  Snowballed",
@@ -802,7 +827,8 @@
 		"German": "Kerzenbär - Schneeball",
 		"Turkish": "Ayıcık Mumu - Kartopu",
 		"Italian": "Candela-Orso - Palla di Neve",
-		"Korean": "곰돌이 양초 - 눈싸움"
+		"Korean": "곰돌이 양초 - 눈싸움",
+		"French": "Candle Bear - Boule de neige"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #01/16",
@@ -812,7 +838,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #01/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #01/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #01/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #01/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #01/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #01/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenA": {
 		"English": "Bears are not known to be Great at playing snowballs. But they love playing! When you see a sad-looking bear - cheer it up with a snowball! \n\nDo not attempt to play snowballs with a bear",
@@ -822,7 +849,8 @@
 		"German": "Es ist nicht bekannt, ob Bären besonders gut darin sind, Schneeball zu spielen. Aber sie lieben es zu spielen! Wenn sie einen traurig aussehenden Bären sehen, muntern Sie ihn mit einem Schneeball auf! \n\nVersuchen Sie nicht, mit einem Bären Schneeball zu spielen.",
 		"Turkish": "Ayıların kartopu oynamakta pek iyi olduğu bilinmez. Ama oynamayı seviyorlar! Üzgün görünen bir ayı gördüğünüzde onu bir kartopu ile neşelendirin! \n\nAyı ile kartopu oynamaya çalışmayın",
 		"Italian": "Gli orsi non sono noti per essere bravi a giocare alle palle di neve. Ma amano giocare! Quando vedi un orso triste - lanciali una palla di neve per rallegrarlo! \n\nNon tentare di giocare alle palle di neve con un orso.",
-		"Korean": "곰은 눈싸움을 잘 하는 동물로 알려져 있지는 않아요. 노는 건 좋아하죠! 슬퍼 보이는 곰을 본다면, 눈덩이로 기분 전환을 시켜주세요! \n\n하지만 곰과 눈싸움을 하려고 하지는 마세요."
+		"Korean": "곰은 눈싸움을 잘 하는 동물로 알려져 있지는 않아요. 노는 건 좋아하죠! 슬퍼 보이는 곰을 본다면, 눈덩이로 기분 전환을 시켜주세요! \n\n하지만 곰과 눈싸움을 하려고 하지는 마세요.",
+		"French": "Les ours ne sont pas connus pour leur aptitude à jouer aux boules de neige. Mais ils adorent jouer ! Quand vous voyez un ours triste - réconfortez-le avec une boule de neige ! \n\nN'essayez pas de jouer aux boules de neige avec un ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenB": {
 		"English": "Candle Bear - Festive",
@@ -832,7 +860,8 @@
 		"German": "Kerzenbär - Festlich",
 		"Turkish": "Ayıcık Mumu - Festival",
 		"Italian": "Candela-Orso - Festivo",
-		"Korean": "곰돌이 양초 - 축제"
+		"Korean": "곰돌이 양초 - 축제",
+		"French": "Candle Bear - Festive"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #02/16",
@@ -842,7 +871,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #02/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #02/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #02/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #02/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #02/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #02/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenB": {
 		"English": "Bears love to celebrate New Year. But they do it their own way. Try sneaking into bear den at New Year's eve with a colorful light - maybe you will be just in time for the celebration. \n\nDo not attempt to celebrate New Year with a bear",

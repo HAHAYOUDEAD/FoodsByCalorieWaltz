@@ -6,7 +6,8 @@
 		"German": "Brandneu",
 		"Turkish": "Yepyeni",
 		"Italian": "Nuovo di pacca",
-		"Korean": "새 제품"
+		"Korean": "새 제품",
+		"French": "Toute neuve"
 		
 	},
 	"CWF_candleLeft90": {
@@ -16,7 +17,8 @@
 		"German": "Fast voll",
 		"Turkish": "Neredeyse dolu",
 		"Italian": "Quasi pieno",
-		"Korean": "거의 가득 참"
+		"Korean": "거의 가득 참",
+		"French": "Presque entière"
 	},
 	"CWF_candleLeft75": {
 		"English": "About three quarters left",
@@ -25,7 +27,8 @@
 		"German": "Etwa drei Viertel übrig",
 		"Turkish": "Yaklaşık dörtte üçü kaldı",
 		"Italian": "Rimasto circa tre quarti",
-		"Korean": "4분의 3정도 남음"
+		"Korean": "4분의 3정도 남음",
+		"French": "Environ trois quarts restants"
 	},
 	"CWF_candleLeft50": {
 		"English": "About a half left",
@@ -34,7 +37,8 @@
 		"German": "Über die Hälfte übrig",
 		"Turkish": "Yaklaşık yarısı kaldı",
 		"Italian": "Rimasto circa la metà",
-		"Korean": "반 정도 남음"
+		"Korean": "반 정도 남음",
+		"French": "Il en reste la moitié"
 	},
 	"CWF_candleLeft25": {
 		"English": "About a quarter left",
@@ -43,7 +47,8 @@
 		"German": "Etwa ein Viertel übrig",
 		"Turkish": "Yaklaşık çeyreği kaldı",
 		"Italian": "Rimasto circa un quarto",
-		"Korean": "4분의 1정도 남음"
+		"Korean": "4분의 1정도 남음",
+		"French": "Environ un quart restant"
 	},
 	"CWF_candleLeft7": {
 		"English": "Almost done",
@@ -52,7 +57,8 @@
 		"German": "Fast leer",
 		"Turkish": "Neredeyse bitti",
 		"Italian": "Quasi finito",
-		"Korean": "거의 다 씀"
+		"Korean": "거의 다 씀",
+		"French": "Quasi terminée"
 	},
 	"GAMEPLAY_bananaChips": {
 		"English": "Banana Chips",
@@ -62,7 +68,8 @@
 		"German": "Bananenchips",
 		"Turkish": "Muz Cipsi",
 		"Italian": "Chips di Banane",
-		"Korean": "바나나 칩"
+		"Korean": "바나나 칩",
+		"French": "Chips de banane"
 	},
 	"GAMEPLAY_bananaChipsDescription": {
 		"English": "Dried banana with sugar. Dry and sweet. Too sweet",
@@ -72,7 +79,8 @@
 		"German": "Getrocknete Bananenscheiben mit Zucker. Trocken und süß. Zu süß",
 		"Turkish": "Şeker ilave edilmiş kurutulmuş muz. Kuru ve Tatlı. Bayağı tatlı.",
 		"Italian": "Banane essicate con zucchero. Secche e dolci. Troppo dolci.",
-		"Korean": "설탕을 넣어 말린 바나나. 바삭하고 달콤하지만, 너무 달다"
+		"Korean": "설탕을 넣어 말린 바나나. 바삭하고 달콤하지만, 너무 달다",
+		"French": "Des bananes séchées au sucre. Sèches et sucrées. Trop sucrées."
 	},
 	"GAMEPLAY_crabSnack": {
 		"English": "Crab Wheat Chips",
@@ -82,7 +90,8 @@
 		"German": "Krabbenweizenchips",
 		"Turkish": "Buğdaylı Yengeç Cipsi",
 		"Italian": "Chips di Grano di Grancio",
-		"Korean": "게맛 크래커"
+		"Korean": "게맛 크래커",
+		"French": "Chips de crabe"
 	},
 	"GAMEPLAY_crabSnackDescription": {
 		"English": "Crunchy little crabs. Extremely tasty, but also exceptionally dry",
@@ -92,7 +101,8 @@
 		"German": "Knusprige kleine Krabben. Sehr geschmackvoll, aber auch außergewöhnlich trocken",
 		"Turkish": "Gevrek küçük yengeçler. Son derece lezzetli ama aynı zamanda son derece kuru",
 		"Italian": "Piccoli granchi croccanti. Estremamente buoni, ma anche eccezionalmente secchi.",
-		"Korean": "바삭바삭한 작은 게. 맛은 끝내주지만, 너무 말라있다"
+		"Korean": "바삭바삭한 작은 게. 맛은 끝내주지만, 너무 말라있다",
+		"French": "Des petits crabes croustillants. Extrêmement goûtus, mais exceptionnellement secs."
 	},
 	"GAMEPLAY_honeyNuts": {
 		"English": "Nuts in Honey",
@@ -102,7 +112,8 @@
 		"German": "Nüsse in Honig",
 		"Turkish": "Fındıklı Bal",
 		"Italian": "Noccioline in Miele",
-		"Korean": "꿀에 절인 견과류"
+		"Korean": "꿀에 절인 견과류",
+		"French": "Noix au miel"
 	},
 	"GAMEPLAY_honeyNutsDescription": {
 		"English": "Lasts forever. If the lid is tight.\n\nEating too much will cause digestion problems. Do not consume without hot tea!",
@@ -112,7 +123,8 @@
 		"German": "Hält ewig, wenn der Deckel zu ist.\n\nZu viel davon führt zu Verdauungsproblemen. Nicht ohne heißen Tee verzehren!",
 		"Turkish": "Kapak sıkıysa sonsuza kadar saklanabilir. Çok yemek sindirim problemlerine yol açar. Sıcak çay olmadan tüketmeyin!",
 		"Italian": "Dura per sempre. Se il coperchio è stretto.\n\nUn consumo elevato causerà problemi digestivi. Non consumarlo senza tisana calda!",
-		"Korean": "꿀에 절인 견과류. \n\n뚜껑만 잘 닫아두면 오래 보관할 수 있습니다. 하지만 너무 많이 먹으면 소화불량을 일으킬 수 있으니 주의하세요. 따뜻한 차와 함께 드시면 더욱 좋습니다!"
+		"Korean": "꿀에 절인 견과류. \n\n뚜껑만 잘 닫아두면 오래 보관할 수 있습니다. 하지만 너무 많이 먹으면 소화불량을 일으킬 수 있으니 주의하세요. 따뜻한 차와 함께 드시면 더욱 좋습니다!",
+		"French": "Dure éternellement. Si le couvercle est bien serré.\n\nEn manger trop causera des problèmes de digestion. Ne pas consommer sans thé chaud!"
 	},
 	"GAMEPLAY_hotSpringSoda": {
 		"English": "Hot Spring Soda",
@@ -122,7 +134,8 @@
 		"German": "Quellwasser-Soda",
 		"Turkish": "Kaplıca Gazozu",
 		"Italian": "Bevanda Gassosa 'Primavera Calda'",
-		"Korean": "온천 소다"
+		"Korean": "온천 소다",
+		"French": "Soda à l'eau de source"
 	},
 	"GAMEPLAY_hotSpringSodaDescription": {
 		"English": "Essentially god's nectar. Will make you appreciate life more",
@@ -132,7 +145,8 @@
 		"German": "Im Wesentlichen der Nektar Gottes. Dadurch wirst du dein Leben mehr schätzen",
 		"Turkish": "Esasen yaz meyveli. Hayatı daha çok takdir etmeni sağlayacak",
 		"Italian": "Essenzialmente nettare di dio. Ti farà apprezzare la vita di più.",
-		"Korean": "신이 내린 꿀맛이라고 할 수 있죠. 이 음료를 마시면 인생을 더욱 감사하게 느끼게 될 거에요"
+		"Korean": "신이 내린 꿀맛이라고 할 수 있죠. 이 음료를 마시면 인생을 더욱 감사하게 느끼게 될 거에요",
+		"French": "Essentiellement le nectar divin. Vous fera encore plus apprécier la vie"
 	},
 	"GAMEPLAY_jubileeCookies": {
 		"English": "Ginger Cookies",
@@ -142,7 +156,8 @@
 		"German": "Ingwer-Kekse",
 		"Turkish": "Zencefilli kurabiyeler",
 		"Italian": "Biscotti allo Zenzero",
-		"Korean": "생강 쿠키"
+		"Korean": "생강 쿠키",
+		"French": "Biscuits au gingembre"
 	},
 	"GAMEPLAY_jubileeCookiesDescription": {
 		"English": "Crunchy outside, soft inside. The perfect combination",
@@ -152,7 +167,8 @@
 		"German": "Außen knusprig, innen weich. Die perfekte Kombination",
 		"Turkish": "Dışı çıtır, içi yumuşacık. Mükemmel uyum",
 		"Italian": "Croccanti all'esterno, morbidi all'interno. La combinazione perfetta.",
-		"Korean": "바삭한 겉과 부드러운 속의 완벽한 조화를 자랑합니다"
+		"Korean": "바삭한 겉과 부드러운 속의 완벽한 조화를 자랑합니다",
+		"French": "Croquant à l'exterieux, moelleux à l'intérieur. Le combo parfait"
 	},
 	"GAMEPLAY_marinaraMackerel": {
 		"English": "Mackerel in Marinara Sauce",
@@ -162,7 +178,8 @@
 		"German": "Makrele in Marinara-Sauce",
 		"Turkish": "Marinara Soslu Uskumru",
 		"Italian": "Sgombro in Salsa Marinara",
-		"Korean": "마리네이드 소스를 곁들인 고등어"
+		"Korean": "마리네이드 소스를 곁들인 고등어",
+		"French": "Maquereaux à la Sauce Marinara"
 	},
 	"GAMEPLAY_marinaraMackerelDescription": {
 		"English": "Tender and savory mackerel filet. Add some vegetable ragout and the perfect dinner is ready",
@@ -172,7 +189,8 @@
 		"German": "Zartes, herzhaftes Makrelenfilet. Füge etwas Gemüseragout hinzu und fertig ist das perfekte Abendessen",
 		"Turkish": "Yumuşak ve lezzetli uskumru filetosu. Biraz sebze yahnisi ekleyin ve mükemmel akşam yemeği hazır.",
 		"Italian": "Filetto di sgombro tenero e saporito. Aggiungi un po' di ragù di verdure e la cena perfetta è pronta.",
-		"Korean": "마리네이드 소스를 곁들인 부드럽고 짭짤한 고등어 필레입니다. 야채 라구를 추가하면 완벽한 저녁 식사가 완성됩니다"
+		"Korean": "마리네이드 소스를 곁들인 부드럽고 짭짤한 고등어 필레입니다. 야채 라구를 추가하면 완벽한 저녁 식사가 완성됩니다",
+		"French": "De tendres et savoureux filets de maquereaux. Ajoutez du ragoût de légumes et le dîner parfait est prêt"
 	},
 	"GAMEPLAY_mysteryCake": {
 		"English": "Assorted Wafers",
@@ -182,7 +200,8 @@
 		"German": "Waffelmischung",
 		"Turkish": "Karışık Gofretler",
 		"Italian": "Cialde Assortite",
-		"Korean": "와플 모음"
+		"Korean": "와플 모음",
+		"French": "Gaufrettes assorties"
 	},
 	"GAMEPLAY_mysteryCakeDescription": {
 		"English": "Wafers with chocolate and praline. Filling will pleasantly surprise you",
@@ -192,7 +211,8 @@
 		"German": "Waffeln mit Schokolade und Pralinen. Die Füllung wird Sie angenehm überraschen",
 		"Turkish": "Çikolatalı ve badem şekerli gofretler sizi hoş bir şekilde şaşırtacak",
 		"Italian": "Cialde con cioccolato e pralina. Il riempimento ti sorprenderà piacevolmente.",
-		"Korean": "초콜릿과 프랄린이 들어간 와플 모음입니다. 달콤한 속재료가 당신을 기쁘게 해줄 거에요"
+		"Korean": "초콜릿과 프랄린이 들어간 와플 모음입니다. 달콤한 속재료가 당신을 기쁘게 해줄 거에요",
+		"French": "Des gaufrettes au chocolat et au pralin. Le fourrage vous surprendra agréablement"
 	},
 	"GAMEPLAY_nannasOats": {
 		"English": "Nanna's Oats",
@@ -202,7 +222,8 @@
 		"German": "Nanna's Hafer",
 		"Turkish": "Yulaf Ezmesi",
 		"Italian": "Avena della Nanna",
-		"Korean": "할머니표 오트밀"
+		"Korean": "할머니표 오트밀",
+		"French": "L'avoine de Nanna"
 	},
 	"GAMEPLAY_nannasOatsDescription": {
 		"English": "Needs water. Better with berries",
@@ -212,7 +233,8 @@
 		"German": "Benötigt Wasser. Besser mit Beeren",
 		"Turkish": "Suya ihtiyacı var. Çilek ile daha iyi",
 		"Italian": "Serve acqua. Meglio con qualche bacca.",
-		"Korean": "물을 부어 먹으면 더욱 맛있어요. 베리와 함께 먹으면 더욱 좋습니다"
+		"Korean": "물을 부어 먹으면 더욱 맛있어요. 베리와 함께 먹으면 더욱 좋습니다",
+		"French": "Servir avec de l'eau. Meilleur avec des baies"
 	},
 	"GAMEPLAY_oatsBowl": {
 		"English": "Oatmeal",
@@ -222,7 +244,8 @@
 		"German": "Haferflocken",
 		"Turkish": "Hazırlanmış Yulaf Ezmesi",
 		"Italian": "Fiocchi d'avena",
-		"Korean": "오트밀"
+		"Korean": "오트밀",
+		"French": "Flocons d'avoine"
 	},
 	"GAMEPLAY_oatsBowlDescription": {
 		"English": "Bowl of plain oats. Nutritious but tastes like rag",
@@ -232,7 +255,8 @@
 		"German": "Eine Schüssel Haferflocken. Nahrhaft, aber schmeckt nach Lumpen",
 		"Turkish": "Bir kase sade yulaf. Besleyici ama tadı paçavra gibi",
 		"Italian": "Ciotola di avena semplice. Nutriente ma ha un sapore di straccio.",
-		"Korean": "오트밀 한 그릇. 영양 만점이지만, 맛은 좀 심심해요."
+		"Korean": "오트밀 한 그릇. 영양 만점이지만, 맛은 좀 심심해요.",
+		"French": "Un bol de flocons d'avoine natures. Nutritifs mais a un goût de torchon"
 	},
 	"GAMEPLAY_pinenutBrittle": {
 		"English": "Pine Nut Brittle Candy",
@@ -242,7 +266,8 @@
 		"German": "Kiefernnuss-Krokantbonbons",
 		"Turkish": "Çam Fıstıklı Gevrek Şeker",
 		"Italian": "Caramelle Fragili ai Pinoli",
-		"Korean": "부서지기 쉬운 잣 캔디"
+		"Korean": "부서지기 쉬운 잣 캔디",
+		"French": "Bonbons à la noix de pin"
 	},
 	"GAMEPLAY_pinenutBrittleDescription": {
 		"English": "Little nuts in caramel. Don't break your teeth!",
@@ -252,7 +277,8 @@
 		"German": "Kleine Nüsse in Karamel. Brich dir nicht die Zähne aus!",
 		"Turkish": "Karamelin içinde küçük fındıklar. Dişlerini kırma!",
 		"Italian": "Piccole noccioline in caramello. Attento ai denti!",
-		"Korean": "카라멜로 코팅된 작은 견과류 캔디. 이빨이 부러질 수 있으니, 깨물 때 조심하세요!"
+		"Korean": "카라멜로 코팅된 작은 견과류 캔디. 이빨이 부러질 수 있으니, 깨물 때 조심하세요!",
+		"French": "De petites noix au caramel. Attention aux dents !"
 	},
 	"GAMEPLAY_solitudeCider": {
 		"English": "Solitude Cider",
@@ -262,7 +288,8 @@
 		"German": "Solitude Apfelwein",
 		"Turkish": "Elma Şarabı",
 		"Italian": "Sidro 'Solitudine'",
-		"Korean": "천연 사이다"
+		"Korean": "천연 사이다",
+		"French": "Cidre 'Solitude'"
 	},
 	"GAMEPLAY_solitudeCiderDescription": {
 		"English": "Semi-sweet berry cider. Doesn't get better than that.\n\nAlcohol 6% vol",
@@ -272,7 +299,8 @@
 		"German": "Halbsüßer Beeren-Apfelwein. Besser geht es nicht.\n\nAlkoholgehalt: 6%",
 		"Turkish": "Yarı tatlı elma şarabı. Bundan iyisi olamaz.\n\n%6 Alkollü ",
 		"Italian": "Un sidro di bacche semi dolci. Non c'è niente di meglio.\n\nContiene 6% vol di alcol.",
-		"Korean": "달콤한 베리맛 사이다. 이보다 맛이 좋을 순 없죠! \n\n알코올 도수 6%"
+		"Korean": "달콤한 베리맛 사이다. 이보다 맛이 좋을 순 없죠! \n\n알코올 도수 6%",
+		"French": "Cidre mi-sucré aux baies. Rien de mieux que ça.\n\nAlcool 6% vol."
 	},
 	"GAMEPLAY_tunaPate": {
 		"English": "Tuna Pate",
@@ -282,7 +310,8 @@
 		"German": "Thunfischpastete",
 		"Turkish": "Ton balıklı ezme",
 		"Italian": "Paté di Tonno",
-		"Korean": "참치 파테"
+		"Korean": "참치 파테",
+		"French": "Pâté de thon"
 	},
 	"GAMEPLAY_tunaPateDescription": {
 		"English": "Delicious, almost sweet pate. Best with salty crackers",
@@ -292,7 +321,8 @@
 		"German": "Köstliche, fast süße Pastete. Am besten mit salzigen Crackern",
 		"Turkish": "Lezzetli, neredeyse tatlı ezme. Tuzlu kraker ile en iyisi",
 		"Italian": "Un paté delizioso, quasi dolce. Meglio con i cracker salati.",
-		"Korean": "달콤한 맛이 감도는 맛있는 파테입니다. 짭짤한 크래커와 함께 드시면 더욱 맛있습니다"
+		"Korean": "달콤한 맛이 감도는 맛있는 파테입니다. 짭짤한 크래커와 함께 드시면 더욱 맛있습니다",
+		"French": "Un pâté délicieux, presque sucré. Encore meilleur avec des crackers !"
 	},
 	"GAMEPLAY_lecso": {
 		"English": "Lecsó",
@@ -302,7 +332,8 @@
 		"German": "Letscho",
 		"Turkish": "Lescó",
 		"Italian": "Lecsó",
-		"Korean": "레쵸"
+		"Korean": "레쵸",
+		"French": "Lecsó"
 	},
 	"GAMEPLAY_lecsoDescription": {
 		"English": "Vegetable ragout. Begs for some baked fish\n\nPronounced ''lecho''",
@@ -312,7 +343,8 @@
 		"German": "Gemüseragout. Bittet um etwas gebackenen Fisch",
 		"Turkish": "Sebze yahnisi. Pişmiş balık için yalvarır\n\n''lecho'' olarak telaffuz edilir",
 		"Italian": "Ragù di verdura. Implora un po' di pesce al forno\n\nPronunciato ''lecho''.",
-		"Korean": "헝가리식 야채 스튜. 구운 생선과 함께 먹으면 더욱 맛있습니다\n\n'레쵸'라고 발음합니다"
+		"Korean": "헝가리식 야채 스튜. 구운 생선과 함께 먹으면 더욱 맛있습니다\n\n'레쵸'라고 발음합니다",
+		"French": "Un ragoût de légumes. Demande un peu de poisson cuit au four\n\nPrononcé ''lecho''"
 	},
 	"GAMEPLAY_figConfiture": {
 		"English": "Fig Confiture",
@@ -322,7 +354,8 @@
 		"German": "Feigenkonfitüre",
 		"Turkish": "İncir reçeli",
 		"Italian": "Confettura di Fichi",
-		"Korean": "무화과 잼"
+		"Korean": "무화과 잼",
+		"French": "Confiture de figue"
 	},
 	"GAMEPLAY_figConfitureDescription": {
 		"English": "Jam. Perfectly sweet with a little crunch",
@@ -332,7 +365,8 @@
 		"German": "Marmelade. Perfekt süß mit ein wenig Biss",
 		"Turkish": "Reçel. Parçacıklı ve mükemmel tatlı.",
 		"Italian": "Marmellata. Perfettamente dolce con un po' di croccantezza.",
-		"Korean": "무화과 잼. 적당한 단맛에 톡톡 씹히는 맛이 일품입니다"
+		"Korean": "무화과 잼. 적당한 단맛에 톡톡 씹히는 맛이 일품입니다",
+		"French": "De la confiture. Parfaitement sucrée avec un peu de croustillant"
 	},
 	"GAMEPLAY_nordShoreChocolate": {
 		"English": "Dark Chocolate with Salt and Caramel",
@@ -342,7 +376,8 @@
 		"German": "Dunkle Schokolade mit Salz und Karamell",
 		"Turkish": "Tuzlu ve Karamelli Bitter Çikolata",
 		"Italian": "Cioccolato Fondente con Sale e Caramello",
-		"Korean": "소금과 캐러멜을 곁들인 다크 초콜릿"
+		"Korean": "소금과 캐러멜을 곁들인 다크 초콜릿",
+		"French": "Chocolat noir au sel et au caramel"
 	},
 	"GAMEPLAY_nordShoreChocolateDescription": {
 		"English": "Just taste it, you won't notice when it's gone",
@@ -352,7 +387,8 @@
 		"German": "Probier es einfach, du wirst es nicht merken, wenn es weg ist",
 		"Turkish": "Sadece tadına bak, bittiğinde fark etmeyeceksin",
 		"Italian": "Provalo, non te ne accorgerai quando l'hai finito.",
-		"Korean": "한번 맛보면 순식간에 사라지는 마법 같은 초콜릿입니다"
+		"Korean": "한번 맛보면 순식간에 사라지는 마법 같은 초콜릿입니다",
+		"French": "Goûtez, vous ne remarquerez même pas que vous l'avez déjà fini"
 	},
 	"GAMEPLAY_kvass": {
 		"English": "Kvass",
@@ -362,7 +398,8 @@
 		"German": "Kwass",
 		"Turkish": "Kvass",
 		"Italian": "Kvas",
-		"Korean": "크바스"
+		"Korean": "크바스",
+		"French": "Kvas"
 	},
 	"GAMEPLAY_kvassDescription": {
 		"English": "Barely alcoholic, fizzy and refreshing with suble sweet taste",
@@ -372,7 +409,8 @@
 		"German": "Kaum alkoholisch, spritzig und erfrischend mit dezent süßem Geschmack",
 		"Turkish": "Bir rus birası. Az alkollü, gazlı ve hafif tatlı tadıyla ferahlatıcı",
 		"Italian": "Appena alcolico, frizzante e rinfrescante con un gusto dolce e delicato.",
-		"Korean": "알코올 도수가 낮고 탄산이 들어있어 상쾌하며 은은한 단맛이 느껴지는 음료입니다."
+		"Korean": "알코올 도수가 낮고 탄산이 들어있어 상쾌하며 은은한 단맛이 느껴지는 음료입니다.",
+		"French": "A peine alcoolisée, pétillante et rafraîchissante avec un subtil goût sucré"
 	},
 	"GAMEPLAY_roastedAlmonds": {
 		"English": "Roasted Almonds",
@@ -382,7 +420,8 @@
 		"German": "Geröstete Mandeln",
 		"Turkish": "Kavrulmuş Badem",
 		"Italian": "Mandorle Arrostite",
-		"Korean": "구운 아몬드"
+		"Korean": "구운 아몬드",
+		"French": "Amandes toastées"
 	},
 	"GAMEPLAY_roastedAlmondsDescription": {
 		"English": "Little nuts, a little salty, a little spicy",
@@ -392,7 +431,8 @@
 		"German": "Kleine Nüsse, ein bisschen salzig, ein bisschen würzig",
 		"Turkish": "Biraz fındıklı, biraz tuzlu, biraz baharatlı",
 		"Italian": "Piccole noccioline, un po' salate, un po' piccanti.",
-		"Korean": "작지만 짭짤하면서도 매콤한 맛이 나는 아몬드입니다"
+		"Korean": "작지만 짭짤하면서도 매콤한 맛이 나는 아몬드입니다",
+		"French": "De petites amandes, un peu salées, un peu épicées"
 	},
 	"GAMEPLAY_strawberryPlombir": {
 		"English": "Wild Strawberry Plombir",
@@ -402,7 +442,8 @@
 		"German": "Wilderdbeeren-Plombir",
 		"Turkish": "Dağ Çilekli Dondurma",
 		"Italian": "Gelato alla Fragola Selvatica",
-		"Korean": "야생 딸기 플롬비르"
+		"Korean": "야생 딸기 플롬비르",
+		"French": "Plombir saveur 'Fraises des bois'"
 	},
 	"GAMEPLAY_strawberryPlombirDescription": {
 		"English": "Sweet and soft, just melts on your tongue. May not be a good idea to eat when you cold",
@@ -412,7 +453,8 @@
 		"German": "Süß und weich, zergeht auf der Zunge. Möglicherweise keine gute Idee, wenn dir kalt ist",
 		"Turkish": "Tatlı ve yumuşak, dilinizde eriyor. Üşüdüğünde bunu yemek iyi bir fikir olmayabilir",
 		"Italian": "Dolce e morbida, appena si scioglie sulla tua lingua. Forse è una brutta idea mangiarlo quando hai freddo.",
-		"Korean": "달콤하고 부드러운 맛이 입안에서 사르르 녹습니다. 추운 날씨에는 먹지 않는 것이 좋을 수도 있습니다"
+		"Korean": "달콤하고 부드러운 맛이 입안에서 사르르 녹습니다. 추운 날씨에는 먹지 않는 것이 좋을 수도 있습니다",
+		"French": "Doux et sucrée, elle fond sur la langue. Il n'est peut-être pas judicieux de la manger quand vous avez froid"
 	},
 	"GAMEPLAY_icecreamCup": {
 		"English": "Icecream in a Wafer Cup",
@@ -422,7 +464,8 @@
 		"German": "Eiscreme im Waffelbecher",
 		"Turkish": "Gofretli Dondurma",
 		"Italian": "Gelato in una Tazza di Cialda",
-		"Korean": "와플 컵 아이스크림"
+		"Korean": "와플 컵 아이스크림",
+		"French": "Gaufrette glacée"
 	},
 	"GAMEPLAY_icecreamCupDescription": {
 		"English": "Blizzard with chocolate, nuts and caramel mixed in. All in a crunchy wafer cup. Wow\n\nThanks for asking, penguin's name is Jeremy",
@@ -432,7 +475,8 @@
 		"German": "Eis mit Schokoladen, Nüssen und Karamell. Alles in einem knusprigen Waffelbecher. Wow\n\nDanke der Nachfrage, der Name des Pinguins ist Jeremy",
 		"Turkish": "Çikolata, Fındık ve karamel ile dondurulmuş çıtır gofret.\n\nSorduğun için teşekürler. Penguenin adı Jeremy.",
 		"Italian": "Una buffera con cioccolata, noccioline e caramello mescolati dentro di esso. Tutto in una tazza fatta di cialda croccante. Wow\n\nGrazie per avermelo chiesto, il nome del pinguino è Jeremy.",
-		"Korean": "바삭한 와플 컵에 초콜릿, 견과류, 캐러멜이 섞인 블리자드 아이스크림이 가득! 정말 맛있겠죠? \n\n참고로, 펭귄의 이름은 제레미입니다"
+		"Korean": "바삭한 와플 컵에 초콜릿, 견과류, 캐러멜이 섞인 블리자드 아이스크림이 가득! 정말 맛있겠죠? \n\n참고로, 펭귄의 이름은 제레미입니다",
+		"French": "Un blizzard mélangeant chocolat, noix et caramel. Tout ça dans une gaufrette. Wow\n\nLe nom du pingouin est Jeremy, merci d'avoir demandé"
 	},
 	"GAMEPLAY_applesaucePryanik": {
 		"English": "Pryanik with Applesauce Filling",
@@ -442,7 +486,8 @@
 		"German": "Lebkuchen mit Apfelmusfüllung",
 		"Turkish": "Elma dolgulu zencefilli kurabiye",
 		"Italian": "Panforte con Ripieno di Salsa di Mela",
-		"Korean": "사과 소스를 채운 프랴닉"
+		"Korean": "사과 소스를 채운 프랴닉",
+		"French": "Prianik fourré à la compote de pommes"
 	},
 	"GAMEPLAY_applesaucePryanikDescription": {
 		"English": "Glazed honey biscuits. Sweet, soft and aromatic. Perfect complement to a cup of hot tea\n\nCheck out the inside!",
@@ -452,7 +497,8 @@
 		"German": "Glasiertes Honiggebäck. Süß, weich und aromatisch. Perfekte Ergänzung zu einer heißen Tasse Tee\n\nSchauen Sie sich das Innere an!",
 		"Turkish": "Elma dolgulu zencefilli kurabiye. Tatlı, hassas ve aromatik. Bir fincan sıcak çayın mükemmel eşlikçisi\n\nİçinde ne olduğunu görün",
 		"Italian": "Biscotti glassati in miele. Dolci, morbidi e aromatici. Un completo perfetto con una tazza di tè caldo.\n\nGuarda cosa c'è dentro!",
-		"Korean": "사과 소스를 채운 프랴닉. 달콤하고 부드러우면서도 향긋한 꿀 비스킷입니다. 따뜻한 차와 함께 즐기기에 완벽해요!"
+		"Korean": "사과 소스를 채운 프랴닉. 달콤하고 부드러우면서도 향긋한 꿀 비스킷입니다. 따뜻한 차와 함께 즐기기에 완벽해요!",
+		"French": "Biscuits glacés au miel. Sucrés, doux et aromatiques. Le complément idéal un bon thé chaud\n\nRegardez à l'intérieur!"
 	},
 	"GAMEPLAY_glintwein": {
 		"English": "Mulled Wine Kit",
@@ -462,7 +508,8 @@
 		"German": "Glühwein-Set",
 		"Turkish": "Sıcak Şarap Seti",
 		"Italian": "Kit di Vin Brulé",
-		"Korean": "글루바인 키트"
+		"Korean": "글루바인 키트",
+		"French": "Kit de vin chaud"
 	},
 	"GAMEPLAY_glintweinDescription": {
 		"English": "They call it Glintwein in Russia. Includes red wine and spices. Bring everything to a simmer(don't boil!) and enjoy your cold winter evenings",
@@ -472,7 +519,8 @@
 		"German": "In Russland nennt man es Glintwein. Enthält Rotwein und Gewürze. Bringen Sie alles zum Köcheln (nicht kochen!) und genießen Sie Ihre kalten Winterabende",
 		"Turkish": "Rusya'da buna Glintwein diyorlar. Kırmızı şarap ve baharatlar içerir. Her şeyi ısıtın (kaynatmayın!) ve soğuk kış akşamlarınızın tadını çıkarın",
 		"Italian": "Chiamato Glintwein in Russia. Include vino rosso e spezie. Cuocere tutto su un fuoco lento(non bollire!) e goditi le tue fredde serate invernali.",
-		"Korean": "러시아에서는 글린트바인이라고 부르는 따뜻한 와인입니다. 레드 와인과 향신료가 포함되어 있어요. 끓이지 않고 약한 불로 데워서 추운 겨울 저녁을 따뜻하게 즐겨보세요!"
+		"Korean": "러시아에서는 글린트바인이라고 부르는 따뜻한 와인입니다. 레드 와인과 향신료가 포함되어 있어요. 끓이지 않고 약한 불로 데워서 추운 겨울 저녁을 따뜻하게 즐겨보세요!",
+		"French": "Ils l'appellent Glintwein en Russie. Contient vin rouge et épices. Porter le tout à frémissement(ne pas bouillir!) et appréciez vos froides soirées d'hiver"
 	},
 	"GAMEPLAY_glintweinCup": {
 		"English": "Mulled Wine Glass",
@@ -482,7 +530,8 @@
 		"German": "Glühweinglas",
 		"Turkish": "Sıcak Şarap Kadehi",
 		"Italian": "Bicchiere di Vin Brulé",
-		"Korean": "따뜻한 와인 잔"
+		"Korean": "따뜻한 와인 잔",
+		"French": "Verre de vin chaud"
 	},
 	"GAMEPLAY_glintweinCupDescription": {
 		"English": "Warms your heart, literally and figuratively",
@@ -492,7 +541,8 @@
 		"German": "Wärmt dein Herz, buchstäblich und bildlich",
 		"Turkish": "Kelimenin tam anlamıyla ve mecazi olarak içini ısıtır",
 		"Italian": "Scalda il tuo cuore, letteralmente e figuratamente.",
-		"Korean": "말 그대로, 그리고 비유적으로도 당신의 마음을 따뜻하게 해줄 거에요"
+		"Korean": "말 그대로, 그리고 비유적으로도 당신의 마음을 따뜻하게 해줄 거에요",
+		"French": "Réchauffe votre coeur, au sens littéral et figuré"
 	},
 	"GAMEPLAY_latteDrops": {
 		"English": "Latte Drops",
@@ -502,7 +552,8 @@
 		"German": "Latte-Drops",
 		"Turkish": "latte damlaları",
 		"Italian": "Gocce di Latte",
-		"Korean": "라떼 사탕"
+		"Korean": "라떼 사탕",
+		"French": "Latte Drops"
 	},
 	"GAMEPLAY_latteDropsDescription": {
 		"English": "Condensed coffee cups in a form of candy. Tastes as good, without the whole brewing hassle. \n\nGives a little energy boost",
@@ -512,7 +563,8 @@
 		"German": "Milchkaffee in Form von Süßigkeiten. Schmeckt genauso gut, ohne den Aufwand Kaffee zu kochen.\n\nGibt einen kleinen Energieschub",
 		"Turkish": "Şeker şeklinde konsantre kahve. Kesinlikle lezzetli. \n\nBir miktar enerji artırma etkisi vardır",
 		"Italian": "Tazze di caffè condensato in una forma di caramella. Buon gusto, senza tutto il processo di preparazione. \n\nDà una piccola spinta d'energia.",
-		"Korean": "라떼 드롭스. 커피 한 잔을 사탕 형태로 압축했습니다. 번거롭게 커피를 내릴 필요 없이 커피 맛 그대로 즐길 수 있어요. \n\n당신에게 조금의 에너지를 더해줄겁니다"
+		"Korean": "라떼 드롭스. 커피 한 잔을 사탕 형태로 압축했습니다. 번거롭게 커피를 내릴 필요 없이 커피 맛 그대로 즐길 수 있어요. \n\n당신에게 조금의 에너지를 더해줄겁니다",
+		"French": "Des tasses de café condensés en une sorte de bonbon. Tout aussi bon, sans tout le processus de préparation. \n\nFournit un petit sursaut d'énergie"
 	},
 	"GAMEPLAY_alphabetSoup": {
 		"English": "Alphabet Soup",
@@ -522,7 +574,8 @@
 		"German": "Buchstaben-Suppe",
 		"Turkish": "Alfabe Çorbası",
 		"Italian": "Zuppa di Alfabeto",
-		"Korean": "알파벳 수프"
+		"Korean": "알파벳 수프",
+		"French": "Soupe Alphabet"
 	},
 	"GAMEPLAY_alphabetSoupDescription": {
 		"English": "Classic alphabet soup. Tastes of nostalgia and good mood. \n\nWhat mood came up for you?",
@@ -532,7 +585,8 @@
 		"German": "Klassische Buchstaben-Suppe. Schmeckt nach Nostalgie und guter Laune. \n\nWelche Stimmung kommt bei dir auf?",
 		"Turkish": "Klasik alfabe çorbası. Nostalji tadı ve iyi bir ruh hali. \n\nSizin için hangi ruh hali geldi?",
 		"Italian": "Classica zuppa di alfabeto. Ha un gusto di nostalgia e buon umore. \n\nIn che umore sei oggi?",
-		"Korean": "고전적인 알파벳 수프입니다. 추억과 좋은 기분을 떠올리게 하는 맛이죠. \n\n어떤 기분이 떠올랐나요?"
+		"Korean": "고전적인 알파벳 수프입니다. 추억과 좋은 기분을 떠올리게 하는 맛이죠. \n\n어떤 기분이 떠올랐나요?",
+		"French": "Une soupe alphabet classique. Un goût de nostalgie et de bonne humeur. \n\nEt vous, vous êtes de quelle humeur ?"
 	},
 	"GAMEPLAY_hematogen": {
 		"English": "Hematogen",
@@ -542,7 +596,8 @@
 		"German": "Hämatogen",
 		"Turkish": "Hematojen",
 		"Italian": "Ematogeno",
-		"Korean": "헤마토겐"
+		"Korean": "헤마토겐",
+		"French": "Hematogen"
 	},
 	"GAMEPLAY_hematogenDescription": {
 		"English": "Albumin ingredient probably doesn't make a lot of sense. It's blood. \n\nMakes you heal faster, tastes good as a side effect",
@@ -552,7 +607,8 @@
 		"German": "Der Inhaltsstoff Albumin macht wahrscheinlich nicht viel Sinn. Es ist Blut. \n\nHeilt dich schneller, und schmeckt nebenbei ganz gut",
 		"Turkish": "Albümin içeriği muhtemelen pek bir anlam ifade etmiyor. Bu kan. \n\nDaha hızlı iyileşmenizi sağlar, yan etki olarak tadı güzeldir",
 		"Italian": "L'ingrediente albumina non ha alcun senso. È sangue. \n\nTi farà guarire più in fretta, ha un buon gusto come effetto collaterale.",
-		"Korean": "알루민 성분이라고는 하지만 사실 혈액으로 만든 겁니다. \n\n상처 회복을 빠르게 해주고, 맛도 좋습니다."
+		"Korean": "알루민 성분이라고는 하지만 사실 혈액으로 만든 겁니다. \n\n상처 회복을 빠르게 해주고, 맛도 좋습니다.",
+		"French": "L'ingrédient 'albumine' n'a probablement pas beaucoup de sens. C'est du sang. \n\nVous fait guérir plus vite. Effet secondaire : bon goût"
 	},
 	"GAMEPLAY_rahatLokum": {
 		"English": "Turkish Delight",
@@ -562,7 +618,8 @@
 		"German": "Türkischer Honig",
 		"Turkish": "Türk Lokumu",
 		"Italian": "Delizia Turca",
-		"Korean": "로쿰"
+		"Korean": "로쿰",
+		"French": "Délices Turques"
 	},
 	"GAMEPLAY_rahatLokumDescription": {
 		"English": "Delicate, delicious candy. Turkish classic. There's a flavor for everyone, so you can't say you don't like it",
@@ -572,7 +629,8 @@
 		"German": "Zarte, köstliche Süßigkeit. Türkischer Klassiker. Für jeden Geschmack ist etwas dabei, man kann also nicht sagen, dass es jemandem nicht schmeckt",
 		"Turkish": "Lezzetli, lezzetli şeker. Türk klasiği. Herkese göre bir lezzet vardır beğenmedim diyemezsin",
 		"Italian": "Dolciumi delicati e deliziosi. Un classico turco. Ci sono gusti per tutti, quindi non puoi dire che non ti piace.",
-		"Korean": "터키쉬 딜라이트. 부드럽고 맛있는 사탕입니다. 터키의 전통과자로 모든 사람을 위한 맛이 있어, 싫어할 수가 없죠"
+		"Korean": "터키쉬 딜라이트. 부드럽고 맛있는 사탕입니다. 터키의 전통과자로 모든 사람을 위한 맛이 있어, 싫어할 수가 없죠",
+		"French": "De délicats et délicieux bonbons. Un classique turque. Des saveurs pour tout le monde, vous ne pouvez dire que vous n'aimez pas"
 	},
 	"GAMEPLAY_CandleDescription": {
 		"English": "One of the collectible candle bears. There was a description card somewhere...",
@@ -582,7 +640,8 @@
 		"German": "Eine der Sammelkerzenbären. Irgendwo gab es eine Beschreibungskarte...",
 		"Turkish": "Koleksiyonluk mum ayılarından biri. Bir yerde bir açıklama kartı vardı...",
 		"Italian": "Una delle candele-orso collezionabili. C'era una carta con le descrizione da qualche parte...",
-		"Korean": "수집용 곰돌이 양초 중 하나입니다. 어딘가에 설명 카드가 있었을 텐데..."
+		"Korean": "수집용 곰돌이 양초 중 하나입니다. 어딘가에 설명 카드가 있었을 텐데...",
+		"French": "Une des Candle Bear à collectionner. Il y avait une carte descriptive quelque part..."
 	},
 	"GAMEPLAY_CandleGreenA": {
 		"English": "Candle Bear - Snowballed",
@@ -592,7 +651,8 @@
 		"German": "Kerzenbär - Schneeball",
 		"Turkish": "Ayıcık Mumu - Kar Topu",
 		"Italian": "Candela-Orso - Palla di Neve",
-		"Korean": "곰돌이 양초 - 눈싸움"
+		"Korean": "곰돌이 양초 - 눈싸움",
+		"French": "Candle Bear - Boule de neige"
 	},
 	"GAMEPLAY_CandleGreenB": {
 		"English": "Candle Bear - Festive",
@@ -602,7 +662,8 @@
 		"German": "Kerzenbär - Festlich",
 		"Turkish": "Ayıcık Mumu - Festival",
 		"Italian": "Candela-Orso - Festivo",
-		"Korean": "곰돌이 양초 - 축제"
+		"Korean": "곰돌이 양초 - 축제",
+		"French": "Candle Bear - Festive"
 	},
 	"GAMEPLAY_CandleGreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -612,7 +673,8 @@
 		"German": "Kerzenbär - Delikatesse",
 		"Turkish": "Ayıcık Mumu - Nezaket",
 		"Italian": "Candela-Orso - Delicatezza",
-		"Korean": "곰돌이 양초 - 미식가"
+		"Korean": "곰돌이 양초 - 미식가",
+		"French": "Candle Bear - Délicatesse"
 	},
 	"GAMEPLAY_CandleGreenD": {
 		"English": "Candle Bear - Dancer",
@@ -622,7 +684,8 @@
 		"German": "Kerzenbär - Tänzer",
 		"Turkish": "Ayıcık Mumu - Dansçı",
 		"Italian": "Candela-Orso - Ballerino",
-		"Korean": "곰돌이 양초 - 댄서"
+		"Korean": "곰돌이 양초 - 댄서",
+		"French": "Candle Bear - Danseur"
 	},
 	"GAMEPLAY_CandleBlueA": {
 		"English": "Candle Bear - Fishing",
@@ -632,7 +695,8 @@
 		"German": "Kerzenbär - Angler",
 		"Turkish": "Ayıcık Mumu - Balıkçı",
 		"Italian": "Candela-Orso - Pescatore",
-		"Korean": "곰돌이 양초 - 낚시꾼"
+		"Korean": "곰돌이 양초 - 낚시꾼",
+		"French": "Candle Bear - Pêcheur"
 	},
 	"GAMEPLAY_CandleBlueB": {
 		"English": "Candle Bear - Struggle",
@@ -642,7 +706,8 @@
 		"German": "Kerzenbär - Kampf",
 		"Turkish": "Ayıcık Mumu - Çabalamak",
 		"Italian": "Candela-Orso - Lotta",
-		"Korean": "곰돌이 양초 - 고난"
+		"Korean": "곰돌이 양초 - 고난",
+		"French": "Candle Bear - Lutte"
 	},
 	"GAMEPLAY_CandleBlueC": {
 		"English": "Candle Bear - Friends",
@@ -652,7 +717,8 @@
 		"German": "Kerzenbär - Freunde",
 		"Turkish": "Ayıcık Mumu - Arkadaşlar",
 		"Italian": "Candela-Orso - Amici",
-		"Korean": "곰돌이 양초 - 친구"
+		"Korean": "곰돌이 양초 - 친구",
+		"French": "Candle Bear - Amis"
 	},
 	"GAMEPLAY_CandleBlueD": {
 		"English": "Candle Bear - Cards",
@@ -662,7 +728,8 @@
 		"German": "Kerzenbär - Karten",
 		"Turkish": "Ayıcık Mumu - Kartlar",
 		"Italian": "Candela-Orso - Carte",
-		"Korean": "곰돌이 양초 - 카드"
+		"Korean": "곰돌이 양초 - 카드",
+		"French": "Candle Bear - Cartes"
 	},
 	"GAMEPLAY_CandlePurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -672,7 +739,8 @@
 		"German": "Kerzenbär - Schneeüberlebender",
 		"Turkish": "Ayıcık Mumu - kardan kurtulan",
 		"Italian": "Candela-Orso - Sopravvissuto di Neve",
-		"Korean": "곰돌이 양초 - 눈 속 생존자"
+		"Korean": "곰돌이 양초 - 눈 속 생존자",
+		"French": "Candle Bear - Survivant des neiges"
 	},
 	"GAMEPLAY_CandlePurpleB": {
 		"English": "Candle Bear - Education",
@@ -682,7 +750,8 @@
 		"German": "Kerzenbär - Ausbildung",
 		"Turkish": "Ayıcık Mumu - Eğitim",
 		"Italian": "Candela-Orso - Educazione",
-		"Korean": "곰돌이 양초 - 교육"
+		"Korean": "곰돌이 양초 - 교육",
+		"French": "Candle Bear - Education"
 	},
 	"GAMEPLAY_CandlePurpleC": {
 		"English": "Candle Bear - Haul",
@@ -692,7 +761,8 @@
 		"German": "Kerzenbär - Schleppen",
 		"Turkish": "Ayıcık Mumu - Hambal",
 		"Italian": "Candela-Orso - Trasporto",
-		"Korean": "곰돌이 양초 - 수확"
+		"Korean": "곰돌이 양초 - 수확",
+		"French": "Candle Bear - Transport"
 	},
 	"GAMEPLAY_CandlePurpleD": {
 		"English": "Candle Bear - Present",
@@ -702,7 +772,8 @@
 		"German": "Kerzenbär - Geschenk",
 		"Turkish": "Ayıcık Mumu - Hediye",
 		"Italian": "Candela-Orso - Regalo",
-		"Korean": "곰돌이 양초 - 선물"
+		"Korean": "곰돌이 양초 - 선물",
+		"French": "Candle Bear - Cadeau"
 	},
 	"GAMEPLAY_CandleRedA": {
 		"English": "Candle Bear - Joke",
@@ -712,7 +783,8 @@
 		"German": "Kerzenbär - Witz",
 		"Turkish": "Ayıcık Mumu - Şaka",
 		"Italian": "Candela-Orso - Barzeletta",
-		"Korean": "곰돌이 양초 - 농담"
+		"Korean": "곰돌이 양초 - 농담",
+		"French": "Candle Bear - Blague"
 	},
 	"GAMEPLAY_CandleRedB": {
 		"English": "Candle Bear - Hellbender",
@@ -722,7 +794,8 @@
 		"German": "Kerzenbär - Schlammteufel",
 		"Turkish": "Ayıcık Mumu - Cehennem bükücü",
 		"Italian": "Candela-Orso - Hellbender",
-		"Korean": "곰돌이 양초 - 장수도롱뇽"
+		"Korean": "곰돌이 양초 - 장수도롱뇽",
+		"French": "Candle Bear - Hellbender"
 	},
 	"GAMEPLAY_CandleRedC": {
 		"English": "Candle Bear - Dragon",
@@ -732,7 +805,8 @@
 		"German": "Kerzenbär - Drache",
 		"Turkish": "Ayıcık Mumu - Ejderha",
 		"Italian": "Candela-Orso - Drago",
-		"Korean": "곰돌이 양초 - 용"
+		"Korean": "곰돌이 양초 - 용",
+		"French": "Candle Bear - Dragon"
 	},
 	"GAMEPLAY_CandleRedD": {
 		"English": "Candle Bear - Moon",
@@ -742,7 +816,8 @@
 		"German": "Kerzenbär - Mond",
 		"Turkish": "Ayıcık Mumu - Ay",
 		"Italian": "Candela-Orso - Luna",
-		"Korean": "곰돌이 양초 - 달"
+		"Korean": "곰돌이 양초 - 달",
+		"French": "Candle Bear - Lune"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenA": {
 		"English": "Candle Bear -  Snowballed",
@@ -752,7 +827,8 @@
 		"German": "Kerzenbär - Schneeball",
 		"Turkish": "Ayıcık Mumu - Kartopu",
 		"Italian": "Candela-Orso - Palla di Neve",
-		"Korean": "곰돌이 양초 - 눈싸움"
+		"Korean": "곰돌이 양초 - 눈싸움",
+		"French": "Candle Bear - Boule de neige"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #01/16",
@@ -762,7 +838,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #01/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #01/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #01/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #01/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #01/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #01/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenA": {
 		"English": "Bears are not known to be Great at playing snowballs. But they love playing! When you see a sad-looking bear - cheer it up with a snowball! \n\nDo not attempt to play snowballs with a bear",
@@ -772,7 +849,8 @@
 		"German": "Es ist nicht bekannt, ob Bären besonders gut darin sind, Schneeball zu spielen. Aber sie lieben es zu spielen! Wenn sie einen traurig aussehenden Bären sehen, muntern Sie ihn mit einem Schneeball auf! \n\nVersuchen Sie nicht, mit einem Bären Schneeball zu spielen.",
 		"Turkish": "Ayıların kartopu oynamakta pek iyi olduğu bilinmez. Ama oynamayı seviyorlar! Üzgün görünen bir ayı gördüğünüzde onu bir kartopu ile neşelendirin! \n\nAyı ile kartopu oynamaya çalışmayın",
 		"Italian": "Gli orsi non sono noti per essere bravi a giocare alle palle di neve. Ma amano giocare! Quando vedi un orso triste - lanciali una palla di neve per rallegrarlo! \n\nNon tentare di giocare alle palle di neve con un orso.",
-		"Korean": "곰은 눈싸움을 잘 하는 동물로 알려져 있지는 않아요. 노는 건 좋아하죠! 슬퍼 보이는 곰을 본다면, 눈덩이로 기분 전환을 시켜주세요! \n\n하지만 곰과 눈싸움을 하려고 하지는 마세요."
+		"Korean": "곰은 눈싸움을 잘 하는 동물로 알려져 있지는 않아요. 노는 건 좋아하죠! 슬퍼 보이는 곰을 본다면, 눈덩이로 기분 전환을 시켜주세요! \n\n하지만 곰과 눈싸움을 하려고 하지는 마세요.",
+		"French": "Les ours ne sont pas connus pour leur aptitude à jouer aux boules de neige. Mais ils adorent jouer ! Quand vous voyez un ours triste - réconfortez-le avec une boule de neige ! \n\nN'essayez pas de jouer aux boules de neige avec un ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenB": {
 		"English": "Candle Bear - Festive",
@@ -782,7 +860,8 @@
 		"German": "Kerzenbär - Festlich",
 		"Turkish": "Ayıcık Mumu - Festival",
 		"Italian": "Candela-Orso - Festivo",
-		"Korean": "곰돌이 양초 - 축제"
+		"Korean": "곰돌이 양초 - 축제",
+		"French": "Candle Bear - Festive"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #02/16",
@@ -792,7 +871,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #02/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #02/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #02/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #02/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #02/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #02/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenB": {
 		"English": "Bears love to celebrate New Year. But they do it their own way. Try sneaking into bear den at New Year's eve with a colorful light - maybe you will be just in time for the celebration. \n\nDo not attempt to celebrate New Year with a bear",

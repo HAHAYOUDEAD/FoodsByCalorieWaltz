@@ -233,7 +233,8 @@
 		"German": "Benötigt Wasser. Besser mit Beeren",
 		"Turkish": "Suya ihtiyacı var. Çilek ile daha iyi",
 		"Italian": "Serve acqua. Meglio con qualche bacca.",
-		"Korean": "물을 부어 먹으면 더욱 맛있어요. 베리와 함께 먹으면 더욱 좋습니다"
+		"Korean": "물을 부어 먹으면 더욱 맛있어요. 베리와 함께 먹으면 더욱 좋습니다",
+		"French": "Servir avec de l'eau. Meilleur avec des baies"
 	},
 	"GAMEPLAY_oatsBowl": {
 		"English": "Oatmeal",
@@ -243,7 +244,8 @@
 		"German": "Haferflocken",
 		"Turkish": "Hazırlanmış Yulaf Ezmesi",
 		"Italian": "Fiocchi d'avena",
-		"Korean": "오트밀"
+		"Korean": "오트밀",
+		"French": "Flocons d'avoine"
 	},
 	"GAMEPLAY_oatsBowlDescription": {
 		"English": "Bowl of plain oats. Nutritious but tastes like rag",
@@ -253,7 +255,8 @@
 		"German": "Eine Schüssel Haferflocken. Nahrhaft, aber schmeckt nach Lumpen",
 		"Turkish": "Bir kase sade yulaf. Besleyici ama tadı paçavra gibi",
 		"Italian": "Ciotola di avena semplice. Nutriente ma ha un sapore di straccio.",
-		"Korean": "오트밀 한 그릇. 영양 만점이지만, 맛은 좀 심심해요."
+		"Korean": "오트밀 한 그릇. 영양 만점이지만, 맛은 좀 심심해요.",
+		"French": "Un bol de flocons d'avoine natures. Nutritifs mais a un goût de torchon"
 	},
 	"GAMEPLAY_pinenutBrittle": {
 		"English": "Pine Nut Brittle Candy",
@@ -263,7 +266,8 @@
 		"German": "Kiefernnuss-Krokantbonbons",
 		"Turkish": "Çam Fıstıklı Gevrek Şeker",
 		"Italian": "Caramelle Fragili ai Pinoli",
-		"Korean": "부서지기 쉬운 잣 캔디"
+		"Korean": "부서지기 쉬운 잣 캔디",
+		"French": "Bonbons à la noix de pin"
 	},
 	"GAMEPLAY_pinenutBrittleDescription": {
 		"English": "Little nuts in caramel. Don't break your teeth!",
@@ -273,7 +277,8 @@
 		"German": "Kleine Nüsse in Karamel. Brich dir nicht die Zähne aus!",
 		"Turkish": "Karamelin içinde küçük fındıklar. Dişlerini kırma!",
 		"Italian": "Piccole noccioline in caramello. Attento ai denti!",
-		"Korean": "카라멜로 코팅된 작은 견과류 캔디. 이빨이 부러질 수 있으니, 깨물 때 조심하세요!"
+		"Korean": "카라멜로 코팅된 작은 견과류 캔디. 이빨이 부러질 수 있으니, 깨물 때 조심하세요!",
+		"French": "De petites noix au caramel. Attention aux dents !"
 	},
 	"GAMEPLAY_solitudeCider": {
 		"English": "Solitude Cider",
@@ -283,7 +288,8 @@
 		"German": "Solitude Apfelwein",
 		"Turkish": "Elma Şarabı",
 		"Italian": "Sidro 'Solitudine'",
-		"Korean": "천연 사이다"
+		"Korean": "천연 사이다",
+		"French": "Cidre 'Solitude'"
 	},
 	"GAMEPLAY_solitudeCiderDescription": {
 		"English": "Semi-sweet berry cider. Doesn't get better than that.\n\nAlcohol 6% vol",
@@ -293,7 +299,8 @@
 		"German": "Halbsüßer Beeren-Apfelwein. Besser geht es nicht.\n\nAlkoholgehalt: 6%",
 		"Turkish": "Yarı tatlı elma şarabı. Bundan iyisi olamaz.\n\n%6 Alkollü ",
 		"Italian": "Un sidro di bacche semi dolci. Non c'è niente di meglio.\n\nContiene 6% vol di alcol.",
-		"Korean": "달콤한 베리맛 사이다. 이보다 맛이 좋을 순 없죠! \n\n알코올 도수 6%"
+		"Korean": "달콤한 베리맛 사이다. 이보다 맛이 좋을 순 없죠! \n\n알코올 도수 6%",
+		"French": "Cidre mi-sucré aux baies. Rien de mieux que ça.\n\nAlcool 6% vol."
 	},
 	"GAMEPLAY_tunaPate": {
 		"English": "Tuna Pate",
@@ -303,7 +310,8 @@
 		"German": "Thunfischpastete",
 		"Turkish": "Ton balıklı ezme",
 		"Italian": "Paté di Tonno",
-		"Korean": "참치 파테"
+		"Korean": "참치 파테",
+		"French": "Pâté de thon"
 	},
 	"GAMEPLAY_tunaPateDescription": {
 		"English": "Delicious, almost sweet pate. Best with salty crackers",
@@ -313,7 +321,8 @@
 		"German": "Köstliche, fast süße Pastete. Am besten mit salzigen Crackern",
 		"Turkish": "Lezzetli, neredeyse tatlı ezme. Tuzlu kraker ile en iyisi",
 		"Italian": "Un paté delizioso, quasi dolce. Meglio con i cracker salati.",
-		"Korean": "달콤한 맛이 감도는 맛있는 파테입니다. 짭짤한 크래커와 함께 드시면 더욱 맛있습니다"
+		"Korean": "달콤한 맛이 감도는 맛있는 파테입니다. 짭짤한 크래커와 함께 드시면 더욱 맛있습니다",
+		"French": "Un pâté délicieux, presque sucré. Encore meilleur avec des crackers !"
 	},
 	"GAMEPLAY_lecso": {
 		"English": "Lecsó",
@@ -323,7 +332,8 @@
 		"German": "Letscho",
 		"Turkish": "Lescó",
 		"Italian": "Lecsó",
-		"Korean": "레쵸"
+		"Korean": "레쵸",
+		"French": "Lecsó"
 	},
 	"GAMEPLAY_lecsoDescription": {
 		"English": "Vegetable ragout. Begs for some baked fish\n\nPronounced ''lecho''",
@@ -333,7 +343,8 @@
 		"German": "Gemüseragout. Bittet um etwas gebackenen Fisch",
 		"Turkish": "Sebze yahnisi. Pişmiş balık için yalvarır\n\n''lecho'' olarak telaffuz edilir",
 		"Italian": "Ragù di verdura. Implora un po' di pesce al forno\n\nPronunciato ''lecho''.",
-		"Korean": "헝가리식 야채 스튜. 구운 생선과 함께 먹으면 더욱 맛있습니다\n\n'레쵸'라고 발음합니다"
+		"Korean": "헝가리식 야채 스튜. 구운 생선과 함께 먹으면 더욱 맛있습니다\n\n'레쵸'라고 발음합니다",
+		"French": "Un ragoût de légumes. Demande un peu de poisson cuit au four\n\nPrononcé ''lecho''"
 	},
 	"GAMEPLAY_figConfiture": {
 		"English": "Fig Confiture",
@@ -343,7 +354,8 @@
 		"German": "Feigenkonfitüre",
 		"Turkish": "İncir reçeli",
 		"Italian": "Confettura di Fichi",
-		"Korean": "무화과 잼"
+		"Korean": "무화과 잼",
+		"French": "Confiture de figue"
 	},
 	"GAMEPLAY_figConfitureDescription": {
 		"English": "Jam. Perfectly sweet with a little crunch",
@@ -353,7 +365,8 @@
 		"German": "Marmelade. Perfekt süß mit ein wenig Biss",
 		"Turkish": "Reçel. Parçacıklı ve mükemmel tatlı.",
 		"Italian": "Marmellata. Perfettamente dolce con un po' di croccantezza.",
-		"Korean": "무화과 잼. 적당한 단맛에 톡톡 씹히는 맛이 일품입니다"
+		"Korean": "무화과 잼. 적당한 단맛에 톡톡 씹히는 맛이 일품입니다",
+		"French": "De la confiture. Parfaitement sucrée avec un peu de croustillant"
 	},
 	"GAMEPLAY_nordShoreChocolate": {
 		"English": "Dark Chocolate with Salt and Caramel",
@@ -363,7 +376,8 @@
 		"German": "Dunkle Schokolade mit Salz und Karamell",
 		"Turkish": "Tuzlu ve Karamelli Bitter Çikolata",
 		"Italian": "Cioccolato Fondente con Sale e Caramello",
-		"Korean": "소금과 캐러멜을 곁들인 다크 초콜릿"
+		"Korean": "소금과 캐러멜을 곁들인 다크 초콜릿",
+		"French": "Chocolat noir au sel et au caramel"
 	},
 	"GAMEPLAY_nordShoreChocolateDescription": {
 		"English": "Just taste it, you won't notice when it's gone",
@@ -373,7 +387,8 @@
 		"German": "Probier es einfach, du wirst es nicht merken, wenn es weg ist",
 		"Turkish": "Sadece tadına bak, bittiğinde fark etmeyeceksin",
 		"Italian": "Provalo, non te ne accorgerai quando l'hai finito.",
-		"Korean": "한번 맛보면 순식간에 사라지는 마법 같은 초콜릿입니다"
+		"Korean": "한번 맛보면 순식간에 사라지는 마법 같은 초콜릿입니다",
+		"French": "Goûtez, vous ne remarquerez même pas que vous l'avez déjà fini"
 	},
 	"GAMEPLAY_kvass": {
 		"English": "Kvass",
@@ -383,7 +398,8 @@
 		"German": "Kwass",
 		"Turkish": "Kvass",
 		"Italian": "Kvas",
-		"Korean": "크바스"
+		"Korean": "크바스",
+		"French": "Kvas"
 	},
 	"GAMEPLAY_kvassDescription": {
 		"English": "Barely alcoholic, fizzy and refreshing with suble sweet taste",
@@ -393,7 +409,8 @@
 		"German": "Kaum alkoholisch, spritzig und erfrischend mit dezent süßem Geschmack",
 		"Turkish": "Bir rus birası. Az alkollü, gazlı ve hafif tatlı tadıyla ferahlatıcı",
 		"Italian": "Appena alcolico, frizzante e rinfrescante con un gusto dolce e delicato.",
-		"Korean": "알코올 도수가 낮고 탄산이 들어있어 상쾌하며 은은한 단맛이 느껴지는 음료입니다."
+		"Korean": "알코올 도수가 낮고 탄산이 들어있어 상쾌하며 은은한 단맛이 느껴지는 음료입니다.",
+		"French": "A peine alcoolisée, pétillante et rafraîchissante avec un subtil goût sucré"
 	},
 	"GAMEPLAY_roastedAlmonds": {
 		"English": "Roasted Almonds",
@@ -403,7 +420,8 @@
 		"German": "Geröstete Mandeln",
 		"Turkish": "Kavrulmuş Badem",
 		"Italian": "Mandorle Arrostite",
-		"Korean": "구운 아몬드"
+		"Korean": "구운 아몬드",
+		"French": "Amandes toastées"
 	},
 	"GAMEPLAY_roastedAlmondsDescription": {
 		"English": "Little nuts, a little salty, a little spicy",
@@ -413,7 +431,8 @@
 		"German": "Kleine Nüsse, ein bisschen salzig, ein bisschen würzig",
 		"Turkish": "Biraz fındıklı, biraz tuzlu, biraz baharatlı",
 		"Italian": "Piccole noccioline, un po' salate, un po' piccanti.",
-		"Korean": "작지만 짭짤하면서도 매콤한 맛이 나는 아몬드입니다"
+		"Korean": "작지만 짭짤하면서도 매콤한 맛이 나는 아몬드입니다",
+		"French": "De petites amandes, un peu salées, un peu épicées"
 	},
 	"GAMEPLAY_strawberryPlombir": {
 		"English": "Wild Strawberry Plombir",
@@ -423,7 +442,8 @@
 		"German": "Wilderdbeeren-Plombir",
 		"Turkish": "Dağ Çilekli Dondurma",
 		"Italian": "Gelato alla Fragola Selvatica",
-		"Korean": "야생 딸기 플롬비르"
+		"Korean": "야생 딸기 플롬비르",
+		"French": "Plombir saveur 'Fraises des bois'"
 	},
 	"GAMEPLAY_strawberryPlombirDescription": {
 		"English": "Sweet and soft, just melts on your tongue. May not be a good idea to eat when you cold",
@@ -433,7 +453,8 @@
 		"German": "Süß und weich, zergeht auf der Zunge. Möglicherweise keine gute Idee, wenn dir kalt ist",
 		"Turkish": "Tatlı ve yumuşak, dilinizde eriyor. Üşüdüğünde bunu yemek iyi bir fikir olmayabilir",
 		"Italian": "Dolce e morbida, appena si scioglie sulla tua lingua. Forse è una brutta idea mangiarlo quando hai freddo.",
-		"Korean": "달콤하고 부드러운 맛이 입안에서 사르르 녹습니다. 추운 날씨에는 먹지 않는 것이 좋을 수도 있습니다"
+		"Korean": "달콤하고 부드러운 맛이 입안에서 사르르 녹습니다. 추운 날씨에는 먹지 않는 것이 좋을 수도 있습니다",
+		"French": "Doux et sucrée, elle fond sur la langue. Il n'est peut-être pas judicieux de la manger quand vous avez froid"
 	},
 	"GAMEPLAY_icecreamCup": {
 		"English": "Icecream in a Wafer Cup",
@@ -443,7 +464,8 @@
 		"German": "Eiscreme im Waffelbecher",
 		"Turkish": "Gofretli Dondurma",
 		"Italian": "Gelato in una Tazza di Cialda",
-		"Korean": "와플 컵 아이스크림"
+		"Korean": "와플 컵 아이스크림",
+		"French": "Gaufrette glacée"
 	},
 	"GAMEPLAY_icecreamCupDescription": {
 		"English": "Blizzard with chocolate, nuts and caramel mixed in. All in a crunchy wafer cup. Wow\n\nThanks for asking, penguin's name is Jeremy",
@@ -453,7 +475,8 @@
 		"German": "Eis mit Schokoladen, Nüssen und Karamell. Alles in einem knusprigen Waffelbecher. Wow\n\nDanke der Nachfrage, der Name des Pinguins ist Jeremy",
 		"Turkish": "Çikolata, Fındık ve karamel ile dondurulmuş çıtır gofret.\n\nSorduğun için teşekürler. Penguenin adı Jeremy.",
 		"Italian": "Una buffera con cioccolata, noccioline e caramello mescolati dentro di esso. Tutto in una tazza fatta di cialda croccante. Wow\n\nGrazie per avermelo chiesto, il nome del pinguino è Jeremy.",
-		"Korean": "바삭한 와플 컵에 초콜릿, 견과류, 캐러멜이 섞인 블리자드 아이스크림이 가득! 정말 맛있겠죠? \n\n참고로, 펭귄의 이름은 제레미입니다"
+		"Korean": "바삭한 와플 컵에 초콜릿, 견과류, 캐러멜이 섞인 블리자드 아이스크림이 가득! 정말 맛있겠죠? \n\n참고로, 펭귄의 이름은 제레미입니다",
+		"French": "Un blizzard mélangeant chocolat, noix et caramel. Tout ça dans une gaufrette. Wow\n\nLe nom du pingouin est Jeremy, merci d'avoir demandé"
 	},
 	"GAMEPLAY_applesaucePryanik": {
 		"English": "Pryanik with Applesauce Filling",
@@ -463,7 +486,8 @@
 		"German": "Lebkuchen mit Apfelmusfüllung",
 		"Turkish": "Elma dolgulu zencefilli kurabiye",
 		"Italian": "Panforte con Ripieno di Salsa di Mela",
-		"Korean": "사과 소스를 채운 프랴닉"
+		"Korean": "사과 소스를 채운 프랴닉",
+		"French": "Prianik fourré à la compote de pommes"
 	},
 	"GAMEPLAY_applesaucePryanikDescription": {
 		"English": "Glazed honey biscuits. Sweet, soft and aromatic. Perfect complement to a cup of hot tea\n\nCheck out the inside!",
@@ -473,7 +497,8 @@
 		"German": "Glasiertes Honiggebäck. Süß, weich und aromatisch. Perfekte Ergänzung zu einer heißen Tasse Tee\n\nSchauen Sie sich das Innere an!",
 		"Turkish": "Elma dolgulu zencefilli kurabiye. Tatlı, hassas ve aromatik. Bir fincan sıcak çayın mükemmel eşlikçisi\n\nİçinde ne olduğunu görün",
 		"Italian": "Biscotti glassati in miele. Dolci, morbidi e aromatici. Un completo perfetto con una tazza di tè caldo.\n\nGuarda cosa c'è dentro!",
-		"Korean": "사과 소스를 채운 프랴닉. 달콤하고 부드러우면서도 향긋한 꿀 비스킷입니다. 따뜻한 차와 함께 즐기기에 완벽해요!"
+		"Korean": "사과 소스를 채운 프랴닉. 달콤하고 부드러우면서도 향긋한 꿀 비스킷입니다. 따뜻한 차와 함께 즐기기에 완벽해요!",
+		"French": "Biscuits glacés au miel. Sucrés, doux et aromatiques. Le complément idéal un bon thé chaud\n\nRegardez à l'intérieur!"
 	},
 	"GAMEPLAY_glintwein": {
 		"English": "Mulled Wine Kit",
@@ -483,7 +508,8 @@
 		"German": "Glühwein-Set",
 		"Turkish": "Sıcak Şarap Seti",
 		"Italian": "Kit di Vin Brulé",
-		"Korean": "글루바인 키트"
+		"Korean": "글루바인 키트",
+		"French": "Kit de vin chaud"
 	},
 	"GAMEPLAY_glintweinDescription": {
 		"English": "They call it Glintwein in Russia. Includes red wine and spices. Bring everything to a simmer(don't boil!) and enjoy your cold winter evenings",
@@ -493,7 +519,8 @@
 		"German": "In Russland nennt man es Glintwein. Enthält Rotwein und Gewürze. Bringen Sie alles zum Köcheln (nicht kochen!) und genießen Sie Ihre kalten Winterabende",
 		"Turkish": "Rusya'da buna Glintwein diyorlar. Kırmızı şarap ve baharatlar içerir. Her şeyi ısıtın (kaynatmayın!) ve soğuk kış akşamlarınızın tadını çıkarın",
 		"Italian": "Chiamato Glintwein in Russia. Include vino rosso e spezie. Cuocere tutto su un fuoco lento(non bollire!) e goditi le tue fredde serate invernali.",
-		"Korean": "러시아에서는 글린트바인이라고 부르는 따뜻한 와인입니다. 레드 와인과 향신료가 포함되어 있어요. 끓이지 않고 약한 불로 데워서 추운 겨울 저녁을 따뜻하게 즐겨보세요!"
+		"Korean": "러시아에서는 글린트바인이라고 부르는 따뜻한 와인입니다. 레드 와인과 향신료가 포함되어 있어요. 끓이지 않고 약한 불로 데워서 추운 겨울 저녁을 따뜻하게 즐겨보세요!",
+		"French": "Ils l'appellent Glintwein en Russie. Contient vin rouge et épices. Porter le tout à frémissement(ne pas bouillir!) et appréciez vos froides soirées d'hiver"
 	},
 	"GAMEPLAY_glintweinCup": {
 		"English": "Mulled Wine Glass",
@@ -503,7 +530,8 @@
 		"German": "Glühweinglas",
 		"Turkish": "Sıcak Şarap Kadehi",
 		"Italian": "Bicchiere di Vin Brulé",
-		"Korean": "따뜻한 와인 잔"
+		"Korean": "따뜻한 와인 잔",
+		"French": "Verre de vin chaud"
 	},
 	"GAMEPLAY_glintweinCupDescription": {
 		"English": "Warms your heart, literally and figuratively",
@@ -513,7 +541,8 @@
 		"German": "Wärmt dein Herz, buchstäblich und bildlich",
 		"Turkish": "Kelimenin tam anlamıyla ve mecazi olarak içini ısıtır",
 		"Italian": "Scalda il tuo cuore, letteralmente e figuratamente.",
-		"Korean": "말 그대로, 그리고 비유적으로도 당신의 마음을 따뜻하게 해줄 거에요"
+		"Korean": "말 그대로, 그리고 비유적으로도 당신의 마음을 따뜻하게 해줄 거에요",
+		"French": "Réchauffe votre coeur, au sens littéral et figuré"
 	},
 	"GAMEPLAY_latteDrops": {
 		"English": "Latte Drops",

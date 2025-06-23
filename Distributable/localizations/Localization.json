@@ -882,7 +882,8 @@
 		"German": "Bären lieben es, Neujahr zu feiern. Aber sie machen es auf ihre eigene Art. Versuchen Sie, sich am Silvesterabend mit buntem Licht in die Bärenhöhle zu schleichen - vielleicht kommen Sie gerade rechtzeitig zur Feier. \n\n Versuchen Sie nicht, Neujahr mit einem Bären zu feiern.",
 		"Turkish": "Ayılar Yeni Yılı kutlamayı sever. Ama bunu kendi yöntemleriyle yapıyorlar. Yeni Yıl arifesinde renkli bir ışıkla ayı inine gizlice girmeyi deneyin - belki kutlama için tam zamanında gelirsiniz. \n\nYeni Yılı ayıyla kutlamaya kalkmayın",
 		"Italian": "Gli orsi amano festeggiare il Capodanno. Ma lo fanno a modo loro. Prova a intrufolarti nella tana di un orso alla Vigilia del Capodanno con luci colorate - Forse sarai in tempo per la festa. \n\nNon tentare di festeggiare la Vigilia del Capodanno con un orso.",
-		"Korean": "곰들은 새해를 축하하는 것을 아주 좋아하지만, 자신들만의 방식으로 축하합니다. 새해 전날 밤에 알록달록한 조명을 들고 곰 굴에 몰래 들어가 보세요. 아마도 축제에 딱 맞는 시간에 도착할 수 있을 거에요. \n\n하지만 곰들과 함께 새해를 축하하려고 하지는 마세요."
+		"Korean": "곰들은 새해를 축하하는 것을 아주 좋아하지만, 자신들만의 방식으로 축하합니다. 새해 전날 밤에 알록달록한 조명을 들고 곰 굴에 몰래 들어가 보세요. 아마도 축제에 딱 맞는 시간에 도착할 수 있을 거에요. \n\n하지만 곰들과 함께 새해를 축하하려고 하지는 마세요.",
+		"French": "Les ours adorent fêter le Nouvel An. Mais ils le font à leur manière. Essayez de vous introduire dans le repaire d'un ours pendant le Nouvel An avec une lumière colorée - peut-être arriverez vous à temps pour la fête. \n\nN'essayez pas de fêter le Nouvel An avec un ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -892,7 +893,8 @@
 		"German": "Kerzenbär - Delikatesse",
 		"Turkish": "Ayıcık Mumu - Nezaket",
 		"Italian": "Candela-Orso - Delicatezza",
-		"Korean": "곰돌이 양초 - 미식가"
+		"Korean": "곰돌이 양초 - 미식가",
+		"French": "Candle Bear - Délicatesse"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #03/16",
@@ -902,7 +904,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #03/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #03/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #03/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #03/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #03/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #03/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenC": {
 		"English": "It is known, that the Greatest treat for a bear is honey. Mmm, nuts in honey - what a delight. What treats do you have for a bear? \n\nDo not attempt to have a meal with a bear",
@@ -912,7 +915,8 @@
 		"German": "Es ist bekannt, dass der größte Leckerbissen für einen Bären Honig ist. Mmm, Nüsse in Honig - was für ein Genuss. Welche Leckereien hast du für einen Bären? \n\nVersuchen Sie nicht, mit einem Bären zu essen.",
 		"Turkish": "Ayı için en büyük ikramın bal olduğu bilinir. Mmm, ballı fındık - ne güzel. Bir ayı için ne tür ikramlarınız var? \n\nAyıyla yemek yemeye kalkışmayın",
 		"Italian": "È noto, che la più grande delicatezza per un orso è il miele. Mmm, noccioline in miele - Che delicatezza. Quale delicatezza hai da offrire per un orso? \n\nNon tentare di consumare un pasto insieme a un orso.",
-		"Korean": "곰에게 가장 좋은 간식은 꿀이라는 사실은 잘 알려져 있습니다. 꿀에 절인 견과류라니, 정말 맛있겠네요. 곰에게 줄 간식은 뭐가 있을까요? \n\n하지만 곰과 함께 식사하려고 하지는 마세요"
+		"Korean": "곰에게 가장 좋은 간식은 꿀이라는 사실은 잘 알려져 있습니다. 꿀에 절인 견과류라니, 정말 맛있겠네요. 곰에게 줄 간식은 뭐가 있을까요? \n\n하지만 곰과 함께 식사하려고 하지는 마세요",
+		"French": "C'est bien connu que la plus belle friandise pour un ours, c'est le miel. Mmm, des noix dans du miel - quel délice. Quelles friandises avez-vous pour un ours ? \n\nN'essayez pas de manger avec un ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenD": {
 		"English": "Candle Bear - Dancer",
@@ -922,7 +926,8 @@
 		"German": "Kerzenbär - Tänzer",
 		"Turkish": "Ayıcık Mumu - Dansçı",
 		"Italian": "Candela-Orso - Ballerino",
-		"Korean": "곰돌이 양초 - 댄서"
+		"Korean": "곰돌이 양초 - 댄서",
+		"French": "Candle Bear - Danseur"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_GreenD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #04/16",
@@ -932,7 +937,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #04/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #04/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #04/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #04/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #04/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #04/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_GreenD": {
 		"English": "It may seem that the bear is dancing. But what actually happens is the sweater is too itchy and the bear can't reach to scratch it. If only someone could help out... \n\nDo not attempt to scratch bear's back. Even when it clearly asks for it",
@@ -942,7 +948,8 @@
 		"German": "Es scheint, als würde der Bär tanzen. Tatsächlich aber juckt der Pullover zu stark und der Bär ist nicht in der Lage, sich zu kratzen. Wenn ihm nur jemand helfen würde... \n\n Versuchen Sie nicht, dem Bären den Rücken zu kratzen. Auch wenn eindeutig danach gefragt wird.",
 		"Turkish": "Ayı dans ediyor gibi görünebilir. Ama gerçekte olan şey, süveterin çok kaşınmasıdır ve ayı kaşımak için uzanamaz. Keşke biri yardım edebilse... \n\nAyının sırtını kaşımaya çalışmayın. Açıkça bunu istediğinde bile",
 		"Italian": "Può sembrare che l'orso sta ballando. Ma quello che veramente sta accadendo e che il maglione è troppo pruriginoso e l'orso non può raggiungere la zona dove vuole grattarsi. Se solo qualcuno potesse aiutarlo... \n\nNon tentare di grattare la schiena di un orso. Anche se te lo chiede.",
-		"Korean": "곰이 춤을 추는 것처럼 보일 수도 있지만, 사실은 스웨터가 너무 간지러워서 긁을 수 없기 때문이에요. 누군가 긁어줬으면 좋겠네요... \n\n하지만 곰의 등을 긁어주려고 하지는 마세요. 곰이 분명히 긁어달라고 해도요"
+		"Korean": "곰이 춤을 추는 것처럼 보일 수도 있지만, 사실은 스웨터가 너무 간지러워서 긁을 수 없기 때문이에요. 누군가 긁어줬으면 좋겠네요... \n\n하지만 곰의 등을 긁어주려고 하지는 마세요. 곰이 분명히 긁어달라고 해도요",
+		"French": "On pourrait croire que l'ours est en train de danser. Mais ce qui se passe réellement, c'est que le pull-over est trop irritant et que l'ours n'arrive pas à se gratter. Si seulement quelqu'un pouvait l'aider... \n\nN'essayez pas de gratter le dos de l'ours. Même si il le demande explicitement"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueA": {
 		"English": "Candle Bear - Fishing",
@@ -952,7 +959,8 @@
 		"German": "Kerzenbär - Angler",
 		"Turkish": "Ayıcık Mumu - Balıkçı",
 		"Italian": "Candela-Orso - Pescatore",
-		"Korean": "곰돌이 양초 - 낚시꾼"
+		"Korean": "곰돌이 양초 - 낚시꾼",
+		"French": "Candle Bear - Pêcheur"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #05/16",
@@ -962,7 +970,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #05/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #05/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #05/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #05/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #05/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #05/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueA": {
 		"English": "This bear tried fishing like humans. The catch doesn't seem to impress. Maybe it should try a different bait?\n\nDo not attempt to give a bear advices on fishing",
@@ -972,7 +981,8 @@
 		"German": "Dieser Bär versucht wie Menschen zu fischen. Der Fang scheint ihn nicht zu beeindrucken. Vielleicht sollte er einen anderen Köder ausprobieren?\n\nVersuchen Sie nicht, einem Bären Ratschläge zum Angeln zu geben.",
 		"Turkish": "Bu ayı, insanlar gibi balık tutmayı denedi. Yakalama etkileyici görünmüyor. Belki de farklı bir yem denemelidir?\n\nBir ayıya balık tutma konusunda tavsiyeler vermeye kalkmayın.",
 		"Italian": "Questo orso ha provato a pescare come gli umani. La presa non sembra impressionante. Forse deve usare un'altro tipo di esca?\n\nNon tentare di dare consigli sulla pesca all'orso.",
-		"Korean": "이 곰은 사람처럼 낚시를 해 봤어요. 잡힌 물고기가 마음에 드는 것 같지 않네요. 아마 미끼를 바꿔야 할 것 같아요. \n\n곰에게 낚시 조언을 해주려고 하지는 마세요"
+		"Korean": "이 곰은 사람처럼 낚시를 해 봤어요. 잡힌 물고기가 마음에 드는 것 같지 않네요. 아마 미끼를 바꿔야 할 것 같아요. \n\n곰에게 낚시 조언을 해주려고 하지는 마세요",
+		"French": "Cet ours a essayé de pêcher comme les humains. La prise ne semble pas l'impressionner. Peut-être devrait-il essayer un autre appât ?\n\nN'essayez pas de donner de conseils de pêche à un ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueB": {
 		"English": "Candle Bear - Struggle",
@@ -982,7 +992,8 @@
 		"German": "Kerzenbär - Kampf",
 		"Turkish": "Ayıcık Mumu - Çabalamak",
 		"Italian": "Candela-Orso - Lotta",
-		"Korean": "곰돌이 양초 - 고난"
+		"Korean": "곰돌이 양초 - 고난",
+		"French": "Candle Bear - Lutte"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #06/16",
@@ -992,7 +1003,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #06/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #06/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #06/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #06/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #06/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #06/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueB": {
 		"English": "Most believe that bear struggle can't be won. This bear seem to disagree with that statement. \n\nDo not attempt to approach a sturggling bear",
@@ -1002,7 +1014,8 @@
 		"German": "Die meisten glauben, dass der Bärenkampf nicht gewonnen werden kann. Dieser Bär scheint der Aussage nicht zuzustimmen. \n\nVersuchen Sie nicht, sich einem zappelnden Bären zu nähern.",
 		"Turkish": "Çoğu, ayı mücadelesinin kazanılamayacağına inanıyor. Bu ayı bu ifadeye katılmıyor gibi görünüyor. \n\nMücadele eden bir ayıya yaklaşmaya çalışmayın",
 		"Italian": "Molti credono che le lotto con gli orsi non si possono vincere. Questo orso sembra essere il contrario. \n\nNon tentare di avvicinarti a un orso in difficoltà.",
-		"Korean": "곰은 싸움에서 이길 수 없다고 믿는 사람들이 많지만, 이 곰은 그 말에 동의하지 않는 것 같네요. \n\n하지만 싸우고 있는 곰에게 다가가려고 하지는 마세요"
+		"Korean": "곰은 싸움에서 이길 수 없다고 믿는 사람들이 많지만, 이 곰은 그 말에 동의하지 않는 것 같네요. \n\n하지만 싸우고 있는 곰에게 다가가려고 하지는 마세요",
+		"French": "La plupart pense qu'une lutte avec un ours ne peut être remportée. Cet ours semble ne pas être d'accord avec cette affirmation. \n\nN'essayez pas d'approcher un ours qui lutte"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueC": {
 		"English": "Candle Bear - Friends",
@@ -1012,7 +1025,8 @@
 		"German": "Kerzenbär - Freunde",
 		"Turkish": "Ayıcık Mumu - Arkadaşlar",
 		"Italian": "Candela-Orso - Amici",
-		"Korean": "곰돌이 양초 - 친구"
+		"Korean": "곰돌이 양초 - 친구",
+		"French": "Candle Bear - Amis"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #07/16",
@@ -1022,7 +1036,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #07/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #08/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #07/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #07/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #07/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #07/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueC": {
 		"English": "The Greatest food for bear is honey. The Greatest complement to honey is tea. The Greatest way to enjoy tea is with a friend. \n\nDo not attempt to befriend a bear for a free cup of tea",
@@ -1032,7 +1047,8 @@
 		"German": "Das beste Futter für Bären ist Honig. Die beste Ergänzung zu Honig ist Tee. Die schönste Art, Tee zu genießen, ist mit einem Freund. \n\nVersuchen Sie nicht, sich für eine kostenlose Tasse Tee mit einem Bären anzufreunden.",
 		"Turkish": "Ayı için en büyük yiyecek baldır. Balın en büyük tamamlayıcısı çaydır. Çayın tadını çıkarmanın en harika yolu bir arkadaşla birliktedir. \n\nBedava bir fincan çay için bir ayıyla arkadaş olmaya çalışmayın",
 		"Italian": "Il cibo migliore per un orso è il miele. Il completo migliore per un orso è il miele con tè. Il miglior modo per godere il tè è con un amico. \n\nNon tentare di diventare amici con un orso quando ti offre una tazza di tè.",
-		"Korean": "곰에게 최고의 음식은 꿀입니다. 꿀과 가장 잘 어울리는 것은 차입니다. 차를 즐기는 가장 좋은 방법은 친구와 함께 마시는 것입니다. \n\n하지만 곰과 친구가 되어 무료로 차를 얻으려고 하지는 마세요"
+		"Korean": "곰에게 최고의 음식은 꿀입니다. 꿀과 가장 잘 어울리는 것은 차입니다. 차를 즐기는 가장 좋은 방법은 친구와 함께 마시는 것입니다. \n\n하지만 곰과 친구가 되어 무료로 차를 얻으려고 하지는 마세요",
+		"French": "La meilleure nourriture pour un ours est le miel. Le meilleur complément au miel est le thé. Le meilleur moyen de savourer un thé est avec un ami. \n\nN'essayez pas de devenir ami avec un ours juste pour une tasse de thé gratuite"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueD": {
 		"English": "Candle Bear - Cards",
@@ -1042,7 +1058,8 @@
 		"German": "Kerzenbär - Karten",
 		"Turkish": "Ayıcık Mumu - Kartlar",
 		"Italian": "Candela-Orso - Carte",
-		"Korean": "곰돌이 양초 - 카드"
+		"Korean": "곰돌이 양초 - 카드",
+		"French": "Candle Bear - Cartes"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_BlueD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #08/16",
@@ -1053,6 +1070,7 @@
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #09/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #08/16",
 		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #08/16"
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #08/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_BlueD": {
 		"English": "There is no gambling addiction among bears. They just love the sound the cards make. What was the bear playing? Poker? \n\nDo not attempt to search for cards near bear dens",
@@ -1062,7 +1080,8 @@
 		"German": "Bei Bären gibt es keine Spielsucht. Sie lieben einfach den Klang, den Karten machen. Was spielte der Bär? Poker? \n\nVersuchen Sie nciht, in der Nähe von Bärenhöhlen nach Karten zu suchen.",
 		"Turkish": "Ayılar arasında kumar bağımlılığı yoktur. Sadece kartların çıkardığı sesi seviyorlar. Ayı ne oynuyordu? Poker? \n\nAyı yuvalarının yakınında kart aramaya çalışmayın",
 		"Italian": "Non c'è nessuna dipendenza nei giochi d'azzardo tra gli orsi. A loro piace il suono che le carte fanno. A cosa stava giocando l'orso? Poker? \n\nNon tentare di cercare carte in una tana di un orso.",
-		"Korean": "곰은 도박 중독이 없습니다. 곰들은 카드 소리가 나는 것을 좋아할 뿐이죠. 이 곰은 무슨 게임을 하고 있을까요? 포커일까요? \n\n하지만 곰 굴 근처에서 카드를 찾으려고 하지는 마세요"
+		"Korean": "곰은 도박 중독이 없습니다. 곰들은 카드 소리가 나는 것을 좋아할 뿐이죠. 이 곰은 무슨 게임을 하고 있을까요? 포커일까요? \n\n하지만 곰 굴 근처에서 카드를 찾으려고 하지는 마세요",
+		"French": "L'addiction au jeu n'existe pas chez les ours. Ils adorent juste le son des cartes. A quoi jouait l'ours ? Au poker ? \n\nN'essayez pas de trouver des cartes près de repaires d'ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -1072,7 +1091,8 @@
 		"German": "Kerzenbär - Schneeüberlebender",
 		"Turkish": "Ayıcık Mumu - Kardan kurtulan",
 		"Italian": "Candela-Orso - Sopravvissuto di Neve",
-		"Korean": "곰돌이 양초 - 눈 속 생존자"
+		"Korean": "곰돌이 양초 - 눈 속 생존자",
+		"French": "Candle Bear - Survivant des neiges"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #09/16",
@@ -1082,7 +1102,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #09/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #09/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #09/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #09/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #09/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #09/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleA": {
 		"English": "Bears have a lot of free time. And what else would they do with all those survivor clothes? \n\nDo not attempt to steal clothes from snowmen",
@@ -1092,7 +1113,8 @@
 		"German": "Bären haben viel Freizeit. Und was würden sie sonst mit dieser Überlebenskleidung machen? \n\nVersuchen Sie nicht, Schneemännern Kleidung zu stehlen.",
 		"Turkish": "Ayıların çok fazla boş zamanı vardır. Ve tüm bu kurtulan kıyafetleriyle başka ne yapacaklardı? \n\nve kardan adamdan kıyafet çalmaya çalışmayın",
 		"Italian": "Gli orsi hanno tanto tempo libero. È cos'altro farebbero con tutti quei vestiti dei sopravvissuti? \n\nNon tentare di rubare i vestiti da un pupazzo di neve.",
-		"Korean": "곰들은 시간이 많아요. 그리고 그 모든 생존자의 옷들을 가지고 뭘 할까요? \n\n하지만 눈사람에게서 옷을 훔치려고 하지는 마세요"
+		"Korean": "곰들은 시간이 많아요. 그리고 그 모든 생존자의 옷들을 가지고 뭘 할까요? \n\n하지만 눈사람에게서 옷을 훔치려고 하지는 마세요",
+		"French": "Les ours ont énormément de temps libre. Et qu'est ce qu'ils pourraient faire d'autre de tous ces vêtements de survivants ? \n\nN'essayez pas de voler les vêtements d'un bonhomme de neige"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleB": {
 		"English": "Candle Bear - Education",
@@ -1102,7 +1124,8 @@
 		"German": "Kerzenbär - Ausbildung",
 		"Turkish": "Ayıcık Mumu - Eğitim",
 		"Italian": "Candela-Orso - Educazione",
-		"Korean": "곰돌이 양초 - 교육"
+		"Korean": "곰돌이 양초 - 교육",
+		"French": "Candle Bear - Éducation"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #10/16",
@@ -1112,7 +1135,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #10/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #10/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #10/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #10/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #10/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #10/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleB": {
 		"English": "Bears have an amazing eyesight. This one just wants to look smart. Next time you see a still bear - ask what is it reading. \n\nDo not make loud noises behind bears, they might actually be reading",
@@ -1122,7 +1146,8 @@
 		"German": "Bären haben erstaunliches Sehvermögen. Dieser will einfach nur schick aussehen. Wenn Sie das nächste Mal einen ruhigen Bären sehen, fragen Sie ihn, was er liest. \n\nMachen Sie keine lauten Geräusche hinter Bären, sie könnten tatsächlich lesen.",
 		"Turkish": "Ayılar inanılmaz bir görüşe sahiptir. Bu sadece akıllı görünmek istiyor. Bir daha hareketsiz bir ayı gördüğünüzde ne okuduğunu sorun. \n\nAyıların arkasında yüksek sesler çıkarmayın, gerçekten okuyor olabilirler",
 		"Italian": "Gli orsi hanno una vista straordinaria. Questo qua vuole sembrare intelligente. La prossima volta che vedi un orso - chiedili cosa sta leggendo. \n\nNon tentare di fare suoni forti dietro gli orsi, potrebbero addiritura leggere.",
-		"Korean": "곰들은 시력이 아주 뛰어나요. 이 곰은 그냥 똑똑해 보이고 싶을 뿐이죠. 다음에 가만히 있는 곰을 보면 뭘 읽고 있는지 물어보세요. \n\n하지만 곰 뒤에서 큰 소리를 내지는 마세요. 실제로 읽고 있을 수도 있답니다"
+		"Korean": "곰들은 시력이 아주 뛰어나요. 이 곰은 그냥 똑똑해 보이고 싶을 뿐이죠. 다음에 가만히 있는 곰을 보면 뭘 읽고 있는지 물어보세요. \n\n하지만 곰 뒤에서 큰 소리를 내지는 마세요. 실제로 읽고 있을 수도 있답니다",
+		"French": "Les ours ont une vue incroyable. Celui là veut juste avoir l'air intelligent. La prochaine fois que vous voyez un ours immobile - demandez-lui ce qu'il lit. \n\nNe faites pas de bruit derrière les ours, ils pourraient vraiment être en train de lire"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleC": {
 		"English": "Candle Bear - Haul",
@@ -1132,7 +1157,8 @@
 		"German": "Kerzenbär - Schleppen",
 		"Turkish": "Ayıcık Mumu - Hambal",
 		"Italian": "Candela-Orso - Trasporto",
-		"Korean": "곰돌이 양초 - 수확"
+		"Korean": "곰돌이 양초 - 수확",
+		"French": "Candle Bear - Transport"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #11/16",
@@ -1142,7 +1168,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #11/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #11/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #11/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #11/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #11/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #11/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleC": {
 		"English": "This bear tried to carry everything in one go. Classic situation. \n\nDo not attempt to relate to bear problems",
@@ -1152,7 +1179,8 @@
 		"German": "Dieser Bär versuchte alles auf einmal zu tragen. Klassische Situation. \n\nVersuchen Sie nicht, sich auf Bärenprobleme einzulassen.",
 		"Turkish": "Bu ayı her şeyi tek seferde taşımaya çalıştı. Klasik durum. \n\nAyı sorunlarıyla ilişkilendirmeye çalışmayın",
 		"Italian": "Questo orso ha provato a trasportare tutto in un colpo solo. Una situazione classica. \n\nNon tentare di mettere in relazione i problemi degli orsi.",
-		"Korean": "이 곰은 한꺼번에 모든 것을 들고 가려고 했어요. 흔히 볼 수 있는 상황이죠. \n\n하지만 곰들의 문제에 공감하려고 하지는 마세요"
+		"Korean": "이 곰은 한꺼번에 모든 것을 들고 가려고 했어요. 흔히 볼 수 있는 상황이죠. \n\n하지만 곰들의 문제에 공감하려고 하지는 마세요",
+		"French": "Cet ours a essayé de tout emmener en une fois. Situation classique. \n\n N'essayez pas de vous identifier aux problèmes d'un ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleD": {
 		"English": "Candle Bear - Present",
@@ -1162,7 +1190,8 @@
 		"German": "Kerzenbär - Geschenk",
 		"Turkish": "Ayıcık Mumu - Hediye",
 		"Italian": "Candela-Orso - Regalo",
-		"Korean": "곰돌이 양초 - 선물"
+		"Korean": "곰돌이 양초 - 선물",
+		"French": "Candle Bear - Cadeau"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_PurpleD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #12/16",
@@ -1172,7 +1201,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #12/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #12/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #12/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #12/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #12/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #12/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_PurpleD": {
 		"English": "Bears enjoy a present as much as humans. But sometimes they mix something up. Make sure a bear doesn't see you placing your present - this might spoil the surprise. \n\nDo not attempt to become a present for a bear",
@@ -1182,7 +1212,8 @@
 		"German": "Bären freuen sich genauso über Geschenke, wie Menschen. Aber manchmal verwechseln sie etwas. Achten Sie darauf, dass kein Bär Sie dabei beobachtet, wie Sie Ihr Geschenk ablegen - das könnte die Überraschung verderben. \n\nVersuschen Sie nicht, ein Geschenk für einen Bären zu werden.",
 		"Turkish": "Ayılar, insanlar kadar bir hediyeden hoşlanırlar. Ama bazen bir şeyleri karıştırıyorlar. Bir ayının hediyenizi verdiğinizi görmediğinden emin olun - bu, sürprizi bozabilir. \n\nBir ayıya hediye olmaya çalışmayın",
 		"Italian": "Gli orsi si godono i regali proprio come gli umani. Però certe volte mescolano qualcosa. Fai attenzione, da non farti sgamare dall'orso mentre piazzi il regalo - potrebbe rovinare la sorpresa. \n\nNon tentare di diventare un regalo per un orso.",
-		"Korean": "곰들도 사람들처럼 선물 받는 것을 좋아하지만, 가끔 착각을 하기도 합니다. 곰이 선물을 놓는 것을 보지 못하게 하세요. 깜짝 놀랄 수 있으니까요. \n\n하지만 곰에게 선물이 되려고 하지는 마세요"
+		"Korean": "곰들도 사람들처럼 선물 받는 것을 좋아하지만, 가끔 착각을 하기도 합니다. 곰이 선물을 놓는 것을 보지 못하게 하세요. 깜짝 놀랄 수 있으니까요. \n\n하지만 곰에게 선물이 되려고 하지는 마세요",
+		"French": "Les ours adorent les cadeaux autant que les humains. Mais parfois ils se trompent. Faites attention à ce qu'un ours ne vous voit pas déposer votre cadeau - cela pourrait gâcher la surprise. \n\nN'essayez pas de devenir le cadeau d'un ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedA": {
 		"English": "Candle Bear - Joke",
@@ -1192,7 +1223,8 @@
 		"German": "Kerzenbär - Witz",
 		"Turkish": "Ayıcık Mumu - Şaka",
 		"Italian": "Candela-Orso - Barzeletta",
-		"Korean": "곰돌이 양초 - 농담"
+		"Korean": "곰돌이 양초 - 농담",
+		"French": "Candle Bear - Blague"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedA": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #13/16",
@@ -1202,7 +1234,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #13/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #13/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #13/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #13/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #13/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #13/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedA": {
 		"English": "There is this Russian joke: 'A bear once walked through the forest and saw a burning car. Sat in it and burned dead'. Get it? \n\nDo not attempt to understand the joke",
@@ -1212,7 +1245,8 @@
 		"German": "Es gibt diesen russischen Witz: 'Einst ging ein Bär durch den Wald und sah ein brennendes Auto. Saß drin und verbrannte.' Kapiert? \n\nVersuchen Sie nicht, diesen Witz zu verstehen.",
 		"Turkish": "Bir Rus fıkrası vardır: Bir keresinde bir ayı ormandan geçmiş ve yanan bir araba görmüş. İçine oturdu ve yanarak öldü'. Anla? \n\nŞakayı anlamaya çalışmayın",
 		"Italian": "C'è questa barzeletta russa: 'Una volta un orso attraversò la foresta e vide un'auto in fiamme. Ci si sedette e morì bruciato'. Hai capito? \n\nNon tentare di capire la barzeletta.",
-		"Korean": "러시아 농담이 하나 있는데, 곰이 숲을 지나가다가 불타는 자동차를 보고 거기에 앉아서 타 죽었다는 농담이 있어요. 무슨 뜻인지 알겠어요? \n\n하지만 이 농담을 이해하려고 하지는 마세요"
+		"Korean": "러시아 농담이 하나 있는데, 곰이 숲을 지나가다가 불타는 자동차를 보고 거기에 앉아서 타 죽었다는 농담이 있어요. 무슨 뜻인지 알겠어요? \n\n하지만 이 농담을 이해하려고 하지는 마세요",
+		"French": "Une blague russe dit: 'Un ours marchait dans la forêt et vit une voiture en flammes. Il s'est assis dedans et est mort brûlé. Vous avez compris ? \n\nN'essayez pas de comprendre la blague"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedB": {
 		"English": "Candle Bear - Hellbender",
@@ -1222,7 +1256,8 @@
 		"German": "Kerzenbär - Schlammteufel",
 		"Turkish": "Ayıcık Mumu - Cehennem bükücü",
 		"Italian": "Candela-Orso - Hellbender",
-		"Korean": "곰돌이 양초 - 장수도롱뇽"
+		"Korean": "곰돌이 양초 - 장수도롱뇽",
+		"French": "Candle Bear - Hellbender"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedB": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #14/16",
@@ -1232,7 +1267,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #14/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #14/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #14/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #14/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #14/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #14/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedB": {
 		"English": "This bear is pretending to be in his favorite not-so-normal show. Can you hear the singing? This is not a microphone, bear. \n\nDo not attempt to sing carols with a bear",
@@ -1242,7 +1278,8 @@
 		"German": "Dieser Bär tut so, als wäre er in seiner 'nicht ganz normalen' Lieblingssendung dabei. Kannst du den Gesang hören? Das ist kein Mikrofon, Bär. \n\nVersuchen Sie nicht, mit einem Bären Weihnachtslieder zu singen.",
 		"Turkish": "Bu ayı, pek de normal olmayan favori şovundaymış gibi davranıyor. Şarkıyı duyabiliyor musun? Bu bir mikrofon değil, ayı. \n\nBir ayıyla ilahiler söylemeye kalkışmayın",
 		"Italian": "Questo orso pretende di essere nel suo preferito, non-così-normale, spettacolo. Puoi sentire le canzoni? Quello non è un microfono, Orso. \n\nNon tentare di cantare insieme al orso.",
-		"Korean": "이 곰은 자기가 좋아하는 좀 특별한 쇼에 나온 척하고 있네요. 노래 소리가 들리시나요? 곰아, 그건 마이크가 아니야. \n\n하지만 곰과 함께 캐롤을 부르려고 하지는 마세요"
+		"Korean": "이 곰은 자기가 좋아하는 좀 특별한 쇼에 나온 척하고 있네요. 노래 소리가 들리시나요? 곰아, 그건 마이크가 아니야. \n\n하지만 곰과 함께 캐롤을 부르려고 하지는 마세요",
+		"French": "Cet ours prétend être dans sa pas-si-normale émission favorite. Pouvez vous entendre le chant ? Ce n'est pas un micro, ours. \n\nN'essayez pas de chanter des chants de Noël avec un ours"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedC": {
 		"English": "Candle Bear - Dragon",
@@ -1252,7 +1289,8 @@
 		"German": "Kerzenbär - Drache",
 		"Turkish": "Ayıcık Mumu - Ejderha",
 		"Italian": "Candela-Orso - Drago",
-		"Korean": "곰돌이 양초 - 용"
+		"Korean": "곰돌이 양초 - 용",
+		"French": "Candle Bear - Dragon"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedC": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #15/16",
@@ -1262,7 +1300,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #15/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #15/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #15/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #15/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #15/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #15/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedC": {
 		"English": "Some bears wish to collect the most food for the winter. Some wish to have the biggest den. Some wish they were born by a dragon. \n\nHere be no dragons",
@@ -1272,7 +1311,8 @@
 		"German": "Manche Bären möchten möglichst viel Futter für den Winter sammeln. Manche wünschen sich die größte Höhle. Manche wünschen sich, von einem Drachen geboren zu werden.\n\nHier gibt es keine Drachen.",
 		"Turkish": "Bazı ayılar kış için en fazla yiyeceği toplamak ister. Bazıları en büyük yuvaya sahip olmak ister. Bazıları bir ejderha tarafından doğmak ister. \n\nBurada ejderhalar olmasın",
 		"Italian": "Certi orsi desiderano di collezionare cibo e acqua il più possible per l'inverno. Certi desiderano di avere la più grande tana. Certi desiderano di nascere come draghi. \n\nQui non ci sono draghi.",
-		"Korean": "어떤 곰들은 겨울을 위해 가장 많은 음식을 모으고 싶어하고, 어떤 곰들은 가장 큰 굴을 갖고 싶어하며, 어떤 곰들은 용에게서 태어났으면 하고 바랍니다. \n\n하지만 용은 존재하지 않습니다"
+		"Korean": "어떤 곰들은 겨울을 위해 가장 많은 음식을 모으고 싶어하고, 어떤 곰들은 가장 큰 굴을 갖고 싶어하며, 어떤 곰들은 용에게서 태어났으면 하고 바랍니다. \n\n하지만 용은 존재하지 않습니다",
+		"French": "Certains ours essayent d'amasser le plus de nourriture possible pour l'hiver. Certains essaient d'avoir le plus grand repaire. Certains aimeraient être nés dragon. \n\n Here be no dragons"
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedD": {
 		"English": "Candle Bear - Moon",
@@ -1282,7 +1322,8 @@
 		"German": "Kerzenbär - Mond",
 		"Turkish": "Ayıcık Mumu - Ay",
 		"Italian": "Candela-Orso - Luna",
-		"Korean": "곰돌이 양초 - 달"
+		"Korean": "곰돌이 양초 - 달",
+		"French": "Candle Bear - Lune"
 	},
 	"GAMEPLAY_COLLECTIBLE_DESC_RedD": {
 		"English": "Collectible candle figurine by 'Calorie Waltz' Foods #16/16",
@@ -1292,7 +1333,8 @@
 		"German": "Sammelfigurenkerze von 'Calorie Waltz' Foods #16/16",
 		"Turkish": "'Calorie Waltz' Foods'tan koleksiyonluk mum heykelcik #16/16",
 		"Italian": "Una figurina di candela collezionabile da 'Calorie Waltz' Foods #16/16",
-		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #16/16"
+		"Korean": "'칼로리 왈츠' 푸드에서 만든 수집용 피규어 양초, #16/16",
+		"French": "Figurine de bougie à collectionner de 'Calorie Waltz' Foods #16/16"
 	},
 	"GAMEPLAY_COLLECTIBLE_LORE_RedD": {
 		"English": "What happened to that bear? Aurora? Moonshine?  \n\nDo not attempt to fly a bicycle",
@@ -1302,7 +1344,8 @@
 		"German": "Was ist mit diesem Bären passiert? Aurora? Mondschein? \n\nVersuchen Sie nicht, ein Fahrrad zu fliegen.",
 		"Turkish": "O ayıya ne oldu? Aurora mı? kaçak içki? \n\nBisikleti uçurmaya çalışmayın",
 		"Italian": "Cosa è successo a quell'orso? Aurora? Moonshine? \n\nNon tentare di volare con una bicicletta.",
-		"Korean": "저 곰은 어떻게 된 걸까요? 오로라? 달빛? \n\n자전거를 타고 날으려고 하지는 마세요"
+		"Korean": "저 곰은 어떻게 된 걸까요? 오로라? 달빛? \n\n자전거를 타고 날으려고 하지는 마세요",
+		"French": "Qu'est-il arrivé à cet ours ? Aurore ? Clair de Lune ? \n\nN'essayez pas de voler avec une bicyclette"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL": {
 		"English": "A note from a lost soul",
@@ -1312,7 +1355,8 @@
 		"German": "Eine Nachricht von einer verlorenen Seele",
 		"Turkish": "Kayıp ruhtan bir not",
 		"Italian": "Una nota da una anima persa",
-		"Korean": "길 잃은 영혼의 쪽지"
+		"Korean": "길 잃은 영혼의 쪽지",
+		"French": "Message d'une âme perdue"
 	},
 	"GAMEPLAY_LOSTNOTE_DESC": {
 		"English": "A lore piece from 'Calorie Waltz' Foods employee",
@@ -1322,7 +1366,8 @@
 		"German": "Ein Stück aus der Überlieferung eines 'Calorie Waltz'Foods - Angestellten",
 		"Turkish": "'Calorie Waltz' Foods çalışanından bir parşömen",
 		"Italian": "Un pezzo di storia da un impiegato di 'Calorie Waltz' Foods.",
-		"Korean": "'칼로리 왈츠' 푸드 직원의 전설"
+		"Korean": "'칼로리 왈츠' 푸드 직원의 전설",
+		"French": "Un morceau de l'histoire d'un employé de 'Calorie Waltz' Foods"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_1": {
 		"English": "Note from a lost soul #1",
@@ -1332,7 +1377,8 @@
 		"German": "Nachricht einer verlorenen Seele #1",
 		"Turkish": "Kayıp ruhtan bir not #1",
 		"Italian": "Nota di un'anima persa #1",
-		"Korean": "길 잃은 영혼의 쪽지 #1"
+		"Korean": "길 잃은 영혼의 쪽지 #1",
+		"French": "Message d'une âme perdue #1"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_1": {
 		"English": "If you reading this... I'm lost. \n\n500 days I was wandering around the island, hoping to find another living soul. Everybody is dead. What about me then? Well... I'll make the last trip around the island and leave provisions. If another wretched soul gets stranded on this damned island - at least you won't die from starvation. If you ''lucky'' - you'll find me at the lighthouse(the still-standing one), I'll end my journey there.",
@@ -1342,7 +1388,8 @@
 		"German": "Wenn Sie das lesen... bin ich verloren. \n\n500 Tage lang wanderte iich auf der Insel umher, in der Hoffnung, eine weitere lebende Seele zu finden. Alle sind tot. Was ist dann mit mir? Nun... Ich werde die letzte Reise um die Insel antreten und Proviant zurücklassen. Wenn noch eine elende Seele auf dieser verdammten Insel strandet, wird sie wenigstens nicht verhungern. Wenn du Glück hast, findest du mich am Leuchtturm (dem, der noch steht), dort beende ich meine Reise.",
 		"Turkish": "Eğer bunu okuyorsan... Kayboldum. \n\n500 gün başka bir yaşayan ruh bulmayı umarak adanın etrafında dolaştım. Herkes öldü. Peki ya ben? Pekala... Adanın etrafındaki son yolculuğu yapacağım ve erzak bırakacağım. Bu lanet adada başka bir sefil ruh mahsur kalırsa - en azından açlıktan ölmezsin. Eğer ''şanslı''ysanız - beni deniz fenerinde (hala ayakta olarak) bulursanız, yolculuğumu orada bitireceğim.",
 		"Italian": "Se stai leggendo questo... mi sono perso. \n\n500 giorni ho vagato per l'isola, sperando di trovare un'altra anima vivente. Sono tutti morti. E io allora? Bene... farò l'ultimo giro dell'isola e lascerò le provviste. Se un'altra anima miserabile rimane bloccata su questa dannata isola, almeno non morirà di fame. Se sei ''fortunato'', mi troverai al faro (quello ancora in piedi), finirò lì il mio viaggio.",
-		"Korean": "이 글을 읽고 있다면... 나는 길을 잃었다는 뜻이야. \n\n500일 동안 섬을 돌아다니며 살아있는 사람을 찾았지만, 모두 죽었어. 이제 나는 어떻게 될까? 자... 이제 섬을 한 바퀴 돌면서 남은 식량을 두고 갈 거야. 또 다른 불쌍한 영혼이 이 저주받은 섬에 표류하게 된다면, 적어도 굶어 죽지는 않도록. 만약 네가 운이 좋다면, 아직 남아있는 등대에서 날 찾을 수 있을 거야. 거기서 내 여정을 마칠 거니까."
+		"Korean": "이 글을 읽고 있다면... 나는 길을 잃었다는 뜻이야. \n\n500일 동안 섬을 돌아다니며 살아있는 사람을 찾았지만, 모두 죽었어. 이제 나는 어떻게 될까? 자... 이제 섬을 한 바퀴 돌면서 남은 식량을 두고 갈 거야. 또 다른 불쌍한 영혼이 이 저주받은 섬에 표류하게 된다면, 적어도 굶어 죽지는 않도록. 만약 네가 운이 좋다면, 아직 남아있는 등대에서 날 찾을 수 있을 거야. 거기서 내 여정을 마칠 거니까.",
+		"French": "Si vous lisez ceci... Je suis perdu. \n\n500 jours que j'erre sur cette île, espérant trouver une autre âme en vie. Tout le monde est mort. Qu'en est-il de moi ? Et bien... Je ferai une dernière fois le tour de l'île et laisserai des provisions. Si une autre âme misérable se retrouve naufragé sur cette île maudite - au moins vous ne mourrez pas de faim. Si vous êtes ''chanceux'' - vous me trouverez au phare (celui qui tient encore debout), je mettrai un terme à mon voyage là bas."
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_2": {
 		"English": "Note from a lost soul #2",
@@ -1352,7 +1399,8 @@
 		"German": "Nachricht einer verlorenen Seele #2",
 		"Turkish": "Kayıp ruhtan bir not #2",
 		"Italian": "Nota di un'anima persa #2",
-		"Korean": "길 잃은 영혼의 쪽지 #2"
+		"Korean": "길 잃은 영혼의 쪽지 #2",
+		"French": "Message d'une âme perdue #2"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_2": {
 		"English": "Hell, that was morbid. That note I left there, in the valley? Well, I won't go pick it up now so I'll just hope you didn't see it lad. Or lass? I wonder who you are, my lovely reader\n\nAnyway, I overestimated how many supplies I have, so I'll be more modest with leaving them behind from now on. Fortunately, 'Calorie Waltz' is already very much spread across this island, so you, my precious reader, won't die from hunger",
@@ -1361,7 +1409,8 @@
 		"German": "Verdammt, das war krank. Diese Notiz, die ich im Tal hinterlassen habe? Nun, ich werde es jetzt nicht abholen, also hoffe ich, dass du es nicht gesehen hast, Junge. Oder Mädchen? Ich frage mich, wer du bist, mein lieber Leser.\n\nJedenfalls habe ich überschätzt, wie viele Vorräte ich habe, also werde ich von nun an bescheidener sein und sie zurücklassen. Glücklicherweise ist 'Calorie Waltz' auf dieser Insel bereits weit verbreitet, sodass Sie, mein werter Lesser, nicht vor Hunger sterben werden.",
 		"Turkish": "Kahretsin, bu hastalıklıydı. Orada, vadide bıraktığım notu mu? Pekala, şimdi gidip almayacağım, umarım görmemişsindir delikanlı. Ya da bayan? Acaba kimsin sevgili okuyucum\n\nHer neyse, elimdeki erzakları fazla tahmin ettim, o yüzden bundan sonra onları geride bırakırken daha mütevazi olacağım. Neyse ki, 'Calorie Waltz' bu adaya şimdiden çok yayıldı, bu yüzden siz değerli okuyucum açlıktan ölmeyeceksiniz.",
 		"Italian": "Diamine, quello era morboso. La nota che ho lasciato lì, nella valle? Bhe, non ci vado a recuperarla quindi spero che non l'hai visto, ragazzo. O ragazza? Mi chiedo chi sei, mio ​​adorabile lettore.\n\nComunque, ho sopravvalutato quante scorte ho, quindi sarò più modesto nel lasciarle indietro d'ora in poi. Fortunatamente, 'Calorie Waltz' è già molto diffuso in quest'isola, quindi tu, mio ​​prezioso lettore, non morirai di fame.",
-		"Korean": "젠장, 섬뜩하네. 내가 계곡에 남겨둔 쪽지 말이야? 이제 와서 그걸 주워 올 생각은 없으니, 네가 그걸 보지 못했기를 바랄 뿐이야, 친구. 아니면 혹시 친구? 누군지 정말 궁금하네, 내 사랑스러운 독자여. \n\n어쨌든, 내가 가진 물품의 양을 과대평가했어. 그러니 이제부터는 남겨놓는 양을 줄일 거야. 다행히도 '칼로리 왈츠' 제품들이 이 섬에 이미 널리 퍼져있으니, 내 소중한 독자 여러분은 굶어 죽지는 않을 거에요"
+		"Korean": "젠장, 섬뜩하네. 내가 계곡에 남겨둔 쪽지 말이야? 이제 와서 그걸 주워 올 생각은 없으니, 네가 그걸 보지 못했기를 바랄 뿐이야, 친구. 아니면 혹시 친구? 누군지 정말 궁금하네, 내 사랑스러운 독자여. \n\n어쨌든, 내가 가진 물품의 양을 과대평가했어. 그러니 이제부터는 남겨놓는 양을 줄일 거야. 다행히도 '칼로리 왈츠' 제품들이 이 섬에 이미 널리 퍼져있으니, 내 소중한 독자 여러분은 굶어 죽지는 않을 거에요",
+		"French": "Bon sang, c'était morbide. Ce message que j'ai laissé dans la vallée ? Et bien, je n'irai pas la chercher maintenant alors je vais juste espérer que tu ne l'as pas vu jeune homme. Ou jeune fille ? Je me demande qui tu es, adorable lecteur.\n\nEnfin bon, j'ai surestimé mes réserves, je serai donc plus modeste en les laissant derrière moi à partir de maintenant. Heureusement, 'Calorie Waltz' est déjà bien réparti partout à travers l'île, donc toi, mon précieux lecteur, ne mourra pas de faim"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_3": {
 		"English": "Note from a lost soul #3 part 1",
@@ -1371,7 +1420,8 @@
 		"German": "Nachricht einer verlorenen Seele #3 - Teil 1",
 		"Turkish": "Kayıp ruhtan bir not #3 bölüm 1",
 		"Italian": "Nota di un'anima persa #3 parte 1",
-		"Korean": "길 잃은 영혼의 쪽지 #3-1"
+		"Korean": "길 잃은 영혼의 쪽지 #3-1",
+		"French": "Message d'une âme perdue #3 partie 1"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3": {
 		"English": "Day 518\n\nLovely weather today. Rare occasion. About -10 degrees I'd wager, light snowfall. Quiet\n\nI have something to tell you, I can't get it out of my head. Can't get you out of my head. Or the idea of 'you'? Of someone who I can talk to. Talking to myself doesn't feel strange anymore, but writing those messages... makes me feel human again?\n\n...I'll call you Ro, do you mind?",
@@ -1380,7 +1430,8 @@
 		"German": "Tag 518\n\nSchönes Wetter heute. Seltene Gelegenheit. Etwa -10 Grad würde ich wetten, leichter Schneefall. Ruhig.\n\nIch muss dir etwas sagen, es geht mir nicht mehr aus dem Kopf. Du gehst mir nicht mehr aus dem Kopf. Oder die Idee von 'Dir'? Von jemandem, mit dem ich reden kann. Mit mir selbst zu reden, fühlt sich nicht mehr seltsam an, aber wenn ich diese Nachrichten schreibe... fühle ich mich wieder menschlich?\n\n...Ich nenne dich Ro, hast du was dagegen?",
 		"Turkish": "518. Gün\n\nBugün hava çok güzel. Nadir fırsat. -10 dereceye bahse girerim, hafif kar yağışı. Sessiz\n\nSana söylemem gereken bir şey var, aklımdan çıkaramıyorum. Seni aklımdan çıkaramıyorum. Yoksa 'sen' fikri mi? Konuşabileceğim birinin. Kendi kendime konuşmak artık garip gelmiyor ama o mesajları yazmak... beni tekrar insan hissettiriyor?\n\n...Sana Ro diyeceğim, sakıncası var mı?",
 		"Italian": "Giorno 518\n\nBel tempo oggi. Rara occasione. Scommetto circa -10 gradi, leggera nevicata. Silenzioso.\n\nHo qualcosa da dirti, non riesco a togliermelo dalla testa. Non riesco a toglierti dalla testa. O l'idea di 'te'? Di qualcuno con cui posso parlare. Parlare da solo non mi sembra più strano, ma scrivere quei messaggi... mi fa sentire di nuovo umano?\n\n...ti chiamerò Ro, ti dispiace?",
-		"Korean": "518일째\n\n오늘 날씨가 참 좋네. 흔치 않은 일이야. 영하 10도 정도 될 것 같고, 눈도 살짝 내리고 있어. 조용하고\n\n너에게 말하고 싶은 게 있는데, 머릿속에서 떠나질 않아. 너를, 아니면 '너'라는 생각을. 나와 대화할 수 있는 누군가를. 혼잣말 하는 건 이제 이상하게 느껴지지 않지만, 이렇게 메세지를 쓰는 건... 다시 인간이 된 것 같은 기분이 들게 해\n\n...너를 '로'라고 부르겠어. 괜찮겠지?"
+		"Korean": "518일째\n\n오늘 날씨가 참 좋네. 흔치 않은 일이야. 영하 10도 정도 될 것 같고, 눈도 살짝 내리고 있어. 조용하고\n\n너에게 말하고 싶은 게 있는데, 머릿속에서 떠나질 않아. 너를, 아니면 '너'라는 생각을. 나와 대화할 수 있는 누군가를. 혼잣말 하는 건 이제 이상하게 느껴지지 않지만, 이렇게 메세지를 쓰는 건... 다시 인간이 된 것 같은 기분이 들게 해\n\n...너를 '로'라고 부르겠어. 괜찮겠지?",
+		"French": "Jour 518\n\nUne superbe météo aujourd'hui. Une occasion rare. Environ -10 degrés je pense, légère chute de neige. Silencieux.\n\nJ'ai quelque chose à te dire, je n'arrive pas à le sortir de ma tête. A te sortir de ma tête. Juste l'idée de 'toi' ? De quelqu'un à qui je peux parler. Me parler à moi-même ne me paraît plus du tout étrange, mais écrire ces messages... me fait me sentir humain à nouveau ?\n\n...Je t'appelerai Ro, ca te va ?"
 	},
 	"GAMEPLAY_LOSTNOTE_TITL_3-2": {
 		"English": "Note from a lost soul #3 part 2",
@@ -1390,7 +1441,8 @@
 		"German": "Nachricht einer verlorenen Seele #3 - Teil 2",
 		"Turkish": "Kayıp ruhtan bir not #3 bölüm 2",
 		"Italian": "Nota di un'anima persa #3 parte 2",
-		"Korean": "길 잃은 영혼의 쪽지 #3-2"
+		"Korean": "길 잃은 영혼의 쪽지 #3-2",
+		"French": "Message d'une âme perdue #3 partie 2"
 	},
 	"GAMEPLAY_LOSTNOTE_LORE_3-2": {
 		"English": "Evening 518\n\nI'm Victor by the way. Dowd. I'm working for 'CW', hauling goods to remote islands on my little launch. Was working, that is. I wonder if mainland even exists at this point\n\nDid no one even tried to rescue people here? Does nobody care about this island anymore to the point they didn't even notice it's death?\n\nWell, I figured if no one came for locals, I shouldn't wait for help either",

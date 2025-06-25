@@ -7,7 +7,7 @@
 		"Turkish": "Yepyeni",
 		"Italian": "Nuovo di pacca",
 		"Korean": "새 제품",
-		"French": "Toute neuve"
+		"French": "Toute neuve."
 		
 	},
 	"CWF_candleLeft90": {
@@ -18,7 +18,7 @@
 		"Turkish": "Neredeyse dolu",
 		"Italian": "Quasi pieno",
 		"Korean": "거의 가득 참",
-		"French": "Presque entière"
+		"French": "Presque entière."
 	},
 	"CWF_candleLeft75": {
 		"English": "About three quarters left",
@@ -28,7 +28,7 @@
 		"Turkish": "Yaklaşık dörtte üçü kaldı",
 		"Italian": "Rimasto circa tre quarti",
 		"Korean": "4분의 3정도 남음",
-		"French": "Environ trois quarts restants"
+		"French": "Environ trois quarts restants."
 	},
 	"CWF_candleLeft50": {
 		"English": "About a half left",
@@ -38,7 +38,7 @@
 		"Turkish": "Yaklaşık yarısı kaldı",
 		"Italian": "Rimasto circa la metà",
 		"Korean": "반 정도 남음",
-		"French": "Il en reste la moitié"
+		"French": "Il en reste la moitié."
 	},
 	"CWF_candleLeft25": {
 		"English": "About a quarter left",
@@ -48,7 +48,7 @@
 		"Turkish": "Yaklaşık çeyreği kaldı",
 		"Italian": "Rimasto circa un quarto",
 		"Korean": "4분의 1정도 남음",
-		"French": "Environ un quart restant"
+		"French": "Environ un quart restant."
 	},
 	"CWF_candleLeft7": {
 		"English": "Almost done",
@@ -58,7 +58,7 @@
 		"Turkish": "Neredeyse bitti",
 		"Italian": "Quasi finito",
 		"Korean": "거의 다 씀",
-		"French": "Quasi terminée"
+		"French": "Quasi terminée."
 	},
 	"GAMEPLAY_bananaChips": {
 		"English": "Banana Chips",
@@ -124,7 +124,7 @@
 		"Turkish": "Kapak sıkıysa sonsuza kadar saklanabilir. Çok yemek sindirim problemlerine yol açar. Sıcak çay olmadan tüketmeyin!",
 		"Italian": "Dura per sempre. Se il coperchio è stretto.\n\nUn consumo elevato causerà problemi digestivi. Non consumarlo senza tisana calda!",
 		"Korean": "꿀에 절인 견과류. \n\n뚜껑만 잘 닫아두면 오래 보관할 수 있습니다. 하지만 너무 많이 먹으면 소화불량을 일으킬 수 있으니 주의하세요. 따뜻한 차와 함께 드시면 더욱 좋습니다!",
-		"French": "Dure éternellement. Si le couvercle est bien serré.\n\nEn manger trop causera des problèmes de digestion. Ne pas consommer sans thé chaud!"
+		"French": "Dure éternellement. Si le couvercle est bien serré.\n\nEn manger trop causera des problèmes de digestion. Ne pas consommer sans thé chaud !"
 	},
 	"GAMEPLAY_hotSpringSoda": {
 		"English": "Hot Spring Soda",
@@ -146,7 +146,7 @@
 		"Turkish": "Esasen yaz meyveli. Hayatı daha çok takdir etmeni sağlayacak",
 		"Italian": "Essenzialmente nettare di dio. Ti farà apprezzare la vita di più.",
 		"Korean": "신이 내린 꿀맛이라고 할 수 있죠. 이 음료를 마시면 인생을 더욱 감사하게 느끼게 될 거에요",
-		"French": "Essentiellement le nectar divin. Vous fera encore plus apprécier la vie"
+		"French": "Essentiellement du nectar divin. Vous fera encore plus apprécier la vie."
 	},
 	"GAMEPLAY_jubileeCookies": {
 		"English": "Ginger Cookies",
@@ -168,7 +168,7 @@
 		"Turkish": "Dışı çıtır, içi yumuşacık. Mükemmel uyum",
 		"Italian": "Croccanti all'esterno, morbidi all'interno. La combinazione perfetta.",
 		"Korean": "바삭한 겉과 부드러운 속의 완벽한 조화를 자랑합니다",
-		"French": "Croquant à l'exterieux, moelleux à l'intérieur. Le combo parfait"
+		"French": "Croquant à l'exterieur, moelleux à l'intérieur. Le combo parfait."
 	},
 	"GAMEPLAY_marinaraMackerel": {
 		"English": "Mackerel in Marinara Sauce",
@@ -190,7 +190,7 @@
 		"Turkish": "Yumuşak ve lezzetli uskumru filetosu. Biraz sebze yahnisi ekleyin ve mükemmel akşam yemeği hazır.",
 		"Italian": "Filetto di sgombro tenero e saporito. Aggiungi un po' di ragù di verdure e la cena perfetta è pronta.",
 		"Korean": "마리네이드 소스를 곁들인 부드럽고 짭짤한 고등어 필레입니다. 야채 라구를 추가하면 완벽한 저녁 식사가 완성됩니다",
-		"French": "De tendres et savoureux filets de maquereaux. Ajoutez du ragoût de légumes et le dîner parfait est prêt"
+		"French": "De tendres et savoureux filets de maquereaux. Ajoutez du ragoût de légumes et le dîner parfait est prêt."
 	},
 	"GAMEPLAY_mysteryCake": {
 		"English": "Assorted Wafers",
@@ -212,7 +212,7 @@
 		"Turkish": "Çikolatalı ve badem şekerli gofretler sizi hoş bir şekilde şaşırtacak",
 		"Italian": "Cialde con cioccolato e pralina. Il riempimento ti sorprenderà piacevolmente.",
 		"Korean": "초콜릿과 프랄린이 들어간 와플 모음입니다. 달콤한 속재료가 당신을 기쁘게 해줄 거에요",
-		"French": "Des gaufrettes au chocolat et au pralin. Le fourrage vous surprendra agréablement"
+		"French": "Des gaufrettes au chocolat et au pralin. Le fourrage vous surprendra agréablement."
 	},
 	"GAMEPLAY_nannasOats": {
 		"English": "Nanna's Oats",
@@ -234,7 +234,7 @@
 		"Turkish": "Suya ihtiyacı var. Çilek ile daha iyi",
 		"Italian": "Serve acqua. Meglio con qualche bacca.",
 		"Korean": "물을 부어 먹으면 더욱 맛있어요. 베리와 함께 먹으면 더욱 좋습니다",
-		"French": "Servir avec de l'eau. Meilleur avec des baies"
+		"French": "Servir avec de l'eau. Meilleur avec des baies."
 	},
 	"GAMEPLAY_oatsBowl": {
 		"English": "Oatmeal",
@@ -256,7 +256,7 @@
 		"Turkish": "Bir kase sade yulaf. Besleyici ama tadı paçavra gibi",
 		"Italian": "Ciotola di avena semplice. Nutriente ma ha un sapore di straccio.",
 		"Korean": "오트밀 한 그릇. 영양 만점이지만, 맛은 좀 심심해요.",
-		"French": "Un bol de flocons d'avoine natures. Nutritifs mais a un goût de torchon"
+		"French": "Un bol de flocons d'avoine nature. Nutritifs mais a un goût de torchon."
 	},
 	"GAMEPLAY_pinenutBrittle": {
 		"English": "Pine Nut Brittle Candy",
@@ -278,7 +278,7 @@
 		"Turkish": "Karamelin içinde küçük fındıklar. Dişlerini kırma!",
 		"Italian": "Piccole noccioline in caramello. Attento ai denti!",
 		"Korean": "카라멜로 코팅된 작은 견과류 캔디. 이빨이 부러질 수 있으니, 깨물 때 조심하세요!",
-		"French": "De petites noix au caramel. Attention aux dents !"
+		"French": "Des petites noix au caramel. Attention aux dents !"
 	},
 	"GAMEPLAY_solitudeCider": {
 		"English": "Solitude Cider",
@@ -344,7 +344,7 @@
 		"Turkish": "Sebze yahnisi. Pişmiş balık için yalvarır\n\n''lecho'' olarak telaffuz edilir",
 		"Italian": "Ragù di verdura. Implora un po' di pesce al forno\n\nPronunciato ''lecho''.",
 		"Korean": "헝가리식 야채 스튜. 구운 생선과 함께 먹으면 더욱 맛있습니다\n\n'레쵸'라고 발음합니다",
-		"French": "Un ragoût de légumes. Demande un peu de poisson cuit au four\n\nPrononcé ''lecho''"
+		"French": "Un ragoût de légumes. Demande un peu de poisson cuit au four.\n\nPrononcé ''lecho''."
 	},
 	"GAMEPLAY_figConfiture": {
 		"English": "Fig Confiture",
@@ -366,7 +366,7 @@
 		"Turkish": "Reçel. Parçacıklı ve mükemmel tatlı.",
 		"Italian": "Marmellata. Perfettamente dolce con un po' di croccantezza.",
 		"Korean": "무화과 잼. 적당한 단맛에 톡톡 씹히는 맛이 일품입니다",
-		"French": "De la confiture. Parfaitement sucrée avec un peu de croustillant"
+		"French": "De la confiture. Parfaitement sucrée avec un peu de croustillant."
 	},
 	"GAMEPLAY_nordShoreChocolate": {
 		"English": "Dark Chocolate with Salt and Caramel",
@@ -388,7 +388,7 @@
 		"Turkish": "Sadece tadına bak, bittiğinde fark etmeyeceksin",
 		"Italian": "Provalo, non te ne accorgerai quando l'hai finito.",
 		"Korean": "한번 맛보면 순식간에 사라지는 마법 같은 초콜릿입니다",
-		"French": "Goûtez, vous ne remarquerez même pas que vous l'avez déjà fini"
+		"French": "Goûtez, vous ne remarquerez même pas que vous l'avez déjà fini."
 	},
 	"GAMEPLAY_kvass": {
 		"English": "Kvass",
@@ -410,7 +410,7 @@
 		"Turkish": "Bir rus birası. Az alkollü, gazlı ve hafif tatlı tadıyla ferahlatıcı",
 		"Italian": "Appena alcolico, frizzante e rinfrescante con un gusto dolce e delicato.",
 		"Korean": "알코올 도수가 낮고 탄산이 들어있어 상쾌하며 은은한 단맛이 느껴지는 음료입니다.",
-		"French": "A peine alcoolisée, pétillante et rafraîchissante avec un subtil goût sucré"
+		"French": "A peine alcoolisée, pétillante et rafraîchissante avec un subtil goût sucré."
 	},
 	"GAMEPLAY_roastedAlmonds": {
 		"English": "Roasted Almonds",
@@ -432,7 +432,7 @@
 		"Turkish": "Biraz fındıklı, biraz tuzlu, biraz baharatlı",
 		"Italian": "Piccole noccioline, un po' salate, un po' piccanti.",
 		"Korean": "작지만 짭짤하면서도 매콤한 맛이 나는 아몬드입니다",
-		"French": "De petites amandes, un peu salées, un peu épicées"
+		"French": "De petites amandes, un peu salées, un peu épicées."
 	},
 	"GAMEPLAY_strawberryPlombir": {
 		"English": "Wild Strawberry Plombir",
@@ -454,7 +454,7 @@
 		"Turkish": "Tatlı ve yumuşak, dilinizde eriyor. Üşüdüğünde bunu yemek iyi bir fikir olmayabilir",
 		"Italian": "Dolce e morbida, appena si scioglie sulla tua lingua. Forse è una brutta idea mangiarlo quando hai freddo.",
 		"Korean": "달콤하고 부드러운 맛이 입안에서 사르르 녹습니다. 추운 날씨에는 먹지 않는 것이 좋을 수도 있습니다",
-		"French": "Doux et sucrée, elle fond sur la langue. Il n'est peut-être pas judicieux de la manger quand vous avez froid"
+		"French": "Douce et sucrée, elle fond sur la langue. Il n'est peut-être pas judicieux de la manger alors que vous avez froid."
 	},
 	"GAMEPLAY_icecreamCup": {
 		"English": "Icecream in a Wafer Cup",
@@ -476,7 +476,7 @@
 		"Turkish": "Çikolata, Fındık ve karamel ile dondurulmuş çıtır gofret.\n\nSorduğun için teşekürler. Penguenin adı Jeremy.",
 		"Italian": "Una buffera con cioccolata, noccioline e caramello mescolati dentro di esso. Tutto in una tazza fatta di cialda croccante. Wow\n\nGrazie per avermelo chiesto, il nome del pinguino è Jeremy.",
 		"Korean": "바삭한 와플 컵에 초콜릿, 견과류, 캐러멜이 섞인 블리자드 아이스크림이 가득! 정말 맛있겠죠? \n\n참고로, 펭귄의 이름은 제레미입니다",
-		"French": "Un blizzard mélangeant chocolat, noix et caramel. Tout ça dans une gaufrette. Wow\n\nLe nom du pingouin est Jeremy, merci d'avoir demandé"
+		"French": "Un blizzard mélangeant chocolat, noix et caramel. Tout ça dans une gaufrette. Wow.\n\nLe nom du pingouin est Jeremy, merci d'avoir demandé."
 	},
 	"GAMEPLAY_applesaucePryanik": {
 		"English": "Pryanik with Applesauce Filling",
@@ -498,7 +498,7 @@
 		"Turkish": "Elma dolgulu zencefilli kurabiye. Tatlı, hassas ve aromatik. Bir fincan sıcak çayın mükemmel eşlikçisi\n\nİçinde ne olduğunu görün",
 		"Italian": "Biscotti glassati in miele. Dolci, morbidi e aromatici. Un completo perfetto con una tazza di tè caldo.\n\nGuarda cosa c'è dentro!",
 		"Korean": "사과 소스를 채운 프랴닉. 달콤하고 부드러우면서도 향긋한 꿀 비스킷입니다. 따뜻한 차와 함께 즐기기에 완벽해요!",
-		"French": "Biscuits glacés au miel. Sucrés, doux et aromatiques. Le complément idéal un bon thé chaud\n\nRegardez à l'intérieur!"
+		"French": "Biscuits glacés au miel. Sucrés, doux et aromatiques. Le complément idéal d'un bon thé chaud.\n\nRegardez à l'intérieur !"
 	},
 	"GAMEPLAY_glintwein": {
 		"English": "Mulled Wine Kit",
@@ -520,7 +520,7 @@
 		"Turkish": "Rusya'da buna Glintwein diyorlar. Kırmızı şarap ve baharatlar içerir. Her şeyi ısıtın (kaynatmayın!) ve soğuk kış akşamlarınızın tadını çıkarın",
 		"Italian": "Chiamato Glintwein in Russia. Include vino rosso e spezie. Cuocere tutto su un fuoco lento(non bollire!) e goditi le tue fredde serate invernali.",
 		"Korean": "러시아에서는 글린트바인이라고 부르는 따뜻한 와인입니다. 레드 와인과 향신료가 포함되어 있어요. 끓이지 않고 약한 불로 데워서 추운 겨울 저녁을 따뜻하게 즐겨보세요!",
-		"French": "Ils l'appellent Glintwein en Russie. Contient vin rouge et épices. Porter le tout à frémissement(ne pas bouillir!) et appréciez vos froides soirées d'hiver"
+		"French": "Ils l'appellent Glintwein en Russie. Contient vin rouge et épices. Porter le tout à frémissement (ne pas bouillir!) et appréciez vos froides soirées d'hiver."
 	},
 	"GAMEPLAY_glintweinCup": {
 		"English": "Mulled Wine Glass",
@@ -542,7 +542,7 @@
 		"Turkish": "Kelimenin tam anlamıyla ve mecazi olarak içini ısıtır",
 		"Italian": "Scalda il tuo cuore, letteralmente e figuratamente.",
 		"Korean": "말 그대로, 그리고 비유적으로도 당신의 마음을 따뜻하게 해줄 거에요",
-		"French": "Réchauffe votre coeur, au sens littéral et figuré"
+		"French": "Réchauffe votre coeur, au sens littéral et figuré."
 	},
 	"GAMEPLAY_latteDrops": {
 		"English": "Latte Drops",
@@ -564,7 +564,7 @@
 		"Turkish": "Şeker şeklinde konsantre kahve. Kesinlikle lezzetli. \n\nBir miktar enerji artırma etkisi vardır",
 		"Italian": "Tazze di caffè condensato in una forma di caramella. Buon gusto, senza tutto il processo di preparazione. \n\nDà una piccola spinta d'energia.",
 		"Korean": "라떼 드롭스. 커피 한 잔을 사탕 형태로 압축했습니다. 번거롭게 커피를 내릴 필요 없이 커피 맛 그대로 즐길 수 있어요. \n\n당신에게 조금의 에너지를 더해줄겁니다",
-		"French": "Des tasses de café condensés en une sorte de bonbon. Tout aussi bon, sans tout le processus de préparation. \n\nFournit un petit sursaut d'énergie"
+		"French": "Des tasses de café condensés en une sorte de bonbon. Tout aussi bon, sans tout le processus de préparation. \n\nFournit un petit sursaut d'énergie."
 	},
 	"GAMEPLAY_alphabetSoup": {
 		"English": "Alphabet Soup",
@@ -608,7 +608,7 @@
 		"Turkish": "Albümin içeriği muhtemelen pek bir anlam ifade etmiyor. Bu kan. \n\nDaha hızlı iyileşmenizi sağlar, yan etki olarak tadı güzeldir",
 		"Italian": "L'ingrediente albumina non ha alcun senso. È sangue. \n\nTi farà guarire più in fretta, ha un buon gusto come effetto collaterale.",
 		"Korean": "알루민 성분이라고는 하지만 사실 혈액으로 만든 겁니다. \n\n상처 회복을 빠르게 해주고, 맛도 좋습니다.",
-		"French": "L'ingrédient 'albumine' n'a probablement pas beaucoup de sens. C'est du sang. \n\nVous fait guérir plus vite. Effet secondaire : bon goût"
+		"French": "L'ingrédient 'albumine' n'a probablement pas beaucoup de sens. C'est du sang. \n\nVous fait guérir plus vite. Effet secondaire : bon goût."
 	},
 	"GAMEPLAY_rahatLokum": {
 		"English": "Turkish Delight",
@@ -630,7 +630,7 @@
 		"Turkish": "Lezzetli, lezzetli şeker. Türk klasiği. Herkese göre bir lezzet vardır beğenmedim diyemezsin",
 		"Italian": "Dolciumi delicati e deliziosi. Un classico turco. Ci sono gusti per tutti, quindi non puoi dire che non ti piace.",
 		"Korean": "터키쉬 딜라이트. 부드럽고 맛있는 사탕입니다. 터키의 전통과자로 모든 사람을 위한 맛이 있어, 싫어할 수가 없죠",
-		"French": "De délicats et délicieux bonbons. Un classique turque. Des saveurs pour tout le monde, vous ne pouvez dire que vous n'aimez pas"
+		"French": "De délicats et délicieux bonbons. Un classique turque. Des saveurs pour tout le monde, vous ne pouvez dire que vous n'aimez pas."
 	},
 	"GAMEPLAY_CandleDescription": {
 		"English": "One of the collectible candle bears. There was a description card somewhere...",
@@ -850,7 +850,7 @@
 		"Turkish": "Ayıların kartopu oynamakta pek iyi olduğu bilinmez. Ama oynamayı seviyorlar! Üzgün görünen bir ayı gördüğünüzde onu bir kartopu ile neşelendirin! \n\nAyı ile kartopu oynamaya çalışmayın",
 		"Italian": "Gli orsi non sono noti per essere bravi a giocare alle palle di neve. Ma amano giocare! Quando vedi un orso triste - lanciali una palla di neve per rallegrarlo! \n\nNon tentare di giocare alle palle di neve con un orso.",
 		"Korean": "곰은 눈싸움을 잘 하는 동물로 알려져 있지는 않아요. 노는 건 좋아하죠! 슬퍼 보이는 곰을 본다면, 눈덩이로 기분 전환을 시켜주세요! \n\n하지만 곰과 눈싸움을 하려고 하지는 마세요.",
-		"French": "Les ours ne sont pas connus pour leur aptitude à jouer aux boules de neige. Mais ils adorent jouer ! Quand vous voyez un ours triste - réconfortez-le avec une boule de neige ! \n\nN'essayez pas de jouer aux boules de neige avec un ours"
+		"French": "Les ours ne sont pas connus pour leur aptitude à jouer aux boules de neige. Mais ils adorent jouer ! Quand vous voyez un ours triste - réconfortez-le avec une boule de neige ! \n\nN'essayez pas de jouer aux boules de neige avec un ours."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenB": {
 		"English": "Candle Bear - Festive",
@@ -883,7 +883,7 @@
 		"Turkish": "Ayılar Yeni Yılı kutlamayı sever. Ama bunu kendi yöntemleriyle yapıyorlar. Yeni Yıl arifesinde renkli bir ışıkla ayı inine gizlice girmeyi deneyin - belki kutlama için tam zamanında gelirsiniz. \n\nYeni Yılı ayıyla kutlamaya kalkmayın",
 		"Italian": "Gli orsi amano festeggiare il Capodanno. Ma lo fanno a modo loro. Prova a intrufolarti nella tana di un orso alla Vigilia del Capodanno con luci colorate - Forse sarai in tempo per la festa. \n\nNon tentare di festeggiare la Vigilia del Capodanno con un orso.",
 		"Korean": "곰들은 새해를 축하하는 것을 아주 좋아하지만, 자신들만의 방식으로 축하합니다. 새해 전날 밤에 알록달록한 조명을 들고 곰 굴에 몰래 들어가 보세요. 아마도 축제에 딱 맞는 시간에 도착할 수 있을 거에요. \n\n하지만 곰들과 함께 새해를 축하하려고 하지는 마세요.",
-		"French": "Les ours adorent fêter le Nouvel An. Mais ils le font à leur manière. Essayez de vous introduire dans le repaire d'un ours pendant le Nouvel An avec une lumière colorée - peut-être arriverez vous à temps pour la fête. \n\nN'essayez pas de fêter le Nouvel An avec un ours"
+		"French": "Les ours adorent fêter le Nouvel An. Mais ils le font à leur manière. Essayez de vous introduire dans le repaire d'un ours pendant le Nouvel An avec une lumière colorée - peut-être arriverez vous à temps pour la fête. \n\nN'essayez pas de fêter le Nouvel An avec un ours."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenC": {
 		"English": "Candle Bear - Delicacy",
@@ -916,7 +916,7 @@
 		"Turkish": "Ayı için en büyük ikramın bal olduğu bilinir. Mmm, ballı fındık - ne güzel. Bir ayı için ne tür ikramlarınız var? \n\nAyıyla yemek yemeye kalkışmayın",
 		"Italian": "È noto, che la più grande delicatezza per un orso è il miele. Mmm, noccioline in miele - Che delicatezza. Quale delicatezza hai da offrire per un orso? \n\nNon tentare di consumare un pasto insieme a un orso.",
 		"Korean": "곰에게 가장 좋은 간식은 꿀이라는 사실은 잘 알려져 있습니다. 꿀에 절인 견과류라니, 정말 맛있겠네요. 곰에게 줄 간식은 뭐가 있을까요? \n\n하지만 곰과 함께 식사하려고 하지는 마세요",
-		"French": "C'est bien connu que la plus belle friandise pour un ours, c'est le miel. Mmm, des noix dans du miel - quel délice. Quelles friandises avez-vous pour un ours ? \n\nN'essayez pas de manger avec un ours"
+		"French": "C'est bien connu que la plus belle friandise pour un ours, c'est le miel. Mmm, des noix dans du miel - quel délice. Quelles friandises avez-vous pour un ours ? \n\nN'essayez pas de manger avec un ours."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_GreenD": {
 		"English": "Candle Bear - Dancer",
@@ -949,7 +949,7 @@
 		"Turkish": "Ayı dans ediyor gibi görünebilir. Ama gerçekte olan şey, süveterin çok kaşınmasıdır ve ayı kaşımak için uzanamaz. Keşke biri yardım edebilse... \n\nAyının sırtını kaşımaya çalışmayın. Açıkça bunu istediğinde bile",
 		"Italian": "Può sembrare che l'orso sta ballando. Ma quello che veramente sta accadendo e che il maglione è troppo pruriginoso e l'orso non può raggiungere la zona dove vuole grattarsi. Se solo qualcuno potesse aiutarlo... \n\nNon tentare di grattare la schiena di un orso. Anche se te lo chiede.",
 		"Korean": "곰이 춤을 추는 것처럼 보일 수도 있지만, 사실은 스웨터가 너무 간지러워서 긁을 수 없기 때문이에요. 누군가 긁어줬으면 좋겠네요... \n\n하지만 곰의 등을 긁어주려고 하지는 마세요. 곰이 분명히 긁어달라고 해도요",
-		"French": "On pourrait croire que l'ours est en train de danser. Mais ce qui se passe réellement, c'est que le pull-over est trop irritant et que l'ours n'arrive pas à se gratter. Si seulement quelqu'un pouvait l'aider... \n\nN'essayez pas de gratter le dos de l'ours. Même si il le demande explicitement"
+		"French": "On pourrait croire que l'ours est en train de danser. Mais ce qui se passe réellement, c'est que le pull-over est trop irritant et que l'ours n'arrive pas à se gratter. Si seulement quelqu'un pouvait l'aider... \n\nN'essayez pas de gratter le dos de l'ours. Même si il le demande explicitement."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueA": {
 		"English": "Candle Bear - Fishing",
@@ -982,7 +982,7 @@
 		"Turkish": "Bu ayı, insanlar gibi balık tutmayı denedi. Yakalama etkileyici görünmüyor. Belki de farklı bir yem denemelidir?\n\nBir ayıya balık tutma konusunda tavsiyeler vermeye kalkmayın.",
 		"Italian": "Questo orso ha provato a pescare come gli umani. La presa non sembra impressionante. Forse deve usare un'altro tipo di esca?\n\nNon tentare di dare consigli sulla pesca all'orso.",
 		"Korean": "이 곰은 사람처럼 낚시를 해 봤어요. 잡힌 물고기가 마음에 드는 것 같지 않네요. 아마 미끼를 바꿔야 할 것 같아요. \n\n곰에게 낚시 조언을 해주려고 하지는 마세요",
-		"French": "Cet ours a essayé de pêcher comme les humains. La prise ne semble pas l'impressionner. Peut-être devrait-il essayer un autre appât ?\n\nN'essayez pas de donner de conseils de pêche à un ours"
+		"French": "Cet ours a essayé de pêcher comme les humains. La prise ne semble pas l'impressionner. Peut-être devrait-il essayer un autre appât ?\n\nN'essayez pas de donner de conseils de pêche à un ours."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueB": {
 		"English": "Candle Bear - Struggle",
@@ -1015,7 +1015,7 @@
 		"Turkish": "Çoğu, ayı mücadelesinin kazanılamayacağına inanıyor. Bu ayı bu ifadeye katılmıyor gibi görünüyor. \n\nMücadele eden bir ayıya yaklaşmaya çalışmayın",
 		"Italian": "Molti credono che le lotto con gli orsi non si possono vincere. Questo orso sembra essere il contrario. \n\nNon tentare di avvicinarti a un orso in difficoltà.",
 		"Korean": "곰은 싸움에서 이길 수 없다고 믿는 사람들이 많지만, 이 곰은 그 말에 동의하지 않는 것 같네요. \n\n하지만 싸우고 있는 곰에게 다가가려고 하지는 마세요",
-		"French": "La plupart pense qu'une lutte avec un ours ne peut être remportée. Cet ours semble ne pas être d'accord avec cette affirmation. \n\nN'essayez pas d'approcher un ours qui lutte"
+		"French": "La plupart pense qu'une lutte avec un ours ne peut être remportée. Cet ours semble ne pas être d'accord avec cette affirmation. \n\nN'essayez pas d'approcher un ours qui lutte."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueC": {
 		"English": "Candle Bear - Friends",
@@ -1048,7 +1048,7 @@
 		"Turkish": "Ayı için en büyük yiyecek baldır. Balın en büyük tamamlayıcısı çaydır. Çayın tadını çıkarmanın en harika yolu bir arkadaşla birliktedir. \n\nBedava bir fincan çay için bir ayıyla arkadaş olmaya çalışmayın",
 		"Italian": "Il cibo migliore per un orso è il miele. Il completo migliore per un orso è il miele con tè. Il miglior modo per godere il tè è con un amico. \n\nNon tentare di diventare amici con un orso quando ti offre una tazza di tè.",
 		"Korean": "곰에게 최고의 음식은 꿀입니다. 꿀과 가장 잘 어울리는 것은 차입니다. 차를 즐기는 가장 좋은 방법은 친구와 함께 마시는 것입니다. \n\n하지만 곰과 친구가 되어 무료로 차를 얻으려고 하지는 마세요",
-		"French": "La meilleure nourriture pour un ours est le miel. Le meilleur complément au miel est le thé. Le meilleur moyen de savourer un thé est avec un ami. \n\nN'essayez pas de devenir ami avec un ours juste pour une tasse de thé gratuite"
+		"French": "La meilleure nourriture pour un ours est le miel. Le meilleur complément au miel est le thé. Le meilleur moyen de savourer un thé est avec un ami. \n\nN'essayez pas de devenir ami avec un ours juste pour une tasse de thé gratuite."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_BlueD": {
 		"English": "Candle Bear - Cards",
@@ -1081,7 +1081,7 @@
 		"Turkish": "Ayılar arasında kumar bağımlılığı yoktur. Sadece kartların çıkardığı sesi seviyorlar. Ayı ne oynuyordu? Poker? \n\nAyı yuvalarının yakınında kart aramaya çalışmayın",
 		"Italian": "Non c'è nessuna dipendenza nei giochi d'azzardo tra gli orsi. A loro piace il suono che le carte fanno. A cosa stava giocando l'orso? Poker? \n\nNon tentare di cercare carte in una tana di un orso.",
 		"Korean": "곰은 도박 중독이 없습니다. 곰들은 카드 소리가 나는 것을 좋아할 뿐이죠. 이 곰은 무슨 게임을 하고 있을까요? 포커일까요? \n\n하지만 곰 굴 근처에서 카드를 찾으려고 하지는 마세요",
-		"French": "L'addiction au jeu n'existe pas chez les ours. Ils adorent juste le son des cartes. A quoi jouait l'ours ? Au poker ? \n\nN'essayez pas de trouver des cartes près de repaires d'ours"
+		"French": "L'addiction au jeu n'existe pas chez les ours. Ils adorent juste le son des cartes. A quoi jouait l'ours ? Au poker ? \n\nN'essayez pas de trouver des cartes près de repaires d'ours."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleA": {
 		"English": "Candle Bear - Snow-survivor",
@@ -1114,7 +1114,7 @@
 		"Turkish": "Ayıların çok fazla boş zamanı vardır. Ve tüm bu kurtulan kıyafetleriyle başka ne yapacaklardı? \n\nve kardan adamdan kıyafet çalmaya çalışmayın",
 		"Italian": "Gli orsi hanno tanto tempo libero. È cos'altro farebbero con tutti quei vestiti dei sopravvissuti? \n\nNon tentare di rubare i vestiti da un pupazzo di neve.",
 		"Korean": "곰들은 시간이 많아요. 그리고 그 모든 생존자의 옷들을 가지고 뭘 할까요? \n\n하지만 눈사람에게서 옷을 훔치려고 하지는 마세요",
-		"French": "Les ours ont énormément de temps libre. Et qu'est ce qu'ils pourraient faire d'autre de tous ces vêtements de survivants ? \n\nN'essayez pas de voler les vêtements d'un bonhomme de neige"
+		"French": "Les ours ont énormément de temps libre. Et qu'est ce qu'ils pourraient faire d'autre de tous ces vêtements de survivants ? \n\nN'essayez pas de voler les vêtements d'un bonhomme de neige."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleB": {
 		"English": "Candle Bear - Education",
@@ -1147,7 +1147,7 @@
 		"Turkish": "Ayılar inanılmaz bir görüşe sahiptir. Bu sadece akıllı görünmek istiyor. Bir daha hareketsiz bir ayı gördüğünüzde ne okuduğunu sorun. \n\nAyıların arkasında yüksek sesler çıkarmayın, gerçekten okuyor olabilirler",
 		"Italian": "Gli orsi hanno una vista straordinaria. Questo qua vuole sembrare intelligente. La prossima volta che vedi un orso - chiedili cosa sta leggendo. \n\nNon tentare di fare suoni forti dietro gli orsi, potrebbero addiritura leggere.",
 		"Korean": "곰들은 시력이 아주 뛰어나요. 이 곰은 그냥 똑똑해 보이고 싶을 뿐이죠. 다음에 가만히 있는 곰을 보면 뭘 읽고 있는지 물어보세요. \n\n하지만 곰 뒤에서 큰 소리를 내지는 마세요. 실제로 읽고 있을 수도 있답니다",
-		"French": "Les ours ont une vue incroyable. Celui là veut juste avoir l'air intelligent. La prochaine fois que vous voyez un ours immobile - demandez-lui ce qu'il lit. \n\nNe faites pas de bruit derrière les ours, ils pourraient vraiment être en train de lire"
+		"French": "Les ours ont une vue incroyable. Celui là veut juste avoir l'air intelligent. La prochaine fois que vous voyez un ours immobile - demandez-lui ce qu'il lit. \n\nNe faites pas de bruit derrière les ours, ils pourraient vraiment être en train de lire."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleC": {
 		"English": "Candle Bear - Haul",
@@ -1180,7 +1180,7 @@
 		"Turkish": "Bu ayı her şeyi tek seferde taşımaya çalıştı. Klasik durum. \n\nAyı sorunlarıyla ilişkilendirmeye çalışmayın",
 		"Italian": "Questo orso ha provato a trasportare tutto in un colpo solo. Una situazione classica. \n\nNon tentare di mettere in relazione i problemi degli orsi.",
 		"Korean": "이 곰은 한꺼번에 모든 것을 들고 가려고 했어요. 흔히 볼 수 있는 상황이죠. \n\n하지만 곰들의 문제에 공감하려고 하지는 마세요",
-		"French": "Cet ours a essayé de tout emmener en une fois. Situation classique. \n\n N'essayez pas de vous identifier aux problèmes d'un ours"
+		"French": "Cet ours a essayé de tout emmener en une fois. Situation classique. \n\n N'essayez pas de vous identifier aux problèmes d'un ours."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_PurpleD": {
 		"English": "Candle Bear - Present",
@@ -1213,7 +1213,7 @@
 		"Turkish": "Ayılar, insanlar kadar bir hediyeden hoşlanırlar. Ama bazen bir şeyleri karıştırıyorlar. Bir ayının hediyenizi verdiğinizi görmediğinden emin olun - bu, sürprizi bozabilir. \n\nBir ayıya hediye olmaya çalışmayın",
 		"Italian": "Gli orsi si godono i regali proprio come gli umani. Però certe volte mescolano qualcosa. Fai attenzione, da non farti sgamare dall'orso mentre piazzi il regalo - potrebbe rovinare la sorpresa. \n\nNon tentare di diventare un regalo per un orso.",
 		"Korean": "곰들도 사람들처럼 선물 받는 것을 좋아하지만, 가끔 착각을 하기도 합니다. 곰이 선물을 놓는 것을 보지 못하게 하세요. 깜짝 놀랄 수 있으니까요. \n\n하지만 곰에게 선물이 되려고 하지는 마세요",
-		"French": "Les ours adorent les cadeaux autant que les humains. Mais parfois ils se trompent. Faites attention à ce qu'un ours ne vous voit pas déposer votre cadeau - cela pourrait gâcher la surprise. \n\nN'essayez pas de devenir le cadeau d'un ours"
+		"French": "Les ours adorent les cadeaux autant que les humains. Mais parfois ils se trompent. Faites attention à ce qu'un ours ne vous voit pas déposer votre cadeau - cela pourrait gâcher la surprise. \n\nN'essayez pas de devenir le cadeau d'un ours."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedA": {
 		"English": "Candle Bear - Joke",
@@ -1246,7 +1246,7 @@
 		"Turkish": "Bir Rus fıkrası vardır: Bir keresinde bir ayı ormandan geçmiş ve yanan bir araba görmüş. İçine oturdu ve yanarak öldü'. Anla? \n\nŞakayı anlamaya çalışmayın",
 		"Italian": "C'è questa barzeletta russa: 'Una volta un orso attraversò la foresta e vide un'auto in fiamme. Ci si sedette e morì bruciato'. Hai capito? \n\nNon tentare di capire la barzeletta.",
 		"Korean": "러시아 농담이 하나 있는데, 곰이 숲을 지나가다가 불타는 자동차를 보고 거기에 앉아서 타 죽었다는 농담이 있어요. 무슨 뜻인지 알겠어요? \n\n하지만 이 농담을 이해하려고 하지는 마세요",
-		"French": "Une blague russe dit: 'Un ours marchait dans la forêt et vit une voiture en flammes. Il s'est assis dedans et est mort brûlé. Vous avez compris ? \n\nN'essayez pas de comprendre la blague"
+		"French": "Une blague russe dit: 'Un ours marchait dans la forêt et vit une voiture en flammes. Il s'est assis dedans et est mort brûlé. Vous avez compris ? \n\nN'essayez pas de comprendre la blague."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedB": {
 		"English": "Candle Bear - Hellbender",
@@ -1279,7 +1279,7 @@
 		"Turkish": "Bu ayı, pek de normal olmayan favori şovundaymış gibi davranıyor. Şarkıyı duyabiliyor musun? Bu bir mikrofon değil, ayı. \n\nBir ayıyla ilahiler söylemeye kalkışmayın",
 		"Italian": "Questo orso pretende di essere nel suo preferito, non-così-normale, spettacolo. Puoi sentire le canzoni? Quello non è un microfono, Orso. \n\nNon tentare di cantare insieme al orso.",
 		"Korean": "이 곰은 자기가 좋아하는 좀 특별한 쇼에 나온 척하고 있네요. 노래 소리가 들리시나요? 곰아, 그건 마이크가 아니야. \n\n하지만 곰과 함께 캐롤을 부르려고 하지는 마세요",
-		"French": "Cet ours prétend être dans sa pas-si-normale émission favorite. Pouvez vous entendre le chant ? Ce n'est pas un micro, ours. \n\nN'essayez pas de chanter des chants de Noël avec un ours"
+		"French": "Cet ours prétend être dans sa pas-si-normale émission favorite. Pouvez vous entendre le chant ? Ce n'est pas un micro, ours. \n\nN'essayez pas de chanter des chants de Noël avec un ours."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedC": {
 		"English": "Candle Bear - Dragon",
@@ -1312,7 +1312,7 @@
 		"Turkish": "Bazı ayılar kış için en fazla yiyeceği toplamak ister. Bazıları en büyük yuvaya sahip olmak ister. Bazıları bir ejderha tarafından doğmak ister. \n\nBurada ejderhalar olmasın",
 		"Italian": "Certi orsi desiderano di collezionare cibo e acqua il più possible per l'inverno. Certi desiderano di avere la più grande tana. Certi desiderano di nascere come draghi. \n\nQui non ci sono draghi.",
 		"Korean": "어떤 곰들은 겨울을 위해 가장 많은 음식을 모으고 싶어하고, 어떤 곰들은 가장 큰 굴을 갖고 싶어하며, 어떤 곰들은 용에게서 태어났으면 하고 바랍니다. \n\n하지만 용은 존재하지 않습니다",
-		"French": "Certains ours essayent d'amasser le plus de nourriture possible pour l'hiver. Certains essaient d'avoir le plus grand repaire. Certains aimeraient être nés dragon. \n\n Here be no dragons"
+		"French": "Certains ours essayent d'amasser le plus de nourriture possible pour l'hiver. Certains essaient d'avoir le plus grand repaire. Certains aimeraient être nés dragon. \n\n Here be no dragons."
 	},
 	"GAMEPLAY_COLLECTIBLE_TITL_RedD": {
 		"English": "Candle Bear - Moon",
@@ -1345,7 +1345,7 @@
 		"Turkish": "O ayıya ne oldu? Aurora mı? kaçak içki? \n\nBisikleti uçurmaya çalışmayın",
 		"Italian": "Cosa è successo a quell'orso? Aurora? Moonshine? \n\nNon tentare di volare con una bicicletta.",
 		"Korean": "저 곰은 어떻게 된 걸까요? 오로라? 달빛? \n\n자전거를 타고 날으려고 하지는 마세요",
-		"French": "Qu'est-il arrivé à cet ours ? Aurore ? Clair de Lune ? \n\nN'essayez pas de voler avec une bicyclette"
+		"French": "Qu'est-il arrivé à cet ours ? Aurore ? Clair de Lune ? \n\nN'essayez pas de voler avec une bicyclette."
 	},
 	"GAMEPLAY_LOSTNOTE_TITL": {
 		"English": "A note from a lost soul",

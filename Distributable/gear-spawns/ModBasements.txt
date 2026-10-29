@@ -1,0 +1,5 @@
+scene=modbasements
+
+item=GEAR_bananaChips p=-28.5625,-2.1849,-3.0592 r=-0.0000,40.3529,-0.0000 c=100
+item=GEAR_glintwein p=-32.2585,-2.1807,-2.5541 r=0.0000,353.2431,0.0000 c=25
+item=GEAR_latteDrops p=-16.6775,-2.0923,-1.2277 r=-0.0000,122.1433,-0.0000 c=35

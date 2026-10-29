@@ -165,10 +165,6 @@ MonoBehaviour:
     m_Address: ico_GearItem__crabSnack
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 14d831597ac7bf5418bd108639c3d477
-    m_Address: ico_GearItem__CWFEmployeeNote1
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 4cff7e62643afd04a87f9f3c9936cfa0
     m_Address: ico_GearItem__CWFEmployeeNote2
     m_ReadOnly: 0
@@ -263,10 +259,6 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: 8c1d48cb8c4d45a4c94413675e716281
     m_Address: ico_GearItem__lecso
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 25b94ecaced4e534f8adb59a36d4ce34
-    m_Address: ico_GearItem__lecsoCrushed
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: d7669146f4213524a8c793ab9aeac338
@@ -543,10 +535,6 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: 9129e28260af19249999ad05babea4f0
     m_Address: GEAR_tunaPate
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 2173e817d68ac7b419b8b4ab20df8894
-    m_Address: GEAR_CWFEmployeeNote1
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 75505a3944cdefa479af367878efb049

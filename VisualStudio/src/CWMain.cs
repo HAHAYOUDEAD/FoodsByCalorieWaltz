@@ -300,11 +300,14 @@
             };
         }
 
+        private static GearItem LoadGearItemPrefab(string name) =>
+            UnityEngine.AddressableAssets.Addressables.LoadAssetAsync<GameObject>(name).WaitForCompletion().GetComponent<GearItem>();
+
         public static Material InstantiateLiquidMaterial()
         {
             if (!vanillaLiquidMaterial)
             {
-                vanillaLiquidMaterial = new Material(GearItem.LoadGearItemPrefab("GEAR_CoffeeCup").gameObject.GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
+                vanillaLiquidMaterial = new Material(LoadGearItemPrefab("GEAR_CoffeeCup").gameObject.GetComponent<Cookable>().m_CookingPotMaterialsList[0]);
 
                 vanillaLiquidMaterial.name = "Liquid";
             }
@@ -327,7 +330,7 @@
 
                 for (int i = 0; i < cookableGear.Count; i++)
                 {
-                    potGear = GearItem.LoadGearItemPrefab("GEAR_" + cookableGear[i]).gameObject;
+                    potGear = LoadGearItemPrefab("GEAR_" + cookableGear[i]).gameObject;
 
                     if (potGear == null) continue;
 
@@ -355,7 +358,7 @@
 
                 for (int i = 0; i < cannedGear.Count; i++)
                 {
-                    gear = GearItem.LoadGearItemPrefab("GEAR_" + cannedGear[i]).gameObject;
+                    gear = LoadGearItemPrefab("GEAR_" + cannedGear[i]).gameObject;
                     if (cannedGear == null) continue;
 
                     gear.AddComponent<MeshSwapItem>();
@@ -383,7 +386,7 @@
                 string gear1 = "hematogen";
 
 
-                gear = GearItem.LoadGearItemPrefab("GEAR_" + gear1).gameObject;
+                gear = LoadGearItemPrefab("GEAR_" + gear1).gameObject;
 
                 gear.AddComponent<ConditionOverTimeBuff>();
                 gear.GetComponent<ConditionOverTimeBuff>().m_ConditionIncreasePerHour = 1.5f;
@@ -405,7 +408,7 @@
             Texture withCollectible = new Texture();
             Texture withoutCollectible = new Texture();
 
-            gear = GearItem.LoadGearItemPrefab("GEAR_applesaucePryanik").gameObject;
+            gear = LoadGearItemPrefab("GEAR_applesaucePryanik").gameObject;
 
             bool needChange = false;
 
@@ -518,7 +521,7 @@
             {
                 GameObject itemForCalorieUpdate = null;
 
-                itemForCalorieUpdate = GearItem.LoadGearItemPrefab((string)allFoodItems[i][0]).gameObject;
+                itemForCalorieUpdate = LoadGearItemPrefab((string)allFoodItems[i][0]).gameObject;
 
                 if (itemForCalorieUpdate != null)
                 {
